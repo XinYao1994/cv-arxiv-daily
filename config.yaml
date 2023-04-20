@@ -42,5 +42,5 @@ keywords:
         filters: ["networking"]
     "Operating Systems":
         filters: ["system"]
-    "Mixed-Precision Quantization":
+    "Mixed Precision":
         filters: ["mixed precision"]
