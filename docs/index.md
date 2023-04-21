@@ -44,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Polylog-Competitive Algorithms for Dynamic Balanced Graph Partitioning for Ring Demands**|Harald Räcke et.al.|[2304.10350](http://arxiv.org/abs/2304.10350)|null|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 |**2023-04-17**|**Effective implementation of the High Performance Conjugate Gradient benchmark on GraphBLAS**|Alberto Scolari et.al.|[2304.08232](http://arxiv.org/abs/2304.08232)|null|
@@ -59,6 +60,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Backporting RISC-V Vector assembly**|Joseph K. L. Lee et.al.|[2304.10324](http://arxiv.org/abs/2304.10324)|null|
+|**2023-04-20**|**Test-driving RISC-V Vector hardware for HPC**|Joseph K. L. Lee et.al.|[2304.10319](http://arxiv.org/abs/2304.10319)|null|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-19**|**Weakening Assumptions for Publicly-Verifiable Deletion**|James Bartusek et.al.|[2304.09846](http://arxiv.org/abs/2304.09846)|null|
 |**2023-04-18**|**Some diagnostic analysis of dark energy models with $q(z)$ parametrizations**|Dhruv Arora et.al.|[2304.09749](http://arxiv.org/abs/2304.09749)|null|
@@ -74,6 +77,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536](http://arxiv.org/abs/2304.10536)|null|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
+|**2023-04-20**|**A User-Driven Framework for Regulating and Auditing Social Media**|Sarah H. Cen et.al.|[2304.10525](http://arxiv.org/abs/2304.10525)|null|
+|**2023-04-20**|**Learning Narrow One-Hidden-Layer ReLU Networks**|Sitan Chen et.al.|[2304.10524](http://arxiv.org/abs/2304.10524)|null|
+|**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521](http://arxiv.org/abs/2304.10521)|null|
+|**2023-04-20**|**Monte Carlo generation of localised particle trajectories**|Ivan Ahumada et.al.|[2304.10518](http://arxiv.org/abs/2304.10518)|null|
+|**2023-04-20**|**Regret-Minimizing Double Oracle for Extensive-Form Games**|Xiaohang Tang et.al.|[2304.10498](http://arxiv.org/abs/2304.10498)|null|
+|**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466](http://arxiv.org/abs/2304.10466)|null|
+|**2023-04-20**|**Certified Adversarial Robustness Within Multiple Perturbation Bounds**|Soumalya Nandi et.al.|[2304.10446](http://arxiv.org/abs/2304.10446)|**[link](https://github.com/val-iisc/nu-certified-robustness)**|
+|**2023-04-20**|**Securing Neural Networks with Knapsack Optimization**|Yakir Gorski et.al.|[2304.10442](http://arxiv.org/abs/2304.10442)|**[link](https://github.com/yg320/secure_inference)**|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853](http://arxiv.org/abs/2304.09853)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
 |**2023-04-19**|**Patching Neural Barrier Functions Using Hamilton-Jacobi Reachability**|Sander Tonkens et.al.|[2304.09850](http://arxiv.org/abs/2304.09850)|null|
@@ -89,6 +102,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Backporting RISC-V Vector assembly**|Joseph K. L. Lee et.al.|[2304.10324](http://arxiv.org/abs/2304.10324)|null|
+|**2023-04-20**|**Test-driving RISC-V Vector hardware for HPC**|Joseph K. L. Lee et.al.|[2304.10319](http://arxiv.org/abs/2304.10319)|null|
+|**2023-04-20**|**BackCache: Mitigating Contention-Based Cache Timing Attacks by Hiding Cache Line Evictions**|Quancheng Wang et.al.|[2304.10268](http://arxiv.org/abs/2304.10268)|null|
+|**2023-04-20**|**An Analysis of the Completion Time of the BB84 Protocol**|Sounak Kar et.al.|[2304.10218](http://arxiv.org/abs/2304.10218)|null|
+|**2023-04-20**|**Efficient Uncertainty Estimation in Spiking Neural Networks via MC-dropout**|Tao Sun et.al.|[2304.10191](http://arxiv.org/abs/2304.10191)|null|
+|**2023-04-19**|**Applying Learning-from-observation to household service robots: three common-sense formulation**|Katsushi Ikeuchi et.al.|[2304.09966](http://arxiv.org/abs/2304.09966)|null|
+|**2023-04-19**|**Baugh-Wooley Multiplication for the RISCV Processor**|Franc Grootjen et.al.|[2304.09952](http://arxiv.org/abs/2304.09952)|null|
 |**2023-04-19**|**Event-based Simultaneous Localization and Mapping: A Comprehensive Survey**|Kunping Huang et.al.|[2304.09793](http://arxiv.org/abs/2304.09793)|null|
 |**2023-04-19**|**Big-Little Adaptive Neural Networks on Low-Power Near-Subthreshold Processors**|Zichao Shen et.al.|[2304.09695](http://arxiv.org/abs/2304.09695)|**[link](https://github.com/darkszchao/big-little_nn_strategies)**|
 |**2023-04-19**|**Quantum-Assisted Solution Paths for the Capacitated Vehicle Routing Problem**|Lilly Palackal et.al.|[2304.09629](http://arxiv.org/abs/2304.09629)|null|
@@ -104,6 +124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537](http://arxiv.org/abs/2304.10537)|null|
+|**2023-04-20**|**A User-Driven Framework for Regulating and Auditing Social Media**|Sarah H. Cen et.al.|[2304.10525](http://arxiv.org/abs/2304.10525)|null|
+|**2023-04-20**|**"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**|Usha Lokala et.al.|[2304.10512](http://arxiv.org/abs/2304.10512)|null|
+|**2023-04-20**|**Censoring chemical data to mitigate dual use risk**|Quintina L. Campbell et.al.|[2304.10510](http://arxiv.org/abs/2304.10510)|**[link](https://github.com/ur-whitelab/chem-dual-use)**|
+|**2023-04-20**|**New Closed-Form ASER Expressions for Dual-Hop Mixed THz-RF Cooperative Relay Networks**|Soumendu Das et.al.|[2304.10504](http://arxiv.org/abs/2304.10504)|null|
+|**2023-04-20**|**Regret-Minimizing Double Oracle for Extensive-Form Games**|Xiaohang Tang et.al.|[2304.10498](http://arxiv.org/abs/2304.10498)|null|
+|**2023-04-20**|**Secure Computation with Shared EPR Pairs (Or: How to Teleport in Zero-Knowledge)**|James Bartusek et.al.|[2304.10480](http://arxiv.org/abs/2304.10480)|null|
+|**2023-04-20**|**Implicit Temporal Modeling with Learnable Alignment for Video Recognition**|Shuyuan Tu et.al.|[2304.10465](http://arxiv.org/abs/2304.10465)|**[link](https://github.com/francis-rings/ila)**|
+|**2023-04-20**|**Road Genome: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**|Huijie Wang et.al.|[2304.10440](http://arxiv.org/abs/2304.10440)|**[link](https://github.com/OpenDriveLab/OpenLane-V2)**|
+|**2023-04-20**|**Safety Assessment of Chinese Large Language Models**|Hao Sun et.al.|[2304.10436](http://arxiv.org/abs/2304.10436)|**[link](https://github.com/thu-coai/safety-prompts)**|
 |**2023-04-19**|**Evaluating Verifiability in Generative Search Engines**|Nelson F. Liu et.al.|[2304.09848](http://arxiv.org/abs/2304.09848)|**[link](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines)**|
 |**2023-04-19**|**Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models**|Pan Lu et.al.|[2304.09842](http://arxiv.org/abs/2304.09842)|**[link](https://github.com/lupantech/chameleon-llm)**|
 |**2023-04-19**|**Optimal Codes Detecting Deletions in Concatenated Binary Strings Applied to Trace Reconstruction**|Serge Kas Hanna et.al.|[2304.09839](http://arxiv.org/abs/2304.09839)|null|
@@ -119,6 +149,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536](http://arxiv.org/abs/2304.10536)|null|
+|**2023-04-20**|**Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion**|Tomas Jakab et.al.|[2304.10535](http://arxiv.org/abs/2304.10535)|null|
+|**2023-04-20**|**Collaborative Diffusion for Multi-Modal Face Generation and Editing**|Ziqi Huang et.al.|[2304.10530](http://arxiv.org/abs/2304.10530)|**[link](https://github.com/ziqihuangg/collaborative-diffusion)**|
+|**2023-04-20**|**Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance**|Haiwen Feng et.al.|[2304.10528](http://arxiv.org/abs/2304.10528)|null|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
+|**2023-04-20**|**A User-Driven Framework for Regulating and Auditing Social Media**|Sarah H. Cen et.al.|[2304.10525](http://arxiv.org/abs/2304.10525)|null|
+|**2023-04-20**|**Learning Narrow One-Hidden-Layer ReLU Networks**|Sitan Chen et.al.|[2304.10524](http://arxiv.org/abs/2304.10524)|null|
+|**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521](http://arxiv.org/abs/2304.10521)|null|
+|**2023-04-20**|**"Can We Detect Substance Use Disorder?": Knowledge and Time Aware Classification on Social Media from Darkweb**|Usha Lokala et.al.|[2304.10512](http://arxiv.org/abs/2304.10512)|null|
+|**2023-04-20**|**Censoring chemical data to mitigate dual use risk**|Quintina L. Campbell et.al.|[2304.10510](http://arxiv.org/abs/2304.10510)|**[link](https://github.com/ur-whitelab/chem-dual-use)**|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-19**|**Patching Neural Barrier Functions Using Hamilton-Jacobi Reachability**|Sander Tonkens et.al.|[2304.09850](http://arxiv.org/abs/2304.09850)|null|
@@ -134,6 +174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
+|**2023-04-20**|**Foundation of classical dynamical density functional theory: uniqueness of time-dependent density-potential mappings**|Michael Andreas Klatt et.al.|[2304.10526](http://arxiv.org/abs/2304.10526)|null|
+|**2023-04-20**|**A class of mesh-free algorithms for some problems arising in finance and machine learning**|Philippe G. LeFloch et.al.|[2304.10521](http://arxiv.org/abs/2304.10521)|null|
+|**2023-04-20**|**Monte Carlo generation of localised particle trajectories**|Ivan Ahumada et.al.|[2304.10518](http://arxiv.org/abs/2304.10518)|null|
+|**2023-04-20**|**New Closed-Form ASER Expressions for Dual-Hop Mixed THz-RF Cooperative Relay Networks**|Soumendu Das et.al.|[2304.10504](http://arxiv.org/abs/2304.10504)|null|
+|**2023-04-20**|**Near-field diffraction of protons by a nanostructured metallic grating under external electric field: Asymmetry and sidebands in Talbot self-imaging**|Sushanta Barman et.al.|[2304.10497](http://arxiv.org/abs/2304.10497)|null|
+|**2023-04-20**|**A Size-Consistent Wave-function Ansatz Built from Statistical Analysis of Orbital Occupations**|Valerii Chuiko et.al.|[2304.10484](http://arxiv.org/abs/2304.10484)|null|
+|**2023-04-20**|**Reconstructing Signing Avatars From Video Using Linguistic Priors**|Maria-Paola Forte et.al.|[2304.10482](http://arxiv.org/abs/2304.10482)|null|
+|**2023-04-20**|**Observation of chiral edge transport in a rapidly-rotating quantum gas**|Ruixiao Yao et.al.|[2304.10468](http://arxiv.org/abs/2304.10468)|null|
+|**2023-04-20**|**A primal dual mixed finite element method for inverse identification of the diffusion coefficient and its relation to the Kohn-Vogelius penalty method**|Erik Burman et.al.|[2304.10467](http://arxiv.org/abs/2304.10467)|null|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Dipole superfluid hydrodynamics**|Akash Jain et.al.|[2304.09852](http://arxiv.org/abs/2304.09852)|null|
 |**2023-04-19**|**Patching Neural Barrier Functions Using Hamilton-Jacobi Reachability**|Sander Tonkens et.al.|[2304.09850](http://arxiv.org/abs/2304.09850)|null|
