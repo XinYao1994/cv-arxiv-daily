@@ -47,7 +47,7 @@ layout: default
 |**2023-04-20**|**Polylog-Competitive Algorithms for Dynamic Balanced Graph Partitioning for Ring Demands**|Harald Räcke et.al.|[2304.10350](http://arxiv.org/abs/2304.10350)|null|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
-|**2023-04-17**|**Effective implementation of the High Performance Conjugate Gradient benchmark on GraphBLAS**|Alberto Scolari et.al.|[2304.08232](http://arxiv.org/abs/2304.08232)|null|
+|**2023-04-17**|**Effective implementation of the High Performance Conjugate Gradient benchmark on GraphBLAS**|Alberto Scolari et.al.|[2304.08232](http://arxiv.org/abs/2304.08232)|**[link](https://github.com/algebraic-programming/alp)**|
 |**2023-04-13**|**Choreographic Programming of Isolated Transactions**|Ton Smeele et.al.|[2304.06399](http://arxiv.org/abs/2304.06399)|null|
 |**2023-04-11**|**Structured IQC Synthesis of Robust $\mathcal{H}_2$ Controllers in the Frequency Domain**|Maximilian Schütte et.al.|[2304.05467](http://arxiv.org/abs/2304.05467)|null|
 |**2023-04-11**|**Adapting to Disruptions: Flexibility as a Pillar of Supply Chain Resilience**|Ambra Amico et.al.|[2304.05290](http://arxiv.org/abs/2304.05290)|null|
@@ -69,7 +69,7 @@ layout: default
 |**2023-04-19**|**The State-of-the-Art in Air Pollution Monitoring and Forecasting Systems using IoT, Big Data, and Machine Learning**|Amisha Gangwar et.al.|[2304.09574](http://arxiv.org/abs/2304.09574)|null|
 |**2023-04-19**|**Local object crop collision network for efficient simulation of non-convex objects in GPU-based simulators**|Dongwon Son et.al.|[2304.09439](http://arxiv.org/abs/2304.09439)|null|
 |**2023-04-19**|**Steep Balmer decrement in weak AGNs may be not caused by dust extinction: clues from low-luminosity AGNs and changing-look AGNs**|Jiancheng Wu et.al.|[2304.09435](http://arxiv.org/abs/2304.09435)|null|
-|**2023-04-19**|**DeePMD-kit v2: A software package for Deep Potential models**|Jinzhe Zeng et.al.|[2304.09409](http://arxiv.org/abs/2304.09409)|**[link](https://github.com/deepmodeling/deepmd-kit)**|
+|**2023-04-19**|**DeePMD-kit v2: A software package for Deep Potential models**|Jinzhe Zeng et.al.|[2304.09409](http://arxiv.org/abs/2304.09409)|**[link](https://github.com/deepmodeling-activity/deepmd-kit-v2-paper)**|
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|null|
 
