@@ -44,6 +44,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Co-optimization of Operational Unit Commitment and Reserve Power Scheduling for Modern Grid**|Ramkrishna Mishan et.al.|[2304.12302](http://arxiv.org/abs/2304.12302)|null|
+|**2023-04-23**|**A Review On Game Theory With Smart Grid Security**|Rahat Masum et.al.|[2304.11738](http://arxiv.org/abs/2304.11738)|null|
 |**2023-04-20**|**Polylog-Competitive Algorithms for Dynamic Balanced Graph Partitioning for Ring Demands**|Harald Räcke et.al.|[2304.10350](http://arxiv.org/abs/2304.10350)|null|
 |**2023-04-19**|**Generalized Analytical Estimation of Sensitivity Matrices in Unbalanced Distribution Networks**|Salish Maharjan et.al.|[2304.09855](http://arxiv.org/abs/2304.09855)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
@@ -60,6 +62,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**ITER: Iterative Neural Repair for Multi-Location Patches**|He Ye et.al.|[2304.12015](http://arxiv.org/abs/2304.12015)|null|
+|**2023-04-24**|**Table of hyperfine anomaly in atomic systems -- 2023**|J. R. Persson et.al.|[2304.11995](http://arxiv.org/abs/2304.11995)|null|
+|**2023-04-23**|**Hier-RTLMP: A Hierarchical Automatic Macro Placer for Large-scale Complex IP Blocks**|Andrew B. Kahng et.al.|[2304.11761](http://arxiv.org/abs/2304.11761)|null|
+|**2023-04-23**|**CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment**|Zijian Wang et.al.|[2304.11672](http://arxiv.org/abs/2304.11672)|null|
+|**2023-04-23**|**Device management and network connectivity as missing elements in TinyML landscape**|Tomasz Szydlo et.al.|[2304.11669](http://arxiv.org/abs/2304.11669)|**[link](https://github.com/tszydlo/FogML)**|
 |**2023-04-21**|**Running vacuum in the Universe: phenomenological status in light of the latest observations, and its impact on the $σ_8$ and $H_0$ tensions**|Joan Sola Peracaula et.al.|[2304.11157](http://arxiv.org/abs/2304.11157)|null|
 |**2023-04-21**|**TC-GAT: Graph Attention Network for Temporal Causality Discovery**|Xiaosong Yuan et.al.|[2304.10706](http://arxiv.org/abs/2304.10706)|null|
 |**2023-04-20**|**Backporting RISC-V Vector assembly**|Joseph K. L. Lee et.al.|[2304.10324](http://arxiv.org/abs/2304.10324)|null|
@@ -79,6 +86,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Median of heaps: linear-time selection by recursively constructing binary heaps**|Oliver Serang et.al.|[2304.12313](http://arxiv.org/abs/2304.12313)|null|
+|**2023-04-24**|**A Survey on Multi-Resident Activity Recognition in Smart Environments**|Farhad MortezaPour Shiri et.al.|[2304.12304](http://arxiv.org/abs/2304.12304)|null|
+|**2023-04-24**|**Inference in Linear Observations with Multiple Signal Sources: Analysis of Approximate Message Passing and Applications to Unsourced Random Access in Cell-Free Systems**|Burak Çakmak et.al.|[2304.12290](http://arxiv.org/abs/2304.12290)|null|
+|**2023-04-24**|**Time-Asymmetric Protocol Optimization for Efficient Free Energy Estimation**|Adrianne Zhong et.al.|[2304.12287](http://arxiv.org/abs/2304.12287)|null|
+|**2023-04-24**|**Low-Memory Algorithms for Online and W-Streaming Edge Coloring**|Prantar Ghosh et.al.|[2304.12285](http://arxiv.org/abs/2304.12285)|null|
+|**2023-04-24**|**Formation of the stopped polarization pulse in a rectangular quantum well**|Pavel Belov et.al.|[2304.12283](http://arxiv.org/abs/2304.12283)|null|
+|**2023-04-24**|**Dynamic generation and attribution of revenues in a video platform**|Francisco Lopez-Navarrete et.al.|[2304.12268](http://arxiv.org/abs/2304.12268)|null|
+|**2023-04-24**|**Trisecting a 4-dimensional book into three chapters**|Marc Kegel et.al.|[2304.12250](http://arxiv.org/abs/2304.12250)|null|
+|**2023-04-24**|**Fuzzy clustering of ordinal time series based on two novel distances with economic applications**|Ángel López Oriona et.al.|[2304.12249](http://arxiv.org/abs/2304.12249)|null|
+|**2023-04-24**|**Gaussian Boson Sampling with Pseudo-Photon-Number Resolving Detectors and Quantum Computational Advantage**|Yu-Hao Deng et.al.|[2304.12240](http://arxiv.org/abs/2304.12240)|null|
 |**2023-04-21**|**Low-Variance Gradient Estimation in Unrolled Computation Graphs with ES-Single**|Paul Vicol et.al.|[2304.11153](http://arxiv.org/abs/2304.11153)|null|
 |**2023-04-21**|**H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization**|Jiayi Li et.al.|[2304.11141](http://arxiv.org/abs/2304.11141)|null|
 |**2023-04-21**|**Plug-and-Play split Gibbs sampler: embedding deep generative priors in Bayesian inference**|Florentin Coeurdoux et.al.|[2304.11134](http://arxiv.org/abs/2304.11134)|null|
@@ -114,6 +131,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**MOTLEE: Distributed Mobile Multi-Object Tracking with Localization Error Elimination**|Mason B. Peterson et.al.|[2304.12175](http://arxiv.org/abs/2304.12175)|null|
+|**2023-04-24**|**Exploring shared memory architectures for end-to-end gigapixel deep learning**|Lucas W. Remedios et.al.|[2304.12149](http://arxiv.org/abs/2304.12149)|null|
+|**2023-04-24**|**Exploration and Exploitation of Hidden PMU Events**|Yihao Yang et.al.|[2304.12072](http://arxiv.org/abs/2304.12072)|null|
+|**2023-04-24**|**Optimal Layout Synthesis for Quantum Circuits as Classical Planning**|Irfansha Shaik et.al.|[2304.12014](http://arxiv.org/abs/2304.12014)|null|
+|**2023-04-24**|**Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network**|Chenlin Zhou et.al.|[2304.11954](http://arxiv.org/abs/2304.11954)|null|
+|**2023-04-24**|**Open Continuum Robotics -- One Actuation Module to Create them All**|Reinhard M. Grassmann et.al.|[2304.11850](http://arxiv.org/abs/2304.11850)|null|
+|**2023-04-24**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842](http://arxiv.org/abs/2304.11842)|null|
+|**2023-04-24**|**Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-time Mobile Telepresence**|Yonggan Fu et.al.|[2304.11835](http://arxiv.org/abs/2304.11835)|null|
+|**2023-04-24**|**Multiplierless In-filter Computing for tinyML Platforms**|Abhishek Ramdas Nair et.al.|[2304.11816](http://arxiv.org/abs/2304.11816)|null|
+|**2023-04-24**|**Efficient Robot Skill Learning with Imitation from a Single Video for Contact-Rich Fabric Manipulation**|Shengzeng Huo et.al.|[2304.11801](http://arxiv.org/abs/2304.11801)|null|
 |**2023-04-21**|**Integrating Per-Stream Stat Tracking into Accel-Sim**|Shichen Qiao et.al.|[2304.11136](http://arxiv.org/abs/2304.11136)|null|
 |**2023-04-21**|**A High-Performance Implementation of Atomistic Spin Dynamics Simulations on x86 CPUs**|Hongwei Chen et.al.|[2304.10966](http://arxiv.org/abs/2304.10966)|null|
 |**2023-04-21**|**Factored Neural Representation for Scene Understanding**|Yu-Shiang Wong et.al.|[2304.10950](http://arxiv.org/abs/2304.10950)|null|
@@ -146,6 +173,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Constraining the onset density for the QCD phase transition with the neutrino signal from core-collapse supernovae**|Noshad Khosravi Largani et.al.|[2304.12316](http://arxiv.org/abs/2304.12316)|null|
+|**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
+|**2023-04-24**|**A Survey on Multi-Resident Activity Recognition in Smart Environments**|Farhad MortezaPour Shiri et.al.|[2304.12304](http://arxiv.org/abs/2304.12304)|null|
+|**2023-04-24**|**Tunable vector beam decoder by inverse design for high-dimensional quantum key distribution with 3D polarized spatial modes**|Eileen Otte et.al.|[2304.12296](http://arxiv.org/abs/2304.12296)|null|
+|**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294](http://arxiv.org/abs/2304.12294)|**[link](https://github.com/donydchen/matchnerf)**|
+|**2023-04-24**|**Inference in Linear Observations with Multiple Signal Sources: Analysis of Approximate Message Passing and Applications to Unsourced Random Access in Cell-Free Systems**|Burak Çakmak et.al.|[2304.12290](http://arxiv.org/abs/2304.12290)|null|
+|**2023-04-24**|**Robots Taking Initiative in Collaborative Object Manipulation: Lessons from Physical Human-Human Interaction**|Zhanibek Rysbek et.al.|[2304.12288](http://arxiv.org/abs/2304.12288)|null|
+|**2023-04-24**|**On the irrelevance of the scrambling power of gravity for black hole radiation**|Xuan-Lin Su et.al.|[2304.12278](http://arxiv.org/abs/2304.12278)|null|
+|**2023-04-24**|**Scrambling Power of Soft Photons**|Xuan-Lin Su et.al.|[2304.12277](http://arxiv.org/abs/2304.12277)|null|
+|**2023-04-24**|**Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study**|Tim van Dam et.al.|[2304.12269](http://arxiv.org/abs/2304.12269)|**[link](https://github.com/aise-tudelft/contextualdatacodecompletion)**|
 |**2023-04-21**|**The Isotonic Mechanism for Exponential Family Estimation**|Yuling Yan et.al.|[2304.11160](http://arxiv.org/abs/2304.11160)|null|
 |**2023-04-21**|**Exploring Ququart Computation on a Transmon using Optimal Control**|Lennart Maximilian Seifert et.al.|[2304.11159](http://arxiv.org/abs/2304.11159)|null|
 |**2023-04-21**|**Emergent and Predictable Memorization in Large Language Models**|Stella Biderman et.al.|[2304.11158](http://arxiv.org/abs/2304.11158)|null|
@@ -181,6 +218,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Large-capacity and Flexible Video Steganography via Invertible Neural Network**|Chong Mou et.al.|[2304.12300](http://arxiv.org/abs/2304.12300)|**[link](https://github.com/mc-e/lf-vsn)**|
+|**2023-04-24**|**Inference in Linear Observations with Multiple Signal Sources: Analysis of Approximate Message Passing and Applications to Unsourced Random Access in Cell-Free Systems**|Burak Çakmak et.al.|[2304.12290](http://arxiv.org/abs/2304.12290)|null|
+|**2023-04-24**|**Approximation of Optimal Control Surfaces for the Bass Model with Stochastic Dynamics**|Gabriel Nicolosi et.al.|[2304.12265](http://arxiv.org/abs/2304.12265)|null|
+|**2023-04-24**|**Nonrandom behavior in the Projection of Random bipartite networks**|Izat B. Baybusinov et.al.|[2304.12258](http://arxiv.org/abs/2304.12258)|null|
+|**2023-04-24**|**Geometrical description and Faddeev-Jackiw quantization of electrical networks**|A. Parra-Rodriguez et.al.|[2304.12252](http://arxiv.org/abs/2304.12252)|null|
+|**2023-04-24**|**Inferring comparative advantage via entropy maximization**|Matteo Bruno et.al.|[2304.12245](http://arxiv.org/abs/2304.12245)|null|
+|**2023-04-24**|**Multi-crop Contrastive Learning for Unsupervised Image-to-Image Translation**|Chen Zhao et.al.|[2304.12235](http://arxiv.org/abs/2304.12235)|null|
+|**2023-04-24**|**A Transfer Principle: Universal Approximators Between Metric Spaces From Euclidean Universal Approximators**|Anastasis Kratsios et.al.|[2304.12231](http://arxiv.org/abs/2304.12231)|null|
+|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
+|**2023-04-24**|**Caching Contents with Varying Popularity using Restless Bandits**|Pavamana K J et.al.|[2304.12227](http://arxiv.org/abs/2304.12227)|null|
 |**2023-04-21**|**Multivariate and Multi-step Traffic Prediction for NextG Networks with SLA Violation Constraints**|Evren Tuna et.al.|[2304.11156](http://arxiv.org/abs/2304.11156)|null|
 |**2023-04-21**|**Low-Variance Gradient Estimation in Unrolled Computation Graphs with ES-Single**|Paul Vicol et.al.|[2304.11153](http://arxiv.org/abs/2304.11153)|null|
 |**2023-04-21**|**Monomodes in Tribonacci Chains**|Julius Krebbekx et.al.|[2304.11144](http://arxiv.org/abs/2304.11144)|null|
@@ -216,6 +263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis**|Chonghyuk Song et.al.|[2304.12317](http://arxiv.org/abs/2304.12317)|null|
+|**2023-04-24**|**Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection**|Lue Fan et.al.|[2304.12315](http://arxiv.org/abs/2304.12315)|**[link](https://github.com/tusen-ai/sst)**|
+|**2023-04-24**|**Distilling from Similar Tasks for Transfer Learning on a Budget**|Kenneth Borup et.al.|[2304.12314](http://arxiv.org/abs/2304.12314)|null|
+|**2023-04-24**|**Non-linear optics at twist interfaces in h-BN/SiC heterostructures**|Abhijit Biswas et.al.|[2304.12312](http://arxiv.org/abs/2304.12312)|null|
+|**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
+|**2023-04-24**|**A Survey on Multi-Resident Activity Recognition in Smart Environments**|Farhad MortezaPour Shiri et.al.|[2304.12304](http://arxiv.org/abs/2304.12304)|null|
+|**2023-04-24**|**Co-optimization of Operational Unit Commitment and Reserve Power Scheduling for Modern Grid**|Ramkrishna Mishan et.al.|[2304.12302](http://arxiv.org/abs/2304.12302)|null|
+|**2023-04-24**|**Inference in Linear Observations with Multiple Signal Sources: Analysis of Approximate Message Passing and Applications to Unsourced Random Access in Cell-Free Systems**|Burak Çakmak et.al.|[2304.12290](http://arxiv.org/abs/2304.12290)|null|
+|**2023-04-24**|**Time-Asymmetric Protocol Optimization for Efficient Free Energy Estimation**|Adrianne Zhong et.al.|[2304.12287](http://arxiv.org/abs/2304.12287)|null|
+|**2023-04-24**|**Formation of the stopped polarization pulse in a rectangular quantum well**|Pavel Belov et.al.|[2304.12283](http://arxiv.org/abs/2304.12283)|null|
 |**2023-04-21**|**Running vacuum in the Universe: phenomenological status in light of the latest observations, and its impact on the $σ_8$ and $H_0$ tensions**|Joan Sola Peracaula et.al.|[2304.11157](http://arxiv.org/abs/2304.11157)|null|
 |**2023-04-21**|**Commutation relations and stability of switched systems: a personal history**|Daniel Liberzon et.al.|[2304.11155](http://arxiv.org/abs/2304.11155)|null|
 |**2023-04-21**|**Transition to the Haldane phase driven by electron-electron correlations**|A. Jażdżewska et.al.|[2304.11154](http://arxiv.org/abs/2304.11154)|null|
