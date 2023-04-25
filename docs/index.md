@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -87,7 +87,7 @@ layout: default
 |**2023-04-21**|**Approximate Shielding of Atari Agents for Safe Exploration**|Alexander W. Goodall et.al.|[2304.11104](http://arxiv.org/abs/2304.11104)|null|
 |**2023-04-21**|**Jamming, relaxation, and memory in a structureless glass former**|Patrick Charbonneau et.al.|[2304.11100](http://arxiv.org/abs/2304.11100)|null|
 |**2023-04-21**|**Conceptualizing Approaches to Critical Computing Education: Inquiry, Design and Reimagination**|Luis Morales-Navarro et.al.|[2304.11069](http://arxiv.org/abs/2304.11069)|null|
-|**2023-04-21**|**Prediction, Learning, Uniform Convergence, and Scale-sensitive Dimensions**|Peter L. Bartlett et.al.|[2304.11059](http://arxiv.org/abs/2304.11059)|null|
+|**2023-04-24**|**Prediction, Learning, Uniform Convergence, and Scale-sensitive Dimensions**|Peter L. Bartlett et.al.|[2304.11059](http://arxiv.org/abs/2304.11059)|null|
 |**2023-04-21**|**An Optimization Framework For Anomaly Detection Scores Refinement With Side Information**|Ali Maatouk et.al.|[2304.11039](http://arxiv.org/abs/2304.11039)|null|
 |**2023-04-20**|**Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization**|Stamatios Lefkimmiatis et.al.|[2304.10536](http://arxiv.org/abs/2304.10536)|null|
 |**2023-04-20**|**Multidimensional Uncertainty Quantification for Deep Neural Networks**|Xujiang Zhao et.al.|[2304.10527](http://arxiv.org/abs/2304.10527)|null|
