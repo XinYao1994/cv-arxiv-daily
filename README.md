@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -54,7 +54,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -74,7 +74,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Compiler
 
@@ -87,7 +87,7 @@
 |**2023-04-23**|**Device management and network connectivity as missing elements in TinyML landscape**|Tomasz Szydlo et.al.|[2304.11669](http://arxiv.org/abs/2304.11669)|**[link](https://github.com/tszydlo/FogML)**|
 |**2023-04-21**|**Running vacuum in the Universe: phenomenological status in light of the latest observations, and its impact on the $σ_8$ and $H_0$ tensions**|Joan Sola Peracaula et.al.|[2304.11157](http://arxiv.org/abs/2304.11157)|null|
 |**2023-04-21**|**TC-GAT: Graph Attention Network for Temporal Causality Discovery**|Xiaosong Yuan et.al.|[2304.10706](http://arxiv.org/abs/2304.10706)|null|
-|**2023-04-20**|**Backporting RISC-V Vector assembly**|Joseph K. L. Lee et.al.|[2304.10324](http://arxiv.org/abs/2304.10324)|null|
+|**2023-04-20**|**Backporting RISC-V Vector assembly**|Joseph K. L. Lee et.al.|[2304.10324](http://arxiv.org/abs/2304.10324)|**[link](https://github.com/riscvtestbed/rvv-rollback)**|
 |**2023-04-20**|**Test-driving RISC-V Vector hardware for HPC**|Joseph K. L. Lee et.al.|[2304.10319](http://arxiv.org/abs/2304.10319)|null|
 |**2023-04-19**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854](http://arxiv.org/abs/2304.09854)|**[link](https://github.com/lxtgh/awesome-segmenation-with-transformer)**|
 |**2023-04-19**|**Weakening Assumptions for Publicly-Verifiable Deletion**|James Bartusek et.al.|[2304.09846](http://arxiv.org/abs/2304.09846)|null|
@@ -100,7 +100,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -147,7 +147,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -159,7 +159,7 @@
 |**2023-04-24**|**Optimal Layout Synthesis for Quantum Circuits as Classical Planning**|Irfansha Shaik et.al.|[2304.12014](http://arxiv.org/abs/2304.12014)|null|
 |**2023-04-24**|**Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network**|Chenlin Zhou et.al.|[2304.11954](http://arxiv.org/abs/2304.11954)|null|
 |**2023-04-24**|**Open Continuum Robotics -- One Actuation Module to Create them All**|Reinhard M. Grassmann et.al.|[2304.11850](http://arxiv.org/abs/2304.11850)|null|
-|**2023-04-24**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842](http://arxiv.org/abs/2304.11842)|null|
+|**2023-04-25**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842](http://arxiv.org/abs/2304.11842)|null|
 |**2023-04-24**|**Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-time Mobile Telepresence**|Yonggan Fu et.al.|[2304.11835](http://arxiv.org/abs/2304.11835)|null|
 |**2023-04-24**|**Multiplierless In-filter Computing for tinyML Platforms**|Abhishek Ramdas Nair et.al.|[2304.11816](http://arxiv.org/abs/2304.11816)|null|
 |**2023-04-24**|**Efficient Robot Skill Learning with Imitation from a Single Video for Contact-Rich Fabric Manipulation**|Shengzeng Huo et.al.|[2304.11801](http://arxiv.org/abs/2304.11801)|null|
@@ -191,7 +191,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -200,7 +200,7 @@
 |**2023-04-24**|**Constraining the onset density for the QCD phase transition with the neutrino signal from core-collapse supernovae**|Noshad Khosravi Largani et.al.|[2304.12316](http://arxiv.org/abs/2304.12316)|null|
 |**2023-04-24**|**ExCalibR: Expected Calibration of Recommendations**|Pannagadatta Shivaswamy et.al.|[2304.12311](http://arxiv.org/abs/2304.12311)|null|
 |**2023-04-24**|**A Survey on Multi-Resident Activity Recognition in Smart Environments**|Farhad MortezaPour Shiri et.al.|[2304.12304](http://arxiv.org/abs/2304.12304)|null|
-|**2023-04-24**|**Tunable vector beam decoder by inverse design for high-dimensional quantum key distribution with 3D polarized spatial modes**|Eileen Otte et.al.|[2304.12296](http://arxiv.org/abs/2304.12296)|null|
+|**2023-04-25**|**Tunable vector beam decoder by inverse design for high-dimensional quantum key distribution with 3D polarized spatial modes**|Eileen Otte et.al.|[2304.12296](http://arxiv.org/abs/2304.12296)|null|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294](http://arxiv.org/abs/2304.12294)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-24**|**Inference in Linear Observations with Multiple Signal Sources: Analysis of Approximate Message Passing and Applications to Unsourced Random Access in Cell-Free Systems**|Burak Çakmak et.al.|[2304.12290](http://arxiv.org/abs/2304.12290)|null|
 |**2023-04-24**|**Robots Taking Initiative in Collaborative Object Manipulation: Lessons from Physical Human-Human Interaction**|Zhanibek Rysbek et.al.|[2304.12288](http://arxiv.org/abs/2304.12288)|null|
@@ -238,7 +238,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -285,7 +285,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -332,7 +332,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -349,7 +349,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20230425>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
