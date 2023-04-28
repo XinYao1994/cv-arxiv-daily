@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -161,7 +161,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning**|Tuomas Haarnoja et.al.|[2304.13653](http://arxiv.org/abs/2304.13653)|null|
-|**2023-04-26**|**Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning**|Nico Meyer et.al.|[2304.13571](http://arxiv.org/abs/2304.13571)|null|
+|**2023-04-26**|**Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning**|Nico Meyer et.al.|[2304.13571](http://arxiv.org/abs/2304.13571)|**[link](https://gitlab.com/nicomeyer/qnpg)**|
 |**2023-04-26**|**Finite State Automata Design using 1T1R ReRAM Crossbar**|Simranjeet Singh et.al.|[2304.13552](http://arxiv.org/abs/2304.13552)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
 |**2023-04-26**|**Integrated Architecture for Neural Networks and Security Primitives using RRAM Crossbar**|Simranjeet Singh et.al.|[2304.13531](http://arxiv.org/abs/2304.13531)|null|
@@ -225,13 +225,13 @@ layout: default
 |**2023-04-26**|**Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery**|Debadutta Dash et.al.|[2304.13714](http://arxiv.org/abs/2304.13714)|null|
 |**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710](http://arxiv.org/abs/2304.13710)|null|
 |**2023-04-26**|**Direct observation of Néel-type skyrmions and domain walls in a ferrimagnetic thin film via scanning transmission X-ray microscopy**|Chen Luo et.al.|[2304.13698](http://arxiv.org/abs/2304.13698)|null|
-|**2023-04-26**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688](http://arxiv.org/abs/2304.13688)|null|
+|**2023-04-27**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688](http://arxiv.org/abs/2304.13688)|null|
 |**2023-04-26**|**Coded matrix computation with gradient coding**|Kyungrak Son et.al.|[2304.13685](http://arxiv.org/abs/2304.13685)|null|
 |**2023-04-26**|**Building K-Anonymous User Cohorts with\\ Consecutive Consistent Weighted Sampling (CCWS)**|Xinyi Zheng et.al.|[2304.13677](http://arxiv.org/abs/2304.13677)|null|
 |**2023-04-26**|**Multimodal Grounding for Embodied AI via Augmented Reality Headsets for Natural Language Driven Task Planning**|Selma Wanna et.al.|[2304.13676](http://arxiv.org/abs/2304.13676)|null|
 |**2023-04-26**|**Using Implicit Feedback to Improve Question Generation**|Hugo Rodrigues et.al.|[2304.13664](http://arxiv.org/abs/2304.13664)|null|
 |**2023-04-26**|**A Personalized Dense Retrieval Framework for Unified Information Access**|Hansi Zeng et.al.|[2304.13654](http://arxiv.org/abs/2304.13654)|**[link](https://github.com/hansizeng/uia)**|
-|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649](http://arxiv.org/abs/2304.13649)|null|
+|**2023-04-26**|**A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering**|Alireza Salemi et.al.|[2304.13649](http://arxiv.org/abs/2304.13649)|**[link](https://github.com/alirezasalemi7/dedr-mm-fid)**|
 |**2023-04-25**|**Seeing is not always believing: A Quantitative Study on Human Perception of AI-Generated Images**|Zeyu Lu et.al.|[2304.13023](http://arxiv.org/abs/2304.13023)|null|
 |**2023-04-25**|**DuETT: Dual Event Time Transformer for Electronic Health Records**|Alex Labach et.al.|[2304.13017](http://arxiv.org/abs/2304.13017)|**[link](https://github.com/layer6ai-labs/duett)**|
 |**2023-04-25**|**Methods and datasets for segmentation of minimally invasive surgical instruments in endoscopic images and videos: A review of the state of the art**|Tobias Rueckert et.al.|[2304.13014](http://arxiv.org/abs/2304.13014)|null|
@@ -352,7 +352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-26**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720](http://arxiv.org/abs/2304.13720)|null|
+|**2023-04-27**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720](http://arxiv.org/abs/2304.13720)|null|
 |**2023-04-26**|**Towards Microscopic Theory of Decaying Turbulence**|Alexander Migdal et.al.|[2304.13719](http://arxiv.org/abs/2304.13719)|null|
 |**2023-04-26**|**Association Rules Mining with Auto-Encoders**|Théophile Berteloot et.al.|[2304.13717](http://arxiv.org/abs/2304.13717)|null|
 |**2023-04-26**|**Hopfield model with planted patterns: a teacher-student self-supervised learning model**|Francesco Alemanno et.al.|[2304.13710](http://arxiv.org/abs/2304.13710)|null|
@@ -361,7 +361,7 @@ layout: default
 |**2023-04-26**|**Proximity-induced superconductivity in a 2D Kondo lattice of an f-electron-based surface alloy**|Howon Kim et.al.|[2304.13697](http://arxiv.org/abs/2304.13697)|null|
 |**2023-04-26**|**Frustration of triplet interaction in spin-glass background**|M. Bagherikalhor et.al.|[2304.13692](http://arxiv.org/abs/2304.13692)|null|
 |**2023-04-26**|**HeySQuAD: A Spoken Question Answering Dataset**|Yijing Wu et.al.|[2304.13689](http://arxiv.org/abs/2304.13689)|null|
-|**2023-04-26**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688](http://arxiv.org/abs/2304.13688)|null|
+|**2023-04-27**|**Unlocking the Potential of Collaborative AI -- On the Socio-technical Challenges of Federated Machine Learning**|Tobias Müller et.al.|[2304.13688](http://arxiv.org/abs/2304.13688)|null|
 |**2023-04-25**|**Unifying Emergent Hydrodynamics and Lindbladian Low Energy Spectra across Symmetries, Constraints, and Long-Range Interactions**|Olumakinde Ogunnaike et.al.|[2304.13028](http://arxiv.org/abs/2304.13028)|null|
 |**2023-04-25**|**On the mechanism of polaritonic rate suppression from quantum transition paths**|Michelle C. Anderson et.al.|[2304.13024](http://arxiv.org/abs/2304.13024)|null|
 |**2023-04-25**|**Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database**|Diego Pasmino et.al.|[2304.13015](http://arxiv.org/abs/2304.13015)|**[link](https://github.com/jedota/flickr-pad)**|
