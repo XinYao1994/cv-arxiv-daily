@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.28
+## Updated on 2023.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -326,7 +326,7 @@ layout: default
 |**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388](http://arxiv.org/abs/2304.14388)|null|
 |**2023-04-27**|**Hierarchical structure of the cosmic web and galaxy properties**|Mariana Jaber et.al.|[2304.14387](http://arxiv.org/abs/2304.14387)|null|
 |**2023-04-27**|**Analogy-Forming Transformers for Few-Shot 3D Parsing**|Nikolaos Gkanatsios et.al.|[2304.14382](http://arxiv.org/abs/2304.14382)|null|
-|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374](http://arxiv.org/abs/2304.14374)|null|
+|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374](http://arxiv.org/abs/2304.14374)|**[link](https://github.com/sintef/pseudo-hamiltonian-neural-networks)**|
 |**2023-04-27**|**Learning Neural Constitutive Laws From Motion Observations for Generalizable PDE Dynamics**|Pingchuan Ma et.al.|[2304.14369](http://arxiv.org/abs/2304.14369)|null|
 |**2023-04-27**|**Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving**|Xiaoyu Tian et.al.|[2304.14365](http://arxiv.org/abs/2304.14365)|**[link](https://github.com/Tsinghua-MARS-Lab/Occ3D)**|
 |**2023-04-26**|**A Control-Centric Benchmark for Video Prediction**|Stephen Tian et.al.|[2304.13723](http://arxiv.org/abs/2304.13723)|**[link](https://github.com/s-tian/vp2)**|
@@ -402,7 +402,7 @@ layout: default
 |**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388](http://arxiv.org/abs/2304.14388)|null|
 |**2023-04-27**|**Quantum signal processing with continuous variables**|Zane M. Rossi et.al.|[2304.14383](http://arxiv.org/abs/2304.14383)|null|
 |**2023-04-27**|**Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM**|Hengyi Wang et.al.|[2304.14377](http://arxiv.org/abs/2304.14377)|null|
-|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374](http://arxiv.org/abs/2304.14374)|null|
+|**2023-04-27**|**Pseudo-Hamiltonian neural networks for learning partial differential equations**|Sølve Eidnes et.al.|[2304.14374](http://arxiv.org/abs/2304.14374)|**[link](https://github.com/sintef/pseudo-hamiltonian-neural-networks)**|
 |**2023-04-27**|**A Versatile Low-Complexity Feedback Scheme for FDD Systems via Generative Modeling**|Nurettin Turan et.al.|[2304.14373](http://arxiv.org/abs/2304.14373)|null|
 |**2023-04-27**|**A low-metallicity massive contact binary undergoing slow Case A mass transfer: A detailed spectroscopic and orbital analysis of SSN 7 in NGC 346 in the SMC**|M. J. Rickard et.al.|[2304.13720](http://arxiv.org/abs/2304.13720)|null|
 |**2023-04-26**|**Towards Microscopic Theory of Decaying Turbulence**|Alexander Migdal et.al.|[2304.13719](http://arxiv.org/abs/2304.13719)|null|
