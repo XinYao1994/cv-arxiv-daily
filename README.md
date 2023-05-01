@@ -60,6 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Reasoning about Choreographic Programs**|Luís Cruz-Filipe et.al.|[2304.14539](http://arxiv.org/abs/2304.14539)|null|
 |**2023-04-26**|**HiQ -- A Declarative, Non-intrusive, Dynamic and Transparent Observability and Optimization System**|Fuheng Wu et.al.|[2304.13302](http://arxiv.org/abs/2304.13302)|**[link](https://github.com/oracle/hiq)**|
 |**2023-04-25**|**Modeling Adaptive Self-healing Systems**|Habtom Kahsay Gidey et.al.|[2304.12773](http://arxiv.org/abs/2304.12773)|null|
 |**2023-04-25**|**Multiplexing Power Converters for Cost-Effective and Flexible Soft Open Points**|Matthew Deakin et.al.|[2304.12708](http://arxiv.org/abs/2304.12708)|null|
@@ -83,6 +84,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Compiler Auto-tuning through Multiple Phase Learning**|Mingxuan Zhu et.al.|[2304.14908](http://arxiv.org/abs/2304.14908)|null|
+|**2023-04-28**|**The Logical Essence of Compiling With Continuations**|José Espírito Santo et.al.|[2304.14752](http://arxiv.org/abs/2304.14752)|null|
+|**2023-04-28**|**Effective Data Aggregation in WSN for Enhanced Security and Data Privacy**|B. Murugeshwari et.al.|[2304.14654](http://arxiv.org/abs/2304.14654)|null|
+|**2023-04-27**|**Reasoning about Choreographic Programs**|Luís Cruz-Filipe et.al.|[2304.14539](http://arxiv.org/abs/2304.14539)|null|
 |**2023-04-27**|**Coherent and non-unitary errors in ZZ-generated gates**|T. Mueller et.al.|[2304.14212](http://arxiv.org/abs/2304.14212)|null|
 |**2023-04-26**|**Large-scale clustering of buried X-ray AGN: Trends in AGN obscuration and redshift evolution**|Akke Viitanen et.al.|[2304.13745](http://arxiv.org/abs/2304.13745)|null|
 |**2023-04-28**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458](http://arxiv.org/abs/2304.13458)|null|
@@ -117,6 +122,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Quantum Control Machine: The Limits of Quantum Programs as Data**|Charles Yuan et.al.|[2304.15000](http://arxiv.org/abs/2304.15000)|**[link](https://github.com/psg-mit/qcm-artifact)**|
+|**2023-04-28**|**Towards Automated Circuit Discovery for Mechanistic Interpretability**|Arthur Conmy et.al.|[2304.14997](http://arxiv.org/abs/2304.14997)|null|
+|**2023-04-28**|**Maximizing Reachability Probabilities in Rectangular Automata with Random Clocks**|Joanna Delicaris et.al.|[2304.14996](http://arxiv.org/abs/2304.14996)|null|
+|**2023-04-28**|**Robust Stackelberg Equilibria**|Jiarui Gan et.al.|[2304.14990](http://arxiv.org/abs/2304.14990)|null|
+|**2023-04-28**|**Kullback-Leibler Maillard Sampling for Multi-armed Bandits with Bounded Rewards**|Hao Qin et.al.|[2304.14989](http://arxiv.org/abs/2304.14989)|null|
+|**2023-04-28**|**Hierarchical and Decentralised Federated Learning**|Omer Rana et.al.|[2304.14982](http://arxiv.org/abs/2304.14982)|null|
+|**2023-04-28**|**Tutorial: Implementando Controladores Preditivos Não Lineares através do Ferramental LPV**|Marcelo Menezes Morato et.al.|[2304.14981](http://arxiv.org/abs/2304.14981)|null|
+|**2023-04-28**|**Popularity Ratio Maximization: Surpassing Competitors through Influence Propagation**|Hao Liao et.al.|[2304.14971](http://arxiv.org/abs/2304.14971)|null|
+|**2023-04-28**|**PAO: A general particle swarm algorithm with exact dynamics and closed-form transition densities**|Max D. Champneys et.al.|[2304.14956](http://arxiv.org/abs/2304.14956)|null|
+|**2023-04-28**|**A Stochastic-Gradient-based Interior-Point Algorithm for Solving Smooth Bound-Constrained Optimization Problems**|Frank E. Curtis et.al.|[2304.14907](http://arxiv.org/abs/2304.14907)|null|
 |**2023-04-27**|**string2string: A Modern Python Library for String-to-String Algorithms**|Mirac Suzgun et.al.|[2304.14395](http://arxiv.org/abs/2304.14395)|**[link](https://github.com/stanfordnlp/string2string)**|
 |**2023-04-27**|**Semantic embedding for quantum algorithms**|Zane M. Rossi et.al.|[2304.14392](http://arxiv.org/abs/2304.14392)|null|
 |**2023-04-27**|**Riddles of the sphinx tilings**|Greg Huber et.al.|[2304.14388](http://arxiv.org/abs/2304.14388)|null|
@@ -194,6 +209,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Quantum Control Machine: The Limits of Quantum Programs as Data**|Charles Yuan et.al.|[2304.15000](http://arxiv.org/abs/2304.15000)|**[link](https://github.com/psg-mit/qcm-artifact)**|
+|**2023-04-28**|**Low-Cost Throttle-By-Wire-System Architecture For Two-Wheeler Vehicles**|Jannis Kreß et.al.|[2304.14875](http://arxiv.org/abs/2304.14875)|null|
+|**2023-04-28**|**Caught in the Game: On the History and Evolution of Web Browser Gaming**|Naif Mehanna et.al.|[2304.14791](http://arxiv.org/abs/2304.14791)|null|
+|**2023-04-28**|**Differentiable Sensor Layouts for End-to-End Learning of Task-Specific Camera Parameters**|Hendrik Sommerhoff et.al.|[2304.14736](http://arxiv.org/abs/2304.14736)|null|
+|**2023-04-28**|**faulTPM: Exposing AMD fTPMs' Deepest Secrets**|Hans Niklas Jacob et.al.|[2304.14717](http://arxiv.org/abs/2304.14717)|null|
+|**2023-04-28**|**An Efficient Hash-based Data Structure for Dynamic Vision Sensors and its Application to Low-energy Low-memory Noise Filtering**|Pradeep Kumar Gopalakrishnan et.al.|[2304.14688](http://arxiv.org/abs/2304.14688)|null|
+|**2023-04-27**|**Quantum Computing Applications for Flight Trajectory Optimization**|Henry Makhanov et.al.|[2304.14445](http://arxiv.org/abs/2304.14445)|null|
+|**2023-04-27**|**Classical Chaos in Quantum Computers**|Simon-Dominik Börner et.al.|[2304.14435](http://arxiv.org/abs/2304.14435)|null|
 |**2023-04-27**|**SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos**|John Z. Zhang et.al.|[2304.14389](http://arxiv.org/abs/2304.14389)|null|
 |**2023-04-27**|**Neutral Atom Quantum Computing Hardware: Performance and End-User Perspective**|Karen Wintersperger et.al.|[2304.14360](http://arxiv.org/abs/2304.14360)|null|
 |**2023-04-27**|**SiC/YAG composite coatings by a novel liquid fuelled high velocity oxy-fuel suspension thermal spray**|F. Venturi et.al.|[2304.14303](http://arxiv.org/abs/2304.14303)|null|
@@ -268,6 +291,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
+|**2023-04-28**|**Quantum Fisher Information and its dynamical nature**|Matteo Scandi et.al.|[2304.14984](http://arxiv.org/abs/2304.14984)|null|
+|**2023-04-28**|**Semi-supervised Road Updating Network (SRUNet): A Deep Learning Method for Road Updating from Remote Sensing Imagery and Historical Vector Maps**|Xin Chen et.al.|[2304.14972](http://arxiv.org/abs/2304.14972)|null|
+|**2023-04-28**|**Popularity Ratio Maximization: Surpassing Competitors through Influence Propagation**|Hao Liao et.al.|[2304.14971](http://arxiv.org/abs/2304.14971)|null|
+|**2023-04-28**|**A New Quantum Dempster Rule of Combination**|Huaping He et.al.|[2304.14966](http://arxiv.org/abs/2304.14966)|null|
+|**2023-04-28**|**The Exponential Capacity of Dense Associative Memories**|Carlo Lucibello et.al.|[2304.14964](http://arxiv.org/abs/2304.14964)|null|
+|**2023-04-28**|**A Systematization of Cybersecurity Regulations, Standards and Guidelines for the Healthcare Sector**|Maria Patrizia Carello et.al.|[2304.14955](http://arxiv.org/abs/2304.14955)|null|
+|**2023-04-28**|**QR-SACP: Quantitative Risk-based Situational Awareness Calculation and Projection through Threat Information Sharing**|Mahdieh Safarzadehvahed et.al.|[2304.14952](http://arxiv.org/abs/2304.14952)|null|
+|**2023-04-28**|**Energy Cost of Localization of Relational Quantum Information**|Adam Dukehart et.al.|[2304.14943](http://arxiv.org/abs/2304.14943)|null|
+|**2023-04-28**|**Information Redundancy and Biases in Public Document Information Extraction Benchmarks**|Seif Laatiri et.al.|[2304.14936](http://arxiv.org/abs/2304.14936)|**[link](https://github.com/seif-lat/bias-study-funsd-sroie)**|
 |**2023-04-27**|**Maximizing Model Generalization for Manufacturing with Self-Supervised Learning and Federated Learning**|Matthew Russell et.al.|[2304.14398](http://arxiv.org/abs/2304.14398)|null|
 |**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397](http://arxiv.org/abs/2304.14397)|null|
 |**2023-04-27**|**Quantum signal processing with continuous variables**|Zane M. Rossi et.al.|[2304.14383](http://arxiv.org/abs/2304.14383)|null|
@@ -345,6 +378,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Are Emergent Abilities of Large Language Models a Mirage?**|Rylan Schaeffer et.al.|[2304.15004](http://arxiv.org/abs/2304.15004)|null|
+|**2023-04-28**|**Towards Automated Circuit Discovery for Mechanistic Interpretability**|Arthur Conmy et.al.|[2304.14997](http://arxiv.org/abs/2304.14997)|null|
+|**2023-04-28**|**A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks**|Marc Finzi et.al.|[2304.14994](http://arxiv.org/abs/2304.14994)|**[link](https://github.com/mfinzi/neural-ivp)**|
+|**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
+|**2023-04-28**|**Hierarchical and Decentralised Federated Learning**|Omer Rana et.al.|[2304.14982](http://arxiv.org/abs/2304.14982)|null|
+|**2023-04-28**|**Evolutionary Multi-Objective Aerodynamic Design Optimization Using CFD Simulation Incorporating Deep Neural Network**|Yukito Tsunoda et.al.|[2304.14973](http://arxiv.org/abs/2304.14973)|null|
+|**2023-04-28**|**Semi-supervised Road Updating Network (SRUNet): A Deep Learning Method for Road Updating from Remote Sensing Imagery and Historical Vector Maps**|Xin Chen et.al.|[2304.14972](http://arxiv.org/abs/2304.14972)|null|
+|**2023-04-28**|**Popularity Ratio Maximization: Surpassing Competitors through Influence Propagation**|Hao Liao et.al.|[2304.14971](http://arxiv.org/abs/2304.14971)|null|
+|**2023-04-28**|**Controllable Topological Insulator Phases in Litharge-phase InBi Monolayer**|Zhenyao Fang et.al.|[2304.14965](http://arxiv.org/abs/2304.14965)|null|
+|**2023-04-28**|**The Exponential Capacity of Dense Associative Memories**|Carlo Lucibello et.al.|[2304.14964](http://arxiv.org/abs/2304.14964)|null|
 |**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397](http://arxiv.org/abs/2304.14397)|null|
 |**2023-04-27**|**Learning Articulated Shape with Keypoint Pseudo-labels from Web Images**|Anastasis Stathopoulos et.al.|[2304.14396](http://arxiv.org/abs/2304.14396)|null|
 |**2023-04-27**|**SeqTrack: Sequence to Sequence Learning for Visual Object Tracking**|Xin Chen et.al.|[2304.14394](http://arxiv.org/abs/2304.14394)|**[link](https://github.com/microsoft/videox)**|
@@ -422,6 +465,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**|Peng Gao et.al.|[2304.15010](http://arxiv.org/abs/2304.15010)|**[link](https://github.com/zrrskywalker/llama-adapter)**|
+|**2023-04-28**|**Formulation and analysis of a Schur complement method for fluid-structure interaction**|Amy de Castro et.al.|[2304.15005](http://arxiv.org/abs/2304.15005)|null|
+|**2023-04-28**|**Auger spectroscopy beyond the ultra-short core-hole relaxation time approximation**|Alberto Nocera et.al.|[2304.15001](http://arxiv.org/abs/2304.15001)|null|
+|**2023-04-28**|**Topology of critical points in boundary matrix duals**|Pavan Kumar Yerra et.al.|[2304.14988](http://arxiv.org/abs/2304.14988)|null|
+|**2023-04-28**|**Hierarchical and Decentralised Federated Learning**|Omer Rana et.al.|[2304.14982](http://arxiv.org/abs/2304.14982)|null|
+|**2023-04-28**|**Tutorial: Implementando Controladores Preditivos Não Lineares através do Ferramental LPV**|Marcelo Menezes Morato et.al.|[2304.14981](http://arxiv.org/abs/2304.14981)|null|
+|**2023-04-28**|**Interplay of electron-magnon scattering and spin-orbit induced electronic spin-flip fcattering in a two-band Stoner model**|Félix Dusabirane et.al.|[2304.14978](http://arxiv.org/abs/2304.14978)|null|
+|**2023-04-28**|**Concept-centric Software Development**|Peter Wilczynski et.al.|[2304.14975](http://arxiv.org/abs/2304.14975)|null|
+|**2023-04-28**|**Vectorial characterization of Bloch surface wave via one-dimensional photonic-atomic structure**|M. Asadolah Salmanpour et.al.|[2304.14974](http://arxiv.org/abs/2304.14974)|null|
+|**2023-04-28**|**(130) Elektra Delta -- on the stability of the new third moonlet**|Giulia Valvano et.al.|[2304.14967](http://arxiv.org/abs/2304.14967)|null|
 |**2023-04-27**|**ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**|Junke Wang et.al.|[2304.14407](http://arxiv.org/abs/2304.14407)|null|
 |**2023-04-27**|**ViMQ: A Vietnamese Medical Question Dataset for Healthcare Dialogue System Development**|Ta Duc Huy et.al.|[2304.14405](http://arxiv.org/abs/2304.14405)|**[link](https://github.com/tadeephuy/vimq)**|
 |**2023-04-27**|**Private Information Retrieval and Its Applications: An Introduction, Open Problems, Future Directions**|Sajani Vithana et.al.|[2304.14397](http://arxiv.org/abs/2304.14397)|null|
