@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -67,7 +67,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-27**|**Coherent and non-unitary errors in ZZ-generated gates**|T. Mueller et.al.|[2304.14212](http://arxiv.org/abs/2304.14212)|null|
 |**2023-04-26**|**Large-scale clustering of buried X-ray AGN: Trends in AGN obscuration and redshift evolution**|Akke Viitanen et.al.|[2304.13745](http://arxiv.org/abs/2304.13745)|null|
-|**2023-04-26**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458](http://arxiv.org/abs/2304.13458)|null|
+|**2023-04-28**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458](http://arxiv.org/abs/2304.13458)|null|
 |**2023-04-25**|**Flexible constraint compilation in the parity architecture**|Roeland ter Hoeven et.al.|[2304.12879](http://arxiv.org/abs/2304.12879)|null|
 |**2023-04-24**|**Design optimization for high-performance computing using FPGA**|Murat Isik et.al.|[2304.12474](http://arxiv.org/abs/2304.12474)|null|
 |**2023-04-24**|**HDCC: A Hyperdimensional Computing compiler for classification on embedded systems and high-performance computing**|Pere Vergés et.al.|[2304.12398](http://arxiv.org/abs/2304.12398)|null|
@@ -177,7 +177,7 @@ layout: default
 |**2023-04-27**|**SiC/YAG composite coatings by a novel liquid fuelled high velocity oxy-fuel suspension thermal spray**|F. Venturi et.al.|[2304.14303](http://arxiv.org/abs/2304.14303)|null|
 |**2023-04-27**|**In-memory photonic dot-product engine with electrically programmable weight banks**|Wen Zhou et.al.|[2304.14302](http://arxiv.org/abs/2304.14302)|null|
 |**2023-04-27**|**Deep Imitation Learning for Automated Drop-In Gamma Probe Manipulation**|Kaizhong Deng et.al.|[2304.14294](http://arxiv.org/abs/2304.14294)|null|
-|**2023-04-27**|**Design of Reconfigurable Intelligent Surfaces for Wireless Communication: A Review**|Rujing Xiong et.al.|[2304.14232](http://arxiv.org/abs/2304.14232)|null|
+|**2023-04-28**|**Design of Reconfigurable Intelligent Surfaces for Wireless Communication: A Review**|Rujing Xiong et.al.|[2304.14232](http://arxiv.org/abs/2304.14232)|null|
 |**2023-04-27**|**Timing Analysis of Embedded Software Updates**|Ahmed El Yaacoub et.al.|[2304.14213](http://arxiv.org/abs/2304.14213)|null|
 |**2023-04-27**|**Simultaneously Transmitting And Reflecting (STAR) RIS for 6G: Fundamentals, Recent Advances, and Future Directions**|Yuanwei Liu et.al.|[2304.14180](http://arxiv.org/abs/2304.14180)|null|
 |**2023-04-27**|**Scalable quantum circuits for $n$ -qubit unitary matrices**|Rohit Sarma Sarkar et.al.|[2304.14096](http://arxiv.org/abs/2304.14096)|null|
@@ -475,7 +475,7 @@ layout: default
 |**2023-04-13**|**Fast And Automatic Floating Point Error Analysis With CHEF-FP**|Garima Singh et.al.|[2304.06441](http://arxiv.org/abs/2304.06441)|null|
 |**2023-04-10**|**Mixed-Precision Random Projection for RandNLA on Tensor Cores**|Hiroyuki Ootomo et.al.|[2304.04612](http://arxiv.org/abs/2304.04612)|**[link](https://github.com/enp1s0/shgemm)**|
 |**2023-04-07**|**AutoQNN: An End-to-End Framework for Automatically Quantizing Neural Networks**|Cheng Gong et.al.|[2304.03782](http://arxiv.org/abs/2304.03782)|null|
-|**2023-04-02**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
+|**2023-04-28**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
 |**2023-03-31**|**DARKSIDE: A Heterogeneous RISC-V Compute Cluster for Extreme-Edge On-Chip DNN Inference and Training**|Angelo Garofalo et.al.|[2303.17954](http://arxiv.org/abs/2303.17954)|null|
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|

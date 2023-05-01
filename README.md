@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -54,7 +54,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -77,7 +77,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Compiler
 
@@ -85,7 +85,7 @@
 |---|---|---|---|---|
 |**2023-04-27**|**Coherent and non-unitary errors in ZZ-generated gates**|T. Mueller et.al.|[2304.14212](http://arxiv.org/abs/2304.14212)|null|
 |**2023-04-26**|**Large-scale clustering of buried X-ray AGN: Trends in AGN obscuration and redshift evolution**|Akke Viitanen et.al.|[2304.13745](http://arxiv.org/abs/2304.13745)|null|
-|**2023-04-26**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458](http://arxiv.org/abs/2304.13458)|null|
+|**2023-04-28**|**Thwarting Code-Reuse and Side-Channel Attacks in Embedded Systems**|Rodothea Myrsini Tsoupidi et.al.|[2304.13458](http://arxiv.org/abs/2304.13458)|null|
 |**2023-04-25**|**Flexible constraint compilation in the parity architecture**|Roeland ter Hoeven et.al.|[2304.12879](http://arxiv.org/abs/2304.12879)|null|
 |**2023-04-24**|**Design optimization for high-performance computing using FPGA**|Murat Isik et.al.|[2304.12474](http://arxiv.org/abs/2304.12474)|null|
 |**2023-04-24**|**HDCC: A Hyperdimensional Computing compiler for classification on embedded systems and high-performance computing**|Pere Vergés et.al.|[2304.12398](http://arxiv.org/abs/2304.12398)|null|
@@ -111,7 +111,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -188,7 +188,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -199,7 +199,7 @@
 |**2023-04-27**|**SiC/YAG composite coatings by a novel liquid fuelled high velocity oxy-fuel suspension thermal spray**|F. Venturi et.al.|[2304.14303](http://arxiv.org/abs/2304.14303)|null|
 |**2023-04-27**|**In-memory photonic dot-product engine with electrically programmable weight banks**|Wen Zhou et.al.|[2304.14302](http://arxiv.org/abs/2304.14302)|null|
 |**2023-04-27**|**Deep Imitation Learning for Automated Drop-In Gamma Probe Manipulation**|Kaizhong Deng et.al.|[2304.14294](http://arxiv.org/abs/2304.14294)|null|
-|**2023-04-27**|**Design of Reconfigurable Intelligent Surfaces for Wireless Communication: A Review**|Rujing Xiong et.al.|[2304.14232](http://arxiv.org/abs/2304.14232)|null|
+|**2023-04-28**|**Design of Reconfigurable Intelligent Surfaces for Wireless Communication: A Review**|Rujing Xiong et.al.|[2304.14232](http://arxiv.org/abs/2304.14232)|null|
 |**2023-04-27**|**Timing Analysis of Embedded Software Updates**|Ahmed El Yaacoub et.al.|[2304.14213](http://arxiv.org/abs/2304.14213)|null|
 |**2023-04-27**|**Simultaneously Transmitting And Reflecting (STAR) RIS for 6G: Fundamentals, Recent Advances, and Future Directions**|Yuanwei Liu et.al.|[2304.14180](http://arxiv.org/abs/2304.14180)|null|
 |**2023-04-27**|**Scalable quantum circuits for $n$ -qubit unitary matrices**|Rohit Sarma Sarkar et.al.|[2304.14096](http://arxiv.org/abs/2304.14096)|null|
@@ -262,7 +262,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -339,7 +339,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -416,7 +416,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -493,7 +493,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -505,12 +505,12 @@
 |**2023-04-13**|**Fast And Automatic Floating Point Error Analysis With CHEF-FP**|Garima Singh et.al.|[2304.06441](http://arxiv.org/abs/2304.06441)|null|
 |**2023-04-10**|**Mixed-Precision Random Projection for RandNLA on Tensor Cores**|Hiroyuki Ootomo et.al.|[2304.04612](http://arxiv.org/abs/2304.04612)|**[link](https://github.com/enp1s0/shgemm)**|
 |**2023-04-07**|**AutoQNN: An End-to-End Framework for Automatically Quantizing Neural Networks**|Cheng Gong et.al.|[2304.03782](http://arxiv.org/abs/2304.03782)|null|
-|**2023-04-02**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
+|**2023-04-28**|**A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**|Bo-Kyeong Kim et.al.|[2304.00471](http://arxiv.org/abs/2304.00471)|null|
 |**2023-03-31**|**DARKSIDE: A Heterogeneous RISC-V Compute Cluster for Extreme-Edge On-Chip DNN Inference and Training**|Angelo Garofalo et.al.|[2303.17954](http://arxiv.org/abs/2303.17954)|null|
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20230430>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
