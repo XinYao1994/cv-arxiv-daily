@@ -60,6 +60,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Distributed System Fuzzing**|Ruijie Meng et.al.|[2305.02601](http://arxiv.org/abs/2305.02601)|null|
+|**2023-05-04**|**A Soft Coordination Method of Heterogeneous Devices in Distribution System Voltage Control**|Licheng Wang et.al.|[2305.02596](http://arxiv.org/abs/2305.02596)|null|
+|**2023-05-04**|**ZLB, a Blockchain Tolerating Colluding Majorities**|Alejandro Ranchal-Pedrosa et.al.|[2305.02498](http://arxiv.org/abs/2305.02498)|null|
 |**2023-05-03**|**LESS-VFL: Communication-Efficient Feature Selection for Vertical Federated Learning**|Timothy Castiglia et.al.|[2305.02219](http://arxiv.org/abs/2305.02219)|null|
 |**2023-05-03**|**Optical identification using physical unclonable functions**|Pantea Nadimi Goki et.al.|[2305.02141](http://arxiv.org/abs/2305.02141)|null|
 |**2023-05-02**|**Measuring the Gain of Reconfigurable Communication**|Mathieu Lehaut et.al.|[2305.01425](http://arxiv.org/abs/2305.01425)|null|
@@ -91,6 +94,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Notes on Refactoring Exponential Macros in Common Lisp**|Michael Wessel et.al.|[2305.02991](http://arxiv.org/abs/2305.02991)|null|
+|**2023-05-04**|**A Modular Quantum Compilation Framework for Distributed Quantum Computing**|Davide Ferrari et.al.|[2305.02969](http://arxiv.org/abs/2305.02969)|null|
+|**2023-05-04**|**Tackling the Qubit Mapping Problem with Permutation-Aware Synthesis**|Ji Liu et.al.|[2305.02939](http://arxiv.org/abs/2305.02939)|null|
+|**2023-05-04**|**SlipCover: Near Zero-Overhead Code Coverage for Python**|Juan Altmayer Pizzorno et.al.|[2305.02886](http://arxiv.org/abs/2305.02886)|null|
+|**2023-05-04**|**One matter density discrepancy to alleviate them all or further trouble for $Λ$ CDM model**|Ziad Sakr et.al.|[2305.02846](http://arxiv.org/abs/2305.02846)|null|
+|**2023-05-04**|**Comparison of Burst Properties between FRB 20190520B and FRB 20121102A**|Fen Lyu et.al.|[2305.02595](http://arxiv.org/abs/2305.02595)|null|
+|**2023-05-04**|**Towards a Scalable Proof Engine: A Performant Prototype Rewriting Primitive for Coq**|Jason Gross et.al.|[2305.02521](http://arxiv.org/abs/2305.02521)|null|
+|**2023-05-04**|**A Primer on Security of Quantum Computing**|Swaroop Ghosh et.al.|[2305.02505](http://arxiv.org/abs/2305.02505)|null|
+|**2023-05-03**|**Scrutinizing the Light Scalar Quarkonia from LSR at Higher Orders**|R. Albuquerque et.al.|[2305.02421](http://arxiv.org/abs/2305.02421)|null|
+|**2023-05-03**|**Simulating $\mathbb{Z}_2$ lattice gauge theory on a quantum computer**|Clement Charles et.al.|[2305.02361](http://arxiv.org/abs/2305.02361)|null|
 |**2023-05-03**|**Standardized Benchmark Dataset for Localized Exposure to a Realistic Source at 10 $-$ 90 GHz**|Ante Kapetanovic et.al.|[2305.02260](http://arxiv.org/abs/2305.02260)|null|
 |**2023-05-03**|**Algorithmic Theory of Qubit Routing**|Takehiro Ito et.al.|[2305.02059](http://arxiv.org/abs/2305.02059)|null|
 |**2023-05-03**|**Validation, Verification, and Testing (VVT) of future RISC-V powered cloud infrastructures: the Vitamin-V Horizon Europe Project perspective**|Marti Alonso et.al.|[2305.01983](http://arxiv.org/abs/2305.01983)|null|
@@ -144,6 +157,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Electronic Excited States from a Variance-Based Contracted Quantum Eigensolver**|Yuchen Wang et.al.|[2305.03044](http://arxiv.org/abs/2305.03044)|null|
+|**2023-05-04**|**The complexity of Presburger arithmetic with power or powers**|Michael Benedikt et.al.|[2305.03037](http://arxiv.org/abs/2305.03037)|null|
+|**2023-05-04**|**Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization**|Bastian Zapf et.al.|[2305.03020](http://arxiv.org/abs/2305.03020)|null|
+|**2023-05-04**|**Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study**|Sajjad Rahmani et.al.|[2305.03017](http://arxiv.org/abs/2305.03017)|null|
+|**2023-05-04**|**OSDaR23: Open Sensor Data for Rail 2023**|Rustam Tagiew et.al.|[2305.03001](http://arxiv.org/abs/2305.03001)|null|
+|**2023-05-04**|**Ranking and unranking bordered and unbordered words**|Daniel Gabric et.al.|[2305.03000](http://arxiv.org/abs/2305.03000)|null|
+|**2023-05-04**|**Prospects for $B_c^+$ and $B^+\to τ^+ ν_τ$ at FCC-ee**|Marco Fedele et.al.|[2305.02998](http://arxiv.org/abs/2305.02998)|null|
+|**2023-05-04**|**When Do Neural Nets Outperform Boosted Trees on Tabular Data?**|Duncan McElfresh et.al.|[2305.02997](http://arxiv.org/abs/2305.02997)|**[link](https://github.com/naszilla/naszilla)**|
+|**2023-05-04**|**Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing**|Elfarouk Harb et.al.|[2305.02987](http://arxiv.org/abs/2305.02987)|null|
+|**2023-05-04**|**Distribution of Chores with Information Asymmetry**|Hadi Hosseini et.al.|[2305.02986](http://arxiv.org/abs/2305.02986)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|
 |**2023-05-03**|**CodeGen2: Lessons for Training LLMs on Programming and Natural Languages**|Erik Nijkamp et.al.|[2305.02309](http://arxiv.org/abs/2305.02309)|**[link](https://github.com/salesforce/codegen2)**|
 |**2023-05-03**|**New Equivalences Between Interpolation and SVMs: Kernels and Structured Features**|Chiraag Kaushik et.al.|[2305.02304](http://arxiv.org/abs/2305.02304)|null|
@@ -261,6 +284,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**The Polynomial Connection between Morphological Dilation and Discrete Convolution**|Vivek Sridhar et.al.|[2305.03018](http://arxiv.org/abs/2305.03018)|null|
+|**2023-05-04**|**Calibration of Syndrome Measurements in a Single Experiment**|Christian Wimmer et.al.|[2305.03004](http://arxiv.org/abs/2305.03004)|null|
+|**2023-05-04**|**Tackling the Qubit Mapping Problem with Permutation-Aware Synthesis**|Ji Liu et.al.|[2305.02939](http://arxiv.org/abs/2305.02939)|null|
+|**2023-05-04**|**Using Received Power in Microphone Arrays to Estimate Direction of Arrival**|Gustav Zetterqvist et.al.|[2305.02915](http://arxiv.org/abs/2305.02915)|null|
+|**2023-05-04**|**Trainability barriers and opportunities in quantum generative modeling**|Manuel S. Rudolph et.al.|[2305.02881](http://arxiv.org/abs/2305.02881)|null|
+|**2023-05-04**|**Faulting original McEliece's implementations is possible: How to mitigate this risk?**|Vincent Giraud et.al.|[2305.02855](http://arxiv.org/abs/2305.02855)|null|
+|**2023-05-04**|**Variational Quantum Algorithms for Simulation of Lindblad Dynamics**|Tasneem Watad et.al.|[2305.02815](http://arxiv.org/abs/2305.02815)|null|
+|**2023-05-04**|**Boosted Ensembles of Qubit and Continuous Variable Quantum Support Vector Machines for B Meson Flavour Tagging**|Maxwell T. West et.al.|[2305.02729](http://arxiv.org/abs/2305.02729)|null|
+|**2023-05-04**|**Real-Time Neural Appearance Models**|Tizian Zeltner et.al.|[2305.02678](http://arxiv.org/abs/2305.02678)|null|
+|**2023-05-04**|**Pattern QUBOs: Algorithmic construction of 3SAT-to-QUBO transformations**|Sebastian Zielinski et.al.|[2305.02659](http://arxiv.org/abs/2305.02659)|null|
 |**2023-05-03**|**Real-Time Radiance Fields for Single-Image Portrait View Synthesis**|Alex Trevithick et.al.|[2305.02310](http://arxiv.org/abs/2305.02310)|null|
 |**2023-05-03**|**Dynamic Sparse Training with Structured Sparsity**|Mike Lasby et.al.|[2305.02299](http://arxiv.org/abs/2305.02299)|**[link](https://github.com/calgaryml/condensed-sparsity)**|
 |**2023-05-03**|**The offline digital currency puzzle solved by a local blockchain**|Henrique de Carvalho Videira et.al.|[2305.02290](http://arxiv.org/abs/2305.02290)|null|
@@ -373,6 +406,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Decentralized and Compositional Interconnection Topology Synthesis for Linear Networked Systems**|Shirantha Welikala et.al.|[2305.03030](http://arxiv.org/abs/2305.03030)|null|
+|**2023-05-04**|**Information Needs and Technology Use for Daily Living Activities at Home by People Who Are Blind**|Lily M. Turkstra et.al.|[2305.03019](http://arxiv.org/abs/2305.03019)|null|
+|**2023-05-04**|**Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study**|Sajjad Rahmani et.al.|[2305.03017](http://arxiv.org/abs/2305.03017)|null|
+|**2023-05-04**|**Rose Patterns in the Nonperturbative Current Response of Two-Dimensional Superlattices**|Christophe De Beule et.al.|[2305.03013](http://arxiv.org/abs/2305.03013)|null|
+|**2023-05-04**|**Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence**|Haoran Li et.al.|[2305.03010](http://arxiv.org/abs/2305.03010)|**[link](https://github.com/hkust-knowcomp/geia)**|
+|**2023-05-04**|**Calibration of Syndrome Measurements in a Single Experiment**|Christian Wimmer et.al.|[2305.03004](http://arxiv.org/abs/2305.03004)|null|
+|**2023-05-04**|**Entanglement is indispensable for masking arbitrary set of quantum states**|Debarupa Saha et.al.|[2305.02999](http://arxiv.org/abs/2305.02999)|null|
+|**2023-05-04**|**Adaptive Selection of Anchor Items for CUR-based k-NN search with Cross-Encoders**|Nishant Yadav et.al.|[2305.02996](http://arxiv.org/abs/2305.02996)|null|
+|**2023-05-04**|**On the nonlinear correlation of ML performance between data subpopulations**|Weixin Liang et.al.|[2305.02995](http://arxiv.org/abs/2305.02995)|null|
+|**2023-05-04**|**Lemonade from Lemons: Information Design and Adverse Selection**|Navin Kartik et.al.|[2305.02994](http://arxiv.org/abs/2305.02994)|null|
 |**2023-05-03**|**Generating Synthetic Documents for Cross-Encoder Re-Rankers: A Comparative Study of ChatGPT and Human Experts**|Arian Askari et.al.|[2305.02320](http://arxiv.org/abs/2305.02320)|**[link](https://github.com/arian-askari/chatgpt-retrievalqa)**|
 |**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318](http://arxiv.org/abs/2305.02318)|null|
 |**2023-05-03**|**Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings**|Daniel Rose et.al.|[2305.02317](http://arxiv.org/abs/2305.02317)|null|
@@ -490,6 +533,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Learning Hand-Held Object Reconstruction from In-The-Wild Videos**|Aditya Prakash et.al.|[2305.03036](http://arxiv.org/abs/2305.03036)|null|
+|**2023-05-04**|**Decentralized and Compositional Interconnection Topology Synthesis for Linear Networked Systems**|Shirantha Welikala et.al.|[2305.03030](http://arxiv.org/abs/2305.03030)|null|
+|**2023-05-04**|**Evaluating Post-hoc Interpretability with Intrinsic Interpretability**|José Pereira Amorim et.al.|[2305.03002](http://arxiv.org/abs/2305.03002)|null|
+|**2023-05-04**|**Adversarially-Guided Portrait Matting**|Sergej Chicherin et.al.|[2305.02981](http://arxiv.org/abs/2305.02981)|**[link](https://github.com/chroneus/stylematte)**|
+|**2023-05-04**|**A Modular Quantum Compilation Framework for Distributed Quantum Computing**|Davide Ferrari et.al.|[2305.02969](http://arxiv.org/abs/2305.02969)|null|
+|**2023-05-04**|**Masked Trajectory Models for Prediction, Representation, and Control**|Philipp Wu et.al.|[2305.02968](http://arxiv.org/abs/2305.02968)|**[link](https://github.com/facebookresearch/mtm)**|
+|**2023-05-04**|**An Efficient Relay Selection Scheme for Relay-assisted HARQ**|Weihang Ding et.al.|[2305.02962](http://arxiv.org/abs/2305.02962)|null|
+|**2023-05-04**|**FUSegNet: A Deep Convolutional Neural Network for Foot Ulcer Segmentation**|Mrinal Kanti Dhar et.al.|[2305.02961](http://arxiv.org/abs/2305.02961)|**[link](https://github.com/mrinal054/fusegnet)**|
+|**2023-05-04**|**Hybrid quantum learning with data re-uploading on a small-scale superconducting quantum simulator**|Aleksei Tolstobrov et.al.|[2305.02956](http://arxiv.org/abs/2305.02956)|null|
+|**2023-05-04**|**Quantifying the magnetic interactions governing chiral spin textures using deep neural networks**|Jian Feng Kong et.al.|[2305.02954](http://arxiv.org/abs/2305.02954)|null|
 |**2023-05-03**|**Testing charge quantization with axion string-induced cosmic birefringence**|Weichen Winston Yin et.al.|[2305.02318](http://arxiv.org/abs/2305.02318)|null|
 |**2023-05-03**|**Dynamic Sparse Training with Structured Sparsity**|Mike Lasby et.al.|[2305.02299](http://arxiv.org/abs/2305.02299)|**[link](https://github.com/calgaryml/condensed-sparsity)**|
 |**2023-05-03**|**DynamicStereo: Consistent Dynamic Depth from Stereo Videos**|Nikita Karaev et.al.|[2305.02296](http://arxiv.org/abs/2305.02296)|null|
@@ -607,6 +660,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Tracking through Containers and Occluders in the Wild**|Basile Van Hoorick et.al.|[2305.03052](http://arxiv.org/abs/2305.03052)|null|
+|**2023-05-04**|**Multi-Image X-ray Interferometer Module: I. design concept and proof-of-concept experiments with fine-pitch slits**|Kazunori Asakura et.al.|[2305.03050](http://arxiv.org/abs/2305.03050)|null|
+|**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047](http://arxiv.org/abs/2305.03047)|null|
+|**2023-05-04**|**SuperNOVA: Design Strategies and Opportunities for Interactive Visualization in Computational Notebooks**|Zijie J. Wang et.al.|[2305.03039](http://arxiv.org/abs/2305.03039)|**[link](https://github.com/poloclub/supernova)**|
+|**2023-05-04**|**Decentralized and Compositional Interconnection Topology Synthesis for Linear Networked Systems**|Shirantha Welikala et.al.|[2305.03030](http://arxiv.org/abs/2305.03030)|null|
+|**2023-05-04**|**Critical behavior of AdS black holes surrounded by dark fluid with Chaplygin-like equation of state**|Xiang-Qian Li et.al.|[2305.03028](http://arxiv.org/abs/2305.03028)|null|
+|**2023-05-04**|**A Lattice Chiral Boson Theory in $1+1$ d**|Michael DeMarco et.al.|[2305.03024](http://arxiv.org/abs/2305.03024)|null|
+|**2023-05-04**|**On transversal Hölder regularity for flat Wieler solenoids**|Rodrigo Treviño et.al.|[2305.03021](http://arxiv.org/abs/2305.03021)|null|
+|**2023-05-04**|**Medical Image Registration using optimal control of a linear hyperbolic transport equation with a DG discretization**|Bastian Zapf et.al.|[2305.03020](http://arxiv.org/abs/2305.03020)|null|
+|**2023-05-04**|**Algebraic Structures Behind the Yang-Baxterization Process**|Cansu Özdemir et.al.|[2305.03011](http://arxiv.org/abs/2305.03011)|null|
 |**2023-05-03**|**Characterizing Political Bias in Automatic Summaries: A Case Study of Trump and Biden**|Karen Zhou et.al.|[2305.02321](http://arxiv.org/abs/2305.02321)|null|
 |**2023-05-03**|**Localization Driven Quantum Sensing**|Ayan Sahoo et.al.|[2305.02315](http://arxiv.org/abs/2305.02315)|null|
 |**2023-05-03**|**Calibrated Explanations: with Uncertainty Information and Counterfactuals**|Helena Lofstrom et.al.|[2305.02305](http://arxiv.org/abs/2305.02305)|null|
