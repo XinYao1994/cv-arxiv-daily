@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
 |**2023-04-17**|**DeepSim-Nets: Deep Similarity Networks for Stereo Image Matching**|Mohamed Ali Chebbi et.al.|[2304.08056](http://arxiv.org/abs/2304.08056)|**[link](https://github.com/dalichebbi/deepsimnets)**|
 |**2023-04-16**|**Long-term Visual Localization with Mobile Sensors**|Shen Yan et.al.|[2304.07691](http://arxiv.org/abs/2304.07691)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194](http://arxiv.org/abs/2304.06194)|**[link](https://github.com/facebookresearch/silk)**|
@@ -96,11 +97,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**ArgU: A Controllable Factual Argument Generator**|Sougata Saha et.al.|[2305.05334](http://arxiv.org/abs/2305.05334)|null|
+|**2023-05-09**|**Compilation for Quantum Computing on Chiplets**|Hezi Zhang et.al.|[2305.05149](http://arxiv.org/abs/2305.05149)|null|
+|**2023-05-08**|**A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution**|Neeraj Varshney et.al.|[2305.05079](http://arxiv.org/abs/2305.05079)|null|
+|**2023-05-08**|**Reducing the Compilation Time of Quantum Circuits Using Pre-Compilation on the Gate Level**|Nils Quetschlich et.al.|[2305.04941](http://arxiv.org/abs/2305.04941)|**[link](https://github.com/cda-tum/mqtproblemsolver)**|
 |**2023-05-08**|**ChatUniTest: a ChatGPT-based automated unit test generation tool**|Zhuokui Xie et.al.|[2305.04764](http://arxiv.org/abs/2305.04764)|null|
 |**2023-05-08**|**Operational Markovianization in Randomized Benchmarking**|Pedro Figueroa-Romero et.al.|[2305.04704](http://arxiv.org/abs/2305.04704)|null|
 |**2023-05-08**|**Idris TyRE: a dependently typed regex parser**|Ohad Kammar et.al.|[2305.04480](http://arxiv.org/abs/2305.04480)|null|
 |**2023-05-07**|**KURVS: The outer rotation curve shapes and dark matter fractions of $z \sim 1.5$ star-forming galaxies**|Annagrazia Puglisi et.al.|[2305.04382](http://arxiv.org/abs/2305.04382)|null|
-|**2023-05-07**|**Unrolled Architectures for High-Throughput Encoding of Multi-Kernel Polar Codes**|Hossein Rezaei et.al.|[2305.04257](http://arxiv.org/abs/2305.04257)|null|
+|**2023-05-07**|**Unrolled Architectures for High-Throughput Encoding of Multi-Kernel Polar Codes**|Hossein Rezaei et.al.|[2305.04257](http://arxiv.org/abs/2305.04257)|**[link](https://github.com/hosseinrezaeii91/polar-encoder-compiler)**|
 |**2023-05-09**|**No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation**|Zhiqiang Yuan et.al.|[2305.04207](http://arxiv.org/abs/2305.04207)|null|
 |**2023-05-06**|**On the usefulness of linear types for correct nonce use enforcement during compile time**|Richard Ostertág et.al.|[2305.04138](http://arxiv.org/abs/2305.04138)|null|
 |**2023-05-06**|**Revisiting Lightweight Compiler Provenance Recovery on ARM Binaries**|Jason Kim et.al.|[2305.03934](http://arxiv.org/abs/2305.03934)|**[link](https://github.com/lcp-authors/lightweight-compiler-provenance)**|
@@ -171,6 +176,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666](http://arxiv.org/abs/2305.05666)|null|
+|**2023-05-09**|**Cover Your Bases: How to Minimize the Sequencing Coverage in DNA Storage Systems**|Daniella Bar-Lev et.al.|[2305.05656](http://arxiv.org/abs/2305.05656)|null|
+|**2023-05-09**|**Deep learning and genetic algorithm framework for tailoring mechanical properties via inverse microstructure optimization**|Xiao Shang et.al.|[2305.05634](http://arxiv.org/abs/2305.05634)|null|
+|**2023-05-09**|**Spectral proper orthogonal decomposition of harmonically forced turbulent flows**|Liam Heidt et.al.|[2305.05628](http://arxiv.org/abs/2305.05628)|null|
+|**2023-05-09**|**Refining Human-Centered Autonomy Using Side Information**|Adam J. Thorpe et.al.|[2305.05607](http://arxiv.org/abs/2305.05607)|null|
+|**2023-05-09**|**Pooling techniques in hybrid quantum-classical convolutional neural networks**|Maureen Monnet et.al.|[2305.05603](http://arxiv.org/abs/2305.05603)|null|
+|**2023-05-09**|**Privacy-Preserving Collaborative Chinese Text Recognition with Federated Learning**|Shangchao Su et.al.|[2305.05602](http://arxiv.org/abs/2305.05602)|null|
+|**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601](http://arxiv.org/abs/2305.05601)|null|
+|**2023-05-09**|**Massively Parallel Tensor Network State Algorithms on Hybrid CPU-GPU Based Architectures**|Andor Menczer et.al.|[2305.05581](http://arxiv.org/abs/2305.05581)|null|
+|**2023-05-09**|**Fashion CUT: Unsupervised domain adaptation for visual pattern classification in clothes using synthetic data and pseudo-labels**|Enric Moreu et.al.|[2305.05580](http://arxiv.org/abs/2305.05580)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926](http://arxiv.org/abs/2305.04926)|null|
 |**2023-05-08**|**Tight Bounds for Quantum Phase Estimation and Related Problems**|Nikhil S. Mande et.al.|[2305.04908](http://arxiv.org/abs/2305.04908)|null|
 |**2023-05-08**|**Coherently amplified ultrafast imaging in a free-electron interferometer**|Tomer Bucher et.al.|[2305.04877](http://arxiv.org/abs/2305.04877)|null|
@@ -318,6 +333,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Massively Parallel Tensor Network State Algorithms on Hybrid CPU-GPU Based Architectures**|Andor Menczer et.al.|[2305.05581](http://arxiv.org/abs/2305.05581)|null|
+|**2023-05-09**|**Sparse Stream Semantic Registers: A Lightweight ISA Extension Accelerating General Sparse Linear Algebra**|Paul Scheffler et.al.|[2305.05559](http://arxiv.org/abs/2305.05559)|null|
+|**2023-05-09**|**Practical Channel Splicing using OFDM Waveforms for Joint Communication and Sensing in the IoT**|Sigrid Dimce et.al.|[2305.05508](http://arxiv.org/abs/2305.05508)|null|
+|**2023-05-09**|**VEDLIoT -- Next generation accelerated AIoT systems and applications**|Kevin Mika et.al.|[2305.05388](http://arxiv.org/abs/2305.05388)|null|
+|**2023-05-09**|**Enhancing Cyber-Resiliency of DER-based SmartGrid: A Survey**|Mengxiang Liu et.al.|[2305.05338](http://arxiv.org/abs/2305.05338)|null|
+|**2023-05-09**|**Performance Evaluation of Advanced Congestion Control Mechanisms for COAP**|Chandra Sekhar Sanaboina et.al.|[2305.05310](http://arxiv.org/abs/2305.05310)|null|
+|**2023-05-09**|**A High-performance, Energy-efficient Modular DMA Engine Architecture**|Thomas Benz et.al.|[2305.05240](http://arxiv.org/abs/2305.05240)|null|
+|**2023-05-09**|**DeepFire2: A Convolutional Spiking Neural Network Accelerator on FPGAs**|Myat Thu Linn Aung et.al.|[2305.05187](http://arxiv.org/abs/2305.05187)|null|
+|**2023-05-09**|**Quantitative phase retrieval for Zernike phase-contrast microscopy**|Rikimaru Kurata et.al.|[2305.05156](http://arxiv.org/abs/2305.05156)|null|
+|**2023-05-09**|**TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection**|Zhenge Jia et.al.|[2305.05105](http://arxiv.org/abs/2305.05105)|null|
 |**2023-05-08**|**Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform for Domain-Specific Accelerator Plug-In**|Alessandro Ottaviano et.al.|[2305.04760](http://arxiv.org/abs/2305.04760)|null|
 |**2023-05-08**|**BLAFS: A Bloat Aware File System**|Huaifeng Zhang et.al.|[2305.04641](http://arxiv.org/abs/2305.04641)|null|
 |**2023-05-08**|**Can graph neural network-based detection mitigate the impact of hardware imperfections?**|Lamprini Mitsiou et.al.|[2305.04612](http://arxiv.org/abs/2305.04612)|null|
@@ -460,6 +485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Cover Your Bases: How to Minimize the Sequencing Coverage in DNA Storage Systems**|Daniella Bar-Lev et.al.|[2305.05656](http://arxiv.org/abs/2305.05656)|null|
+|**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651](http://arxiv.org/abs/2305.05651)|null|
+|**2023-05-09**|**Asymmetric $X$-Secure $T$ -Private Information Retrieval: More Databases is Not Always Better**|Mohamed Nomeir et.al.|[2305.05649](http://arxiv.org/abs/2305.05649)|null|
+|**2023-05-09**|**A bifurcation integrates information from many noisy ion channels**|Isabella R. Graf et.al.|[2305.05647](http://arxiv.org/abs/2305.05647)|null|
+|**2023-05-09**|**Relativistic locality can imply subsystem locality**|Andrea Di Biagio et.al.|[2305.05645](http://arxiv.org/abs/2305.05645)|null|
+|**2023-05-09**|**A duality framework for generalization analysis of random feature models and two-layer neural networks**|Hongrui Chen et.al.|[2305.05642](http://arxiv.org/abs/2305.05642)|null|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**Research on access, use and effective exploration of astronomical observational and bibliographical data from sonification**|Johanna Casado et.al.|[2305.05635](http://arxiv.org/abs/2305.05635)|null|
+|**2023-05-09**|**Seismological Understanding of Accelerogram Amplitude Scaling for Engineers with Implications to Seismic Risk Analysis**|Somayajulu L. N. Dhulipala et.al.|[2305.05631](http://arxiv.org/abs/2305.05631)|null|
+|**2023-05-09**|**Performance of the low-latency GstLAL inspiral search towards LIGO, Virgo, and KAGRA's fourth observing run**|Becca Ewing et.al.|[2305.05625](http://arxiv.org/abs/2305.05625)|null|
 |**2023-05-08**|**Information Mutation and Spread of Misinformation in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2305.04913](http://arxiv.org/abs/2305.04913)|null|
 |**2023-05-08**|**Coherently amplified ultrafast imaging in a free-electron interferometer**|Tomer Bucher et.al.|[2305.04877](http://arxiv.org/abs/2305.04877)|null|
 |**2023-05-08**|**The Rise of Rationality in Blockchain Dynamics**|Gabriele Di Antonio et.al.|[2305.04874](http://arxiv.org/abs/2305.04874)|null|
@@ -607,6 +642,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives**|R. Kenny Jones et.al.|[2305.05661](http://arxiv.org/abs/2305.05661)|**[link](https://github.com/rkjones4/shapecoder)**|
+|**2023-05-09**|**SwinIA: Self-Supervised Blind-Spot Image Denoising with Zero Convolutions**|Mikhail Papkov et.al.|[2305.05651](http://arxiv.org/abs/2305.05651)|null|
+|**2023-05-09**|**Asymmetric $X$-Secure $T$ -Private Information Retrieval: More Databases is Not Always Better**|Mohamed Nomeir et.al.|[2305.05649](http://arxiv.org/abs/2305.05649)|null|
+|**2023-05-09**|**A duality framework for generalization analysis of random feature models and two-layer neural networks**|Hongrui Chen et.al.|[2305.05642](http://arxiv.org/abs/2305.05642)|null|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**Metric Space Magnitude and Generalisation in Neural Networks**|Rayna Andreeva et.al.|[2305.05611](http://arxiv.org/abs/2305.05611)|null|
+|**2023-05-09**|**Can point cloud networks learn statistical shape models of anatomies?**|Jadie Adams et.al.|[2305.05610](http://arxiv.org/abs/2305.05610)|null|
+|**2023-05-09**|**Pooling techniques in hybrid quantum-classical convolutional neural networks**|Maureen Monnet et.al.|[2305.05603](http://arxiv.org/abs/2305.05603)|null|
+|**2023-05-09**|**Deep Learning and Geometric Deep Learning: an introduction for mathematicians and physicists**|R. Fioresi et.al.|[2305.05601](http://arxiv.org/abs/2305.05601)|null|
+|**2023-05-09**|**Inter-SubNet: Speech Enhancement with Subband Interaction**|Jun Chen et.al.|[2305.05599](http://arxiv.org/abs/2305.05599)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926](http://arxiv.org/abs/2305.04926)|null|
 |**2023-05-08**|**PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**|Jinyu Li et.al.|[2305.04925](http://arxiv.org/abs/2305.04925)|**[link](https://github.com/qcraftai/pillarnext)**|
 |**2023-05-08**|**Learning to Evaluate the Artness of AI-generated Images**|Junyu Chen et.al.|[2305.04923](http://arxiv.org/abs/2305.04923)|null|
@@ -754,6 +799,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**InternChat: Solving Vision-Centric Tasks by Interacting with Chatbots Beyond Language**|Zhaoyang Liu et.al.|[2305.05662](http://arxiv.org/abs/2305.05662)|**[link](https://github.com/opengvlab/internchat)**|
+|**2023-05-09**|**ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives**|R. Kenny Jones et.al.|[2305.05661](http://arxiv.org/abs/2305.05661)|**[link](https://github.com/rkjones4/shapecoder)**|
+|**2023-05-09**|**TidyBot: Personalized Robot Assistance with Large Language Models**|Jimmy Wu et.al.|[2305.05658](http://arxiv.org/abs/2305.05658)|null|
+|**2023-05-09**|**Cover Your Bases: How to Minimize the Sequencing Coverage in DNA Storage Systems**|Daniella Bar-Lev et.al.|[2305.05656](http://arxiv.org/abs/2305.05656)|null|
+|**2023-05-09**|**Monoidal structures on generalized polynomial categories**|Joseph Dorta et.al.|[2305.05655](http://arxiv.org/abs/2305.05655)|null|
+|**2023-05-09**|**Distributed economic predictive control of integrated energy systems for enhanced synergy and grid response: A decomposition and cooperation strategy**|Long Wu et.al.|[2305.05652](http://arxiv.org/abs/2305.05652)|null|
+|**2023-05-09**|**Asymmetric $X$-Secure $T$ -Private Information Retrieval: More Databases is Not Always Better**|Mohamed Nomeir et.al.|[2305.05649](http://arxiv.org/abs/2305.05649)|null|
+|**2023-05-09**|**Predicting Cardiovascular Disease Risk using Photoplethysmography and Deep Learning**|Wei-Hung Weng et.al.|[2305.05648](http://arxiv.org/abs/2305.05648)|null|
+|**2023-05-09**|**A bifurcation integrates information from many noisy ion channels**|Isabella R. Graf et.al.|[2305.05647](http://arxiv.org/abs/2305.05647)|null|
+|**2023-05-09**|**Relativistic locality can imply subsystem locality**|Andrea Di Biagio et.al.|[2305.05645](http://arxiv.org/abs/2305.05645)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926](http://arxiv.org/abs/2305.04926)|null|
 |**2023-05-08**|**Mediated interactions between Fermi polarons and the role of impurity quantum statistics**|Cosetta Baroni et.al.|[2305.04915](http://arxiv.org/abs/2305.04915)|null|
 |**2023-05-08**|**Information Mutation and Spread of Misinformation in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2305.04913](http://arxiv.org/abs/2305.04913)|null|
