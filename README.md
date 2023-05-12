@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**GPU-initiated Fine-grained Overlap of Collective Communication with Computation**|Kishore Punniyamurthy et.al.|[2305.06942](http://arxiv.org/abs/2305.06942)|null|
 |**2023-05-10**|**P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs**|Hongjing Huang et.al.|[2305.05885](http://arxiv.org/abs/2305.05885)|null|
 |**2023-04-11**|**TACOS: Topology-Aware Collective Algorithm Synthesizer for Distributed Training**|William Won et.al.|[2304.05301](http://arxiv.org/abs/2304.05301)|null|
 |**2023-04-08**|**C-Coll: Introducing Error-bounded Lossy Compression into MPI Collectives**|Jiajun Huang et.al.|[2304.03890](http://arxiv.org/abs/2304.03890)|null|
@@ -100,6 +101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Training development for multisensory data analysis**|Natasha María Monserrat Bertaina Lucero et.al.|[2305.06943](http://arxiv.org/abs/2305.06943)|null|
+|**2023-05-11**|**REMaQE -- Reverse Engineering Math Equations from Executables**|Meet Udeshi et.al.|[2305.06902](http://arxiv.org/abs/2305.06902)|null|
+|**2023-05-11**|**Quantum Circuits Noise Tailoring from a Geometric Perspective**|Junkai Zeng et.al.|[2305.06795](http://arxiv.org/abs/2305.06795)|null|
 |**2023-05-10**|**CosmoPower-JAX: high-dimensional Bayesian inference with differentiable cosmological emulators**|D. Piras et.al.|[2305.06347](http://arxiv.org/abs/2305.06347)|**[link](https://github.com/dpiras/cosmopower-jax)**|
 |**2023-05-10**|**Let It TEE: Asynchronous Byzantine Atomic Broadcast with $n \geq 2f+1$**|Marc Leinweber et.al.|[2305.06123](http://arxiv.org/abs/2305.06123)|null|
 |**2023-05-10**|**A Deep Dive into NFT Rug Pulls**|Jintao Huang et.al.|[2305.06108](http://arxiv.org/abs/2305.06108)|null|
@@ -183,6 +187,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018](http://arxiv.org/abs/2305.07018)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
+|**2023-05-11**|**Fault-tolerant quantum algorithm for symmetry-adapted perturbation theory**|Cristian L. Cortes et.al.|[2305.07009](http://arxiv.org/abs/2305.07009)|null|
+|**2023-05-11**|**Fair Price Discrimination**|Siddhartha Banerjee et.al.|[2305.07006](http://arxiv.org/abs/2305.07006)|null|
+|**2023-05-11**|**Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation**|Francois Meyer et.al.|[2305.07005](http://arxiv.org/abs/2305.07005)|**[link](https://github.com/francois-meyer/ssmt)**|
+|**2023-05-11**|**Energy-preserving Indirect-feedback for Wireless Power Transfer**|Siddhartha Sarma et.al.|[2305.06996](http://arxiv.org/abs/2305.06996)|null|
+|**2023-05-11**|**How Much Partiality Is Needed for a Theory of Computability?**|Dieter Spreen et.al.|[2305.06982](http://arxiv.org/abs/2305.06982)|null|
+|**2023-05-11**|**Minimal dominating sets enumeration with FPT-delay parameterized by the degeneracy and maximum degree**|Valentin Bartier et.al.|[2305.06974](http://arxiv.org/abs/2305.06974)|null|
+|**2023-05-11**|**FreePoint: Unsupervised Point Cloud Instance Segmentation**|Zhikai Zhang et.al.|[2305.06973](http://arxiv.org/abs/2305.06973)|null|
+|**2023-05-11**|**A Survey on Intersectional Fairness in Machine Learning: Notions, Mitigation, and Challenges**|Usman Gohar et.al.|[2305.06969](http://arxiv.org/abs/2305.06969)|null|
+|**2023-05-11**|**Data quality dimensions for fair AI**|Camilla Quaresmini et.al.|[2305.06967](http://arxiv.org/abs/2305.06967)|**[link](https://github.com/Trusted-AI/AIF360)**|
 |**2023-05-10**|**RECKONING: Reasoning through Dynamic Knowledge Encoding**|Zeming Chen et.al.|[2305.06349](http://arxiv.org/abs/2305.06349)|null|
 |**2023-05-10**|**Supervised learning with probabilistic morphisms and kernel mean embeddings**|Hông Vân Lê et.al.|[2305.06348](http://arxiv.org/abs/2305.06348)|null|
 |**2023-05-10**|**Prior Global Search Stability on Finite Graphs with Uncertainty. May Greedy Search Win?**|Andrey Ananev et.al.|[2305.06331](http://arxiv.org/abs/2305.06331)|null|
@@ -350,6 +364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Energy-preserving Indirect-feedback for Wireless Power Transfer**|Siddhartha Sarma et.al.|[2305.06996](http://arxiv.org/abs/2305.06996)|null|
+|**2023-05-11**|**Exploration of Optimizing FPGA-based Qubit Controller for Experiments on Superconducting Quantum Computing Hardware**|Hans Johnson et.al.|[2305.06976](http://arxiv.org/abs/2305.06976)|null|
+|**2023-05-11**|**Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting**|Joshua Smailes et.al.|[2305.06947](http://arxiv.org/abs/2305.06947)|null|
+|**2023-05-11**|**Big-PERCIVAL: Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing**|David Mallasén et.al.|[2305.06946](http://arxiv.org/abs/2305.06946)|null|
+|**2023-05-11**|**GPU-initiated Fine-grained Overlap of Collective Communication with Computation**|Kishore Punniyamurthy et.al.|[2305.06942](http://arxiv.org/abs/2305.06942)|null|
+|**2023-05-11**|**Dendritic Computation through Exploiting Resistive Memory as both Delays and Weights**|Melika Payvand et.al.|[2305.06941](http://arxiv.org/abs/2305.06941)|null|
+|**2023-05-11**|**A Machine Learning Approach to Improving Timing Consistency between Global Route and Detailed Route**|Vidya A. Chhabria Wenjing Jiang Andrew B. Kahng Sachin S. Sapatnekar et.al.|[2305.06917](http://arxiv.org/abs/2305.06917)|null|
+|**2023-05-11**|**Adaptive variational simulation for open quantum systems**|Huo Chen et.al.|[2305.06915](http://arxiv.org/abs/2305.06915)|null|
+|**2023-05-11**|**ns-O-RAN: Simulating O-RAN 5G Systems in ns-3**|Andrea Lacava et.al.|[2305.06906](http://arxiv.org/abs/2305.06906)|null|
+|**2023-05-11**|**A Data-Driven Approach to Lightweight DVFS-Aware Counter-Based Power Modeling for Heterogeneous Platforms**|Sergio Mazzola et.al.|[2305.06782](http://arxiv.org/abs/2305.06782)|null|
 |**2023-05-10**|**Explainable Knowledge Distillation for On-device Chest X-Ray Classification**|Chakkrit Termritthikun et.al.|[2305.06244](http://arxiv.org/abs/2305.06244)|null|
 |**2023-05-10**|**Waterberry Farms: A Novel Benchmark For Informative Path Planning**|Samuel Matloob et.al.|[2305.06243](http://arxiv.org/abs/2305.06243)|null|
 |**2023-05-10**|**A Glimpse in ChatGPT Capabilities and its impact for AI research**|Frank Joublin et.al.|[2305.06087](http://arxiv.org/abs/2305.06087)|null|
@@ -512,6 +536,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024](http://arxiv.org/abs/2305.07024)|**[link](https://github.com/xt4d/sparsegnv)**|
+|**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018](http://arxiv.org/abs/2305.07018)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
+|**2023-05-11**|**Computing Unique Information for Poisson and Multinomial Systems**|Chaitanya Goswami et.al.|[2305.07013](http://arxiv.org/abs/2305.07013)|null|
+|**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011](http://arxiv.org/abs/2305.07011)|null|
+|**2023-05-11**|**Fair Price Discrimination**|Siddhartha Banerjee et.al.|[2305.07006](http://arxiv.org/abs/2305.07006)|null|
+|**2023-05-11**|**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**|Junjie Zhang et.al.|[2305.07001](http://arxiv.org/abs/2305.07001)|null|
+|**2023-05-11**|**The Cardinality Bound on the Information Bottleneck Representations is Tight**|Etam Benger et.al.|[2305.07000](http://arxiv.org/abs/2305.07000)|null|
+|**2023-05-11**|**A statistical approach to detect sensitive features in a group fairness setting**|Guilherme Dean Pelegrina et.al.|[2305.06994](http://arxiv.org/abs/2305.06994)|null|
+|**2023-05-11**|**On the Advantages of Asynchrony in the Unsourced MAC**|Alexander Fengler et.al.|[2305.06985](http://arxiv.org/abs/2305.06985)|null|
+|**2023-05-11**|**Active Retrieval Augmented Generation**|Zhengbao Jiang et.al.|[2305.06983](http://arxiv.org/abs/2305.06983)|**[link](https://github.com/jzbjyb/flare)**|
 |**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352](http://arxiv.org/abs/2305.06352)|null|
 |**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344](http://arxiv.org/abs/2305.06344)|null|
 |**2023-05-10**|**Incorporating Structured Representations into Pretrained Vision & Language Models Using Scene Graphs**|Roei Herzig et.al.|[2305.06343](http://arxiv.org/abs/2305.06343)|null|
@@ -679,6 +713,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**SparseGNV: Generating Novel Views of Indoor Scenes with Sparse Input Views**|Weihao Cheng et.al.|[2305.07024](http://arxiv.org/abs/2305.07024)|**[link](https://github.com/xt4d/sparsegnv)**|
+|**2023-05-11**|**Improving constraints on primordial non-Gaussianity using neural network based reconstruction**|Thomas Flöss et.al.|[2305.07018](http://arxiv.org/abs/2305.07018)|**[link](https://github.com/tsfloss/DensityFieldTools)**|
+|**2023-05-11**|**Virtual Occlusions Through Implicit Depth**|Jamie Watson et.al.|[2305.07014](http://arxiv.org/abs/2305.07014)|null|
+|**2023-05-11**|**Neural Wave Functions for Superfluids**|Wan Tong Lou et.al.|[2305.06989](http://arxiv.org/abs/2305.06989)|null|
+|**2023-05-11**|**Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks**|Eshaan Nichani et.al.|[2305.06986](http://arxiv.org/abs/2305.06986)|null|
+|**2023-05-11**|**Local structure, thermodynamics, and melting curve of boron phosphide at high pressures by deep learning-driven ab initio simulations**|N. M. Chtchelkatchev et.al.|[2305.06981](http://arxiv.org/abs/2305.06981)|null|
+|**2023-05-11**|**Transformers for CT Reconstruction From Monoplanar and Biplanar Radiographs**|Firas Khader et.al.|[2305.06965](http://arxiv.org/abs/2305.06965)|null|
+|**2023-05-11**|**Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers**|Firas Khader et.al.|[2305.06963](http://arxiv.org/abs/2305.06963)|null|
+|**2023-05-11**|**Watch This Space: Securing Satellite Communication through Resilient Transmitter Fingerprinting**|Joshua Smailes et.al.|[2305.06947](http://arxiv.org/abs/2305.06947)|null|
+|**2023-05-11**|**GPU-initiated Fine-grained Overlap of Collective Communication with Computation**|Kishore Punniyamurthy et.al.|[2305.06942](http://arxiv.org/abs/2305.06942)|null|
 |**2023-05-10**|**An Overview of Asymptotic Normality in Stochastic Blockmodels: Cluster Analysis and Inference**|Joshua Agterberg et.al.|[2305.06353](http://arxiv.org/abs/2305.06353)|null|
 |**2023-05-10**|**Generalizations and Extensions to Lifting Constructions for Coded Caching**|V. R. Aravind et.al.|[2305.06352](http://arxiv.org/abs/2305.06352)|null|
 |**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344](http://arxiv.org/abs/2305.06344)|null|
@@ -846,6 +890,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Computing Unique Information for Poisson and Multinomial Systems**|Chaitanya Goswami et.al.|[2305.07013](http://arxiv.org/abs/2305.07013)|null|
+|**2023-05-11**|**Occam's razor for AI: Coarse-graining Hammett Inspired Product Ansatz in Chemical Space**|Marco Bragato et.al.|[2305.07010](http://arxiv.org/abs/2305.07010)|null|
+|**2023-05-11**|**Fault-tolerant quantum algorithm for symmetry-adapted perturbation theory**|Cristian L. Cortes et.al.|[2305.07009](http://arxiv.org/abs/2305.07009)|null|
+|**2023-05-11**|**Spectral properties, topological patches, and effective phase diagrams of finite disordered Majorana nanowires**|Sankar Das Sarma et.al.|[2305.07007](http://arxiv.org/abs/2305.07007)|null|
+|**2023-05-11**|**Real-time Manipulation of Liquid Droplets using Photo-responsive Surfactant**|Xichen Liang et.al.|[2305.07002](http://arxiv.org/abs/2305.07002)|null|
+|**2023-05-11**|**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**|Junjie Zhang et.al.|[2305.07001](http://arxiv.org/abs/2305.07001)|null|
+|**2023-05-11**|**A statistical approach to detect sensitive features in a group fairness setting**|Guilherme Dean Pelegrina et.al.|[2305.06994](http://arxiv.org/abs/2305.06994)|null|
+|**2023-05-11**|**SMATCH++: Standardized and Extended Evaluation of Semantic Graphs**|Juri Opitz et.al.|[2305.06993](http://arxiv.org/abs/2305.06993)|**[link](https://github.com/flipz357/smatchpp)**|
+|**2023-05-11**|**Intermediate dimensions under self-affine codings**|Zhou Feng et.al.|[2305.06991](http://arxiv.org/abs/2305.06991)|null|
+|**2023-05-11**|**Discrete integrable systems associated with relativistic collisions**|Theodoros E. Kouloukas et.al.|[2305.06990](http://arxiv.org/abs/2305.06990)|null|
 |**2023-05-10**|**VideoChat: Chat-Centric Video Understanding**|KunChang Li et.al.|[2305.06355](http://arxiv.org/abs/2305.06355)|**[link](https://github.com/opengvlab/ask-anything)**|
 |**2023-05-10**|**Frequency-Supported Neural Networks for Nonlinear Dynamical System Identification**|Krzysztof Zając et.al.|[2305.06344](http://arxiv.org/abs/2305.06344)|null|
 |**2023-05-11**|**Non-Euclidean Motion Planning with Graphs of Geodesically-Convex Sets**|Thomas Cohn et.al.|[2305.06341](http://arxiv.org/abs/2305.06341)|null|
@@ -1013,6 +1067,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Patch-wise Mixed-Precision Quantization of Vision Transformer**|Junrui Xiao et.al.|[2305.06559](http://arxiv.org/abs/2305.06559)|null|
 |**2023-04-18**|**Heterogeneous Integration of In-Memory Analog Computing Architectures with Tensor Processing Units**|Mohammed E. Elbtity et.al.|[2304.09258](http://arxiv.org/abs/2304.09258)|null|
 |**2023-04-13**|**End-to-end codesign of Hessian-aware quantized neural networks for FPGAs and ASICs**|Javier Campos et.al.|[2304.06745](http://arxiv.org/abs/2304.06745)|null|
 |**2023-04-13**|**CABM: Content-Aware Bit Mapping for Single Image Super-Resolution Network with Large Input**|Senmao Tian et.al.|[2304.06454](http://arxiv.org/abs/2304.06454)|null|
