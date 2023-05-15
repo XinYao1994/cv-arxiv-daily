@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -518,7 +518,7 @@ layout: default
 |**2023-05-11**|**Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers**|Dahun Kim et.al.|[2305.07011](http://arxiv.org/abs/2305.07011)|null|
 |**2023-05-11**|**Fair Price Discrimination**|Siddhartha Banerjee et.al.|[2305.07006](http://arxiv.org/abs/2305.07006)|null|
 |**2023-05-11**|**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**|Junjie Zhang et.al.|[2305.07001](http://arxiv.org/abs/2305.07001)|null|
-|**2023-05-11**|**The Cardinality Bound on the Information Bottleneck Representations is Tight**|Etam Benger et.al.|[2305.07000](http://arxiv.org/abs/2305.07000)|null|
+|**2023-05-12**|**The Cardinality Bound on the Information Bottleneck Representations is Tight**|Etam Benger et.al.|[2305.07000](http://arxiv.org/abs/2305.07000)|null|
 |**2023-05-11**|**A statistical approach to detect sensitive features in a group fairness setting**|Guilherme Dean Pelegrina et.al.|[2305.06994](http://arxiv.org/abs/2305.06994)|null|
 |**2023-05-11**|**On the Advantages of Asynchrony in the Unsourced MAC**|Alexander Fengler et.al.|[2305.06985](http://arxiv.org/abs/2305.06985)|null|
 |**2023-05-11**|**Active Retrieval Augmented Generation**|Zhengbao Jiang et.al.|[2305.06983](http://arxiv.org/abs/2305.06983)|**[link](https://github.com/jzbjyb/flare)**|
