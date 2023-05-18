@@ -33,6 +33,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
 |**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946](http://arxiv.org/abs/2305.08946)|null|
 |**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304](http://arxiv.org/abs/2305.07304)|**[link](https://github.com/songrise/clip-count)**|
 |**2023-05-09**|**ColonMapper: topological mapping and localization for colonoscopy**|Javier Morlana et.al.|[2305.05546](http://arxiv.org/abs/2305.05546)|null|
@@ -90,6 +91,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**RuLa: A Programming Language for RuleSet-based Quantum Repeaters**|Ryosuke Satoh et.al.|[2305.09895](http://arxiv.org/abs/2305.09895)|null|
+|**2023-05-16**|**An empirical study of dust properties at the earliest epochs**|Joris Witstok et.al.|[2305.09714](http://arxiv.org/abs/2305.09714)|null|
 |**2023-05-16**|**Generate Compilers from Hardware Models!**|Gus Henry Smith et.al.|[2305.09580](http://arxiv.org/abs/2305.09580)|null|
 |**2023-05-16**|**Secure compilation of rich smart contracts on poor UTXO blockchains**|Massimo Bartoletti et.al.|[2305.09545](http://arxiv.org/abs/2305.09545)|null|
 |**2023-05-16**|**Community Notes vs. Snoping: How the Crowd Selects Fact-Checking Targets on Social Media**|Moritz Pilarski et.al.|[2305.09519](http://arxiv.org/abs/2305.09519)|null|
@@ -198,6 +201,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427](http://arxiv.org/abs/2305.10427)|null|
+|**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
+|**2023-05-17**|**Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies**|Hanna Ziesche et.al.|[2305.10411](http://arxiv.org/abs/2305.10411)|null|
+|**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401](http://arxiv.org/abs/2305.10401)|null|
+|**2023-05-17**|**RelationMatch: Matching In-batch Relationships for Semi-supervised Learning**|Yifan Zhang et.al.|[2305.10397](http://arxiv.org/abs/2305.10397)|null|
+|**2023-05-17**|**Motion Planning (In)feasibility Detection using a Prior Roadmap via Path and Cut Search**|Yoonchang Sung et.al.|[2305.10395](http://arxiv.org/abs/2305.10395)|null|
+|**2023-05-17**|**To Re-transmit or Not to Re-transmit for Freshness**|Subhankar Banerjee et.al.|[2305.10392](http://arxiv.org/abs/2305.10392)|null|
+|**2023-05-17**|**Cache-Oblivious Parallel Convex Hull in the Binary Forking Model**|Reilly Browne et.al.|[2305.10389](http://arxiv.org/abs/2305.10389)|null|
+|**2023-05-17**|**Optimal Seat Arrangement: What Are the Hard and Easy Cases?**|Esra Ceylan et.al.|[2305.10381](http://arxiv.org/abs/2305.10381)|null|
 |**2023-05-16**|**Annotating 8,000 Abdominal CT Volumes for Multi-Organ Segmentation in Three Weeks**|Chongyu Qu et.al.|[2305.09666](http://arxiv.org/abs/2305.09666)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659](http://arxiv.org/abs/2305.09659)|null|
 |**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655](http://arxiv.org/abs/2305.09655)|**[link](https://github.com/s4nyam/ramario)**|
@@ -403,6 +416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Joint Denoising and Few-angle Reconstruction for Low-dose Cardiac SPECT Using a Dual-domain Iterative Network with Adaptive Data Consistency**|Xiongchao Chen et.al.|[2305.10328](http://arxiv.org/abs/2305.10328)|null|
+|**2023-05-17**|**Cross-domain Iterative Network for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Low-dose Cardiac SPECT**|Xiongchao Chen et.al.|[2305.10326](http://arxiv.org/abs/2305.10326)|null|
+|**2023-05-17**|**Interpretation of the principles and implementation of FreeRider: A tutorial**|Chenming Zhang et.al.|[2305.10316](http://arxiv.org/abs/2305.10316)|null|
+|**2023-05-17**|**Investigating image-based fallow weed detection performance on Raphanus sativus and Avena sativa at speeds up to 30 km h $^{-1}$**|Guy R. Y. Coleman et.al.|[2305.10311](http://arxiv.org/abs/2305.10311)|null|
+|**2023-05-17**|**QRAM: A Survey and Critique**|Samuel Jaques et.al.|[2305.10310](http://arxiv.org/abs/2305.10310)|null|
+|**2023-05-17**|**Binarized Spectral Compressive Imaging**|Yuanhao Cai et.al.|[2305.10299](http://arxiv.org/abs/2305.10299)|**[link](https://github.com/caiyuanhao1998/MST)**|
+|**2023-05-17**|**rWISDM: Repaired WISDM, a Public Dataset for Human Activity Recognition**|Mohammadreza Heydarian et.al.|[2305.10222](http://arxiv.org/abs/2305.10222)|null|
+|**2023-05-17**|**Euclid preparation. XXIX. Water ice in spacecraft part I: The physics of ice formation and contamination**|Euclid Collaboration et.al.|[2305.10107](http://arxiv.org/abs/2305.10107)|null|
+|**2023-05-17**|**DRackSim: Simulator for Rack-scale Memory Disaggregation**|Amit Puri et.al.|[2305.09977](http://arxiv.org/abs/2305.09977)|null|
+|**2023-05-17**|**OSDP: Optimal Sharded Data Parallel for Distributed Deep Learning**|Youhe Jiang et.al.|[2305.09940](http://arxiv.org/abs/2305.09940)|null|
 |**2023-05-16**|**Newad: A register map automation tool for Verilog**|Vamsi K Vytla et.al.|[2305.09657](http://arxiv.org/abs/2305.09657)|null|
 |**2023-05-16**|**Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection**|Amin Sarihi et.al.|[2305.09592](http://arxiv.org/abs/2305.09592)|null|
 |**2023-05-16**|**Hardware Acceleration for Open Radio Access Networks: A Contemporary Overview**|Lopamudra Kundu et.al.|[2305.09588](http://arxiv.org/abs/2305.09588)|null|
@@ -603,6 +626,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**|Jiang-Tian Zhai et.al.|[2305.10430](http://arxiv.org/abs/2305.10430)|**[link](https://github.com/E2E-AD/AD-MLP)**|
+|**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420](http://arxiv.org/abs/2305.10420)|null|
+|**2023-05-17**|**Scratch Copilot Evaluation: Assessing AI-Assisted Creative Coding for Families**|Stefania Druga et.al.|[2305.10417](http://arxiv.org/abs/2305.10417)|null|
+|**2023-05-17**|**Minimax rate for multivariate data under componentwise local differential privacy constraints**|Chiara Amorino et.al.|[2305.10416](http://arxiv.org/abs/2305.10416)|null|
+|**2023-05-17**|**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**|Xiaoman Zhang et.al.|[2305.10415](http://arxiv.org/abs/2305.10415)|**[link](https://github.com/xiaoman-zhang/PMC-VQA)**|
+|**2023-05-17**|**$\mathbb{F}_q\mathcal{R}$ -skew cyclic codes and their application to quantum codes**|Om Prakash et.al.|[2305.10404](http://arxiv.org/abs/2305.10404)|null|
+|**2023-05-17**|**RelationMatch: Matching In-batch Relationships for Semi-supervised Learning**|Yifan Zhang et.al.|[2305.10397](http://arxiv.org/abs/2305.10397)|null|
+|**2023-05-17**|**Cultural Differences in Signed Ego Networks on Twitter: An Investigatory Analysis**|Jack Tacchi et.al.|[2305.10396](http://arxiv.org/abs/2305.10396)|null|
+|**2023-05-17**|**To Re-transmit or Not to Re-transmit for Freshness**|Subhankar Banerjee et.al.|[2305.10392](http://arxiv.org/abs/2305.10392)|null|
+|**2023-05-17**|**Elaborative Simplification as Implicit Questions Under Discussion**|Yating Wu et.al.|[2305.10387](http://arxiv.org/abs/2305.10387)|null|
 |**2023-05-16**|**Many-Body Excited States with a Contracted Quantum Eigensolver**|Scott E. Smart et.al.|[2305.09653](http://arxiv.org/abs/2305.09653)|null|
 |**2023-05-16**|**Prompt-Tuning Decision Transformer with Preference Ranking**|Shengchao Hu et.al.|[2305.09648](http://arxiv.org/abs/2305.09648)|null|
 |**2023-05-16**|**StructGPT: A General Framework for Large Language Model to Reason over Structured Data**|Jinhao Jiang et.al.|[2305.09645](http://arxiv.org/abs/2305.09645)|null|
@@ -808,6 +841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427](http://arxiv.org/abs/2305.10427)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
+|**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406](http://arxiv.org/abs/2305.10406)|null|
+|**2023-05-17**|**Data Extraction via Semantic Regular Expression Synthesis**|Qiaochu Chen et.al.|[2305.10401](http://arxiv.org/abs/2305.10401)|null|
+|**2023-05-17**|**Cultural Differences in Signed Ego Networks on Twitter: An Investigatory Analysis**|Jack Tacchi et.al.|[2305.10396](http://arxiv.org/abs/2305.10396)|null|
+|**2023-05-17**|**To Re-transmit or Not to Re-transmit for Freshness**|Subhankar Banerjee et.al.|[2305.10392](http://arxiv.org/abs/2305.10392)|null|
+|**2023-05-17**|**Optimality of Message-Passing Architectures for Sparse Graphs**|Aseem Baranwal et.al.|[2305.10391](http://arxiv.org/abs/2305.10391)|null|
+|**2023-05-17**|**Goodness of fit testing based on graph functionals for homgenous Erdös Renyi graphs**|Barbara Brune et.al.|[2305.10380](http://arxiv.org/abs/2305.10380)|null|
+|**2023-05-17**|**Universal fragility of spin-glass ground-states under single bond changes**|Mutian Shen et.al.|[2305.10376](http://arxiv.org/abs/2305.10376)|null|
+|**2023-05-17**|**Resilient infinite randomness criticality for a disordered chain of interacting Majorana fermions**|Natalia Chepiga et.al.|[2305.10363](http://arxiv.org/abs/2305.10363)|null|
 |**2023-05-16**|**Phase Retrieval via Model-Free Power Flow Jacobian Recovery**|Samuel Talkington et.al.|[2305.09661](http://arxiv.org/abs/2305.09661)|null|
 |**2023-05-16**|**Newad: A register map automation tool for Verilog**|Vamsi K Vytla et.al.|[2305.09657](http://arxiv.org/abs/2305.09657)|null|
 |**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655](http://arxiv.org/abs/2305.09655)|**[link](https://github.com/s4nyam/ramario)**|
@@ -1013,6 +1056,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**|Jiang-Tian Zhai et.al.|[2305.10430](http://arxiv.org/abs/2305.10430)|**[link](https://github.com/E2E-AD/AD-MLP)**|
+|**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
+|**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
+|**2023-05-17**|**Kitana: Efficient Data Augmentation Search for AutoML**|Zezhou Huang et.al.|[2305.10419](http://arxiv.org/abs/2305.10419)|null|
+|**2023-05-17**|**Towards Multi-Layered 3D Garments Animation**|Yidi Shao et.al.|[2305.10418](http://arxiv.org/abs/2305.10418)|null|
+|**2023-05-17**|**BAD: BiAs Detection for Large Language Models in the context of candidate screening**|Nam Ho Koh et.al.|[2305.10407](http://arxiv.org/abs/2305.10407)|**[link](https://github.com/namhkoh/bad-bias-detection-in-llms)**|
+|**2023-05-17**|**Motion Planning (In)feasibility Detection using a Prior Roadmap via Path and Cut Search**|Yoonchang Sung et.al.|[2305.10395](http://arxiv.org/abs/2305.10395)|null|
+|**2023-05-17**|**Cost-Aware Bound Tightening for Constraint Screening in AC OPF**|Mohamed Awadalla et.al.|[2305.10385](http://arxiv.org/abs/2305.10385)|null|
+|**2023-05-17**|**Optimal Seat Arrangement: What Are the Hard and Easy Cases?**|Esra Ceylan et.al.|[2305.10381](http://arxiv.org/abs/2305.10381)|null|
+|**2023-05-17**|**Explainable Multi-Agent Reinforcement Learning for Temporal Queries**|Kayla Boggess et.al.|[2305.10378](http://arxiv.org/abs/2305.10378)|**[link](https://github.com/kjboggess/ijcai23)**|
 |**2023-05-16**|**Phase Retrieval via Model-Free Power Flow Jacobian Recovery**|Samuel Talkington et.al.|[2305.09661](http://arxiv.org/abs/2305.09661)|null|
 |**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655](http://arxiv.org/abs/2305.09655)|**[link](https://github.com/s4nyam/ramario)**|
 |**2023-05-16**|**Many-Body Excited States with a Contracted Quantum Eigensolver**|Scott E. Smart et.al.|[2305.09653](http://arxiv.org/abs/2305.09653)|null|
