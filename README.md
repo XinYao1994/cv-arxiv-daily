@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116](http://arxiv.org/abs/2305.11116)|**[link](https://github.com/yujielu10/llmscore)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
 |**2023-05-15**|**Image Matching by Bare Homography**|Fabio Bellavia et.al.|[2305.08946](http://arxiv.org/abs/2305.08946)|null|
 |**2023-05-12**|**CLIP-Count: Towards Text-Guided Zero-Shot Object Counting**|Ruixiang Jiang et.al.|[2305.07304](http://arxiv.org/abs/2305.07304)|**[link](https://github.com/songrise/clip-count)**|
@@ -109,6 +110,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**PCOAST: A Pauli-based Quantum Circuit Optimization Framework**|Jennifer Paykin et.al.|[2305.10966](http://arxiv.org/abs/2305.10966)|null|
+|**2023-05-18**|**How Deep Learning Sees the World: A Survey on Adversarial Attacks & Defenses**|Joana C. Costa et.al.|[2305.10862](http://arxiv.org/abs/2305.10862)|null|
+|**2023-05-18**|**ProgSG: Cross-Modality Representation Learning for Programs in Electronic Design Automation**|Yunsheng Bai et.al.|[2305.10838](http://arxiv.org/abs/2305.10838)|null|
+|**2023-05-17**|**ACRoBat: Optimizing Auto-batching of Dynamic Deep Learning at Compile Time**|Pratik Fegade et.al.|[2305.10611](http://arxiv.org/abs/2305.10611)|null|
+|**2023-05-17**|**Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs**|Igor Sfiligoi et.al.|[2305.10553](http://arxiv.org/abs/2305.10553)|null|
 |**2023-05-17**|**RuLa: A Programming Language for RuleSet-based Quantum Repeaters**|Ryosuke Satoh et.al.|[2305.09895](http://arxiv.org/abs/2305.09895)|null|
 |**2023-05-16**|**An empirical study of dust properties at the earliest epochs**|Joris Witstok et.al.|[2305.09714](http://arxiv.org/abs/2305.09714)|null|
 |**2023-05-16**|**Generate Compilers from Hardware Models!**|Gus Henry Smith et.al.|[2305.09580](http://arxiv.org/abs/2305.09580)|null|
@@ -221,6 +227,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Unsupervised Multi-channel Separation and Adaptation**|Cong Han et.al.|[2305.11151](http://arxiv.org/abs/2305.11151)|null|
+|**2023-05-18**|**Grover Speedup from Many Forms of the Zeno Effect**|Jesse Berwald et.al.|[2305.11146](http://arxiv.org/abs/2305.11146)|null|
+|**2023-05-18**|**Prophet Secretary Against the Online Optimal**|Paul Dütting et.al.|[2305.11144](http://arxiv.org/abs/2305.11144)|null|
+|**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135](http://arxiv.org/abs/2305.11135)|null|
+|**2023-05-18**|**Parameterized Complexity of Equality MinCSP**|George Osipov et.al.|[2305.11131](http://arxiv.org/abs/2305.11131)|null|
+|**2023-05-18**|**Autonomous sputter synthesis of thin film nitrides with composition controlled by Bayesian optimization of optical plasma emission**|Davi M. Febba et.al.|[2305.11122](http://arxiv.org/abs/2305.11122)|null|
+|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120](http://arxiv.org/abs/2305.11120)|null|
+|**2023-05-18**|**Using Symbolic Computation to Analyze Zero-Hopf Bifurcations of Polynomial Differential Systems**|Bo Huang et.al.|[2305.11109](http://arxiv.org/abs/2305.11109)|null|
+|**2023-05-18**|**MiraBest: A Dataset of Morphologically Classified Radio Galaxies for Machine Learning**|Fiona A. M. Porter et.al.|[2305.11108](http://arxiv.org/abs/2305.11108)|**[link](https://zenodo.org/record/4288837)**|
+|**2023-05-18**|**Blockwise inversion and algorithms for inverting large partitioned matrices**|R. Thiru Senthil et.al.|[2305.11103](http://arxiv.org/abs/2305.11103)|null|
 |**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427](http://arxiv.org/abs/2305.10427)|null|
 |**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
@@ -438,6 +454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Lightweight Online Learning for Sets of Related Problems in Automated Reasoning**|Haoze Wu et.al.|[2305.11087](http://arxiv.org/abs/2305.11087)|null|
+|**2023-05-18**|**From the Lab to the Wild: Affect Modeling via Privileged Information**|Konstantinos Makantasis et.al.|[2305.10919](http://arxiv.org/abs/2305.10919)|null|
+|**2023-05-18**|**ProgSG: Cross-Modality Representation Learning for Programs in Electronic Design Automation**|Yunsheng Bai et.al.|[2305.10838](http://arxiv.org/abs/2305.10838)|null|
+|**2023-05-18**|**Joint BS Mode Selection and Beamforming Design for Cooperative Cell-Free ISAC Networks**|Sifan Liu et.al.|[2305.10800](http://arxiv.org/abs/2305.10800)|null|
+|**2023-05-18**|**BrutePrint: Expose Smartphone Fingerprint Authentication to Brute-force Attack**|Yu Chen et.al.|[2305.10791](http://arxiv.org/abs/2305.10791)|null|
+|**2023-05-18**|**Whisper-KDQ: A Lightweight Whisper via Guided Knowledge Distillation and Quantization for Efficient ASR**|Hang Shao et.al.|[2305.10788](http://arxiv.org/abs/2305.10788)|null|
+|**2023-05-18**|**BlindHarmony: "Blind" Harmonization for MR Images via Flow model**|Hwihun Jeong et.al.|[2305.10732](http://arxiv.org/abs/2305.10732)|null|
+|**2023-05-18**|**Boost Vision Transformer with GPU-Friendly Sparsity and Quantization**|Chong Yu et.al.|[2305.10727](http://arxiv.org/abs/2305.10727)|null|
+|**2023-05-18**|**Classical shadows based on locally-entangled measurements**|Matteo Ippoliti et.al.|[2305.10723](http://arxiv.org/abs/2305.10723)|null|
+|**2023-05-17**|**Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs**|Igor Sfiligoi et.al.|[2305.10553](http://arxiv.org/abs/2305.10553)|null|
 |**2023-05-17**|**Joint Denoising and Few-angle Reconstruction for Low-dose Cardiac SPECT Using a Dual-domain Iterative Network with Adaptive Data Consistency**|Xiongchao Chen et.al.|[2305.10328](http://arxiv.org/abs/2305.10328)|null|
 |**2023-05-17**|**Cross-domain Iterative Network for Simultaneous Denoising, Limited-angle Reconstruction, and Attenuation Correction of Low-dose Cardiac SPECT**|Xiongchao Chen et.al.|[2305.10326](http://arxiv.org/abs/2305.10326)|null|
 |**2023-05-17**|**Interpretation of the principles and implementation of FreeRider: A tutorial**|Chenming Zhang et.al.|[2305.10316](http://arxiv.org/abs/2305.10316)|null|
@@ -650,6 +676,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164](http://arxiv.org/abs/2305.11164)|null|
+|**2023-05-18**|**TOME: A Two-stage Approach for Model-based Retrieval**|Ruiyang Ren et.al.|[2305.11161](http://arxiv.org/abs/2305.11161)|null|
+|**2023-05-18**|**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**|Kai Zhang et.al.|[2305.11159](http://arxiv.org/abs/2305.11159)|**[link](https://github.com/osu-nlp-group/qa4re)**|
+|**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135](http://arxiv.org/abs/2305.11135)|null|
+|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123](http://arxiv.org/abs/2305.11123)|null|
+|**2023-05-18**|**Autonomous sputter synthesis of thin film nitrides with composition controlled by Bayesian optimization of optical plasma emission**|Davi M. Febba et.al.|[2305.11122](http://arxiv.org/abs/2305.11122)|null|
+|**2023-05-18**|**A quantum XOR oblivious transfer protocol compatible with classical partially homomorphic encryption**|Li Yu et.al.|[2305.11114](http://arxiv.org/abs/2305.11114)|null|
+|**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101](http://arxiv.org/abs/2305.11101)|null|
+|**2023-05-18**|**Lightweight Online Learning for Sets of Related Problems in Automated Reasoning**|Haoze Wu et.al.|[2305.11087](http://arxiv.org/abs/2305.11087)|null|
+|**2023-05-18**|**Preference or Intent? Double Disentangled Collaborative Filtering**|Chao Wang et.al.|[2305.11084](http://arxiv.org/abs/2305.11084)|null|
 |**2023-05-17**|**Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**|Jiang-Tian Zhai et.al.|[2305.10430](http://arxiv.org/abs/2305.10430)|**[link](https://github.com/E2E-AD/AD-MLP)**|
 |**2023-05-17**|**CLIP-GCD: Simple Language Guided Generalized Category Discovery**|Rabah Ouldnoughi et.al.|[2305.10420](http://arxiv.org/abs/2305.10420)|null|
 |**2023-05-17**|**Scratch Copilot Evaluation: Assessing AI-Assisted Creative Coding for Families**|Stefania Druga et.al.|[2305.10417](http://arxiv.org/abs/2305.10417)|null|
@@ -867,6 +903,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**MVPSNet: Fast Generalizable Multi-view Photometric Stereo**|Dongxu Zhao et.al.|[2305.11167](http://arxiv.org/abs/2305.11167)|null|
+|**2023-05-18**|**Unsupervised Multi-channel Separation and Adaptation**|Cong Han et.al.|[2305.11151](http://arxiv.org/abs/2305.11151)|null|
+|**2023-05-18**|**Clifford Group Equivariant Neural Networks**|David Ruhe et.al.|[2305.11141](http://arxiv.org/abs/2305.11141)|null|
+|**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137](http://arxiv.org/abs/2305.11137)|null|
+|**2023-05-18**|**Attacks on Online Learners: a Teacher-Student Analysis**|Riccardo Giuseppe Margiotta et.al.|[2305.11132](http://arxiv.org/abs/2305.11132)|**[link](https://github.com/riccardogm/optimalcontrolattacks)**|
+|**2023-05-18**|**Skin Lesion Diagnosis Using Convolutional Neural Networks**|Daniel Alonso Villanueva Nunez et.al.|[2305.11125](http://arxiv.org/abs/2305.11125)|null|
+|**2023-05-18**|**A Compound Gaussian Network for Solving Linear Inverse Problems**|Carter Lyons et.al.|[2305.11120](http://arxiv.org/abs/2305.11120)|null|
+|**2023-05-18**|**PPDONet: Deep Operator Networks for Fast Prediction of Steady-State Solutions in Disk-Planet Systems**|Shunyuan Mao et.al.|[2305.11111](http://arxiv.org/abs/2305.11111)|**[link](https://github.com/smao-astro/ppdonet)**|
+|**2023-05-18**|**From Data-Fitting to Discovery: Interpreting the Neural Dynamics of Motor Control through Reinforcement Learning**|Eugene R. Rush et.al.|[2305.11107](http://arxiv.org/abs/2305.11107)|null|
+|**2023-05-18**|**Progressive Learning of 3D Reconstruction Network from 2D GAN Data**|Aysegul Dundar et.al.|[2305.11102](http://arxiv.org/abs/2305.11102)|null|
 |**2023-05-17**|**Accelerating Transformer Inference for Translation via Parallel Decoding**|Andrea Santilli et.al.|[2305.10427](http://arxiv.org/abs/2305.10427)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
 |**2023-05-17**|**Variational Classification**|Shehzaad Dhuliawala et.al.|[2305.10406](http://arxiv.org/abs/2305.10406)|null|
@@ -1084,6 +1130,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**Going Denser with Open-Vocabulary Part Segmentation**|Peize Sun et.al.|[2305.11173](http://arxiv.org/abs/2305.11173)|**[link](https://github.com/facebookresearch/vlpart)**|
+|**2023-05-18**|**On the stability of homogeneous equilibria in the Vlasov-Poisson system on $\mathbb{R}^3$**|Alexandru D. Ionescu et.al.|[2305.11166](http://arxiv.org/abs/2305.11166)|null|
+|**2023-05-18**|**Exploring the Carbon Footprint of Hugging Face's ML Models: A Repository Mining Study**|Joel Castaño et.al.|[2305.11164](http://arxiv.org/abs/2305.11164)|null|
+|**2023-05-18**|**High-Performance Graph Databases That Are Portable, Programmable, and Scale to Hundreds of Thousands of Cores**|Maciej Besta et.al.|[2305.11162](http://arxiv.org/abs/2305.11162)|null|
+|**2023-05-18**|**Non-Linear Operator-valued Elliptic Flows with Application to Quantum Field Theory**|Jean-Bernard Bru et.al.|[2305.11154](http://arxiv.org/abs/2305.11154)|null|
+|**2023-05-18**|**Large Deviations Principle for the Inviscid Limit of Fluid Dynamic Systems in 2D Bounded Domains**|Federico Butori et.al.|[2305.11148](http://arxiv.org/abs/2305.11148)|null|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147](http://arxiv.org/abs/2305.11147)|null|
+|**2023-05-18**|**Discourse Centric Evaluation of Machine Translation with a Densely Annotated Parallel Corpus**|Yuchen Eleanor Jiang et.al.|[2305.11142](http://arxiv.org/abs/2305.11142)|**[link](https://github.com/eleanorjiang/blonde)**|
+|**2023-05-18**|**Parallel development of social preferences in fish and machines**|Joshua McGraw et.al.|[2305.11137](http://arxiv.org/abs/2305.11137)|null|
+|**2023-05-18**|**Design of the Impulsive Goodwin's Oscillator: A Case Study**|Alexander Medvedev et.al.|[2305.11136](http://arxiv.org/abs/2305.11136)|null|
 |**2023-05-17**|**Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes**|Jiang-Tian Zhai et.al.|[2305.10430](http://arxiv.org/abs/2305.10430)|**[link](https://github.com/E2E-AD/AD-MLP)**|
 |**2023-05-17**|**Online data-driven changepoint detection for high-dimensional dynamical systems**|Sen Lin et.al.|[2305.10423](http://arxiv.org/abs/2305.10423)|null|
 |**2023-05-17**|**Evolving Tsukamoto Neuro Fuzzy Model for Multiclass Covid 19 Classification with Chest X Ray Images**|Marziyeh Rezaei et.al.|[2305.10421](http://arxiv.org/abs/2305.10421)|null|
@@ -1301,6 +1357,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947](http://arxiv.org/abs/2305.10947)|null|
+|**2023-05-18**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
 |**2023-05-11**|**Patch-wise Mixed-Precision Quantization of Vision Transformer**|Junrui Xiao et.al.|[2305.06559](http://arxiv.org/abs/2305.06559)|null|
 |**2023-04-18**|**Heterogeneous Integration of In-Memory Analog Computing Architectures with Tensor Processing Units**|Mohammed E. Elbtity et.al.|[2304.09258](http://arxiv.org/abs/2304.09258)|null|
 |**2023-04-13**|**End-to-end codesign of Hessian-aware quantized neural networks for FPGAs and ASICs**|Javier Campos et.al.|[2304.06745](http://arxiv.org/abs/2304.06745)|null|
