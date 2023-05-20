@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.19
+## Updated on 2023.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -97,7 +97,7 @@ layout: default
 |**2023-05-18**|**ProgSG: Cross-Modality Representation Learning for Programs in Electronic Design Automation**|Yunsheng Bai et.al.|[2305.10838](http://arxiv.org/abs/2305.10838)|null|
 |**2023-05-17**|**ACRoBat: Optimizing Auto-batching of Dynamic Deep Learning at Compile Time**|Pratik Fegade et.al.|[2305.10611](http://arxiv.org/abs/2305.10611)|null|
 |**2023-05-17**|**Optimization and Portability of a Fusion OpenACC-based FORTRAN HPC Code from NVIDIA to AMD GPUs**|Igor Sfiligoi et.al.|[2305.10553](http://arxiv.org/abs/2305.10553)|null|
-|**2023-05-17**|**RuLa: A Programming Language for RuleSet-based Quantum Repeaters**|Ryosuke Satoh et.al.|[2305.09895](http://arxiv.org/abs/2305.09895)|null|
+|**2023-05-17**|**RuLa: A Programming Language for RuleSet-based Quantum Repeaters**|Ryosuke Satoh et.al.|[2305.09895](http://arxiv.org/abs/2305.09895)|**[link](https://github.com/chibikuri/rula)**|
 |**2023-05-16**|**An empirical study of dust properties at the earliest epochs**|Joris Witstok et.al.|[2305.09714](http://arxiv.org/abs/2305.09714)|null|
 |**2023-05-16**|**Generate Compilers from Hardware Models!**|Gus Henry Smith et.al.|[2305.09580](http://arxiv.org/abs/2305.09580)|null|
 |**2023-05-16**|**Secure compilation of rich smart contracts on poor UTXO blockchains**|Massimo Bartoletti et.al.|[2305.09545](http://arxiv.org/abs/2305.09545)|null|
