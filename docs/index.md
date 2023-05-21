@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.20
+## Updated on 2023.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -656,7 +656,7 @@ layout: default
 |**2023-05-18**|**TOME: A Two-stage Approach for Model-based Retrieval**|Ruiyang Ren et.al.|[2305.11161](http://arxiv.org/abs/2305.11161)|null|
 |**2023-05-18**|**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot Relation Extractors**|Kai Zhang et.al.|[2305.11159](http://arxiv.org/abs/2305.11159)|**[link](https://github.com/osu-nlp-group/qa4re)**|
 |**2023-05-18**|**Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping**|Haifeng Wen et.al.|[2305.11135](http://arxiv.org/abs/2305.11135)|null|
-|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123](http://arxiv.org/abs/2305.11123)|null|
+|**2023-05-18**|**Satellite Optical Brightness**|Forrest Fankhauser et.al.|[2305.11123](http://arxiv.org/abs/2305.11123)|**[link](https://github.com/forrest-fankhauser/satellite-optical-brightness)**|
 |**2023-05-18**|**Autonomous sputter synthesis of thin film nitrides with composition controlled by Bayesian optimization of optical plasma emission**|Davi M. Febba et.al.|[2305.11122](http://arxiv.org/abs/2305.11122)|null|
 |**2023-05-18**|**A quantum XOR oblivious transfer protocol compatible with classical partially homomorphic encryption**|Li Yu et.al.|[2305.11114](http://arxiv.org/abs/2305.11114)|null|
 |**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101](http://arxiv.org/abs/2305.11101)|null|
