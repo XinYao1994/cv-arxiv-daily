@@ -71,6 +71,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Sample-Efficient Learning for a Surrogate Model of Three-Phase Distribution System**|Hoang Tien Nguyen et.al.|[2305.14799](http://arxiv.org/abs/2305.14799)|null|
+|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|null|
 |**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
 |**2023-05-22**|**Dynamical noise can enhance high-order statistical structure in complex systems**|Patricio Orio et.al.|[2305.13454](http://arxiv.org/abs/2305.13454)|null|
 |**2023-05-22**|**GreenEVT: Greensboro Electric Vehicle Testbed**|Gustav Nilsson et.al.|[2305.12722](http://arxiv.org/abs/2305.12722)|null|
@@ -120,8 +122,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**CHIANTI -- an atomic database for emission lines -- Paper XVII: Version 10.1, revised ionization and recombination rates and other updates**|Kenneth Dere et.al.|[2305.15221](http://arxiv.org/abs/2305.15221)|null|
+|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|null|
+|**2023-05-23**|**TornadoQSim: An Open-source High-Performance and Modular Quantum Circuit Simulation Framework**|Ales Kubicek et.al.|[2305.14398](http://arxiv.org/abs/2305.14398)|null|
 |**2023-05-23**|**Distributed CONGEST Algorithms against Mobile Adversaries**|Orr Fischer et.al.|[2305.14300](http://arxiv.org/abs/2305.14300)|null|
-|**2023-05-23**|**LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages**|Milind Agarwal et.al.|[2305.14263](http://arxiv.org/abs/2305.14263)|null|
+|**2023-05-23**|**LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages**|Milind Agarwal et.al.|[2305.14263](http://arxiv.org/abs/2305.14263)|**[link](https://github.com/magarw/limit)**|
 |**2023-05-23**|**Variational quantum algorithms on cat qubits**|Anne-Solène Bornens et.al.|[2305.14143](http://arxiv.org/abs/2305.14143)|null|
 |**2023-05-23**|**Looking for Traces of Non-minimally Coupled Dark Matter in the X-COP Galaxy Clusters Sample**|Giovanni Gandolfi et.al.|[2305.13974](http://arxiv.org/abs/2305.13974)|null|
 |**2023-05-23**|**Detecting automatically the layout of clinical documents to enhance the performances of downstream natural language processing**|Christel Gérardin et.al.|[2305.13817](http://arxiv.org/abs/2305.13817)|null|
@@ -251,6 +256,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Learning t-doped stabilizer states**|Lorenzo Leone et.al.|[2305.15398](http://arxiv.org/abs/2305.15398)|null|
+|**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
+|**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
+|**2023-05-24**|**On the Minimax Regret for Online Learning with Feedback Graphs**|Khaled Eldowa et.al.|[2305.15383](http://arxiv.org/abs/2305.15383)|null|
+|**2023-05-24**|**Comparison of Data-Driven Approaches to Configuration Space Approximation**|Gabriel Guo et.al.|[2305.15376](http://arxiv.org/abs/2305.15376)|null|
+|**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372](http://arxiv.org/abs/2305.15372)|null|
+|**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371](http://arxiv.org/abs/2305.15371)|null|
+|**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363](http://arxiv.org/abs/2305.15363)|null|
+|**2023-05-24**|**Decomposition of Beatty and Complementary Sequences**|Geremias Polanco et.al.|[2305.15361](http://arxiv.org/abs/2305.15361)|null|
+|**2023-05-24**|**Optimal Rates for Bandit Nonstochastic Control**|Y. Jennifer Sun et.al.|[2305.15352](http://arxiv.org/abs/2305.15352)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343](http://arxiv.org/abs/2305.14343)|null|
 |**2023-05-23**|**Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training**|Hong Liu et.al.|[2305.14342](http://arxiv.org/abs/2305.14342)|null|
 |**2023-05-23**|**Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation**|Shuting He et.al.|[2305.14335](http://arxiv.org/abs/2305.14335)|**[link](https://github.com/heshuting555/pap-fzs3d)**|
@@ -508,6 +523,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**An Efficient Key Management Scheme For In-Vehicle Network**|Hsinlin Tan et.al.|[2305.15396](http://arxiv.org/abs/2305.15396)|null|
+|**2023-05-24**|**High Speed Human Action Recognition using a Photonic Reservoir Computer**|Enrico Picco et.al.|[2305.15283](http://arxiv.org/abs/2305.15283)|null|
+|**2023-05-24**|**Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model**|Zirui Liu et.al.|[2305.15265](http://arxiv.org/abs/2305.15265)|null|
+|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968](http://arxiv.org/abs/2305.14968)|null|
+|**2023-05-24**|**Scalable wavelength-multiplexing photonic reservoir computing**|Rui-Qian Li et.al.|[2305.14927](http://arxiv.org/abs/2305.14927)|null|
+|**2023-05-24**|**Versatile Femtosecond Laser Synchronization for Multiple-Timescale Transient IR Spectroscopy**|Jan Helbing et.al.|[2305.14747](http://arxiv.org/abs/2305.14747)|null|
+|**2023-05-24**|**Barkour: Benchmarking Animal-level Agility with Quadruped Robots**|Ken Caluwaerts et.al.|[2305.14654](http://arxiv.org/abs/2305.14654)|null|
+|**2023-05-23**|**Negative Feedback Training: A Novel Concept to Improve Robustness of NVCiM DNN Accelerators**|Yifan Qin et.al.|[2305.14561](http://arxiv.org/abs/2305.14561)|null|
+|**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547](http://arxiv.org/abs/2305.14547)|null|
+|**2023-05-23**|**Chakra: Advancing Performance Benchmarking and Co-design using Standardized Execution Traces**|Srinivas Sridharan et.al.|[2305.14516](http://arxiv.org/abs/2305.14516)|null|
 |**2023-05-23**|**A Classical Architecture For Digital Quantum Computers**|Fang Zhang et.al.|[2305.14304](http://arxiv.org/abs/2305.14304)|null|
 |**2023-05-23**|**NISQ-compatible approximate quantum algorithm for unconstrained and constrained discrete optimization**|M. R. Perelshtein et.al.|[2305.14197](http://arxiv.org/abs/2305.14197)|null|
 |**2023-05-23**|**Variational quantum algorithms on cat qubits**|Anne-Solène Bornens et.al.|[2305.14143](http://arxiv.org/abs/2305.14143)|null|
@@ -756,6 +781,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403](http://arxiv.org/abs/2305.15403)|null|
+|**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
+|**2023-05-24**|**Outage Tradeoff Analysis in a Downlink Integrated Sensing and Communication Network**|Marziyeh Soltani et.al.|[2305.15388](http://arxiv.org/abs/2305.15388)|null|
+|**2023-05-24**|**Peek Across: Improving Multi-Document Modeling via Cross-Document Question-Answering**|Avi Caciularu et.al.|[2305.15387](http://arxiv.org/abs/2305.15387)|null|
+|**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374](http://arxiv.org/abs/2305.15374)|null|
+|**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363](http://arxiv.org/abs/2305.15363)|null|
+|**2023-05-24**|**Private and Collaborative Kaplan-Meier Estimators**|Shadi Rahimian et.al.|[2305.15359](http://arxiv.org/abs/2305.15359)|null|
+|**2023-05-24**|**Context-Aware Transformer Pre-Training for Answer Sentence Selection**|Luca Di Liello et.al.|[2305.15358](http://arxiv.org/abs/2305.15358)|null|
+|**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
+|**2023-05-24**|**Is Your Model "MADD"? A Novel Metric to Evaluate Algorithmic Fairness for Predictive Student Models**|Mélina Verger et.al.|[2305.15342](http://arxiv.org/abs/2305.15342)|null|
 |**2023-05-23**|**APPLS: A Meta-evaluation Testbed for Plain Language Summarization**|Yue Guo et.al.|[2305.14341](http://arxiv.org/abs/2305.14341)|**[link](https://github.com/linguisticanomalies/appls)**|
 |**2023-05-24**|**Anchor Prediction: Automatic Refinement of Internet Links**|Nelson F. Liu et.al.|[2305.14337](http://arxiv.org/abs/2305.14337)|null|
 |**2023-05-23**|**Schema-Driven Information Extraction from Heterogeneous Tables**|Fan Bai et.al.|[2305.14336](http://arxiv.org/abs/2305.14336)|null|
@@ -1013,6 +1048,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
+|**2023-05-24**|**An Efficient Key Management Scheme For In-Vehicle Network**|Hsinlin Tan et.al.|[2305.15396](http://arxiv.org/abs/2305.15396)|null|
+|**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
+|**2023-05-24**|**Outage Tradeoff Analysis in a Downlink Integrated Sensing and Communication Network**|Marziyeh Soltani et.al.|[2305.15388](http://arxiv.org/abs/2305.15388)|null|
+|**2023-05-24**|**Behavior quantification as the missing link between fields: Tools for digital psychiatry and their role in the future of neurobiology**|Michaela Ennis et.al.|[2305.15385](http://arxiv.org/abs/2305.15385)|null|
+|**2023-05-24**|**Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages**|Khalid Alnajjar et.al.|[2305.15380](http://arxiv.org/abs/2305.15380)|null|
+|**2023-05-24**|**ASPER: Answer Set Programming Enhanced Neural Network Models for Joint Entity-Relation Extraction**|Trung Hoang Le et.al.|[2305.15374](http://arxiv.org/abs/2305.15374)|null|
+|**2023-05-24**|**What can generic neural networks learn from a child's visual experience?**|A. Emin Orhan et.al.|[2305.15372](http://arxiv.org/abs/2305.15372)|null|
+|**2023-05-24**|**Stochastic Unrolled Federated Learning**|Samar Hadou et.al.|[2305.15371](http://arxiv.org/abs/2305.15371)|null|
+|**2023-05-24**|**Deep learning non-local and scalable energy functionals for quantum Ising models**|Emanuele Costa et.al.|[2305.15370](http://arxiv.org/abs/2305.15370)|null|
 |**2023-05-23**|**Siamese Masked Autoencoders**|Agrim Gupta et.al.|[2305.14344](http://arxiv.org/abs/2305.14344)|null|
 |**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338](http://arxiv.org/abs/2305.14338)|null|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
@@ -1270,6 +1315,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan et.al.|[2305.15405](http://arxiv.org/abs/2305.15405)|null|
+|**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403](http://arxiv.org/abs/2305.15403)|null|
+|**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
+|**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
+|**2023-05-24**|**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models**|Weixi Feng et.al.|[2305.15393](http://arxiv.org/abs/2305.15393)|null|
+|**2023-05-24**|**Thermodynamic cost for precision of general counting observables**|Patrick Pietzonka et.al.|[2305.15392](http://arxiv.org/abs/2305.15392)|null|
+|**2023-05-24**|**Machine Learning Prediction of Critical Cooling Rate for Metallic Glasses From Expanded Datasets and Elemental Features**|Benjamin T. Afflerbach et.al.|[2305.15390](http://arxiv.org/abs/2305.15390)|null|
+|**2023-05-24**|**Comparing Humans and Models on a Similar Scale: Towards Cognitive Gender Bias Evaluation in Coreference Resolution**|Gili Lior et.al.|[2305.15389](http://arxiv.org/abs/2305.15389)|null|
+|**2023-05-24**|**Outage Tradeoff Analysis in a Downlink Integrated Sensing and Communication Network**|Marziyeh Soltani et.al.|[2305.15388](http://arxiv.org/abs/2305.15388)|null|
+|**2023-05-24**|**Vistaar: Diverse Benchmarks and Training Sets for Indian Language ASR**|Kaushal Santosh Bhogale et.al.|[2305.15386](http://arxiv.org/abs/2305.15386)|null|
 |**2023-05-23**|**A model of replicating coupled oscillators generates naturally occurring cell networks**|Matthew Smart et.al.|[2305.14338](http://arxiv.org/abs/2305.14338)|null|
 |**2023-05-23**|**Evaluating and Modeling Attribution for Cross-Lingual Question Answering**|Benjamin Muller et.al.|[2305.14332](http://arxiv.org/abs/2305.14332)|null|
 |**2023-05-23**|**What Else Do I Need to Know? The Effect of Background Information on Users' Reliance on AI Systems**|Navita Goyal et.al.|[2305.14331](http://arxiv.org/abs/2305.14331)|null|
@@ -1527,6 +1582,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547](http://arxiv.org/abs/2305.14547)|null|
 |**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947](http://arxiv.org/abs/2305.10947)|null|
 |**2023-05-18**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
 |**2023-05-11**|**Patch-wise Mixed-Precision Quantization of Vision Transformer**|Junrui Xiao et.al.|[2305.06559](http://arxiv.org/abs/2305.06559)|null|
