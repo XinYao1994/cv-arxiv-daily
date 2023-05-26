@@ -122,6 +122,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**Neural network reconstruction of cosmology using the Pantheon Compilation**|Konstantinos F. Dialektopoulos et.al.|[2305.15499](http://arxiv.org/abs/2305.15499)|null|
+|**2023-05-24**|**Predictions for the sPHENIX physics program**|Ron Belmont et.al.|[2305.15491](http://arxiv.org/abs/2305.15491)|null|
 |**2023-05-24**|**CHIANTI -- an atomic database for emission lines -- Paper XVII: Version 10.1, revised ionization and recombination rates and other updates**|Kenneth Dere et.al.|[2305.15221](http://arxiv.org/abs/2305.15221)|null|
 |**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|null|
 |**2023-05-23**|**TornadoQSim: An Open-source High-Performance and Modular Quantum Circuit Simulation Framework**|Ales Kubicek et.al.|[2305.14398](http://arxiv.org/abs/2305.14398)|null|
@@ -256,6 +258,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**|Tzvika Geft et.al.|[2305.16303](http://arxiv.org/abs/2305.16303)|null|
+|**2023-05-25**|**Affine Standard Lyndon words: A-type**|Yehor Avdieiev et.al.|[2305.16299](http://arxiv.org/abs/2305.16299)|null|
+|**2023-05-25**|**Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?**|Yutong He et.al.|[2305.16297](http://arxiv.org/abs/2305.16297)|null|
+|**2023-05-25**|**A Guide Through the Zoo of Biased SGD**|Yury Demidovich et.al.|[2305.16296](http://arxiv.org/abs/2305.16296)|**[link](https://github.com/igorsokoloff/guide-biased-sgd-experiments)**|
+|**2023-05-25**|**DoWG Unleashed: An Efficient Universal Parameter-Free Gradient Descent Method**|Ahmed Khaled et.al.|[2305.16284](http://arxiv.org/abs/2305.16284)|null|
+|**2023-05-25**|**CENSUS-HWR: a large training dataset for offline handwriting recognition**|Chetan Joshi et.al.|[2305.16275](http://arxiv.org/abs/2305.16275)|null|
+|**2023-05-25**|**Tree independence number for (even hole, diamond, pyramid)-free graphs**|Tara Abrishami et.al.|[2305.16258](http://arxiv.org/abs/2305.16258)|null|
+|**2023-05-25**|**Fast Online Node Labeling for Very Large Graphs**|Baojian Zhou et.al.|[2305.16257](http://arxiv.org/abs/2305.16257)|null|
+|**2023-05-25**|**On the $n$ -attack Roman Dominating Number of a Graph**|Garrison Koch et.al.|[2305.16256](http://arxiv.org/abs/2305.16256)|null|
+|**2023-05-25**|**Persistent Laplacian-enhanced Algorithm for Scarcely Labeled Data Classification**|Gokul Bhusal et.al.|[2305.16239](http://arxiv.org/abs/2305.16239)|null|
 |**2023-05-25**|**Learning t-doped stabilizer states**|Lorenzo Leone et.al.|[2305.15398](http://arxiv.org/abs/2305.15398)|null|
 |**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
 |**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
@@ -523,6 +535,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**A New Forced Photometry Service for the Zwicky Transient Facility**|Frank J. Masci et.al.|[2305.16279](http://arxiv.org/abs/2305.16279)|null|
+|**2023-05-25**|**A Survey of Security Concerns and Countermeasures in Modern Micro-architectures with Transient Execution**|Nikhilesh Singh et.al.|[2305.16251](http://arxiv.org/abs/2305.16251)|null|
+|**2023-05-25**|**Modeling and Control of a novel Variable Stiffness three DoF Wrist**|Giuseppe Milazzo et.al.|[2305.16154](http://arxiv.org/abs/2305.16154)|null|
+|**2023-05-25**|**An Overview of FPGA-inspired Obfuscation Techniques**|Zain Ul Abideen et.al.|[2305.15999](http://arxiv.org/abs/2305.15999)|null|
+|**2023-05-25**|**ACAI: Extending Arm Confidential Computing Architecture Protection from CPUs to Accelerators**|Supraja Sridhara et.al.|[2305.15986](http://arxiv.org/abs/2305.15986)|null|
+|**2023-05-25**|**Near-Perfect Logical Magic State Preparation on a Superconducting Quantum Processor**|Yangsen Ye et.al.|[2305.15972](http://arxiv.org/abs/2305.15972)|null|
+|**2023-05-25**|**A Universal Quantum Technology Education Program**|Sanjay Vishwakarma et.al.|[2305.15959](http://arxiv.org/abs/2305.15959)|null|
+|**2023-05-25**|**Applications of Intelligent Systems in Green Technology**|Sahil Mishra et.al.|[2305.15884](http://arxiv.org/abs/2305.15884)|null|
+|**2023-05-25**|**A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes**|Mengyu Zhang et.al.|[2305.15767](http://arxiv.org/abs/2305.15767)|null|
+|**2023-05-25**|**Vehicle-in-Virtual-Environment (VVE)**|Xincheng Cao et.al.|[2305.15635](http://arxiv.org/abs/2305.15635)|null|
 |**2023-05-24**|**An Efficient Key Management Scheme For In-Vehicle Network**|Hsinlin Tan et.al.|[2305.15396](http://arxiv.org/abs/2305.15396)|null|
 |**2023-05-24**|**High Speed Human Action Recognition using a Photonic Reservoir Computer**|Enrico Picco et.al.|[2305.15283](http://arxiv.org/abs/2305.15283)|null|
 |**2023-05-24**|**Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model**|Zirui Liu et.al.|[2305.15265](http://arxiv.org/abs/2305.15265)|null|
@@ -781,6 +803,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312](http://arxiv.org/abs/2305.16312)|null|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
+|**2023-05-25**|**Unbiased Compression Saves Communication in Distributed Optimization: When and How Much?**|Yutong He et.al.|[2305.16297](http://arxiv.org/abs/2305.16297)|null|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**Weakly-Supervised Speech Pre-training: A Case Study on Target Speech Recognition**|Wangyou Zhang et.al.|[2305.16286](http://arxiv.org/abs/2305.16286)|null|
+|**2023-05-25**|**Knot Floer homology as immersed curves**|Jonathan Hanselman et.al.|[2305.16271](http://arxiv.org/abs/2305.16271)|null|
+|**2023-05-25**|**Understanding Idea Creation in Collaborative Discourse through Networks: The Joint Attention-Interaction-Creation (AIC) Framework**|Xinran Zhu et.al.|[2305.16262](http://arxiv.org/abs/2305.16262)|null|
+|**2023-05-25**|**Overcoming Catastrophic Forgetting in Massively Multilingual Continual Learning**|Genta Indra Winata et.al.|[2305.16252](http://arxiv.org/abs/2305.16252)|null|
+|**2023-05-25**|**A Survey of Security Concerns and Countermeasures in Modern Micro-architectures with Transient Execution**|Nikhilesh Singh et.al.|[2305.16251](http://arxiv.org/abs/2305.16251)|null|
+|**2023-05-25**|**Hate Raids on Twitch: Understanding Real-Time Human-Bot Coordinated Attacks in Live Streaming Communities**|Jie Cai et.al.|[2305.16248](http://arxiv.org/abs/2305.16248)|null|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403](http://arxiv.org/abs/2305.15403)|null|
 |**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
 |**2023-05-24**|**Outage Tradeoff Analysis in a Downlink Integrated Sensing and Communication Network**|Marziyeh Soltani et.al.|[2305.15388](http://arxiv.org/abs/2305.15388)|null|
@@ -1048,6 +1080,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Image is First-order Norm+Linear Autoregressive**|Yinpeng Chen et.al.|[2305.16319](http://arxiv.org/abs/2305.16319)|null|
+|**2023-05-25**|**Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation**|Shilin Yan et.al.|[2305.16318](http://arxiv.org/abs/2305.16318)|**[link](https://github.com/opengvlab/mutr)**|
+|**2023-05-25**|**Making Vision Transformers Truly Shift-Equivariant**|Renan A. Rojas-Gomez et.al.|[2305.16316](http://arxiv.org/abs/2305.16316)|null|
+|**2023-05-25**|**NAP: Neural 3D Articulation Prior**|Jiahui Lei et.al.|[2305.16315](http://arxiv.org/abs/2305.16315)|null|
+|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314](http://arxiv.org/abs/2305.16314)|null|
+|**2023-05-25**|**UMat: Uncertainty-Aware Single Image High Resolution Material Capture**|Carlos Rodriguez-Pardo et.al.|[2305.16312](http://arxiv.org/abs/2305.16312)|null|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
+|**2023-05-25**|**Sharpness-Aware Minimization Leads to Low-Rank Features**|Maksym Andriushchenko et.al.|[2305.16292](http://arxiv.org/abs/2305.16292)|**[link](https://github.com/tml-epfl/sam-low-rank-features)**|
+|**2023-05-25**|**Phase-Based Breathing Rate Monitoring in Patient Rooms Using 6G Terahertz Technology**|Simon Haeger et.al.|[2305.16288](http://arxiv.org/abs/2305.16288)|null|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
 |**2023-05-24**|**An Efficient Key Management Scheme For In-Vehicle Network**|Hsinlin Tan et.al.|[2305.15396](http://arxiv.org/abs/2305.15396)|null|
 |**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
@@ -1315,6 +1357,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Observation of the Fermionic Joule-Thomson Effect**|Yunpeng Ji et.al.|[2305.16320](http://arxiv.org/abs/2305.16320)|null|
+|**2023-05-25**|**Banana: Banach Fixed-Point Network for Pointcloud Segmentation with Inter-Part Equivariance**|Congyue Deng et.al.|[2305.16314](http://arxiv.org/abs/2305.16314)|null|
+|**2023-05-25**|**Imitating Task and Motion Planning with Visuomotor Transformers**|Murtaza Dalal et.al.|[2305.16309](http://arxiv.org/abs/2305.16309)|null|
+|**2023-05-25**|**IndicTrans2: Towards High-Quality and Accessible Machine Translation Models for all 22 Scheduled Indian Languages**|AI4Bharat et.al.|[2305.16307](http://arxiv.org/abs/2305.16307)|**[link](https://github.com/ai4bharat/indictrans2)**|
+|**2023-05-25**|**Excitonic phases in a spatially separated electron-hole ladder model**|DinhDuy Vu et.al.|[2305.16305](http://arxiv.org/abs/2305.16305)|null|
+|**2023-05-25**|**Fine-Grained Complexity Analysis of Multi-Agent Path Finding on 2D Grids**|Tzvika Geft et.al.|[2305.16303](http://arxiv.org/abs/2305.16303)|null|
+|**2023-05-25**|**Landmark Attention: Random-Access Infinite Context Length for Transformers**|Amirkeivan Mohtashami et.al.|[2305.16300](http://arxiv.org/abs/2305.16300)|null|
+|**2023-05-25**|**Effective flipping, skewering and rank rigidity for cubulated groups with factor systems**|Abdul Zalloum et.al.|[2305.16298](http://arxiv.org/abs/2305.16298)|null|
+|**2023-05-25**|**Phase-Based Breathing Rate Monitoring in Patient Rooms Using 6G Terahertz Technology**|Simon Haeger et.al.|[2305.16288](http://arxiv.org/abs/2305.16288)|null|
+|**2023-05-25**|**Discovery of two rotational modulation periods from a young hierarchical triple system**|Yu-Tao Chen et.al.|[2305.16287](http://arxiv.org/abs/2305.16287)|null|
 |**2023-05-24**|**Unit-based Speech-to-Speech Translation Without Parallel Data**|Anuj Diwan et.al.|[2305.15405](http://arxiv.org/abs/2305.15405)|null|
 |**2023-05-24**|**AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation**|Rongjie Huang et.al.|[2305.15403](http://arxiv.org/abs/2305.15403)|null|
 |**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
@@ -1582,6 +1634,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-24**|**RAND: Robustness Aware Norm Decay For Quantized Seq2seq Models**|David Qiu et.al.|[2305.15536](http://arxiv.org/abs/2305.15536)|null|
 |**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547](http://arxiv.org/abs/2305.14547)|null|
 |**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947](http://arxiv.org/abs/2305.10947)|null|
 |**2023-05-18**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
