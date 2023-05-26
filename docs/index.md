@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -20,7 +20,7 @@ layout: default
 |**2023-05-11**|**GPU-initiated Fine-grained Overlap of Collective Communication with Computation**|Kishore Punniyamurthy et.al.|[2305.06942](http://arxiv.org/abs/2305.06942)|null|
 |**2023-05-10**|**P4SGD: Programmable Switch Enhanced Model-Parallel Training on Generalized Linear Models on Distributed FPGAs**|Hongjing Huang et.al.|[2305.05885](http://arxiv.org/abs/2305.05885)|null|
 |**2023-04-11**|**TACOS: Topology-Aware Collective Algorithm Synthesizer for Distributed Training**|William Won et.al.|[2304.05301](http://arxiv.org/abs/2304.05301)|null|
-|**2023-04-08**|**C-Coll: Introducing Error-bounded Lossy Compression into MPI Collectives**|Jiajun Huang et.al.|[2304.03890](http://arxiv.org/abs/2304.03890)|null|
+|**2023-05-25**|**C-Coll: Introducing Error-bounded Lossy Compression into MPI Collectives**|Jiajun Huang et.al.|[2304.03890](http://arxiv.org/abs/2304.03890)|null|
 |**2023-04-07**|**CrossCode: Multi-level Visualization of Program Execution**|Devamardeep Hayatpur et.al.|[2304.03445](http://arxiv.org/abs/2304.03445)|null|
 |**2023-03-24**|**ASTRA-sim2.0: Modeling Hierarchical Networks and Disaggregated Systems for Large-model Training at Scale**|William Won et.al.|[2303.14006](http://arxiv.org/abs/2303.14006)|null|
 |**2023-02-04**|**WHYPE: A Scale-Out Architecture with Wireless Over-the-Air Majority for Scalable In-memory Hyperdimensional Computing**|Robert Guirado et.al.|[2303.08067](http://arxiv.org/abs/2303.08067)|null|
@@ -236,7 +236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-24**|**Learning t-doped stabilizer states**|Lorenzo Leone et.al.|[2305.15398](http://arxiv.org/abs/2305.15398)|null|
+|**2023-05-25**|**Learning t-doped stabilizer states**|Lorenzo Leone et.al.|[2305.15398](http://arxiv.org/abs/2305.15398)|null|
 |**2023-05-24**|**Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network**|Linwei Sang et.al.|[2305.15395](http://arxiv.org/abs/2305.15395)|null|
 |**2023-05-24**|**Differentially-Private Decision Trees with Probabilistic Robustness to Data Poisoning**|Daniël Vos et.al.|[2305.15394](http://arxiv.org/abs/2305.15394)|null|
 |**2023-05-24**|**On the Minimax Regret for Online Learning with Feedback Graphs**|Khaled Eldowa et.al.|[2305.15383](http://arxiv.org/abs/2305.15383)|null|
@@ -504,7 +504,7 @@ layout: default
 |**2023-05-24**|**An Efficient Key Management Scheme For In-Vehicle Network**|Hsinlin Tan et.al.|[2305.15396](http://arxiv.org/abs/2305.15396)|null|
 |**2023-05-24**|**High Speed Human Action Recognition using a Photonic Reservoir Computer**|Enrico Picco et.al.|[2305.15283](http://arxiv.org/abs/2305.15283)|null|
 |**2023-05-24**|**Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model**|Zirui Liu et.al.|[2305.15265](http://arxiv.org/abs/2305.15265)|null|
-|**2023-05-24**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968](http://arxiv.org/abs/2305.14968)|null|
+|**2023-05-25**|**EnergyAnalyzer: Using Static WCET Analysis Techniques to Estimate the Energy Consumption of Embedded Applications**|Simon Wegener et.al.|[2305.14968](http://arxiv.org/abs/2305.14968)|null|
 |**2023-05-24**|**Scalable wavelength-multiplexing photonic reservoir computing**|Rui-Qian Li et.al.|[2305.14927](http://arxiv.org/abs/2305.14927)|null|
 |**2023-05-24**|**Versatile Femtosecond Laser Synchronization for Multiple-Timescale Transient IR Spectroscopy**|Jan Helbing et.al.|[2305.14747](http://arxiv.org/abs/2305.14747)|null|
 |**2023-05-24**|**Barkour: Benchmarking Animal-level Agility with Quadruped Robots**|Ken Caluwaerts et.al.|[2305.14654](http://arxiv.org/abs/2305.14654)|null|
