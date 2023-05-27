@@ -72,7 +72,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-24**|**Sample-Efficient Learning for a Surrogate Model of Three-Phase Distribution System**|Hoang Tien Nguyen et.al.|[2305.14799](http://arxiv.org/abs/2305.14799)|null|
-|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|null|
+|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|**[link](https://github.com/hydro-project/hydroflow)**|
 |**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
 |**2023-05-22**|**Dynamical noise can enhance high-order statistical structure in complex systems**|Patricio Orio et.al.|[2305.13454](http://arxiv.org/abs/2305.13454)|null|
 |**2023-05-22**|**GreenEVT: Greensboro Electric Vehicle Testbed**|Gustav Nilsson et.al.|[2305.12722](http://arxiv.org/abs/2305.12722)|null|
@@ -125,7 +125,7 @@
 |**2023-05-24**|**Neural network reconstruction of cosmology using the Pantheon Compilation**|Konstantinos F. Dialektopoulos et.al.|[2305.15499](http://arxiv.org/abs/2305.15499)|null|
 |**2023-05-24**|**Predictions for the sPHENIX physics program**|Ron Belmont et.al.|[2305.15491](http://arxiv.org/abs/2305.15491)|null|
 |**2023-05-24**|**CHIANTI -- an atomic database for emission lines -- Paper XVII: Version 10.1, revised ionization and recombination rates and other updates**|Kenneth Dere et.al.|[2305.15221](http://arxiv.org/abs/2305.15221)|null|
-|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|null|
+|**2023-05-24**|**Invited Paper: Initial Steps Toward a Compiler for Distributed Programs**|Joseph M. Hellerstein et.al.|[2305.14614](http://arxiv.org/abs/2305.14614)|**[link](https://github.com/hydro-project/hydroflow)**|
 |**2023-05-23**|**TornadoQSim: An Open-source High-Performance and Modular Quantum Circuit Simulation Framework**|Ales Kubicek et.al.|[2305.14398](http://arxiv.org/abs/2305.14398)|null|
 |**2023-05-23**|**Distributed CONGEST Algorithms against Mobile Adversaries**|Orr Fischer et.al.|[2305.14300](http://arxiv.org/abs/2305.14300)|null|
 |**2023-05-23**|**LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages**|Milind Agarwal et.al.|[2305.14263](http://arxiv.org/abs/2305.14263)|**[link](https://github.com/magarw/limit)**|
