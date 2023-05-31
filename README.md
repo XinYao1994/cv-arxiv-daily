@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Bandwidth Optimal Pipeline Schedule for Collective Communication**|Liangyu Zhao et.al.|[2305.18461](http://arxiv.org/abs/2305.18461)|null|
 |**2023-05-22**|**Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem**|Behnaz Arzani et.al.|[2305.13479](http://arxiv.org/abs/2305.13479)|null|
 |**2023-05-15**|**FMI: Fast and Cheap Message Passing for Serverless Functions**|Marcin Copik et.al.|[2305.08763](http://arxiv.org/abs/2305.08763)|**[link](https://github.com/spcl/fmi)**|
 |**2023-05-15**|**Kugelblitz: Streamlining Reconfigurable Packet Processing Pipeline Design and Evaluation**|Artem Ageev et.al.|[2305.08435](http://arxiv.org/abs/2305.08435)|null|
@@ -71,6 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235](http://arxiv.org/abs/2305.19235)|null|
+|**2023-05-24**|**Reconfigurable Distributed FPGA Cluster Design for Deep Learning Accelerators**|Hans Johnson et.al.|[2305.18332](http://arxiv.org/abs/2305.18332)|null|
 |**2023-05-30**|**Trace models of concurrent valuation algebras**|Nasos Evangelou-Oost et.al.|[2305.18017](http://arxiv.org/abs/2305.18017)|null|
 |**2023-05-29**|**On the Minimal Knowledge Required for Solving Stellar Consensus**|Robin Vassantlal et.al.|[2305.17989](http://arxiv.org/abs/2305.17989)|null|
 |**2023-05-28**|**Transfer Learning for Power Outage Detection Task with Limited Training Data**|Olukunle Owolabi et.al.|[2305.17817](http://arxiv.org/abs/2305.17817)|null|
@@ -126,6 +129,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Combining Matrix Product States and Noisy Quantum Computers for Quantum Simulation**|Baptiste Anselme Martin et.al.|[2305.19231](http://arxiv.org/abs/2305.19231)|null|
+|**2023-05-30**|**Unsupervised Melody-to-Lyric Generation**|Yufei Tian et.al.|[2305.19228](http://arxiv.org/abs/2305.19228)|null|
+|**2023-05-30**|**Integrating Logic Rules with Everything Else, Seamlessly**|Yanhong A. Liu et.al.|[2305.19202](http://arxiv.org/abs/2305.19202)|null|
+|**2023-05-29**|**ANPL: Compiling Natural Programs with Interactive Decomposition**|Di Huang et.al.|[2305.18498](http://arxiv.org/abs/2305.18498)|null|
 |**2023-05-29**|**Quafu-Qcover: Explore Combinatorial Optimization Problems on Cloud-based Quantum Computers**|BAQIS Quafu Group et.al.|[2305.17979](http://arxiv.org/abs/2305.17979)|null|
 |**2023-05-28**|**The use of Ethnomedicinal plants in Indigenous Health Care Practice of the Hajong Tribe community in Durgapur, Bangladesh**|Ashik Saha et.al.|[2305.17756](http://arxiv.org/abs/2305.17756)|null|
 |**2023-05-28**|**EvIcon: Designing High-Usability Icon with Human-in-the-loop Exploration and IconCLIP**|I-Chao Shen et.al.|[2305.17609](http://arxiv.org/abs/2305.17609)|null|
@@ -272,6 +279,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with Arbitrary Data Orders**|Anastasia Koloskova et.al.|[2305.19259](http://arxiv.org/abs/2305.19259)|null|
+|**2023-05-30**|**On the Approximability of External-Influence-Driven Problems**|Panagiotis Aivasiliotis et.al.|[2305.19251](http://arxiv.org/abs/2305.19251)|null|
+|**2023-05-30**|**Auto-tune: PAC-Bayes Optimization over Prior and Posterior for Neural Networks**|Xitong Zhang et.al.|[2305.19243](http://arxiv.org/abs/2305.19243)|null|
+|**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223](http://arxiv.org/abs/2305.19223)|null|
+|**2023-05-30**|**Universal Quantum Computation in Globally Driven Rydberg Atom Arrays**|Francesco Cesa et.al.|[2305.19220](http://arxiv.org/abs/2305.19220)|null|
+|**2023-05-30**|**Adversarial Attacks on Online Learning to Rank with Stochastic Click Models**|Zichen Wang et.al.|[2305.19218](http://arxiv.org/abs/2305.19218)|null|
+|**2023-05-30**|**Design and implementation of intelligent packet filtering in IoT microcontroller-based devices**|Gustavo de Carvalho Bertoli et.al.|[2305.19214](http://arxiv.org/abs/2305.19214)|**[link](https://github.com/c2dc/t800)**|
+|**2023-05-30**|**Solving Projected Model Counting by Utilizing Treewidth and its Limits**|Johannes K. Fichte et.al.|[2305.19212](http://arxiv.org/abs/2305.19212)|null|
+|**2023-05-30**|**COVID-19 Detection from Mass Spectra of Exhaled Breath**|Nicolò Bellarmino et.al.|[2305.19211](http://arxiv.org/abs/2305.19211)|null|
+|**2023-05-30**|**Fast global convergence of gradient descent for low-rank matrix approximation**|Hengchao Chen et.al.|[2305.19206](http://arxiv.org/abs/2305.19206)|null|
 |**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290](http://arxiv.org/abs/2305.18290)|null|
 |**2023-05-29**|**Linearizability of flows by embeddings**|Matthew D. Kvalheim et.al.|[2305.18288](http://arxiv.org/abs/2305.18288)|null|
 |**2023-05-29**|**Partially Personalized Federated Learning: Breaking the Curse of Data Heterogeneity**|Konstantin Mishchenko et.al.|[2305.18285](http://arxiv.org/abs/2305.18285)|null|
@@ -569,6 +586,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Forward-Forward Training of an Optical Neural Network**|Ilker Oguz et.al.|[2305.19170](http://arxiv.org/abs/2305.19170)|null|
+|**2023-05-30**|**A Versatile Wireless Network Protocol for Spectrum Sharing with Passive Radio Services**|Ashton Palacios et.al.|[2305.19105](http://arxiv.org/abs/2305.19105)|null|
+|**2023-05-30**|**NicePIM: Design Space Exploration for Processing-In-Memory DNN Accelerators with 3D-Stacked-DRAM**|Junpeng Wang et.al.|[2305.19041](http://arxiv.org/abs/2305.19041)|null|
+|**2023-05-30**|**Mixed Precision Rayleigh Quotient Iteration for Total Least Squares Problems**|Eda Oktay et.al.|[2305.19028](http://arxiv.org/abs/2305.19028)|null|
+|**2023-05-30**|**Quantum Convolutional Neural Networks for Multi-Channel Supervised Learning**|Anthony M. Smaldone et.al.|[2305.18961](http://arxiv.org/abs/2305.18961)|**[link](https://github.com/anthonysmaldone/qcnn-multi-channel-supervised-learning)**|
+|**2023-05-30**|**Low-Range-Sidelobe Waveform Design for MIMO-OFDM ISAC Systems**|Peishi Li et.al.|[2305.18847](http://arxiv.org/abs/2305.18847)|null|
+|**2023-05-30**|**Convolutional Monge Mapping Normalization for learning on biosignals**|Gnassounou Théo et.al.|[2305.18831](http://arxiv.org/abs/2305.18831)|null|
+|**2023-05-30**|**Improving Performance in Combinatorial Optimization Problems with Inequality Constraints: An Evaluation of the Unbalanced Penalization Method on D-Wave Advantage**|J. A. Montanez-Barrera et.al.|[2305.18757](http://arxiv.org/abs/2305.18757)|null|
+|**2023-05-30**|**Algorithmic Foundations of Inexact Computing**|John Augustine et.al.|[2305.18705](http://arxiv.org/abs/2305.18705)|null|
+|**2023-05-30**|**AutoMM: Energy-Efficient Multi-Data-Type Matrix Multiply Design on Heterogeneous Programmable System-on-Chip**|Jinming Zhuang et.al.|[2305.18698](http://arxiv.org/abs/2305.18698)|null|
 |**2023-05-29**|**HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition**|Florian Mai et.al.|[2305.18281](http://arxiv.org/abs/2305.18281)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**CPU-GPU Heterogeneous Code Acceleration of a Finite Volume Computational Fluid Dynamics Solver**|Weicheng Xue et.al.|[2305.18057](http://arxiv.org/abs/2305.18057)|null|
 |**2023-05-29**|**Quafu-Qcover: Explore Combinatorial Optimization Problems on Cloud-based Quantum Computers**|BAQIS Quafu Group et.al.|[2305.17979](http://arxiv.org/abs/2305.17979)|null|
@@ -854,6 +881,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271](http://arxiv.org/abs/2305.19271)|**[link](https://github.com/acpotluri/lfqa_summary)**|
+|**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270](http://arxiv.org/abs/2305.19270)|null|
+|**2023-05-30**|**Mid-circuit operations using the omg-architecture in neutral atom arrays**|Joanna W. Lis et.al.|[2305.19266](http://arxiv.org/abs/2305.19266)|null|
+|**2023-05-30**|**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**|Giannis Daras et.al.|[2305.19256](http://arxiv.org/abs/2305.19256)|**[link](https://github.com/giannisdaras/ambient-diffusion)**|
+|**2023-05-30**|**Microwave-to-optical conversion in a room-temperature $^{87}$ Rb vapor with frequency-division multiplexing control**|Benjamin D. Smith et.al.|[2305.19221](http://arxiv.org/abs/2305.19221)|null|
+|**2023-05-30**|**SWiPE: A Dataset for Document-Level Simplification of Wikipedia Pages**|Philippe Laban et.al.|[2305.19204](http://arxiv.org/abs/2305.19204)|**[link](https://github.com/salesforce/simplification)**|
+|**2023-05-30**|**Hybrid variational quantum eigensolvers: merging computational models**|Albie Chan et.al.|[2305.19200](http://arxiv.org/abs/2305.19200)|null|
+|**2023-05-30**|**Inferring Private Personal Attributes of Virtual Reality Users from Head and Hand Motion Data**|Vivek Nair et.al.|[2305.19198](http://arxiv.org/abs/2305.19198)|null|
+|**2023-05-30**|**PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation**|Jialu Li et.al.|[2305.19195](http://arxiv.org/abs/2305.19195)|null|
+|**2023-05-30**|**FakeSwarm: Improving Fake News Detection with Swarming Characteristics**|Jun Wu et.al.|[2305.19194](http://arxiv.org/abs/2305.19194)|null|
 |**2023-05-29**|**Transfer of quantum states and stationary quantum correlations in a hybrid optomechanical network**|Hugo Molinares et.al.|[2305.18291](http://arxiv.org/abs/2305.18291)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283](http://arxiv.org/abs/2305.18283)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti et.al.|[2305.18274](http://arxiv.org/abs/2305.18274)|null|
@@ -1151,6 +1188,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265](http://arxiv.org/abs/2305.19265)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-30**|**Shuffle SGD is Always Better than SGD: Improved Analysis of SGD with Arbitrary Data Orders**|Anastasia Koloskova et.al.|[2305.19259](http://arxiv.org/abs/2305.19259)|null|
+|**2023-05-30**|**What Can We Learn from Unlearnable Datasets?**|Pedro Sandoval-Segura et.al.|[2305.19254](http://arxiv.org/abs/2305.19254)|null|
+|**2023-05-30**|**AlteredAvatar: Stylizing Dynamic 3D Avatars with Fast Style Adaptation**|Thu Nguyen-Phuoc et.al.|[2305.19245](http://arxiv.org/abs/2305.19245)|null|
+|**2023-05-30**|**Auto-tune: PAC-Bayes Optimization over Prior and Posterior for Neural Networks**|Xitong Zhang et.al.|[2305.19243](http://arxiv.org/abs/2305.19243)|null|
+|**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235](http://arxiv.org/abs/2305.19235)|null|
+|**2023-05-30**|**q-neighbor Ising model on a polarized network**|Julian Sienkiewicz et.al.|[2305.19233](http://arxiv.org/abs/2305.19233)|null|
+|**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223](http://arxiv.org/abs/2305.19223)|null|
+|**2023-05-30**|**Design and implementation of intelligent packet filtering in IoT microcontroller-based devices**|Gustavo de Carvalho Bertoli et.al.|[2305.19214](http://arxiv.org/abs/2305.19214)|**[link](https://github.com/c2dc/t800)**|
+|**2023-05-30**|**Third-order topological insulator induced by disorder**|Hugo Lóio et.al.|[2305.19209](http://arxiv.org/abs/2305.19209)|null|
 |**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295](http://arxiv.org/abs/2305.18295)|null|
 |**2023-05-29**|**Transfer of quantum states and stationary quantum correlations in a hybrid optomechanical network**|Hugo Molinares et.al.|[2305.18291](http://arxiv.org/abs/2305.18291)|null|
 |**2023-05-29**|**Development of a ROS-based Architecture for Intelligent Autonomous on Demand Last Mile Delivery**|Georg Novtony et.al.|[2305.18276](http://arxiv.org/abs/2305.18276)|null|
@@ -1448,6 +1495,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Concise Answers to Complex Questions: Summarization of Long-form Answers**|Abhilash Potluri et.al.|[2305.19271](http://arxiv.org/abs/2305.19271)|**[link](https://github.com/acpotluri/lfqa_summary)**|
+|**2023-05-30**|**Learning without Forgetting for Vision-Language Models**|Da-Wei Zhou et.al.|[2305.19270](http://arxiv.org/abs/2305.19270)|null|
+|**2023-05-30**|**Probabilistic Computation with Emerging Covariance: towards efficient uncertainty quantification**|Hengyuan Ma et.al.|[2305.19265](http://arxiv.org/abs/2305.19265)|**[link](https://github.com/awakermhy/probabilistic-computing-mnn)**|
+|**2023-05-30**|**Stochastic Model Predictive Control with Dynamic Chance Constraints**|Maico Hendrikus Wilhelmus Engelaar et.al.|[2305.19262](http://arxiv.org/abs/2305.19262)|null|
+|**2023-05-30**|**Microfluidics Generation of Millimeter-sized Matrigel Droplets**|Cory Arnold et.al.|[2305.19261](http://arxiv.org/abs/2305.19261)|null|
+|**2023-05-30**|**A Stutter Seldom Comes Alone -- Cross-Corpus Stuttering Detection as a Multi-label Problem**|Sebastian P. Bayerl et.al.|[2305.19255](http://arxiv.org/abs/2305.19255)|null|
+|**2023-05-30**|**Accountable authentication with privacy protection: The Larch system for universal login**|Emma Dauterman et.al.|[2305.19241](http://arxiv.org/abs/2305.19241)|null|
+|**2023-05-30**|**Two-phase free boundary problems for a class of fully nonlinear double-divergence systems**|Pêdra D. S. Andrade et.al.|[2305.19236](http://arxiv.org/abs/2305.19236)|null|
+|**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235](http://arxiv.org/abs/2305.19235)|null|
+|**2023-05-30**|**q-neighbor Ising model on a polarized network**|Julian Sienkiewicz et.al.|[2305.19233](http://arxiv.org/abs/2305.19233)|null|
 |**2023-05-29**|**Linearizability of flows by embeddings**|Matthew D. Kvalheim et.al.|[2305.18288](http://arxiv.org/abs/2305.18288)|null|
 |**2023-05-29**|**CommonAccent: Exploring Large Acoustic Pretrained Models for Accent Classification Based on Common Voice**|Juan Zuluaga-Gomez et.al.|[2305.18283](http://arxiv.org/abs/2305.18283)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2023-05-29**|**HyperConformer: Multi-head HyperMixer for Efficient Speech Recognition**|Florian Mai et.al.|[2305.18281](http://arxiv.org/abs/2305.18281)|**[link](https://github.com/speechbrain/speechbrain)**|
@@ -1745,6 +1802,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Mixed Precision Rayleigh Quotient Iteration for Total Least Squares Problems**|Eda Oktay et.al.|[2305.19028](http://arxiv.org/abs/2305.19028)|null|
 |**2023-05-24**|**RAND: Robustness Aware Norm Decay For Quantized Seq2seq Models**|David Qiu et.al.|[2305.15536](http://arxiv.org/abs/2305.15536)|null|
 |**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547](http://arxiv.org/abs/2305.14547)|null|
 |**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947](http://arxiv.org/abs/2305.10947)|null|
