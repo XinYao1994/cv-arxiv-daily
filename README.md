@@ -623,7 +623,7 @@
 |**2023-06-01**|**LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing**|Leonard Hackel et.al.|[2306.00758](http://arxiv.org/abs/2306.00758)|null|
 |**2023-06-01**|**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models**|Ruibin Li et.al.|[2306.00714](http://arxiv.org/abs/2306.00714)|null|
 |**2023-06-01**|**Green Segment Routing for Improved Sustainability of Backbone Networks**|Daniel Otten et.al.|[2306.00681](http://arxiv.org/abs/2306.00681)|null|
-|**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|null|
+|**2023-06-01**|**Wuerstchen: Efficient Pretraining of Text-to-Image Models**|Pablo Pernias et.al.|[2306.00637](http://arxiv.org/abs/2306.00637)|**[link](https://github.com/dome272/wuerstchen)**|
 |**2023-06-01**|**Low-Cost GNSS Simulators with Wireless Clock Synchronization for Indoor Positioning**|Woohyun Kim et.al.|[2306.00633](http://arxiv.org/abs/2306.00633)|null|
 |**2023-06-01**|**ExTRUST: Reducing Exploit Stockpiles with a Privacy-Preserving Depletion System for Inter-State Relationships**|Thomas Reinhold et.al.|[2306.00589](http://arxiv.org/abs/2306.00589)|null|
 |**2023-05-31**|**Towards Neural Path Tracing in SRAM**|Mark Pupilli et.al.|[2305.20061](http://arxiv.org/abs/2305.20061)|null|
@@ -1259,7 +1259,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-01**|**Continual Learning for Abdominal Multi-Organ and Tumor Segmentation**|Yixiao Zhang et.al.|[2306.00988](http://arxiv.org/abs/2306.00988)|**[link](https://github.com/mrgiovanni/continuallearning)**|
-|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**Improving the reliability of machine learned potentials for modeling inhomogenous liquids**|Kamron Fazel et.al.|[2306.00970](http://arxiv.org/abs/2306.00970)|null|
 |**2023-06-01**|**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation**|Minghui Hu et.al.|[2306.00964](http://arxiv.org/abs/2306.00964)|null|
 |**2023-06-01**|**CS4ML: A general framework for active learning with arbitrary data based on Christoffel functions**|Ben Adcock et.al.|[2306.00945](http://arxiv.org/abs/2306.00945)|null|
