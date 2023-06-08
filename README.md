@@ -73,6 +73,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**The Noir Dataflow Platform: Efficient Data Processing without Complexity**|Luca De Martini et.al.|[2306.04421](http://arxiv.org/abs/2306.04421)|null|
 |**2023-06-06**|**Parameter Estimation in Electrical Distribution Systems with limited Measurements using Regression Methods**|Steven de Jongh et.al.|[2306.03859](http://arxiv.org/abs/2306.03859)|null|
 |**2023-06-05**|**Better Write Amplification for Streaming Data Processing**|Andrei Chulkov et.al.|[2306.03272](http://arxiv.org/abs/2306.03272)|null|
 |**2023-06-05**|**How Hard is Asynchronous Weight Reassignment? (Extended Version)**|Hasan Heydari et.al.|[2306.03185](http://arxiv.org/abs/2306.03185)|null|
@@ -138,6 +139,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Top-Down Knowledge Compilation for Counting Modulo Theories**|Vincent Derkinderen et.al.|[2306.04541](http://arxiv.org/abs/2306.04541)|null|
+|**2023-06-07**|**An Empirical Study of Impact of Solidity Compiler Updates on Vulnerabilities in Ethereum Smart Contracts**|Chihiro Kado et.al.|[2306.04250](http://arxiv.org/abs/2306.04250)|null|
+|**2023-06-07**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192](http://arxiv.org/abs/2306.04192)|null|
+|**2023-06-07**|**Synthesising Recursive Functions for First-Order Model Counting: Challenges, Progress, and Conjectures**|Paulius Dilkas et.al.|[2306.04189](http://arxiv.org/abs/2306.04189)|**[link](https://github.com/dilkas/crane)**|
 |**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|null|
 |**2023-06-06**|**Potential of the Julia programming language for high energy physics computing**|J. Eschle et.al.|[2306.03675](http://arxiv.org/abs/2306.03675)|null|
 |**2023-06-07**|**Selecting Efficient Cluster Resources for Data Analytics: When and How to Allocate for In-Memory Processing?**|Jonathan Will et.al.|[2306.03672](http://arxiv.org/abs/2306.03672)|null|
@@ -312,6 +317,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637](http://arxiv.org/abs/2306.04637)|null|
+|**2023-06-07**|**Yet Another Algorithm for Supervised Principal Component Analysis: Supervised Linear Centroid-Encoder**|Tomojit Ghosh et.al.|[2306.04622](http://arxiv.org/abs/2306.04622)|null|
+|**2023-06-07**|**Network-based Representations and Dynamic Discrete Choice Models for Multiple Discrete Choice Analysis**|Hung Tran et.al.|[2306.04606](http://arxiv.org/abs/2306.04606)|null|
+|**2023-06-07**|**Bayesian Extensive-Rank Matrix Factorization with Rotational Invariant Priors**|Farzad Pourkamali et.al.|[2306.04592](http://arxiv.org/abs/2306.04592)|null|
+|**2023-06-07**|**Proximity-Informed Calibration for Deep Neural Networks**|Miao Xiong et.al.|[2306.04590](http://arxiv.org/abs/2306.04590)|**[link](https://github.com/miaoxiong2320/proximitybias-calibration)**|
+|**2023-06-07**|**Divide and Repair: Using Options to Improve Performance of Imitation Learning Against Adversarial Demonstrations**|Prithviraj Dasgupta et.al.|[2306.04581](http://arxiv.org/abs/2306.04581)|null|
+|**2023-06-07**|**A Dataset for Deep Learning-based Bone Structure Analyses in Total Hip Arthroplasty**|Kaidong Zhang et.al.|[2306.04579](http://arxiv.org/abs/2306.04579)|**[link](https://github.com/hitachinsk/tha)**|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
+|**2023-06-07**|**PhenoBench -- A Large Dataset and Benchmarks for Semantic Image Interpretation in the Agricultural Domain**|Jan Weyler et.al.|[2306.04557](http://arxiv.org/abs/2306.04557)|null|
+|**2023-06-07**|**Convergence of SARSA with linear function approximation: The random horizon case**|Lina Palmborg et.al.|[2306.04548](http://arxiv.org/abs/2306.04548)|null|
 |**2023-06-06**|**Bosonic excitation spectra of superconducting $\mathrm{Bi_2Sr_2CaCu_2O_{8+δ}}$ and $\mathrm{YBa_2Cu_3O_{6+x}}$ extracted from scanning tunneling spectra**|Thomas Gozlinski et.al.|[2306.03890](http://arxiv.org/abs/2306.03890)|null|
 |**2023-06-06**|**Systematic performance of the ASKAP Fast Radio Burst search algorithm**|Hao Qiu et.al.|[2306.03886](http://arxiv.org/abs/2306.03886)|null|
 |**2023-06-06**|**Recovering a covering of schemes from Galois orbits of power series**|Paul Alexander Helminck et.al.|[2306.03879](http://arxiv.org/abs/2306.03879)|null|
@@ -669,6 +684,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Meta-Learning in Spiking Neural Networks with Reward-Modulated STDP**|Arsham Gholamzadeh Khoee et.al.|[2306.04410](http://arxiv.org/abs/2306.04410)|null|
+|**2023-06-07**|**Security Analysis of WG-7 Lightweight Stream Cipher against Cube Attack**|Bijoy Das et.al.|[2306.04352](http://arxiv.org/abs/2306.04352)|null|
+|**2023-06-07**|**An Analytical Model-based Capacity Planning Approach for Building CSD-based Storage Systems**|Hongsu Byun et.al.|[2306.04323](http://arxiv.org/abs/2306.04323)|null|
+|**2023-06-07**|**Efficiency and accuracy of GPU-parallelized Fourier spectral methods for solving phase-field models**|A. D. Boccardo et.al.|[2306.04322](http://arxiv.org/abs/2306.04322)|null|
+|**2023-06-07**|**Dynamic Programming on a Quantum Annealer: Solving the RBC Model**|Jesús Fernández-Villaverde et.al.|[2306.04285](http://arxiv.org/abs/2306.04285)|null|
+|**2023-06-07**|**Influence of HW-SW-Co-Design on Quantum Computing Scalability**|Hila Safi et.al.|[2306.04246](http://arxiv.org/abs/2306.04246)|null|
+|**2023-06-07**|**BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives**|Sainan Liu et.al.|[2306.04166](http://arxiv.org/abs/2306.04166)|null|
+|**2023-06-07**|**Coverage Path Planning with Budget Constraints for Multiple Unmanned Ground Vehicles**|Vu Phi Tran et.al.|[2306.04083](http://arxiv.org/abs/2306.04083)|null|
+|**2023-06-06**|**Explainable AI using expressive Boolean formulas**|Gili Rosenberg et.al.|[2306.03976](http://arxiv.org/abs/2306.03976)|null|
+|**2023-06-06**|**A Reference-less Slope Detection Technique in 65nm for Robust Sensing of 1T1R Arrays**|Seyedhamidreza Motaman et.al.|[2306.03972](http://arxiv.org/abs/2306.03972)|null|
 |**2023-06-06**|**orbitN: A symplectic integrator for planetary systems dominated by a central mass -- Insight into long-term solar system chaos**|Richard E. Zeebe et.al.|[2306.03737](http://arxiv.org/abs/2306.03737)|null|
 |**2023-06-06**|**Towards Memory-Efficient Training for Extremely Large Output Spaces -- Learning with 500k Labels on a Single Commodity GPU**|Erik Schultheis et.al.|[2306.03725](http://arxiv.org/abs/2306.03725)|null|
 |**2023-06-07**|**Selecting Efficient Cluster Resources for Data Analytics: When and How to Allocate for In-Memory Processing?**|Jonathan Will et.al.|[2306.03672](http://arxiv.org/abs/2306.03672)|null|
@@ -1014,6 +1039,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Designing a Better Asymmetric VQGAN for StableDiffusion**|Zixin Zhu et.al.|[2306.04632](http://arxiv.org/abs/2306.04632)|**[link](https://github.com/buxiangzhiren/asymmetric_vqgan)**|
+|**2023-06-07**|**Network-based Representations and Dynamic Discrete Choice Models for Multiple Discrete Choice Analysis**|Hung Tran et.al.|[2306.04606](http://arxiv.org/abs/2306.04606)|null|
+|**2023-06-07**|**Prefix Siphoning: Exploiting LSM-Tree Range Filters For Information Disclosure (Full Version)**|Adi Kafuman et.al.|[2306.04602](http://arxiv.org/abs/2306.04602)|null|
+|**2023-06-07**|**Uncovering solutions from data corrupted by systematic errors: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.04600](http://arxiv.org/abs/2306.04600)|null|
+|**2023-06-07**|**Experimental demonstration of scalable quantum key distribution over a thousand kilometers**|A. Aliev et.al.|[2306.04599](http://arxiv.org/abs/2306.04599)|null|
+|**2023-06-07**|**MarineVRS: Marine Video Retrieval System with Explainability via Semantic Understanding**|Tan-Sang Ha et.al.|[2306.04593](http://arxiv.org/abs/2306.04593)|null|
+|**2023-06-07**|**Bayesian Extensive-Rank Matrix Factorization with Rotational Invariant Priors**|Farzad Pourkamali et.al.|[2306.04592](http://arxiv.org/abs/2306.04592)|null|
+|**2023-06-07**|**Proximity-Informed Calibration for Deep Neural Networks**|Miao Xiong et.al.|[2306.04590](http://arxiv.org/abs/2306.04590)|**[link](https://github.com/miaoxiong2320/proximitybias-calibration)**|
+|**2023-06-07**|**$\varepsilon$ -Almost collision-flat universal hash functions and mosaics of designs**|Moritz Wiese et.al.|[2306.04583](http://arxiv.org/abs/2306.04583)|null|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
 |**2023-06-06**|**SAM3D: Segment Anything in 3D Scenes**|Yunhan Yang et.al.|[2306.03908](http://arxiv.org/abs/2306.03908)|**[link](https://github.com/pointcept/segmentanything3d)**|
 |**2023-06-06**|**Quantum Computation and Simulation using Fermion-Pair Registers**|Xiangkai Sun et.al.|[2306.03905](http://arxiv.org/abs/2306.03905)|null|
 |**2023-06-06**|**Potential Constraints to Neutrino-Nucleus Interactions Based on Electron Scattering Data**|V. Pandey et.al.|[2306.03896](http://arxiv.org/abs/2306.03896)|null|
@@ -1371,6 +1406,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**ModuleFormer: Learning Modular Large Language Models From Uncurated Data**|Yikang Shen et.al.|[2306.04640](http://arxiv.org/abs/2306.04640)|null|
+|**2023-06-07**|**Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection**|Yu Bai et.al.|[2306.04637](http://arxiv.org/abs/2306.04637)|null|
+|**2023-06-07**|**Network-based Representations and Dynamic Discrete Choice Models for Multiple Discrete Choice Analysis**|Hung Tran et.al.|[2306.04606](http://arxiv.org/abs/2306.04606)|null|
+|**2023-06-07**|**Uncovering solutions from data corrupted by systematic errors: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.04600](http://arxiv.org/abs/2306.04600)|null|
+|**2023-06-07**|**Experimental demonstration of scalable quantum key distribution over a thousand kilometers**|A. Aliev et.al.|[2306.04599](http://arxiv.org/abs/2306.04599)|null|
+|**2023-06-07**|**Multifractality in spin glasses**|Janus Collaboration et.al.|[2306.04591](http://arxiv.org/abs/2306.04591)|null|
+|**2023-06-07**|**Proximity-Informed Calibration for Deep Neural Networks**|Miao Xiong et.al.|[2306.04590](http://arxiv.org/abs/2306.04590)|**[link](https://github.com/miaoxiong2320/proximitybias-calibration)**|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
+|**2023-06-07**|**Recent applications of machine learning, remote sensing, and iot approaches in yield prediction: a critical review**|Fatima Zahra Bassine et.al.|[2306.04566](http://arxiv.org/abs/2306.04566)|null|
+|**2023-06-07**|**Integrated Photonic Encoder for Terapixel Image Processing**|Xiao Wang et.al.|[2306.04554](http://arxiv.org/abs/2306.04554)|null|
 |**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902](http://arxiv.org/abs/2306.03902)|null|
 |**2023-06-06**|**Towards Label-free Scene Understanding by Vision Foundation Models**|Runnan Chen et.al.|[2306.03899](http://arxiv.org/abs/2306.03899)|null|
 |**2023-06-06**|**Fast Context Adaptation in Cost-Aware Continual Learning**|Seyyidahmed Lahmer et.al.|[2306.03887](http://arxiv.org/abs/2306.03887)|null|
@@ -1728,6 +1773,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Pressure-Induced Phase Transformations of Quasi-2D Sr $_3$Hf$_2$O$_7$**|M. C. B. Barbosa et.al.|[2306.04624](http://arxiv.org/abs/2306.04624)|null|
+|**2023-06-07**|**Explosive death in coupled oscillators with higher-order interactions**|Richita Ghosh et.al.|[2306.04614](http://arxiv.org/abs/2306.04614)|null|
+|**2023-06-07**|**Kinetic blockings in long-range interacting inhomogeneous systems**|Jean-Baptiste Fouvry et.al.|[2306.04613](http://arxiv.org/abs/2306.04613)|null|
+|**2023-06-07**|**Prefix Siphoning: Exploiting LSM-Tree Range Filters For Information Disclosure (Full Version)**|Adi Kafuman et.al.|[2306.04602](http://arxiv.org/abs/2306.04602)|null|
+|**2023-06-07**|**Uncovering solutions from data corrupted by systematic errors: A physics-constrained convolutional neural network approach**|Daniel Kelshaw et.al.|[2306.04600](http://arxiv.org/abs/2306.04600)|null|
+|**2023-06-07**|**MarineVRS: Marine Video Retrieval System with Explainability via Semantic Understanding**|Tan-Sang Ha et.al.|[2306.04593](http://arxiv.org/abs/2306.04593)|null|
+|**2023-06-07**|**Multifractality in spin glasses**|Janus Collaboration et.al.|[2306.04591](http://arxiv.org/abs/2306.04591)|null|
+|**2023-06-07**|**Unifying fractons, gravitons and photons from a gauge theoretical approach**|Rodrigo F. Sobreiro et.al.|[2306.04589](http://arxiv.org/abs/2306.04589)|null|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
+|**2023-06-07**|**ICON $^2$ : Reliably Benchmarking Predictive Inequity in Object Detection**|Sruthi Sudhakar et.al.|[2306.04482](http://arxiv.org/abs/2306.04482)|null|
 |**2023-06-06**|**CL-UZH at SemEval-2023 Task 10: Sexism Detection through Incremental Fine-Tuning and Multi-Task Learning with Label Descriptions**|Janis Goldzycher et.al.|[2306.03907](http://arxiv.org/abs/2306.03907)|null|
 |**2023-06-06**|**Quantum Computation and Simulation using Fermion-Pair Registers**|Xiangkai Sun et.al.|[2306.03905](http://arxiv.org/abs/2306.03905)|null|
 |**2023-06-06**|**Utterance Classification with Logical Neural Network: Explainable AI for Mental Disorder Diagnosis**|Yeldar Toleubay et.al.|[2306.03902](http://arxiv.org/abs/2306.03902)|null|
