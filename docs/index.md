@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.08
+## Updated on 2023.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -123,7 +123,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-07**|**Top-Down Knowledge Compilation for Counting Modulo Theories**|Vincent Derkinderen et.al.|[2306.04541](http://arxiv.org/abs/2306.04541)|null|
 |**2023-06-07**|**An Empirical Study of Impact of Solidity Compiler Updates on Vulnerabilities in Ethereum Smart Contracts**|Chihiro Kado et.al.|[2306.04250](http://arxiv.org/abs/2306.04250)|null|
-|**2023-06-07**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192](http://arxiv.org/abs/2306.04192)|null|
+|**2023-06-08**|**Extracting Cloud-based Model with Prior Knowledge**|Shiqian Zhao et.al.|[2306.04192](http://arxiv.org/abs/2306.04192)|null|
 |**2023-06-07**|**Synthesising Recursive Functions for First-Order Model Counting: Challenges, Progress, and Conjectures**|Paulius Dilkas et.al.|[2306.04189](http://arxiv.org/abs/2306.04189)|**[link](https://github.com/dilkas/crane)**|
 |**2023-06-06**|**A Substrate Scheduler for Compiling Arbitrary Fault-tolerant Graph States**|Sitong Liu et.al.|[2306.03758](http://arxiv.org/abs/2306.03758)|null|
 |**2023-06-06**|**Potential of the Julia programming language for high energy physics computing**|J. Eschle et.al.|[2306.03675](http://arxiv.org/abs/2306.03675)|null|
@@ -2114,7 +2114,7 @@ layout: default
 |**2023-05-24**|**RAND: Robustness Aware Norm Decay For Quantized Seq2seq Models**|David Qiu et.al.|[2305.15536](http://arxiv.org/abs/2305.15536)|null|
 |**2023-05-23**|**Bulk-Switching Memristor-based Compute-In-Memory Module for Deep Neural Network Training**|Yuting Wu et.al.|[2305.14547](http://arxiv.org/abs/2305.14547)|null|
 |**2023-05-18**|**In Defense of Pure 16-bit Floating-Point Neural Networks**|Juyoung Yun et.al.|[2305.10947](http://arxiv.org/abs/2305.10947)|null|
-|**2023-06-07**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
+|**2023-06-08**|**PTQD: Accurate Post-Training Quantization for Diffusion Models**|Yefei He et.al.|[2305.10657](http://arxiv.org/abs/2305.10657)|null|
 |**2023-05-11**|**Patch-wise Mixed-Precision Quantization of Vision Transformer**|Junrui Xiao et.al.|[2305.06559](http://arxiv.org/abs/2305.06559)|null|
 |**2023-04-18**|**Heterogeneous Integration of In-Memory Analog Computing Architectures with Tensor Processing Units**|Mohammed E. Elbtity et.al.|[2304.09258](http://arxiv.org/abs/2304.09258)|null|
 |**2023-04-13**|**End-to-end codesign of Hessian-aware quantized neural networks for FPGAs and ASICs**|Javier Campos et.al.|[2304.06745](http://arxiv.org/abs/2304.06745)|null|
