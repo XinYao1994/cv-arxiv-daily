@@ -140,6 +140,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Reinforcement Learning for Mutation Operator Selection in Automated Program Repair**|Carol Hanna et.al.|[2306.05792](http://arxiv.org/abs/2306.05792)|null|
+|**2023-06-08**|**pysersic: A Python package for determining galaxy structural properties via Bayesian inference, accelerated with jax**|Imad Pasha et.al.|[2306.05454](http://arxiv.org/abs/2306.05454)|null|
 |**2023-06-08**|**Disentangling physics and chemistry in AGB outflows: revealing degeneracies when adding complexity**|Marie Van de Sande et.al.|[2306.05252](http://arxiv.org/abs/2306.05252)|null|
 |**2023-06-08**|**Solving Novel Program Synthesis Problems with Genetic Programming using Parametric Polymorphism**|Edward Pantridge et.al.|[2306.04839](http://arxiv.org/abs/2306.04839)|null|
 |**2023-06-07**|**OBSTransformer: A Deep-Learning Seismic Phase Picker for OBS Data Using Automated Labelling and Transfer Learning**|Alireza Niksejel et.al.|[2306.04753](http://arxiv.org/abs/2306.04753)|**[link](https://github.com/alirezaniki/obstransformer)**|
@@ -322,6 +324,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Backup Plan Constrained Model Predictive Control with Guaranteed Stability**|Ran Tao et.al.|[2306.06102](http://arxiv.org/abs/2306.06102)|null|
+|**2023-06-09**|**Extended phase space quantization of a black hole interior model in Loop Quantum Cosmology**|Beatriz Elizaga Navascués et.al.|[2306.06090](http://arxiv.org/abs/2306.06090)|null|
+|**2023-06-09**|**LGEM $^\text{+}$ : a first-order logic framework for automated improvement of metabolic network models through abduction**|Alexander H. Gower et.al.|[2306.06065](http://arxiv.org/abs/2306.06065)|null|
+|**2023-06-09**|**Ion-Driven Instabilities in the Inner Heliosphere II: Classification and Multi-Dimensional Mapping**|Mihailo M. Martinovic et.al.|[2306.06060](http://arxiv.org/abs/2306.06060)|null|
+|**2023-06-09**|**Semiparametric posterior corrections**|Andrew Yiu et.al.|[2306.06059](http://arxiv.org/abs/2306.06059)|null|
+|**2023-06-09**|**Simulating $\mathbb{Z}_2$ Lattice Gauge Theory with the Variational Quantum Thermalizer**|Michael Fromm et.al.|[2306.06057](http://arxiv.org/abs/2306.06057)|null|
+|**2023-06-09**|**Problematic Advertising and its Disparate Exposure on Facebook**|Muhammad Ali et.al.|[2306.06052](http://arxiv.org/abs/2306.06052)|null|
+|**2023-06-09**|**Branching via Cutting Plane Selection: Improving Hybrid Branching**|Mark Turner et.al.|[2306.06050](http://arxiv.org/abs/2306.06050)|null|
+|**2023-06-09**|**Redeveloping a CLEAN Deconvolution Algorithm for Scatter-Broadened Radio Pulsar Signals**|Olivia Young et.al.|[2306.06046](http://arxiv.org/abs/2306.06046)|null|
+|**2023-06-09**|**FinGPT: Open-Source Financial Large Language Models**|Hongyang Yang et.al.|[2306.06031](http://arxiv.org/abs/2306.06031)|**[link](https://github.com/ai4finance-foundation/fingpt)**|
 |**2023-06-08**|**Tracking Everything Everywhere All at Once**|Qianqian Wang et.al.|[2306.05422](http://arxiv.org/abs/2306.05422)|null|
 |**2023-06-08**|**2D Supervised Monocular 3D Object Detection by Global-to-Local 3D Reconstruction**|Jiawei He et.al.|[2306.05418](http://arxiv.org/abs/2306.05418)|null|
 |**2023-06-08**|**Offline Prioritized Experience Replay**|Yang Yue et.al.|[2306.05412](http://arxiv.org/abs/2306.05412)|**[link](https://github.com/sail-sg/oper)**|
@@ -699,6 +711,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**VarSaw: Application-tailored Measurement Error Mitigation for Variational Quantum Algorithms**|Siddharth Dangwal et.al.|[2306.06027](http://arxiv.org/abs/2306.06027)|null|
+|**2023-06-09**|**S $^{3}$ : Increasing GPU Utilization during Generative Inference for Higher Throughput**|Yunho Jin et.al.|[2306.06000](http://arxiv.org/abs/2306.06000)|null|
+|**2023-06-09**|**Augmenting Off-the-Shelf Grippers with Tactile Sensing**|Remko Proesmans et.al.|[2306.05902](http://arxiv.org/abs/2306.05902)|**[link](https://github.com/RemkoPr/icra-2023-workshop-tactile-fingertips)**|
+|**2023-06-09**|**Redesigning spectroscopic sensors with programmable photonic circuits**|Chunhui Yao et.al.|[2306.05729](http://arxiv.org/abs/2306.05729)|null|
+|**2023-06-09**|**CAWL: A Cache-aware Write Performance Model of Linux Systems**|Masoud Gholami et.al.|[2306.05701](http://arxiv.org/abs/2306.05701)|null|
+|**2023-06-09**|**R-PMAC: A Robust Preamble Based MAC Mechanism Applied in Industrial Internet of Things**|Kai Song et.al.|[2306.05629](http://arxiv.org/abs/2306.05629)|null|
+|**2023-06-08**|**FuncTeller: How Well Does eFPGA Hide Functionality?**|Zhaokun Han et.al.|[2306.05532](http://arxiv.org/abs/2306.05532)|null|
 |**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420](http://arxiv.org/abs/2306.05420)|**[link](https://github.com/google-research/spherical-cnn)**|
 |**2023-06-08**|**Line-graph qubit routing: from kagome to heavy-hex and more**|Joris Kattemölle et.al.|[2306.05385](http://arxiv.org/abs/2306.05385)|**[link](https://github.com/kattemolle/LIGRAR)**|
 |**2023-06-08**|**Efficient Multi-Task Scene Analysis with RGB-D Transformers**|Söhnke Benedikt Fischedick et.al.|[2306.05242](http://arxiv.org/abs/2306.05242)|**[link](https://github.com/tui-nicr/emsaformer)**|
@@ -1064,6 +1083,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Error Feedback Can Accurately Compress Preconditioners**|Ionut-Vlad Modoranu et.al.|[2306.06098](http://arxiv.org/abs/2306.06098)|**[link](https://github.com/ist-daslab/efcp)**|
+|**2023-06-09**|**Trapping LLM Hallucinations Using Tagged Context Prompts**|Philip Feldman et.al.|[2306.06085](http://arxiv.org/abs/2306.06085)|null|
+|**2023-06-09**|**Simulating $\mathbb{Z}_2$ Lattice Gauge Theory with the Variational Quantum Thermalizer**|Michael Fromm et.al.|[2306.06057](http://arxiv.org/abs/2306.06057)|null|
+|**2023-06-09**|**Exact partition function of the Potts model on the Sierpinski gasket and the Hanoi lattice**|Pedro D. Alvarez et.al.|[2306.06054](http://arxiv.org/abs/2306.06054)|null|
+|**2023-06-09**|**A Qualitative Analysis of Common Practices in Annotations: A Taxonomy and Design Space**|Md Dilshadur Rahman et.al.|[2306.06043](http://arxiv.org/abs/2306.06043)|null|
+|**2023-06-09**|**SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal Scene Understanding**|Silvan Ferreira et.al.|[2306.06036](http://arxiv.org/abs/2306.06036)|null|
+|**2023-06-09**|**RANS-PINN based Simulation Surrogates for Predicting Turbulent Flows**|Shinjan Ghosh et.al.|[2306.06034](http://arxiv.org/abs/2306.06034)|null|
+|**2023-06-09**|**SoK: Analysis of User-Centered Studies Focusing on Healthcare Privacy \& Security**|Faiza Tazi et.al.|[2306.06033](http://arxiv.org/abs/2306.06033)|null|
+|**2023-06-09**|**A Guided Tour Study of the Untidy But Inspirational PIM of Visual Artists**|Helene Hellmich et.al.|[2306.06026](http://arxiv.org/abs/2306.06026)|null|
+|**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma et.al.|[2306.06023](http://arxiv.org/abs/2306.06023)|**[link](https://github.com/pjlab-adg/detzero)**|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425](http://arxiv.org/abs/2306.05425)|**[link](https://github.com/luodian/otter)**|
 |**2023-06-08**|**TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture**|M. Esat Kalfaoglu et.al.|[2306.05419](http://arxiv.org/abs/2306.05419)|null|
 |**2023-06-08**|**Fully Robust Federated Submodel Learning in a Distributed Storage System**|Zhusheng Wang et.al.|[2306.05402](http://arxiv.org/abs/2306.05402)|null|
@@ -1441,6 +1470,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Error Feedback Can Accurately Compress Preconditioners**|Ionut-Vlad Modoranu et.al.|[2306.06098](http://arxiv.org/abs/2306.06098)|**[link](https://github.com/ist-daslab/efcp)**|
+|**2023-06-09**|**HyP-NeRF: Learning Improved NeRF Priors using a HyperNetwork**|Bipasha Sen et.al.|[2306.06093](http://arxiv.org/abs/2306.06093)|null|
+|**2023-06-09**|**LGEM $^\text{+}$ : a first-order logic framework for automated improvement of metabolic network models through abduction**|Alexander H. Gower et.al.|[2306.06065](http://arxiv.org/abs/2306.06065)|null|
+|**2023-06-09**|**GANeRF: Leveraging Discriminators to Optimize Neural Radiance Fields**|Barbara Roessle et.al.|[2306.06044](http://arxiv.org/abs/2306.06044)|null|
+|**2023-06-09**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041](http://arxiv.org/abs/2306.06041)|**[link](https://github.com/dadacheng/dygr)**|
+|**2023-06-09**|**Reconstructing Human Expressiveness in Piano Performances with a Transformer Network**|Jingjing Tang et.al.|[2306.06040](http://arxiv.org/abs/2306.06040)|null|
+|**2023-06-09**|**SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal Scene Understanding**|Silvan Ferreira et.al.|[2306.06036](http://arxiv.org/abs/2306.06036)|null|
+|**2023-06-09**|**RANS-PINN based Simulation Surrogates for Predicting Turbulent Flows**|Shinjan Ghosh et.al.|[2306.06034](http://arxiv.org/abs/2306.06034)|null|
+|**2023-06-09**|**Machine learning the electronic structure of matter across temperatures**|Lenz Fiedler et.al.|[2306.06032](http://arxiv.org/abs/2306.06032)|null|
+|**2023-06-09**|**A Dynamic Partial Computation Offloading for the Metaverse in In-Network Computing**|Ibrahim Aliyu et.al.|[2306.06022](http://arxiv.org/abs/2306.06022)|null|
 |**2023-06-08**|**Background Prompting for Improved Object Depth**|Manel Baradad et.al.|[2306.05428](http://arxiv.org/abs/2306.05428)|null|
 |**2023-06-08**|**Stochastic Multi-Person 3D Motion Forecasting**|Sirui Xu et.al.|[2306.05421](http://arxiv.org/abs/2306.05421)|null|
 |**2023-06-08**|**Scaling Spherical CNNs**|Carlos Esteves et.al.|[2306.05420](http://arxiv.org/abs/2306.05420)|**[link](https://github.com/google-research/spherical-cnn)**|
@@ -1818,6 +1857,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Backup Plan Constrained Model Predictive Control with Guaranteed Stability**|Ran Tao et.al.|[2306.06102](http://arxiv.org/abs/2306.06102)|null|
+|**2023-06-09**|**Shock Cooling and Possible Precursor Emission in the Early Light Curve of the Type II SN 2023ixf**|Griffin Hosseinzadeh et.al.|[2306.06097](http://arxiv.org/abs/2306.06097)|null|
+|**2023-06-09**|**Model Predictive Control for Integrated Lateral Stability**|Jad Yahya et.al.|[2306.06096](http://arxiv.org/abs/2306.06096)|null|
+|**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087](http://arxiv.org/abs/2306.06087)|null|
+|**2023-06-09**|**Combining a Meta-Policy and Monte-Carlo Planning for Scalable Type-Based Reasoning in Partially Observable Environments**|Jonathon Schwartz et.al.|[2306.06067](http://arxiv.org/abs/2306.06067)|null|
+|**2023-06-09**|**LGEM $^\text{+}$ : a first-order logic framework for automated improvement of metabolic network models through abduction**|Alexander H. Gower et.al.|[2306.06065](http://arxiv.org/abs/2306.06065)|null|
+|**2023-06-09**|**Simulating $\mathbb{Z}_2$ Lattice Gauge Theory with the Variational Quantum Thermalizer**|Michael Fromm et.al.|[2306.06057](http://arxiv.org/abs/2306.06057)|null|
+|**2023-06-09**|**Cooperative photon emission rates in random atomic clouds**|Viviana Viggiano et.al.|[2306.06055](http://arxiv.org/abs/2306.06055)|null|
+|**2023-06-09**|**Global solution and blow-up for the SKT model in Population Dynamics**|Ichraf Belkhamsa et.al.|[2306.06045](http://arxiv.org/abs/2306.06045)|null|
+|**2023-06-09**|**A Dynamical Graph Prior for Relational Inference**|Liming Pan et.al.|[2306.06041](http://arxiv.org/abs/2306.06041)|**[link](https://github.com/dadacheng/dygr)**|
 |**2023-06-08**|**Fully Robust Federated Submodel Learning in a Distributed Storage System**|Zhusheng Wang et.al.|[2306.05402](http://arxiv.org/abs/2306.05402)|null|
 |**2023-06-08**|**Classical simulations of noisy variational quantum circuits**|Enrico Fontana et.al.|[2306.05400](http://arxiv.org/abs/2306.05400)|null|
 |**2023-06-08**|**Implications of atmospheric non-detections for Trappist-1 inner planets on atmospheric retention prospects for outer planets**|Joshua Krissansen-Totton et.al.|[2306.05397](http://arxiv.org/abs/2306.05397)|**[link](https://github.com/joshuakt/Trappist-evolution)**|
