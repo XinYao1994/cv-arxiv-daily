@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1066,7 +1066,7 @@ layout: default
 |**2023-06-09**|**A Qualitative Analysis of Common Practices in Annotations: A Taxonomy and Design Space**|Md Dilshadur Rahman et.al.|[2306.06043](http://arxiv.org/abs/2306.06043)|null|
 |**2023-06-09**|**SNeL: A Structured Neuro-Symbolic Language for Entity-Based Multimodal Scene Understanding**|Silvan Ferreira et.al.|[2306.06036](http://arxiv.org/abs/2306.06036)|null|
 |**2023-06-09**|**RANS-PINN based Simulation Surrogates for Predicting Turbulent Flows**|Shinjan Ghosh et.al.|[2306.06034](http://arxiv.org/abs/2306.06034)|null|
-|**2023-06-09**|**SoK: Analysis of User-Centered Studies Focusing on Healthcare Privacy \& Security**|Faiza Tazi et.al.|[2306.06033](http://arxiv.org/abs/2306.06033)|null|
+|**2023-06-12**|**SoK: Analysis of User-Centered Studies Focusing on Healthcare Privacy & Security**|Faiza Tazi et.al.|[2306.06033](http://arxiv.org/abs/2306.06033)|null|
 |**2023-06-09**|**A Guided Tour Study of the Untidy But Inspirational PIM of Visual Artists**|Helene Hellmich et.al.|[2306.06026](http://arxiv.org/abs/2306.06026)|null|
 |**2023-06-09**|**DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds**|Tao Ma et.al.|[2306.06023](http://arxiv.org/abs/2306.06023)|**[link](https://github.com/pjlab-adg/detzero)**|
 |**2023-06-08**|**MIMIC-IT: Multi-Modal In-Context Instruction Tuning**|Bo Li et.al.|[2306.05425](http://arxiv.org/abs/2306.05425)|**[link](https://github.com/luodian/otter)**|
