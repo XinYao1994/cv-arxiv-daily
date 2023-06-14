@@ -142,6 +142,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**DreamDecompiler: Improved Bayesian Program Learning by Decompiling Amortised Knowledge**|Alessandro B. Palmarini et.al.|[2306.07856](http://arxiv.org/abs/2306.07856)|null|
+|**2023-06-13**|**Require Process Control? \textbf{LSTMc} is all you need!**|Niranjan Sitapure et.al.|[2306.07510](http://arxiv.org/abs/2306.07510)|null|
+|**2023-06-11**|**A Holistic Approach to Unifying Automatic Concept Extraction and Concept Importance Estimation**|Thomas Fel et.al.|[2306.07304](http://arxiv.org/abs/2306.07304)|null|
 |**2023-06-12**|**Dynamics of the $O(4)$ critical point in QCD: critical pions and diffusion in Model G**|Adrien Florio et.al.|[2306.06887](http://arxiv.org/abs/2306.06887)|null|
 |**2023-06-13**|**A Survey of Modern Compiler Fuzzing**|Haoyang Ma et.al.|[2306.06884](http://arxiv.org/abs/2306.06884)|null|
 |**2023-06-11**|**Attention, Compilation, and Solver-based Symbolic Analysis are All You Need**|Prithwish Jana et.al.|[2306.06755](http://arxiv.org/abs/2306.06755)|null|
@@ -334,6 +337,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Parting with Misconceptions about Learning-based Vehicle Motion Planning**|Daniel Dauner et.al.|[2306.07962](http://arxiv.org/abs/2306.07962)|null|
+|**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
+|**2023-06-13**|**Adaptive Monte Carlo Search for Conjecture Refutation in Graph Theory**|Valentino Vito et.al.|[2306.07956](http://arxiv.org/abs/2306.07956)|**[link](https://github.com/valentinovito/adaptive_mc_search)**|
+|**2023-06-13**|**Oracle-Efficient Pessimism: Offline Policy Optimization in Contextual Bandits**|Lequn Wang et.al.|[2306.07923](http://arxiv.org/abs/2306.07923)|null|
+|**2023-06-13**|**A Recipe for Unbiased Background Modeling in Deep Wide-Field Astronomical Images**|Qing Liu et.al.|[2306.07922](http://arxiv.org/abs/2306.07922)|null|
+|**2023-06-13**|**Continuous Cost Aggregation for Dual-Pixel Disparity Extraction**|Sagi Monin et.al.|[2306.07921](http://arxiv.org/abs/2306.07921)|null|
+|**2023-06-13**|**Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations**|Tianxiang Zhao et.al.|[2306.07919](http://arxiv.org/abs/2306.07919)|**[link](https://github.com/tianxiangzhao/imitationnoisydemon)**|
+|**2023-06-13**|**Detecting Fast Radio Bursts with Spectral Structure using the Continuous Forward Algorithm**|Pravir Kumar et.al.|[2306.07914](http://arxiv.org/abs/2306.07914)|null|
+|**2023-06-13**|**Omega: Optimistic EMA Gradients**|Juan Ramirez et.al.|[2306.07905](http://arxiv.org/abs/2306.07905)|**[link](https://github.com/juan43ramirez/omega)**|
+|**2023-06-13**|**Tight Memory-Regret Lower Bounds for Streaming Bandits**|Shaoang Li et.al.|[2306.07903](http://arxiv.org/abs/2306.07903)|null|
 |**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277](http://arxiv.org/abs/2306.07277)|null|
 |**2023-06-13**|**detrex: Benchmarking Detection Transformers**|Tianhe Ren et.al.|[2306.07265](http://arxiv.org/abs/2306.07265)|**[link](https://github.com/IDEA-Research/detrex)**|
 |**2023-06-12**|**Unprocessing Seven Years of Algorithmic Fairness**|André F. Cruz et.al.|[2306.07261](http://arxiv.org/abs/2306.07261)|**[link](https://github.com/andrefcruz/error-parity)**|
@@ -731,6 +744,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**CAMEO: A Causal Transfer Learning Approach for Performance Optimization of Configurable Computer Systems**|Md Shahriar Iqbal et.al.|[2306.07888](http://arxiv.org/abs/2306.07888)|null|
+|**2023-06-13**|**Deep Learning-Enabled Zero-Touch Device Identification: Mitigating the Impact of Channel Variability Through MIMO Diversity**|Bechir Hamdaoui et.al.|[2306.07878](http://arxiv.org/abs/2306.07878)|null|
+|**2023-06-13**|**Low-Complexity Soft Decision Detection for Combating DFE Burst Errors in IM/DD Links**|Kaiquan Wu et.al.|[2306.07873](http://arxiv.org/abs/2306.07873)|null|
+|**2023-06-13**|**SafeBet: Secure, Simple, and Fast Speculative Execution**|Conor Green et.al.|[2306.07785](http://arxiv.org/abs/2306.07785)|null|
+|**2023-06-13**|**NetGAP: A Graph-Grammar approach for concept design of networked platforms with extra-functional requirements**|Rodrigo Saar de Moraes et.al.|[2306.07778](http://arxiv.org/abs/2306.07778)|null|
+|**2023-06-13**|**Multi-Target Localization in Multi-Static Integrated Sensing and Communication Deployments**|Maximilian Bauhofer et.al.|[2306.07740](http://arxiv.org/abs/2306.07740)|null|
+|**2023-06-13**|**SayTap: Language to Quadrupedal Locomotion**|Yujin Tang et.al.|[2306.07580](http://arxiv.org/abs/2306.07580)|null|
+|**2023-06-13**|**Hybrid and Oriented Harmonic Potentials for Safe Task Execution in Unknown Environment**|Shuaikang Wang et.al.|[2306.07537](http://arxiv.org/abs/2306.07537)|null|
+|**2023-06-13**|**Democratizing LEO Satellite Network Measurement**|Liz Izhikevich et.al.|[2306.07469](http://arxiv.org/abs/2306.07469)|null|
+|**2023-06-12**|**Navigating the 16-dimensional Hilbert space of a high-spin donor qudit with electric and magnetic fields**|Irene Fernández de Fuentes et.al.|[2306.07453](http://arxiv.org/abs/2306.07453)|null|
 |**2023-06-12**|**Generic Attacks against Cryptographic Hardware through Long-Range Deep Learning**|Elie Bursztein et.al.|[2306.07249](http://arxiv.org/abs/2306.07249)|null|
 |**2023-06-12**|**Benchmarking Neural Network Training Algorithms**|George E. Dahl et.al.|[2306.07179](http://arxiv.org/abs/2306.07179)|**[link](https://github.com/mlcommons/algorithmic-efficiency)**|
 |**2023-06-12**|**Tuning Legged Locomotion Controllers via Safe Bayesian Optimization**|Daniel Widmer et.al.|[2306.07092](http://arxiv.org/abs/2306.07092)|**[link](https://github.com/lasgroup/gosafeopt)**|
@@ -1113,6 +1136,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969](http://arxiv.org/abs/2306.07969)|null|
+|**2023-06-13**|**Building Entanglement Entropy out of Correlation Functions for Interacting Fermions**|Saranyo Moitra et.al.|[2306.07963](http://arxiv.org/abs/2306.07963)|null|
+|**2023-06-13**|**Parting with Misconceptions about Learning-based Vehicle Motion Planning**|Daniel Dauner et.al.|[2306.07962](http://arxiv.org/abs/2306.07962)|null|
+|**2023-06-13**|**BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information**|Mehran Kazemi et.al.|[2306.07934](http://arxiv.org/abs/2306.07934)|null|
+|**2023-06-13**|**Second Response Theory: A Theoretical Formalism for the Propagation of Quantum Superpositions**|Martín A. Mosquera et.al.|[2306.07924](http://arxiv.org/abs/2306.07924)|null|
+|**2023-06-13**|**Continuous Cost Aggregation for Dual-Pixel Disparity Extraction**|Sagi Monin et.al.|[2306.07921](http://arxiv.org/abs/2306.07921)|null|
+|**2023-06-13**|**Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations**|Tianxiang Zhao et.al.|[2306.07919](http://arxiv.org/abs/2306.07919)|**[link](https://github.com/tianxiangzhao/imitationnoisydemon)**|
+|**2023-06-13**|**Negativity of Wigner distribution function as a measure of incompatibility**|Jatin Ghai et.al.|[2306.07917](http://arxiv.org/abs/2306.07917)|null|
+|**2023-06-13**|**Detecting Fast Radio Bursts with Spectral Structure using the Continuous Forward Algorithm**|Pravir Kumar et.al.|[2306.07914](http://arxiv.org/abs/2306.07914)|null|
+|**2023-06-13**|**Topological Data Analysis for Directed Dependence Networks of Multivariate Time Series Data**|Anass B. El-Yaagoubi et.al.|[2306.07912](http://arxiv.org/abs/2306.07912)|null|
 |**2023-06-12**|**Mathematical conjecture generation using machine intelligence**|Challenger Mishra et.al.|[2306.07277](http://arxiv.org/abs/2306.07277)|null|
 |**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272](http://arxiv.org/abs/2306.07272)|null|
 |**2023-06-13**|**Spectrally multimode squeezed states generation at telecom wavelengths**|Victor Roman-Rodriguez et.al.|[2306.07267](http://arxiv.org/abs/2306.07267)|null|
@@ -1510,6 +1543,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Privacy Preserving Bayesian Federated Learning in Heterogeneous Settings**|Disha Makhija et.al.|[2306.07959](http://arxiv.org/abs/2306.07959)|null|
+|**2023-06-13**|**Topological Data Analysis for Directed Dependence Networks of Multivariate Time Series Data**|Anass B. El-Yaagoubi et.al.|[2306.07912](http://arxiv.org/abs/2306.07912)|null|
+|**2023-06-13**|**Linear Polycatenanes from Kinetoplast Edge Loops**|Josh Ragotskie et.al.|[2306.07907](http://arxiv.org/abs/2306.07907)|null|
+|**2023-06-13**|**Expanding the Scope of DAWN: A Novel Version for Weighted Shortest Path Problem**|Yelai Feng et.al.|[2306.07872](http://arxiv.org/abs/2306.07872)|null|
+|**2023-06-13**|**Modeling the performance and bandwidth of adiabatic quantum memories**|Takla Nateeboon et.al.|[2306.07855](http://arxiv.org/abs/2306.07855)|null|
+|**2023-06-13**|**Adversarial Capsule Networks for Romanian Satire Detection and Sentiment Analysis**|Sebastian-Vasile Echim et.al.|[2306.07845](http://arxiv.org/abs/2306.07845)|null|
+|**2023-06-13**|**Network-based kinetic models: Emergence of a statistical description of the graph topology**|Marco Nurisso et.al.|[2306.07843](http://arxiv.org/abs/2306.07843)|null|
+|**2023-06-13**|**PSSTRNet: Progressive Segmentation-guided Scene Text Removal Network**|Guangtao Lyu et.al.|[2306.07842](http://arxiv.org/abs/2306.07842)|**[link](https://github.com/guangtaolyu/psstrnet)**|
+|**2023-06-13**|**LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds**|Tobias Riedlinger et.al.|[2306.07835](http://arxiv.org/abs/2306.07835)|**[link](https://github.com/janmarcelkezmann/metadetect3d)**|
+|**2023-06-13**|**The main role of fractal-like nature of conformational space in subdiffusion in protein**|Luca Maggi et.al.|[2306.07825](http://arxiv.org/abs/2306.07825)|null|
 |**2023-06-12**|**No Free Lunch: The Hazards of Over-Expressive Representations in Anomaly Detection**|Tal Reiss et.al.|[2306.07284](http://arxiv.org/abs/2306.07284)|null|
 |**2023-06-12**|**Operator Learning with Neural Fields: Tackling PDEs on General Geometries**|Louis Serrano et.al.|[2306.07266](http://arxiv.org/abs/2306.07266)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263](http://arxiv.org/abs/2306.07263)|null|
@@ -1907,6 +1950,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**High resolution spectroscopy of SN~2023ixf's first week: Engulfing the Asymmetric Circumstellar Material**|Nathan Smith et.al.|[2306.07964](http://arxiv.org/abs/2306.07964)|null|
+|**2023-06-13**|**Building Entanglement Entropy out of Correlation Functions for Interacting Fermions**|Saranyo Moitra et.al.|[2306.07963](http://arxiv.org/abs/2306.07963)|null|
+|**2023-06-13**|**Parting with Misconceptions about Learning-based Vehicle Motion Planning**|Daniel Dauner et.al.|[2306.07962](http://arxiv.org/abs/2306.07962)|null|
+|**2023-06-13**|**Hidden Biases of End-to-End Driving Models**|Bernhard Jaeger et.al.|[2306.07957](http://arxiv.org/abs/2306.07957)|null|
+|**2023-06-13**|**Adaptive Monte Carlo Search for Conjecture Refutation in Graph Theory**|Valentino Vito et.al.|[2306.07956](http://arxiv.org/abs/2306.07956)|**[link](https://github.com/valentinovito/adaptive_mc_search)**|
+|**2023-06-13**|**Stability analysis of an extended quadrature method of moments for kinetic equations**|Ruixi Zhang et.al.|[2306.07945](http://arxiv.org/abs/2306.07945)|null|
+|**2023-06-13**|**BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information**|Mehran Kazemi et.al.|[2306.07934](http://arxiv.org/abs/2306.07934)|null|
+|**2023-06-13**|**Second Response Theory: A Theoretical Formalism for the Propagation of Quantum Superpositions**|Martín A. Mosquera et.al.|[2306.07924](http://arxiv.org/abs/2306.07924)|null|
+|**2023-06-13**|**Negativity of Wigner distribution function as a measure of incompatibility**|Jatin Ghai et.al.|[2306.07917](http://arxiv.org/abs/2306.07917)|null|
+|**2023-06-13**|**Epistemic and Aleatoric Uncertainty Quantification and Surrogate Modelling in High-Performance Multiscale Plasma Physics Simulations**|Yehor Yudin et.al.|[2306.07913](http://arxiv.org/abs/2306.07913)|null|
 |**2023-06-12**|**Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving**|Wei-Xin Li et.al.|[2306.07276](http://arxiv.org/abs/2306.07276)|**[link](https://github.com/qcraftai/tip)**|
 |**2023-06-12**|**Optimizing control fields for adiabatic protocols in the presence of noise**|Marllos E. F. Fernandes et.al.|[2306.07269](http://arxiv.org/abs/2306.07269)|null|
 |**2023-06-12**|**Backpressure control with predicted imminent saturation flow rate for urban networks**|Dianchao Lin et.al.|[2306.07263](http://arxiv.org/abs/2306.07263)|null|
