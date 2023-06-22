@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -133,7 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-20**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
+|**2023-06-21**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
 |**2023-06-20**|**Pipeline for recording datasets and running neural networks on the Bela embedded hardware platform**|Teresa Pelinski et.al.|[2306.11389](http://arxiv.org/abs/2306.11389)|null|
 |**2023-06-20**|**A Versatility-Performance Balanced Hardware Architecture for Scene Text Detection**|Yao Xin et.al.|[2306.11351](http://arxiv.org/abs/2306.11351)|null|
 |**2023-06-20**|**Progressive Neural Representation for Sequential Video Compilation**|Haeyong Kang et.al.|[2306.11305](http://arxiv.org/abs/2306.11305)|**[link](https://github.com/ihaeyong/pnr)**|
@@ -777,7 +777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-20**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
+|**2023-06-21**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
 |**2023-06-20**|**Design and simulation of memristor-based neural networks**|Pablo Alex Lázaro et.al.|[2306.11678](http://arxiv.org/abs/2306.11678)|null|
 |**2023-06-20**|**Energy-efficient superparamagnetic Ising machine and its application to traveling salesman problems**|Jia Si et.al.|[2306.11572](http://arxiv.org/abs/2306.11572)|null|
 |**2023-06-20**|**A Simulation Framework for Distributed Quantum Computing**|Davide Ferrari et.al.|[2306.11539](http://arxiv.org/abs/2306.11539)|null|
@@ -1202,7 +1202,7 @@ layout: default
 |**2023-06-20**|**Hydrodynamic Lubrication in Colloidal Gels**|Kim William Torre et.al.|[2306.11716](http://arxiv.org/abs/2306.11716)|null|
 |**2023-06-20**|**Deterministic Identification Over Multiple-Access Channels**|Johannes Rosenberger et.al.|[2306.11705](http://arxiv.org/abs/2306.11705)|null|
 |**2023-06-20**|**Causal survival embeddings: non-parametric counterfactual inference under censoring**|Carlos García-Meixide et.al.|[2306.11704](http://arxiv.org/abs/2306.11704)|null|
-|**2023-06-20**|**GenPlot: Increasing the Scale and Diversity of Chart Derendering Data**|Brendan Artley et.al.|[2306.11699](http://arxiv.org/abs/2306.11699)|null|
+|**2023-06-20**|**GenPlot: Increasing the Scale and Diversity of Chart Derendering Data**|Brendan Artley et.al.|[2306.11699](http://arxiv.org/abs/2306.11699)|**[link](https://github.com/brendanartley/genplot)**|
 |**2023-06-20**|**DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**|Boxin Wang et.al.|[2306.11698](http://arxiv.org/abs/2306.11698)|null|
 |**2023-06-20**|**A Simple and Effective Pruning Approach for Large Language Models**|Mingjie Sun et.al.|[2306.11695](http://arxiv.org/abs/2306.11695)|**[link](https://github.com/locuslab/wanda)**|
 |**2023-06-20**|**SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT**|Yuhao Nie et.al.|[2306.11682](http://arxiv.org/abs/2306.11682)|null|
