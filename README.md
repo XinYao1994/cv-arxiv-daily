@@ -75,6 +75,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**A Graphical Modeling Language for Artificial Intelligence Applications in Automation Systems**|Marvin Schieseck et.al.|[2306.11767](http://arxiv.org/abs/2306.11767)|**[link](https://github.com/schiesem/gml-aiaas)**|
 |**2023-06-19**|**Impact of Dynamic Tariffs for Smart EV Charging on LV Distribution Network Operation**|Flore Verbist et.al.|[2306.10775](http://arxiv.org/abs/2306.10775)|null|
 |**2023-06-14**|**Towards social generative AI for education: theory, practices and ethics**|Mike Sharples et.al.|[2306.10063](http://arxiv.org/abs/2306.10063)|null|
 |**2023-06-16**|**MementoHash: A Stateful, Minimal Memory, Best Performing Consistent Hash Algorithm**|Massimo Coluzzi et.al.|[2306.09783](http://arxiv.org/abs/2306.09783)|**[link](https://github.com/supsi-dti-isin/java-consistent-hashing-algorithms)**|
@@ -151,6 +152,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Coqlex: Generating Formally Verified Lexers**|Wendlasida Ouedraogo et.al.|[2306.12411](http://arxiv.org/abs/2306.12411)|null|
+|**2023-06-21**|**A VM-Agnostic and Backwards Compatible Protected Modifier for Dynamically-Typed Languages**|Iona Thomas et.al.|[2306.12410](http://arxiv.org/abs/2306.12410)|null|
+|**2023-06-21**|**A Practical Overview of Quantum Computing: Is Exascale Possible?**|James H. Davenport et.al.|[2306.12346](http://arxiv.org/abs/2306.12346)|null|
+|**2023-06-21**|**High-throughput Quantum Chemistry: Empowering the Search for Molecular Candidates behind Unknown Spectral Signatures in Exoplanetary Atmospheres**|Juan C. Zapata Trujillo et.al.|[2306.11988](http://arxiv.org/abs/2306.11988)|null|
 |**2023-06-21**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
 |**2023-06-20**|**Pipeline for recording datasets and running neural networks on the Bela embedded hardware platform**|Teresa Pelinski et.al.|[2306.11389](http://arxiv.org/abs/2306.11389)|null|
 |**2023-06-20**|**A Versatility-Performance Balanced Hardware Architecture for Scene Text Detection**|Yao Xin et.al.|[2306.11351](http://arxiv.org/abs/2306.11351)|null|
@@ -362,6 +367,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
+|**2023-06-21**|**Randomized algorithms for low-rank matrix approximation: Design, analysis, and applications**|Joel A. Tropp et.al.|[2306.12418](http://arxiv.org/abs/2306.12418)|null|
+|**2023-06-21**|**Tracking the Multifield Dynamics with Cosmological Data: A Monte Carlo approach**|William Giarè et.al.|[2306.12414](http://arxiv.org/abs/2306.12414)|null|
+|**2023-06-21**|**Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms**|Qian Yu et.al.|[2306.12383](http://arxiv.org/abs/2306.12383)|null|
+|**2023-06-21**|**On the Validation of Gibbs Algorithms: Training Datasets, Test Datasets and their Aggregation**|Samir M. Perlaza et.al.|[2306.12380](http://arxiv.org/abs/2306.12380)|null|
+|**2023-06-21**|**Fast QSC Solver: tool for systematic study of N=4 Super-Yang-Mills spectrum**|Nikolay Gromov et.al.|[2306.12379](http://arxiv.org/abs/2306.12379)|null|
+|**2023-06-21**|**Geometric Algorithms for $k$ -NN Poisoning**|Diego Ihara Centurion et.al.|[2306.12377](http://arxiv.org/abs/2306.12377)|null|
+|**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371](http://arxiv.org/abs/2306.12371)|null|
+|**2023-06-21**|**PriorBand: Practical Hyperparameter Optimization in the Age of Deep Learning**|Neeratyoy Mallik et.al.|[2306.12370](http://arxiv.org/abs/2306.12370)|**[link](https://github.com/automl/mf-prior-exp)**|
+|**2023-06-21**|**Verification and Validation of Cylinder Drag: Pressure and Stress Approximations on Curved Boundaries**|Ingeborg G. Gjerde et.al.|[2306.12362](http://arxiv.org/abs/2306.12362)|null|
 |**2023-06-20**|**$\texttt{MultiHypExp}$ : A Mathematica Package For Expanding Multivariate Hypergeometric Functions In Terms Of Multiple Polylogarithms**|Souvik Bera et.al.|[2306.11718](http://arxiv.org/abs/2306.11718)|null|
 |**2023-06-20**|**Multi-Fidelity Active Learning with GFlowNets**|Alex Hernandez-Garcia et.al.|[2306.11715](http://arxiv.org/abs/2306.11715)|**[link](https://github.com/nikita-0209/mf-al-gfn)**|
 |**2023-06-20**|**Causal survival embeddings: non-parametric counterfactual inference under censoring**|Carlos García-Meixide et.al.|[2306.11704](http://arxiv.org/abs/2306.11704)|null|
@@ -799,6 +814,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Python Framework for Modular and Parametric SPICE Netlists Generation**|Sergio Vinagrero Gutiérrez et.al.|[2306.12224](http://arxiv.org/abs/2306.12224)|null|
+|**2023-06-21**|**Synaptic metaplasticity with multi-level memristive devices**|Simone D'Agostino et.al.|[2306.12142](http://arxiv.org/abs/2306.12142)|null|
+|**2023-06-21**|**Towards chemical accuracy with shallow quantum circuits: A Clifford-based Hamiltonian engineering approach**|Jiace Sun et.al.|[2306.12053](http://arxiv.org/abs/2306.12053)|null|
+|**2023-06-21**|**Design of Energy Harvesting based Hardware for IoT Applications**|Satyajaswanth Badri et.al.|[2306.12019](http://arxiv.org/abs/2306.12019)|null|
+|**2023-06-21**|**Training Transformers with 4-bit Integers**|Haocheng Xi et.al.|[2306.11987](http://arxiv.org/abs/2306.11987)|null|
+|**2023-06-21**|**DGEMM on Integer Matrix Multiplication Unit**|Hiroyuki Ootomo et.al.|[2306.11975](http://arxiv.org/abs/2306.11975)|null|
 |**2023-06-21**|**GPU First -- Execution of Legacy CPU Codes on GPUs**|Shilei Tian et.al.|[2306.11686](http://arxiv.org/abs/2306.11686)|null|
 |**2023-06-20**|**Design and simulation of memristor-based neural networks**|Pablo Alex Lázaro et.al.|[2306.11678](http://arxiv.org/abs/2306.11678)|null|
 |**2023-06-20**|**Energy-efficient superparamagnetic Ising machine and its application to traveling salesman problems**|Jia Si et.al.|[2306.11572](http://arxiv.org/abs/2306.11572)|null|
@@ -1221,6 +1242,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Randomized algorithms for low-rank matrix approximation: Design, analysis, and applications**|Joel A. Tropp et.al.|[2306.12418](http://arxiv.org/abs/2306.12418)|null|
+|**2023-06-21**|**Quantum soft-covering lemma with applications to rate-distortion coding, resolvability and identification via quantum channels**|Touheed Anwar Atif et.al.|[2306.12416](http://arxiv.org/abs/2306.12416)|null|
+|**2023-06-21**|**Dynamics of charge fluctuations from asymmetric initial states**|Bruno Bertini et.al.|[2306.12404](http://arxiv.org/abs/2306.12404)|null|
+|**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
+|**2023-06-21**|**Multi-Task Consistency for Active Learning**|Aral Hekimoglu et.al.|[2306.12398](http://arxiv.org/abs/2306.12398)|null|
+|**2023-06-21**|**$\mathbf{\mathbb{E}^{FWI}}$ : Multi-parameter Benchmark Datasets for Elastic Full Waveform Inversion of Geophysical Properties**|Shihang Feng et.al.|[2306.12386](http://arxiv.org/abs/2306.12386)|null|
+|**2023-06-21**|**Sample Complexity for Quadratic Bandits: Hessian Dependent Bounds and Optimal Algorithms**|Qian Yu et.al.|[2306.12383](http://arxiv.org/abs/2306.12383)|null|
+|**2023-06-21**|**On the Validation of Gibbs Algorithms: Training Datasets, Test Datasets and their Aggregation**|Samir M. Perlaza et.al.|[2306.12380](http://arxiv.org/abs/2306.12380)|null|
+|**2023-06-21**|**M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks**|Bidur Khanal et.al.|[2306.12376](http://arxiv.org/abs/2306.12376)|**[link](https://github.com/bidur-khanal/mvaal-medical-images)**|
+|**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371](http://arxiv.org/abs/2306.12371)|null|
 |**2023-06-20**|**How can objects help action recognition?**|Xingyi Zhou et.al.|[2306.11726](http://arxiv.org/abs/2306.11726)|**[link](https://github.com/google-research/scenic)**|
 |**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723](http://arxiv.org/abs/2306.11723)|null|
 |**2023-06-20**|**Hydrodynamic Lubrication in Colloidal Gels**|Kim William Torre et.al.|[2306.11716](http://arxiv.org/abs/2306.11716)|null|
@@ -1658,6 +1689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423](http://arxiv.org/abs/2306.12423)|**[link](https://github.com/qiuyu96/carver)**|
+|**2023-06-21**|**Satellite Relayed Global Quantum Communication without Quantum Memory**|Sumit Goswami et.al.|[2306.12421](http://arxiv.org/abs/2306.12421)|null|
+|**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
+|**2023-06-21**|**Multi-Task Consistency for Active Learning**|Aral Hekimoglu et.al.|[2306.12398](http://arxiv.org/abs/2306.12398)|null|
+|**2023-06-21**|**Probing the limit of hydrologic predictability with the Transformer network**|Jiangtao Liu et.al.|[2306.12384](http://arxiv.org/abs/2306.12384)|null|
+|**2023-06-21**|**Attention Hybrid Variational Net for Accelerated MRI Reconstruction**|Guoyao Shen et.al.|[2306.12365](http://arxiv.org/abs/2306.12365)|null|
+|**2023-06-21**|**Linear and Non-Linear Barrier Coverage in Deterministic and Uncertain environment in WSNs: A New Classification**|Adda Boualem et.al.|[2306.12355](http://arxiv.org/abs/2306.12355)|null|
+|**2023-06-21**|**The OH Megamaser Emission in Arp\,220: the rest of the story**|W. A. Baan et.al.|[2306.12353](http://arxiv.org/abs/2306.12353)|null|
+|**2023-06-21**|**ProtoGate: Prototype-based Neural Networks with Local Feature Selection for Tabular Biomedical Data**|Xiangjian Jiang et.al.|[2306.12330](http://arxiv.org/abs/2306.12330)|null|
+|**2023-06-21**|**Systems, variational principles and interconnections in nonequilibrium thermodynamics**|François Gay-Balmaz et.al.|[2306.12328](http://arxiv.org/abs/2306.12328)|null|
 |**2023-06-20**|**Task-dependent semi-quantum secure communication in layered networks with OAM states of light**|Rajni Bala et.al.|[2306.11728](http://arxiv.org/abs/2306.11728)|null|
 |**2023-06-20**|**Hydrodynamic Lubrication in Colloidal Gels**|Kim William Torre et.al.|[2306.11716](http://arxiv.org/abs/2306.11716)|null|
 |**2023-06-20**|**Data-Driven but Privacy-Conscious: Pedestrian Dataset De-identification via Full-Body Person Synthesis**|Maxim Maximov et.al.|[2306.11710](http://arxiv.org/abs/2306.11710)|null|
@@ -2095,6 +2136,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-21**|**Discovery of Gaia17bpp, a Giant Star with the Deepest and Longest Known Dimming Event**|Anastasios Tzanidakis et.al.|[2306.12409](http://arxiv.org/abs/2306.12409)|null|
+|**2023-06-21**|**Dynamics of charge fluctuations from asymmetric initial states**|Bruno Bertini et.al.|[2306.12404](http://arxiv.org/abs/2306.12404)|null|
+|**2023-06-21**|**PalmGazer: Unimanual Eye-hand Menus in Augmented Reality**|Ken Pfeuffer et.al.|[2306.12402](http://arxiv.org/abs/2306.12402)|null|
+|**2023-06-21**|**Timely Asynchronous Hierarchical Federated Learning: Age of Convergence**|Purbesh Mitra et.al.|[2306.12400](http://arxiv.org/abs/2306.12400)|null|
+|**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
+|**2023-06-21**|**Solving Dialogue Grounding Embodied Task in a Simulated Environment using Further Masked Language Modeling**|Weijie Jack Zhang et.al.|[2306.12387](http://arxiv.org/abs/2306.12387)|null|
+|**2023-06-21**|**One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**|Yufei Wang et.al.|[2306.12372](http://arxiv.org/abs/2306.12372)|null|
+|**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371](http://arxiv.org/abs/2306.12371)|null|
+|**2023-06-21**|**Towards Efficient MPPI Trajectory Generation with Unscented Guidance: U-MPPI Control Strategy**|Ihab S. Mohamed et.al.|[2306.12369](http://arxiv.org/abs/2306.12369)|null|
+|**2023-06-21**|**Finite Beam Depth Analysis for Large Arrays**|Alva Kosasih et.al.|[2306.12367](http://arxiv.org/abs/2306.12367)|null|
 |**2023-06-20**|**Modified Scattering of Solutions to the Relativistic Vlasov-Maxwell System Inside the Light Cone**|Stephen Pankavich et.al.|[2306.11725](http://arxiv.org/abs/2306.11725)|null|
 |**2023-06-20**|**Low-complexity Multidimensional DCT Approximations**|V. A. Coutinho et.al.|[2306.11724](http://arxiv.org/abs/2306.11724)|null|
 |**2023-06-20**|**Reconstructing the spatial structure of quantum correlations**|Allen Scheie et.al.|[2306.11723](http://arxiv.org/abs/2306.11723)|null|
