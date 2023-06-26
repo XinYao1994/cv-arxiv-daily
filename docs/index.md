@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -137,7 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-22**|**ACC Saturator: Automatic Kernel Optimization for Directive-Based GPU Code**|Kazuaki Matsumura et.al.|[2306.13002](http://arxiv.org/abs/2306.13002)|null|
+|**2023-06-23**|**ACC Saturator: Automatic Kernel Optimization for Directive-Based GPU Code**|Kazuaki Matsumura et.al.|[2306.13002](http://arxiv.org/abs/2306.13002)|null|
 |**2023-06-22**|**Vec2Vec: A Compact Neural Network Approach for Transforming Text Embeddings with High Fidelity**|Andrew Kean Gao et.al.|[2306.12689](http://arxiv.org/abs/2306.12689)|null|
 |**2023-06-22**|**FLAG: Finding Line Anomalies (in code) with Generative AI**|Baleegh Ahmad et.al.|[2306.12643](http://arxiv.org/abs/2306.12643)|null|
 |**2023-06-21**|**FFCV: Accelerating Training by Removing Data Bottlenecks**|Guillaume Leclerc et.al.|[2306.12517](http://arxiv.org/abs/2306.12517)|null|
