@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -363,8 +363,8 @@ layout: default
 |**2023-06-23**|**Fast Approximation of Unbalanced Optimal Transport and Maximum Mean Discrepancies**|Rajmadan Lakshmanan et.al.|[2306.13618](http://arxiv.org/abs/2306.13618)|null|
 |**2023-06-23**|**CIDGIKc: Distance-Geometric Inverse Kinematics for Continuum Robots**|Hanna Jiamei Zhang et.al.|[2306.13617](http://arxiv.org/abs/2306.13617)|null|
 |**2023-06-23**|**Active Coverage for PAC Reinforcement Learning**|Aymen Al-Marjani et.al.|[2306.13601](http://arxiv.org/abs/2306.13601)|null|
-|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|null|
-|**2023-06-23**|**A Semi-Paired Approach For Label-to-Image Translation**|George Eskandar et.al.|[2306.13585](http://arxiv.org/abs/2306.13585)|null|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|**[link](https://github.com/matouskozak/amg)**|
+|**2023-06-26**|**A Semi-Paired Approach For Label-to-Image Translation**|George Eskandar et.al.|[2306.13585](http://arxiv.org/abs/2306.13585)|null|
 |**2023-06-23**|**Estimating Residential Solar Potential Using Aerial Data**|Ross Goroshin et.al.|[2306.13564](http://arxiv.org/abs/2306.13564)|null|
 |**2023-06-23**|**Algorithmic complexity of monadic multimodal predicate logics with equality over finite Kripke frames**|I. Agadzhanian et.al.|[2306.13559](http://arxiv.org/abs/2306.13559)|null|
 |**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085](http://arxiv.org/abs/2306.13085)|**[link](https://github.com/improbable-ai/harness-offline-rl)**|
@@ -823,7 +823,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-23**|**One-Bit Spectrum Sensing for Cognitive Radio**|Pei-Wen Wu et.al.|[2306.13558](http://arxiv.org/abs/2306.13558)|null|
-|**2023-06-23**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
+|**2023-06-26**|**FPGA Implementation of Convolutional Neural Network for Real-Time Handwriting Recognition**|Shichen Qiao et.al.|[2306.13557](http://arxiv.org/abs/2306.13557)|**[link](https://github.com/shichenqiao/ece554_sp23_fpga_handwriting_recognition)**|
 |**2023-06-23**|**High-Speed Area-Efficient Hardware Architecture for the Efficient Detection of Faults in a Bit-Parallel Multiplier Utilizing the Polynomial Basis of GF(2m)**|Saeideh Nabipour et.al.|[2306.13347](http://arxiv.org/abs/2306.13347)|null|
 |**2023-06-23**|**On Sensitivity and Robustness of Normalization Schemes to Input Distribution Shifts in Automatic MR Image Diagnosis**|Divyam Madaan et.al.|[2306.13276](http://arxiv.org/abs/2306.13276)|null|
 |**2023-06-22**|**Sustainable HPC: Modeling, Characterization, and Implications of Carbon Footprint in Modern HPC Systems**|Baolin Li et.al.|[2306.13177](http://arxiv.org/abs/2306.13177)|null|
@@ -1738,7 +1738,7 @@ layout: default
 |**2023-06-23**|**Adversarial Robustness Certification for Bayesian Neural Networks**|Matthew Wicker et.al.|[2306.13614](http://arxiv.org/abs/2306.13614)|**[link](https://github.com/matthewwicker/adversarialrobustnesscertificationforbnns)**|
 |**2023-06-23**|**Machine Learning methods for simulating particle response in the Zero Degree Calorimeter at the ALICE experiment, CERN**|Jan Dubiński et.al.|[2306.13606](http://arxiv.org/abs/2306.13606)|null|
 |**2023-06-23**|**Autoencoders for Real-Time SUEP Detection**|Simranjit Singh Chhibra et.al.|[2306.13595](http://arxiv.org/abs/2306.13595)|null|
-|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|null|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|**[link](https://github.com/matouskozak/amg)**|
 |**2023-06-22**|**Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective**|Zeyuan Yin et.al.|[2306.13092](http://arxiv.org/abs/2306.13092)|**[link](https://github.com/zeyuanyin/sre2l)**|
 |**2023-06-22**|**PromptIR: Prompting for All-in-One Blind Image Restoration**|Vaishnav Potlapalli et.al.|[2306.13090](http://arxiv.org/abs/2306.13090)|**[link](https://github.com/va1shn9v/promptir)**|
 |**2023-06-22**|**Convergence results for gradient flow and gradient descent systems in the artificial neural network training**|Arzu Ahmadova et.al.|[2306.13086](http://arxiv.org/abs/2306.13086)|null|
