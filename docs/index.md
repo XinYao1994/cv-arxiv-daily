@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1302,7 +1302,7 @@ layout: default
 |**2023-06-26**|**Value of Information in Games with Multiple Strategic Information Providers**|Raj Kiriti Velicheti et.al.|[2306.14886](http://arxiv.org/abs/2306.14886)|null|
 |**2023-06-26**|**Constraining the top-quark mass within the global MSHT PDF fit**|Thomas Cridge et.al.|[2306.14885](http://arxiv.org/abs/2306.14885)|null|
 |**2023-06-26**|**Learning to Modulate pre-trained Models in RL**|Thomas Schmied et.al.|[2306.14884](http://arxiv.org/abs/2306.14884)|**[link](https://github.com/ml-jku/l2m)**|
-|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck**|Zhelun Zhang et.al.|[2306.14838](http://arxiv.org/abs/2306.14838)|null|
 |**2023-06-26**|**Scalable Neural Contextual Bandit for Recommender Systems**|Zheqing Zhu et.al.|[2306.14834](http://arxiv.org/abs/2306.14834)|null|
 |**2023-06-26**|**Melody: A Platform for Linked Open Data Visualisation and Curated Storytelling**|Giulia Renda et.al.|[2306.14832](http://arxiv.org/abs/2306.14832)|null|
@@ -1776,7 +1776,7 @@ layout: default
 |**2023-06-26**|**Efficient tensor network simulation of IBM's kicked Ising experiment**|Joseph Tindall et.al.|[2306.14887](http://arxiv.org/abs/2306.14887)|null|
 |**2023-06-26**|**Leveraging Task Structures for Improved Identifiability in Neural Network Representations**|Wenlin Chen et.al.|[2306.14861](http://arxiv.org/abs/2306.14861)|null|
 |**2023-06-26**|**Effective Minkowski Dimension of Deep Nonparametric Regression: Function Approximation and Statistical Theories**|Zixuan Zhang et.al.|[2306.14859](http://arxiv.org/abs/2306.14859)|null|
-|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Primordial gravitational waves in the nano-Hertz regime and PTA data -- towards solving the GW inverse problem**|Eric Madge et.al.|[2306.14856](http://arxiv.org/abs/2306.14856)|null|
 |**2023-06-26**|**A Flyweight CNN with Adaptive Decoder for Schistosoma mansoni Egg Detection**|Leonardo de Melo Joao et.al.|[2306.14840](http://arxiv.org/abs/2306.14840)|null|
 |**2023-06-26**|**Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck**|Zhelun Zhang et.al.|[2306.14838](http://arxiv.org/abs/2306.14838)|null|
