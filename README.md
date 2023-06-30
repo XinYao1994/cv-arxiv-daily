@@ -79,6 +79,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**A new approach on distributed systems: orderings and representability**|Asier Estevan Muguerza et.al.|[2306.16888](http://arxiv.org/abs/2306.16888)|null|
+|**2023-06-29**|**Online learning for robust voltage control under uncertain grid topology**|Christopher Yeh et.al.|[2306.16674](http://arxiv.org/abs/2306.16674)|null|
+|**2023-06-28**|**Coordinating Multiple Resources for Optimal Postdisaster Operation of Interdependent Electric Power and Natural Gas Distribution Systems**|Wei Wang et.al.|[2306.16473](http://arxiv.org/abs/2306.16473)|null|
 |**2023-06-27**|**Retrospective: A Scalable Processing-in-Memory Accelerator for Parallel Graph Processing**|Junwhan Ahn et.al.|[2306.15577](http://arxiv.org/abs/2306.15577)|null|
 |**2023-06-25**|**ALBUS: a Probabilistic Monitoring Algorithm to Counter Burst-Flood Attacks**|Simon Scherrer et.al.|[2306.14328](http://arxiv.org/abs/2306.14328)|null|
 |**2023-06-25**|**Learning Broadcast Protocols**|Dana Fisman et.al.|[2306.14284](http://arxiv.org/abs/2306.14284)|null|
@@ -165,6 +168,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**AutoML in Heavily Constrained Applications**|Felix Neutatz et.al.|[2306.16913](http://arxiv.org/abs/2306.16913)|null|
+|**2023-06-29**|**SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores**|Leqian Zheng et.al.|[2306.16851](http://arxiv.org/abs/2306.16851)|null|
+|**2023-06-29**|**TrojanNet: Detecting Trojans in Quantum Circuits using Machine Learning**|Subrata Das et.al.|[2306.16701](http://arxiv.org/abs/2306.16701)|null|
 |**2023-06-28**|**Measuring Hubble constant in an anisotropic extension of $Λ$ CDM model**|Vikrant Yadav et.al.|[2306.16135](http://arxiv.org/abs/2306.16135)|null|
 |**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
 |**2023-06-27**|**A Toolbox for Fast Interval Arithmetic in numpy with an Application to Formal Verification of Neural Network Controlled Systems**|Akash Harapanahalli et.al.|[2306.15340](http://arxiv.org/abs/2306.15340)|null|
@@ -394,6 +400,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Can Machines Garden? Systematically Comparing the AlphaGarden vs. Professional Horticulturalists**|Simeon Adebola et.al.|[2306.17162](http://arxiv.org/abs/2306.17162)|null|
+|**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
+|**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
+|**2023-06-29**|**The Boosted Double-Proximal Subgradient Algorithm for Nonconvex Optimization**|Francisco J. Aragón-Artacho et.al.|[2306.17144](http://arxiv.org/abs/2306.17144)|null|
+|**2023-06-29**|**Nonlinear Data-Driven Control Part II: qLPV Predictive Control using Parameter Extrapolation**|Marcelo Menezes Morato et.al.|[2306.17139](http://arxiv.org/abs/2306.17139)|null|
+|**2023-06-29**|**Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines**|Yashvir Tiberwal et.al.|[2306.17138](http://arxiv.org/abs/2306.17138)|null|
+|**2023-06-29**|**PVP: Personalized Video Prior for Editable Dynamic Portraits using StyleGAN**|Kai-En Lin et.al.|[2306.17123](http://arxiv.org/abs/2306.17123)|null|
+|**2023-06-29**|**Partial Syndrome Measurement for Hypergraph Product Codes**|Noah Berthusen et.al.|[2306.17122](http://arxiv.org/abs/2306.17122)|null|
+|**2023-06-29**|**PANTR: A proximal algorithm with trust-region updates for nonconvex constrained optimization**|Alexander Bodard et.al.|[2306.17119](http://arxiv.org/abs/2306.17119)|null|
+|**2023-06-29**|**ManimML: Communicating Machine Learning Architectures with Animation**|Alec Helbling et.al.|[2306.17108](http://arxiv.org/abs/2306.17108)|**[link](https://github.com/helblazer811/manimml)**|
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413](http://arxiv.org/abs/2306.16413)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Sharper Model-free Reinforcement Learning for Average-reward Markov Decision Processes**|Zihan Zhang et.al.|[2306.16394](http://arxiv.org/abs/2306.16394)|null|
 |**2023-06-28**|**Finding the connected components of the graph using perturbations of the adjacency matrix**|Alexander Prolubnikov et.al.|[2306.16389](http://arxiv.org/abs/2306.16389)|null|
@@ -891,6 +907,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
+|**2023-06-29**|**Deep Denoising Prior-Based Spectral Estimation for Phaseless Synthetic Aperture Radar**|Samia Kazemi et.al.|[2306.17096](http://arxiv.org/abs/2306.17096)|null|
+|**2023-06-29**|**RowPress: Amplifying Read Disturbance in Modern DRAM Chips**|Haocong Luo et.al.|[2306.17061](http://arxiv.org/abs/2306.17061)|null|
+|**2023-06-29**|**Tunable coupler to fully decouple superconducting qubits**|Lukas Heunisch et.al.|[2306.17007](http://arxiv.org/abs/2306.17007)|null|
+|**2023-06-29**|**Noise-Aware Quantum Software Testing**|Asmar Muqeet et.al.|[2306.16992](http://arxiv.org/abs/2306.16992)|null|
+|**2023-06-29**|**A Low-Power Hardware-Friendly Optimisation Algorithm With Absolute Numerical Stability and Convergence Guarantees**|Anis Hamadouche et.al.|[2306.16935](http://arxiv.org/abs/2306.16935)|null|
+|**2023-06-29**|**Heisenberg-limited quantum metrology using 100-photon Fock states**|Xiaowei Deng et.al.|[2306.16919](http://arxiv.org/abs/2306.16919)|null|
+|**2023-06-29**|**NeuralFuse: Learning to Improve the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes**|Hao-Lun Sun et.al.|[2306.16869](http://arxiv.org/abs/2306.16869)|**[link](https://github.com/ibm/neuralfuse)**|
+|**2023-06-29**|**Beamfocusing Optimization for Near-Field Wideband Multi-User Communications**|Zhaolin Wang et.al.|[2306.16861](http://arxiv.org/abs/2306.16861)|null|
+|**2023-06-29**|**Performance Analysis of DNN Inference/Training with Convolution and non-Convolution Operations**|Hadi Esmaeilzadeh et.al.|[2306.16767](http://arxiv.org/abs/2306.16767)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Fast classical simulation of evidence for the utility of quantum computing before fault tolerance**|Tomislav Begušić et.al.|[2306.16372](http://arxiv.org/abs/2306.16372)|null|
 |**2023-06-28**|**Why white noise is not enough? On using radio front-end models while designing 6G PHY**|Pawel Kryszkiewicz et.al.|[2306.16363](http://arxiv.org/abs/2306.16363)|null|
@@ -1365,6 +1391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Local Risk Bounds for Statistical Aggregation**|Jaouad Mourtada et.al.|[2306.17151](http://arxiv.org/abs/2306.17151)|null|
+|**2023-06-29**|**Evaluation of AI-Supported Input Methods in Augmented Reality Environment**|Akos Nagy et.al.|[2306.17132](http://arxiv.org/abs/2306.17132)|null|
+|**2023-06-29**|**Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation**|Daniele Malitesta et.al.|[2306.17125](http://arxiv.org/abs/2306.17125)|**[link](https://github.com/sisinflab/ducho)**|
+|**2023-06-29**|**PANTR: A proximal algorithm with trust-region updates for nonconvex constrained optimization**|Alexander Bodard et.al.|[2306.17119](http://arxiv.org/abs/2306.17119)|null|
+|**2023-06-29**|**Cosmic topology. Part II. Eigenmodes, correlation matrices, and detectability of orientable Euclidean manifolds**|Johannes R. Eskilt et.al.|[2306.17112](http://arxiv.org/abs/2306.17112)|null|
+|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|null|
+|**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104](http://arxiv.org/abs/2306.17104)|null|
+|**2023-06-29**|**Re-Rank - Expand - Repeat: Adaptive Query Expansion for Document Retrieval Using Words and Entities**|Iain Mackie et.al.|[2306.17082](http://arxiv.org/abs/2306.17082)|null|
+|**2023-06-29**|**Saturating linear sets of minimal rank**|Daniele Bartoli et.al.|[2306.17081](http://arxiv.org/abs/2306.17081)|null|
+|**2023-06-29**|**Optimal binary gratings for multi-wavelength magneto-optical traps**|Oliver S. Burrow et.al.|[2306.17080](http://arxiv.org/abs/2306.17080)|null|
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413](http://arxiv.org/abs/2306.16413)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410](http://arxiv.org/abs/2306.16410)|null|
 |**2023-06-28**|**A proof of the Etzion-Silberstein conjecture for monotone and MDS-constructible Ferrers diagrams**|Alessandro Neri et.al.|[2306.16407](http://arxiv.org/abs/2306.16407)|null|
@@ -1862,6 +1898,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157](http://arxiv.org/abs/2306.17157)|null|
+|**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|null|
+|**2023-06-29**|**Evaluation of AI-Supported Input Methods in Augmented Reality Environment**|Akos Nagy et.al.|[2306.17132](http://arxiv.org/abs/2306.17132)|null|
+|**2023-06-29**|**Synthetic Demographic Data Generation for Card Fraud Detection Using GANs**|Shuo Wang et.al.|[2306.17109](http://arxiv.org/abs/2306.17109)|null|
+|**2023-06-29**|**ManimML: Communicating Machine Learning Architectures with Animation**|Alec Helbling et.al.|[2306.17108](http://arxiv.org/abs/2306.17108)|**[link](https://github.com/helblazer811/manimml)**|
+|**2023-06-29**|**Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations**|Yongyi Yang et.al.|[2306.17105](http://arxiv.org/abs/2306.17105)|null|
+|**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104](http://arxiv.org/abs/2306.17104)|null|
+|**2023-06-29**|**Identifying Important Sensory Feedback for Learning Locomotion Skills**|Wanming Yu et.al.|[2306.17101](http://arxiv.org/abs/2306.17101)|null|
+|**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100](http://arxiv.org/abs/2306.17100)|**[link](https://github.com/kaist-silab/rl4co)**|
+|**2023-06-29**|**Deep Denoising Prior-Based Spectral Estimation for Phaseless Synthetic Aperture Radar**|Samia Kazemi et.al.|[2306.17096](http://arxiv.org/abs/2306.17096)|null|
 |**2023-06-28**|**Accelerating Sampling and Aggregation Operations in GNN Frameworks with GPU Initiated Direct Storage Accesses**|Jeongmin Brian Park et.al.|[2306.16384](http://arxiv.org/abs/2306.16384)|**[link](https://github.com/jeongminpark417/gids)**|
 |**2023-06-28**|**Why white noise is not enough? On using radio front-end models while designing 6G PHY**|Pawel Kryszkiewicz et.al.|[2306.16363](http://arxiv.org/abs/2306.16363)|null|
 |**2023-06-28**|**Beyond NTK with Vanilla Gradient Descent: A Mean-Field Analysis of Neural Networks with Polynomial Width, Samples, and Time**|Arvind Mahankali et.al.|[2306.16361](http://arxiv.org/abs/2306.16361)|null|
@@ -2359,6 +2405,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**Fossil group origins XIII. A paradigm shift: fossil groups as isolated structures rather than relics of the ancient Universe**|S. Zarattini et.al.|[2306.17166](http://arxiv.org/abs/2306.17166)|null|
+|**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
+|**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
+|**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157](http://arxiv.org/abs/2306.17157)|null|
+|**2023-06-29**|**Nonlinear Data-Driven Control Part II: qLPV Predictive Control using Parameter Extrapolation**|Marcelo Menezes Morato et.al.|[2306.17139](http://arxiv.org/abs/2306.17139)|null|
+|**2023-06-29**|**Orbit Classification of asteroids using implementation of radial Basis Function on Support Vector Machines**|Yashvir Tiberwal et.al.|[2306.17138](http://arxiv.org/abs/2306.17138)|null|
+|**2023-06-29**|**Nonlinear Data-Driven Control Part I: Trajectory Representation under quasi-Linear Parameter Varying Embeddings**|Marcelo Menezes Morato et.al.|[2306.17137](http://arxiv.org/abs/2306.17137)|null|
+|**2023-06-29**|**Evaluation of AI-Supported Input Methods in Augmented Reality Environment**|Akos Nagy et.al.|[2306.17132](http://arxiv.org/abs/2306.17132)|null|
+|**2023-06-29**|**2D Fractons from Gauging Exponential Symmetries**|Guilherme Delfino et.al.|[2306.17121](http://arxiv.org/abs/2306.17121)|null|
+|**2023-06-29**|**PANTR: A proximal algorithm with trust-region updates for nonconvex constrained optimization**|Alexander Bodard et.al.|[2306.17119](http://arxiv.org/abs/2306.17119)|null|
 |**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410](http://arxiv.org/abs/2306.16410)|null|
 |**2023-06-29**|**Even order contributions to relative energies vanish for antisymmetric perturbations**|O. Anatole von Lilienfeld et.al.|[2306.16409](http://arxiv.org/abs/2306.16409)|null|
 |**2023-06-28**|**The Power of Telemetry: Uncovering Software-Based Side-Channel Attacks on Apple M1/M2 Systems**|Nikhil Chawla et.al.|[2306.16391](http://arxiv.org/abs/2306.16391)|null|
