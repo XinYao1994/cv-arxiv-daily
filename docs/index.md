@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1376,7 +1376,7 @@ layout: default
 |**2023-06-29**|**Deep Ensemble for Rotorcraft Attitude Prediction**|Hikmat Khan et.al.|[2306.17104](http://arxiv.org/abs/2306.17104)|null|
 |**2023-06-29**|**Re-Rank - Expand - Repeat: Adaptive Query Expansion for Document Retrieval Using Words and Entities**|Iain Mackie et.al.|[2306.17082](http://arxiv.org/abs/2306.17082)|null|
 |**2023-06-29**|**Saturating linear sets of minimal rank**|Daniele Bartoli et.al.|[2306.17081](http://arxiv.org/abs/2306.17081)|null|
-|**2023-06-29**|**Optimal binary gratings for multi-wavelength magneto-optical traps**|Oliver S. Burrow et.al.|[2306.17080](http://arxiv.org/abs/2306.17080)|null|
+|**2023-06-30**|**Optimal binary gratings for multi-wavelength magneto-optical traps**|Oliver S. Burrow et.al.|[2306.17080](http://arxiv.org/abs/2306.17080)|null|
 |**2023-06-28**|**MultiZoo & MultiBench: A Standardized Toolkit for Multimodal Deep Learning**|Paul Pu Liang et.al.|[2306.16413](http://arxiv.org/abs/2306.16413)|**[link](https://github.com/pliang279/MultiBench)**|
 |**2023-06-28**|**Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language**|William Berrios et.al.|[2306.16410](http://arxiv.org/abs/2306.16410)|null|
 |**2023-06-28**|**A proof of the Etzion-Silberstein conjecture for monotone and MDS-constructible Ferrers diagrams**|Alessandro Neri et.al.|[2306.16407](http://arxiv.org/abs/2306.16407)|null|
