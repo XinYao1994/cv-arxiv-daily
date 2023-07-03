@@ -63,6 +63,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Checking Presence Reachability Properties on Parameterized Shared-Memory Systems**|Nicolas Waldburger et.al.|[2306.17476](http://arxiv.org/abs/2306.17476)|null|
+|**2023-06-23**|**Blockchain-based Federated Learning for Decentralized Energy Management Systems**|Abdulrezzak Zekiye et.al.|[2306.17186](http://arxiv.org/abs/2306.17186)|null|
 |**2023-06-29**|**A new approach on distributed systems: orderings and representability**|Asier Estevan Muguerza et.al.|[2306.16888](http://arxiv.org/abs/2306.16888)|null|
 |**2023-06-29**|**Online learning for robust voltage control under uncertain grid topology**|Christopher Yeh et.al.|[2306.16674](http://arxiv.org/abs/2306.16674)|null|
 |**2023-06-28**|**Coordinating Multiple Resources for Optimal Postdisaster Operation of Interdependent Electric Power and Natural Gas Distribution Systems**|Wei Wang et.al.|[2306.16473](http://arxiv.org/abs/2306.16473)|null|
@@ -150,6 +152,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Reanalysis of neutron-capture elements in the benchmark r-rich star CS 31082-001**|H. Ernandes et.al.|[2306.17627](http://arxiv.org/abs/2306.17627)|null|
+|**2023-06-29**|**Improved sd shell effective interactions from Daejeon16**|Ik Jae Shin et.al.|[2306.17289](http://arxiv.org/abs/2306.17289)|null|
 |**2023-06-29**|**AutoML in Heavily Constrained Applications**|Felix Neutatz et.al.|[2306.16913](http://arxiv.org/abs/2306.16913)|null|
 |**2023-06-29**|**SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores**|Leqian Zheng et.al.|[2306.16851](http://arxiv.org/abs/2306.16851)|null|
 |**2023-06-29**|**TrojanNet: Detecting Trojans in Quantum Circuits using Machine Learning**|Subrata Das et.al.|[2306.16701](http://arxiv.org/abs/2306.16701)|null|
@@ -380,6 +384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
+|**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844](http://arxiv.org/abs/2306.17844)|null|
+|**2023-06-30**|**Breaking the Metric Voting Distortion Barrier**|Moses Charikar et.al.|[2306.17838](http://arxiv.org/abs/2306.17838)|null|
+|**2023-06-30**|**Gauging tensor networks with belief propagation**|Joseph Tindall et.al.|[2306.17837](http://arxiv.org/abs/2306.17837)|null|
+|**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833](http://arxiv.org/abs/2306.17833)|null|
+|**2023-06-30**|**Federated Ensemble YOLOv5 - A Better Generalized Object Detection Algorithm**|Vinit Hegiste et.al.|[2306.17829](http://arxiv.org/abs/2306.17829)|null|
+|**2023-06-30**|**Understanding Unfairness via Training Concept Influence**|Yuanshun Yao et.al.|[2306.17828](http://arxiv.org/abs/2306.17828)|null|
+|**2023-06-30**|**Scalable tensor methods for nonuniform hypergraphs**|Sinan G. Aksoy et.al.|[2306.17825](http://arxiv.org/abs/2306.17825)|null|
+|**2023-06-30**|**Branch points of split degenerate superelliptic curves I: non-archimedean uniformization**|Jeffrey Yelton et.al.|[2306.17823](http://arxiv.org/abs/2306.17823)|null|
+|**2023-06-30**|**On Numerical Methods for Stochastic SINDy**|Mathias Wanner et.al.|[2306.17814](http://arxiv.org/abs/2306.17814)|null|
 |**2023-06-29**|**Can Machines Garden? Systematically Comparing the AlphaGarden vs. Professional Horticulturalists**|Simeon Adebola et.al.|[2306.17162](http://arxiv.org/abs/2306.17162)|null|
 |**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
 |**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
@@ -885,6 +899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**HashMem: PIM-based Hashmap Accelerator**|Akhil Shekar et.al.|[2306.17721](http://arxiv.org/abs/2306.17721)|null|
+|**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703](http://arxiv.org/abs/2306.17703)|null|
+|**2023-06-30**|**Analysis of Oversampling in Uplink Massive MIMO-OFDM with Low-Resolution ADCs**|Mengyuan Ma et.al.|[2306.17697](http://arxiv.org/abs/2306.17697)|null|
+|**2023-06-30**|**An Integrated FPGA Accelerator for Deep Learning-based 2D/3D Path Planning**|Keisuke Sugiura et.al.|[2306.17625](http://arxiv.org/abs/2306.17625)|null|
+|**2023-06-30**|**Synchronization of quantum communication over an optical classical communication channel**|Federico Berra et.al.|[2306.17603](http://arxiv.org/abs/2306.17603)|null|
+|**2023-06-30**|**Role of single particle motility statistics on efficiency of targeted delivery of micro-robot swarms**|Akshatha Jagadish et.al.|[2306.17578](http://arxiv.org/abs/2306.17578)|null|
+|**2023-06-30**|**High-throughput Simulation of Federated Learning via Resource-Aware Client Placement**|Lorenzo Sani et.al.|[2306.17453](http://arxiv.org/abs/2306.17453)|null|
+|**2023-06-30**|**Micromanipulation in Surgery: Autonomous Needle Insertion Inside the Eye for Targeted Drug Delivery**|Ji Woong Kim et.al.|[2306.17421](http://arxiv.org/abs/2306.17421)|null|
+|**2023-06-30**|**Testing Multi-Subroutine Quantum Programs: From Unit Testing to Integration Testing**|Peixun Long et.al.|[2306.17407](http://arxiv.org/abs/2306.17407)|null|
+|**2023-06-29**|**Modeling Parallel Programs using Large Language Models**|Daniel Nichols et.al.|[2306.17281](http://arxiv.org/abs/2306.17281)|null|
 |**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
 |**2023-06-29**|**Deep Denoising Prior-Based Spectral Estimation for Phaseless Synthetic Aperture Radar**|Samia Kazemi et.al.|[2306.17096](http://arxiv.org/abs/2306.17096)|null|
 |**2023-06-29**|**RowPress: Amplifying Read Disturbance in Modern DRAM Chips**|Haocong Luo et.al.|[2306.17061](http://arxiv.org/abs/2306.17061)|null|
@@ -1367,6 +1391,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
+|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840](http://arxiv.org/abs/2306.17840)|null|
+|**2023-06-30**|**Giant lattice softening at a Lifshitz transition in Sr $_{2}$RuO$_{4}$**|Hilary M. L. Noad et.al.|[2306.17835](http://arxiv.org/abs/2306.17835)|null|
+|**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833](http://arxiv.org/abs/2306.17833)|null|
+|**2023-06-30**|**Scalable tensor methods for nonuniform hypergraphs**|Sinan G. Aksoy et.al.|[2306.17825](http://arxiv.org/abs/2306.17825)|null|
+|**2023-06-30**|**Bayesian Optimization with Formal Safety Guarantees via Online Conformal Prediction**|Yunchuan Zhang et.al.|[2306.17815](http://arxiv.org/abs/2306.17815)|null|
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805](http://arxiv.org/abs/2306.17805)|null|
+|**2023-06-30**|**A reduction of the separability problem to SPC states in the filter normal form**|Daniel Cariello et.al.|[2306.17803](http://arxiv.org/abs/2306.17803)|null|
+|**2023-06-30**|**A Simple Proof for Efficient Federated Low Rank Matrix Recovery from column-wise Linear Projections**|Namrata Vaswani et.al.|[2306.17782](http://arxiv.org/abs/2306.17782)|null|
+|**2023-06-30**|**Look, Remember and Reason: Visual Reasoning with Grounded Rationales**|Apratim Bhattacharyya et.al.|[2306.17778](http://arxiv.org/abs/2306.17778)|null|
 |**2023-06-29**|**Local Risk Bounds for Statistical Aggregation**|Jaouad Mourtada et.al.|[2306.17151](http://arxiv.org/abs/2306.17151)|null|
 |**2023-06-29**|**Evaluation of AI-Supported Input Methods in Augmented Reality Environment**|Akos Nagy et.al.|[2306.17132](http://arxiv.org/abs/2306.17132)|null|
 |**2023-06-29**|**Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation**|Daniele Malitesta et.al.|[2306.17125](http://arxiv.org/abs/2306.17125)|**[link](https://github.com/sisinflab/ducho)**|
@@ -1872,6 +1906,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
+|**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
+|**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844](http://arxiv.org/abs/2306.17844)|null|
+|**2023-06-30**|**Domain wall interpretation of the PTA signal confronting black hole overproduction**|Yann Gouttenoire et.al.|[2306.17841](http://arxiv.org/abs/2306.17841)|null|
+|**2023-06-30**|**Classical benchmarking of zero noise extrapolation beyond the exactly-verifiable regime**|Sajant Anand et.al.|[2306.17839](http://arxiv.org/abs/2306.17839)|null|
+|**2023-06-30**|**Gauging tensor networks with belief propagation**|Joseph Tindall et.al.|[2306.17837](http://arxiv.org/abs/2306.17837)|null|
+|**2023-06-30**|**Axionic domain walls at Pulsar Timing Arrays: QCD bias and particle friction**|Simone Blasi et.al.|[2306.17830](http://arxiv.org/abs/2306.17830)|null|
+|**2023-06-30**|**Scalable tensor methods for nonuniform hypergraphs**|Sinan G. Aksoy et.al.|[2306.17825](http://arxiv.org/abs/2306.17825)|null|
+|**2023-06-30**|**Network Structure shapes the Impact of Diversity in Collective Learning**|Fabian Baumann et.al.|[2306.17812](http://arxiv.org/abs/2306.17812)|null|
+|**2023-06-30**|**Topologically Attributed Graphs for Shape Discrimination**|Justin Curry et.al.|[2306.17805](http://arxiv.org/abs/2306.17805)|null|
 |**2023-06-29**|**FogROS2-SGC: A ROS2 Cloud Robotics Platform for Secure Global Connectivity**|Kaiyuan Chen et.al.|[2306.17157](http://arxiv.org/abs/2306.17157)|null|
 |**2023-06-29**|**Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models**|Zeqi Gu et.al.|[2306.17141](http://arxiv.org/abs/2306.17141)|**[link](https://github.com/jaclyngu/filteredguideddiffusion)**|
 |**2023-06-29**|**Evaluation of AI-Supported Input Methods in Augmented Reality Environment**|Akos Nagy et.al.|[2306.17132](http://arxiv.org/abs/2306.17132)|null|
@@ -2377,6 +2421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
+|**2023-06-30**|**Quasi-bound states in the continuum in photonic-crystal-based optomechanical microcavities**|Cindy Peralle et.al.|[2306.17831](http://arxiv.org/abs/2306.17831)|null|
+|**2023-06-30**|**Yukawa theory in non-perturbative regimes: towards confinement, exact $β$ -function and conformal phase**|Marco Frasca et.al.|[2306.17818](http://arxiv.org/abs/2306.17818)|null|
+|**2023-06-30**|**Bayesian Optimization with Formal Safety Guarantees via Online Conformal Prediction**|Yunchuan Zhang et.al.|[2306.17815](http://arxiv.org/abs/2306.17815)|null|
+|**2023-06-30**|**On Numerical Methods for Stochastic SINDy**|Mathias Wanner et.al.|[2306.17814](http://arxiv.org/abs/2306.17814)|null|
+|**2023-06-30**|**Circular Systems Engineering**|Istvan David et.al.|[2306.17808](http://arxiv.org/abs/2306.17808)|null|
+|**2023-06-30**|**Screw and Lie Group Theory in Multibody Dynamics -- Recursive Algorithms and Equations of Motion of Tree-Topology Systems**|Andreas Mueller et.al.|[2306.17793](http://arxiv.org/abs/2306.17793)|null|
+|**2023-06-30**|**Theoretical Analysis of Heterodyne Rydberg Atomic Receiver Sensitivity Based on Transit Relaxation Effect and Frequency Detuning**|Shanchi Wu et.al.|[2306.17790](http://arxiv.org/abs/2306.17790)|null|
+|**2023-06-30**|**Future stability of expanding spatially homogeneous FLRW solutions of the spherically symmetric Einstein--massless Vlasov system with spatial topology $\mathbb{R}^3$**|Martin Taylor et.al.|[2306.17774](http://arxiv.org/abs/2306.17774)|null|
+|**2023-06-30**|**MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying**|Shaoshuai Shi et.al.|[2306.17770](http://arxiv.org/abs/2306.17770)|null|
 |**2023-06-29**|**Fossil group origins XIII. A paradigm shift: fossil groups as isolated structures rather than relics of the ancient Universe**|S. Zarattini et.al.|[2306.17166](http://arxiv.org/abs/2306.17166)|null|
 |**2023-06-29**|**Optimized trajectory unraveling for classical simulation of noisy quantum dynamics**|Zhuo Chen et.al.|[2306.17161](http://arxiv.org/abs/2306.17161)|null|
 |**2023-06-29**|**Adaptive variational quantum algorithms on a noisy intermediate scale quantum computer**|César Feniou et.al.|[2306.17159](http://arxiv.org/abs/2306.17159)|null|
@@ -2882,6 +2936,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-30**|**Solving nonlinear ODEs with the ultraspherical spectral method**|Ouyuan Qin et.al.|[2306.17688](http://arxiv.org/abs/2306.17688)|null|
 |**2023-06-08**|**Augmenting Hessians with Inter-Layer Dependencies for Mixed-Precision Post-Training Quantization**|Clemens JS Schaefer et.al.|[2306.04879](http://arxiv.org/abs/2306.04879)|null|
 |**2023-05-30**|**Mixed Precision Rayleigh Quotient Iteration for Total Least Squares Problems**|Eda Oktay et.al.|[2305.19028](http://arxiv.org/abs/2305.19028)|null|
 |**2023-05-24**|**RAND: Robustness Aware Norm Decay For Quantized Seq2seq Models**|David Qiu et.al.|[2305.15536](http://arxiv.org/abs/2305.15536)|null|
