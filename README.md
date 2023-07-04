@@ -176,7 +176,7 @@
 |**2023-06-29**|**SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores**|Leqian Zheng et.al.|[2306.16851](http://arxiv.org/abs/2306.16851)|null|
 |**2023-06-29**|**TrojanNet: Detecting Trojans in Quantum Circuits using Machine Learning**|Subrata Das et.al.|[2306.16701](http://arxiv.org/abs/2306.16701)|null|
 |**2023-06-28**|**Measuring Hubble constant in an anisotropic extension of $Λ$ CDM model**|Vikrant Yadav et.al.|[2306.16135](http://arxiv.org/abs/2306.16135)|null|
-|**2023-06-27**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate through Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
+|**2023-07-03**|**SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate via Compiler Co-design**|Fu-Ming Guo et.al.|[2306.15656](http://arxiv.org/abs/2306.15656)|null|
 |**2023-06-27**|**A Toolbox for Fast Interval Arithmetic in numpy with an Application to Formal Verification of Neural Network Controlled Systems**|Akash Harapanahalli et.al.|[2306.15340](http://arxiv.org/abs/2306.15340)|null|
 |**2023-06-26**|**QCD parameters and SM-high precisions from e+e- to Hadrons**|Stephan Narison et.al.|[2306.14639](http://arxiv.org/abs/2306.14639)|null|
 |**2023-06-26**|**On-Device Evaluation Toolkit for Machine Learning on Heterogeneous Low-Power System-on-Chip**|Zhaolan Huang et.al.|[2306.14574](http://arxiv.org/abs/2306.14574)|**[link](https://github.com/zhaolanhuang/u-toe)**|
@@ -1416,7 +1416,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
-|**2023-06-30**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840](http://arxiv.org/abs/2306.17840)|null|
+|**2023-07-03**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840](http://arxiv.org/abs/2306.17840)|null|
 |**2023-06-30**|**Giant lattice softening at a Lifshitz transition in Sr $_{2}$RuO$_{4}$**|Hilary M. L. Noad et.al.|[2306.17835](http://arxiv.org/abs/2306.17835)|null|
 |**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833](http://arxiv.org/abs/2306.17833)|null|
 |**2023-06-30**|**Scalable tensor methods for nonuniform hypergraphs**|Sinan G. Aksoy et.al.|[2306.17825](http://arxiv.org/abs/2306.17825)|null|
