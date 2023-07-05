@@ -52,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
 |**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
@@ -79,6 +80,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Synthesising Full-Information Protocols**|Dietmar Berwanger et.al.|[2307.01063](http://arxiv.org/abs/2307.01063)|null|
+|**2023-07-03**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
+|**2023-07-01**|**Optimally Coordinated Energy Management Framework for Profit Maximization Considering Dispatchable and Non-Dispatchable Energy Resources**|Rayees Ahmad Thokar et.al.|[2307.00277](http://arxiv.org/abs/2307.00277)|null|
 |**2023-06-30**|**Checking Presence Reachability Properties on Parameterized Shared-Memory Systems**|Nicolas Waldburger et.al.|[2306.17476](http://arxiv.org/abs/2306.17476)|null|
 |**2023-06-23**|**Blockchain-based Federated Learning for Decentralized Energy Management Systems**|Abdulrezzak Zekiye et.al.|[2306.17186](http://arxiv.org/abs/2306.17186)|null|
 |**2023-06-29**|**A new approach on distributed systems: orderings and representability**|Asier Estevan Muguerza et.al.|[2306.16888](http://arxiv.org/abs/2306.16888)|null|
@@ -170,6 +174,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056](http://arxiv.org/abs/2307.01056)|null|
+|**2023-07-03**|**Disentangling the two sub-populations of early Herbig Be stars using VLT/X-Shooter spectra**|B. Shridharan et.al.|[2307.00871](http://arxiv.org/abs/2307.00871)|null|
+|**2023-07-02**|**Accelerating Relational Database Analytical Processing with Bulk-Bitwise Processing-in-Memory**|Ben Perach et.al.|[2307.00658](http://arxiv.org/abs/2307.00658)|null|
+|**2023-07-02**|**LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation**|Haoxin Tu et.al.|[2307.00593](http://arxiv.org/abs/2307.00593)|**[link](https://github.com/haoxintu/LLM4CBI)**|
+|**2023-07-01**|**MobileViG: Graph-Based Sparse Attention for Mobile Vision Applications**|Mustafa Munir et.al.|[2307.00395](http://arxiv.org/abs/2307.00395)|null|
+|**2023-07-01**|**Let Me Teach You: Pedagogical Foundations of Feedback for Language Models**|Beatriz Borges et.al.|[2307.00279](http://arxiv.org/abs/2307.00279)|null|
+|**2023-07-01**|**Causal Functional Connectivity in Alzheimer's Disease Computed from Time Series fMRI data**|Rahul Biswas et.al.|[2307.00253](http://arxiv.org/abs/2307.00253)|null|
+|**2023-06-30**|**Bluefish: A Relational Grammar of Graphics**|Josh Pollock et.al.|[2307.00146](http://arxiv.org/abs/2307.00146)|null|
 |**2023-06-30**|**Reanalysis of neutron-capture elements in the benchmark r-rich star CS 31082-001**|H. Ernandes et.al.|[2306.17627](http://arxiv.org/abs/2306.17627)|null|
 |**2023-06-29**|**Improved sd shell effective interactions from Daejeon16**|Ik Jae Shin et.al.|[2306.17289](http://arxiv.org/abs/2306.17289)|null|
 |**2023-06-29**|**AutoML in Heavily Constrained Applications**|Felix Neutatz et.al.|[2306.16913](http://arxiv.org/abs/2306.16913)|null|
@@ -404,6 +416,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198](http://arxiv.org/abs/2307.01198)|null|
+|**2023-07-03**|**An imaged 15Mjup companion within a hierarchical quadruple system**|A. Chomez et.al.|[2307.01195](http://arxiv.org/abs/2307.01195)|null|
+|**2023-07-03**|**Fitting an ellipsoid to a quadratic number of random points**|Afonso S. Bandeira et.al.|[2307.01181](http://arxiv.org/abs/2307.01181)|null|
+|**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180](http://arxiv.org/abs/2307.01180)|null|
+|**2023-07-03**|**Learning Mixtures of Gaussians Using the DDPM Objective**|Kulin Shah et.al.|[2307.01178](http://arxiv.org/abs/2307.01178)|null|
+|**2023-07-03**|**Anonymous and Copy-Robust Delegations for Liquid Democracy**|Markus Utke et.al.|[2307.01174](http://arxiv.org/abs/2307.01174)|null|
+|**2023-07-03**|**Quantum Neural Estimation of Entropies**|Ziv Goldfeld et.al.|[2307.01171](http://arxiv.org/abs/2307.01171)|null|
+|**2023-07-03**|**Online nearest neighbor classification**|Sanjoy Dasgupta et.al.|[2307.01170](http://arxiv.org/abs/2307.01170)|null|
+|**2023-07-03**|**Coupled Gradient Flows for Strategic Non-Local Distribution Shift**|Lauren Conger et.al.|[2307.01166](http://arxiv.org/abs/2307.01166)|null|
+|**2023-07-03**|**Reliever: Relieving the Burden of Costly Model Fits for Changepoint Detection**|Chengde Qian et.al.|[2307.01150](http://arxiv.org/abs/2307.01150)|null|
 |**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
 |**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844](http://arxiv.org/abs/2306.17844)|null|
 |**2023-06-30**|**Breaking the Metric Voting Distortion Barrier**|Moses Charikar et.al.|[2306.17838](http://arxiv.org/abs/2306.17838)|null|
@@ -921,6 +943,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056](http://arxiv.org/abs/2307.01056)|null|
+|**2023-07-03**|**The ROAD to discovery: machine learning-driven anomaly detection in radio astronomy spectrograms**|Michael Mesarcik et.al.|[2307.01054](http://arxiv.org/abs/2307.01054)|null|
+|**2023-07-03**|**Practical Non-Invasive Probing Attacks Against Novel Carbon-Nanotube-Based Physical Unclonable Functions**|Nikolaos Athanasios Anagnostopoulos et.al.|[2307.01041](http://arxiv.org/abs/2307.01041)|null|
+|**2023-07-03**|**Quantum Machine Learning on Near-Term Quantum Devices: Current State of Supervised and Unsupervised Techniques for Real-World Applications**|Yaswitha Gujju et.al.|[2307.00908](http://arxiv.org/abs/2307.00908)|null|
+|**2023-07-03**|**Resistive memory-based zero-shot liquid state machine for multimodal event data learning**|Ning Lin et.al.|[2307.00771](http://arxiv.org/abs/2307.00771)|null|
+|**2023-07-03**|**Efficient Visual Fault Detection for Freight Train Braking System via Heterogeneous Self Distillation in the Wild**|Yang Zhang et.al.|[2307.00701](http://arxiv.org/abs/2307.00701)|null|
+|**2023-07-02**|**Accelerating Relational Database Analytical Processing with Bulk-Bitwise Processing-in-Memory**|Ben Perach et.al.|[2307.00658](http://arxiv.org/abs/2307.00658)|null|
+|**2023-07-02**|**Bounce: a Reliable Bayesian Optimization Algorithm for Combinatorial and Mixed Spaces**|Leonard Papenmeier et.al.|[2307.00618](http://arxiv.org/abs/2307.00618)|null|
+|**2023-07-02**|**The Forward-Forward Algorithm as a feature extractor for skin lesion classification: A preliminary study**|Abel Reyes-Angulo et.al.|[2307.00617](http://arxiv.org/abs/2307.00617)|null|
+|**2023-07-02**|**TinySiamese Network for Biometric Analysis**|Islem Jarraya et.al.|[2307.00578](http://arxiv.org/abs/2307.00578)|null|
 |**2023-06-30**|**HashMem: PIM-based Hashmap Accelerator**|Akhil Shekar et.al.|[2306.17721](http://arxiv.org/abs/2306.17721)|null|
 |**2023-06-30**|**Evaluation of the Benefits of Zero Velocity Update in Decentralized EKF-Based Cooperative Localization Algorithms for GNSS-Denied Multi-Robot Systems**|Cagri Kilic et.al.|[2306.17703](http://arxiv.org/abs/2306.17703)|null|
 |**2023-06-30**|**Analysis of Oversampling in Uplink Massive MIMO-OFDM with Low-Resolution ADCs**|Mengyuan Ma et.al.|[2306.17697](http://arxiv.org/abs/2306.17697)|null|
@@ -1415,6 +1447,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200](http://arxiv.org/abs/2307.01200)|null|
+|**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197](http://arxiv.org/abs/2307.01197)|null|
+|**2023-07-03**|**SAMAug: Point Prompt Augmentation for Segment Anything Model**|Haixing Dai et.al.|[2307.01187](http://arxiv.org/abs/2307.01187)|null|
+|**2023-07-03**|**Quantum Neural Estimation of Entropies**|Ziv Goldfeld et.al.|[2307.01171](http://arxiv.org/abs/2307.01171)|null|
+|**2023-07-03**|**Lattice Thermal Conductivity of 2D Nanomaterials: A Simple Semi-Empirical Approach**|R. M. Tromer et.al.|[2307.01167](http://arxiv.org/abs/2307.01167)|null|
+|**2023-07-03**|**Coupled Gradient Flows for Strategic Non-Local Distribution Shift**|Lauren Conger et.al.|[2307.01166](http://arxiv.org/abs/2307.01166)|null|
+|**2023-07-03**|**A novel approach for predicting epidemiological forecasting parameters based on real-time signals and Data Assimilation**|Romain Molinas et.al.|[2307.01157](http://arxiv.org/abs/2307.01157)|null|
+|**2023-07-03**|**Exploring the In-context Learning Ability of Large Language Model for Biomedical Concept Linking**|Qinyong Wang et.al.|[2307.01137](http://arxiv.org/abs/2307.01137)|null|
+|**2023-07-03**|**ChatGPT vs. Google: A Comparative Study of Search Performance and User Experience**|Ruiyun Xu et.al.|[2307.01135](http://arxiv.org/abs/2307.01135)|null|
+|**2023-07-03**|**Bayesian variable selection using an informed reversible jump in imaging genetics: an application to schizophrenia**|Djidenou Montcho et.al.|[2307.01134](http://arxiv.org/abs/2307.01134)|null|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
 |**2023-07-03**|**Statler: State-Maintaining Language Models for Embodied Reasoning**|Takuma Yoneda et.al.|[2306.17840](http://arxiv.org/abs/2306.17840)|null|
 |**2023-06-30**|**Giant lattice softening at a Lifshitz transition in Sr $_{2}$RuO$_{4}$**|Hilary M. L. Noad et.al.|[2306.17835](http://arxiv.org/abs/2306.17835)|null|
@@ -1932,6 +1974,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200](http://arxiv.org/abs/2307.01200)|null|
+|**2023-07-03**|**PlanE: Representation Learning over Planar Graphs**|Radoslav Dimitrov et.al.|[2307.01180](http://arxiv.org/abs/2307.01180)|null|
+|**2023-07-03**|**Neural Hilbert Ladders: Multi-Layer Neural Networks in Function Space**|Zhengdao Chen et.al.|[2307.01177](http://arxiv.org/abs/2307.01177)|null|
+|**2023-07-03**|**The weak noise theory of the O'Connell-Yor polymer as an integrable discretisation of the nonlinear Schrodinger equation**|Alexandre Krajenbrink et.al.|[2307.01172](http://arxiv.org/abs/2307.01172)|null|
+|**2023-07-03**|**Quantum Neural Estimation of Entropies**|Ziv Goldfeld et.al.|[2307.01171](http://arxiv.org/abs/2307.01171)|null|
+|**2023-07-03**|**Lattice Thermal Conductivity of 2D Nanomaterials: A Simple Semi-Empirical Approach**|R. M. Tromer et.al.|[2307.01167](http://arxiv.org/abs/2307.01167)|null|
+|**2023-07-03**|**Theory of Mind as Intrinsic Motivation for Multi-Agent Reinforcement Learning**|Ini Oguntola et.al.|[2307.01158](http://arxiv.org/abs/2307.01158)|null|
+|**2023-07-03**|**A novel approach for predicting epidemiological forecasting parameters based on real-time signals and Data Assimilation**|Romain Molinas et.al.|[2307.01157](http://arxiv.org/abs/2307.01157)|null|
+|**2023-07-03**|**BayesDose: Comprehensive proton dose prediction with model uncertainty using Bayesian LSTMs**|Luke Voss et.al.|[2307.01151](http://arxiv.org/abs/2307.01151)|null|
+|**2023-07-03**|**AVSegFormer: Audio-Visual Segmentation with Transformer**|Shengyi Gao et.al.|[2307.01146](http://arxiv.org/abs/2307.01146)|null|
 |**2023-06-30**|**Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing**|Ariel N. Lee et.al.|[2306.17848](http://arxiv.org/abs/2306.17848)|null|
 |**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
 |**2023-06-30**|**The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks**|Ziqian Zhong et.al.|[2306.17844](http://arxiv.org/abs/2306.17844)|null|
@@ -2449,6 +2501,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**|Yuxiang Zhang et.al.|[2307.01200](http://arxiv.org/abs/2307.01200)|null|
+|**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198](http://arxiv.org/abs/2307.01198)|null|
+|**2023-07-03**|**An imaged 15Mjup companion within a hierarchical quadruple system**|A. Chomez et.al.|[2307.01195](http://arxiv.org/abs/2307.01195)|null|
+|**2023-07-03**|**Poisson-Voronoi tessellations and fixed price in higher rank**|Mikolaj Fraczyk et.al.|[2307.01194](http://arxiv.org/abs/2307.01194)|null|
+|**2023-07-03**|**The weak noise theory of the O'Connell-Yor polymer as an integrable discretisation of the nonlinear Schrodinger equation**|Alexandre Krajenbrink et.al.|[2307.01172](http://arxiv.org/abs/2307.01172)|null|
+|**2023-07-03**|**Quantum Neural Estimation of Entropies**|Ziv Goldfeld et.al.|[2307.01171](http://arxiv.org/abs/2307.01171)|null|
+|**2023-07-03**|**Lattice Thermal Conductivity of 2D Nanomaterials: A Simple Semi-Empirical Approach**|R. M. Tromer et.al.|[2307.01167](http://arxiv.org/abs/2307.01167)|null|
+|**2023-07-03**|**Coupled Gradient Flows for Strategic Non-Local Distribution Shift**|Lauren Conger et.al.|[2307.01166](http://arxiv.org/abs/2307.01166)|null|
+|**2023-07-03**|**Multifractal and recurrence measures from meteorological data of climate zones in India**|Joshin John Bejoy et.al.|[2307.01165](http://arxiv.org/abs/2307.01165)|null|
+|**2023-07-03**|**Optimized experimental optical tomography of quantum states of room-temperature alkali-metal vapor**|Marek Kopciuch et.al.|[2307.01160](http://arxiv.org/abs/2307.01160)|null|
 |**2023-06-30**|**A modern framework for jet tagger development**|Annika Stein et.al.|[2306.17846](http://arxiv.org/abs/2306.17846)|null|
 |**2023-06-30**|**Quasi-bound states in the continuum in photonic-crystal-based optomechanical microcavities**|Cindy Peralle et.al.|[2306.17831](http://arxiv.org/abs/2306.17831)|null|
 |**2023-06-30**|**Yukawa theory in non-perturbative regimes: towards confinement, exact $β$ -function and conformal phase**|Marco Frasca et.al.|[2306.17818](http://arxiv.org/abs/2306.17818)|null|
@@ -2966,6 +3028,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056](http://arxiv.org/abs/2307.01056)|null|
+|**2023-07-02**|**Data-Free Quantization via Mixed-Precision Compensation without Fine-Tuning**|Jun Chen et.al.|[2307.00498](http://arxiv.org/abs/2307.00498)|null|
+|**2023-07-01**|**Rounding-Error Analysis of Multigrid V-Cycles**|Stephen F. McCormick et.al.|[2307.00216](http://arxiv.org/abs/2307.00216)|null|
 |**2023-06-30**|**Solving nonlinear ODEs with the ultraspherical spectral method**|Ouyuan Qin et.al.|[2306.17688](http://arxiv.org/abs/2306.17688)|null|
 |**2023-06-08**|**Augmenting Hessians with Inter-Layer Dependencies for Mixed-Precision Post-Training Quantization**|Clemens JS Schaefer et.al.|[2306.04879](http://arxiv.org/abs/2306.04879)|null|
 |**2023-05-30**|**Mixed Precision Rayleigh Quotient Iteration for Total Least Squares Problems**|Eda Oktay et.al.|[2305.19028](http://arxiv.org/abs/2305.19028)|null|
