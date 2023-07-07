@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1455,7 +1455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-05**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2307.02472](http://arxiv.org/abs/2307.02472)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
+|**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472](http://arxiv.org/abs/2307.02472)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**Deep Speech Synthesis from MRI-Based Articulatory Representations**|Peter Wu et.al.|[2307.02471](http://arxiv.org/abs/2307.02471)|null|
 |**2023-07-05**|**Gaussian Database Alignment and Gaussian Planted Matching**|Osman Emre Dai et.al.|[2307.02459](http://arxiv.org/abs/2307.02459)|null|
 |**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
@@ -2528,7 +2528,7 @@ layout: default
 |**2023-07-05**|**Non-equilibrium steady state of the symmetric exclusion process with reservoirs**|Simone Floreani et.al.|[2307.02481](http://arxiv.org/abs/2307.02481)|null|
 |**2023-07-05**|**A Dataset of Inertial Measurement Units for Handwritten English Alphabets**|Hari Prabhat Gupta et.al.|[2307.02480](http://arxiv.org/abs/2307.02480)|null|
 |**2023-07-05**|**Very accurate time propagation of coupled Schrödinger equations for femto- and attosecond physics and chemistry, with C++ source code**|Janek Kozicki et.al.|[2307.02479](http://arxiv.org/abs/2307.02479)|null|
-|**2023-07-05**|**Natural Language Deduction with Incomplete Information**|Zayne Sprague et.al.|[2307.02472](http://arxiv.org/abs/2307.02472)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
+|**2023-07-06**|**Deductive Additivity for Planning of Natural Language Proofs**|Zayne Sprague et.al.|[2307.02472](http://arxiv.org/abs/2307.02472)|**[link](https://github.com/zayne-sprague/deductive_additivity_for_planning_of_natural_language_proofs)**|
 |**2023-07-05**|**An agile radio-frequency source using internal linear sweeps of a direct digital synthesizer**|Ethan Huegler et.al.|[2307.02468](http://arxiv.org/abs/2307.02468)|null|
 |**2023-07-05**|**AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images**|Ao Cheng et.al.|[2307.02464](http://arxiv.org/abs/2307.02464)|null|
 |**2023-07-05**|**Landscape approximation of low energy solutions to binary optimization problems**|Benjamin Y. L. Tan et.al.|[2307.02461](http://arxiv.org/abs/2307.02461)|null|
