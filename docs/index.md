@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.07
+## Updated on 2023.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -416,7 +416,7 @@ layout: default
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181](http://arxiv.org/abs/2307.03181)|null|
 |**2023-07-06**|**Data processing of Visible Emission Line Coronagraph Onboard ADITYA L1**|Muthu Priyal et.al.|[2307.03173](http://arxiv.org/abs/2307.03173)|null|
 |**2023-07-06**|**LEO: Learning Efficient Orderings for Multiobjective Binary Decision Diagrams**|Rahul Patel et.al.|[2307.03171](http://arxiv.org/abs/2307.03171)|**[link](https://github.com/khalil-research/leo)**|
-|**2023-07-06**|**Risk-Averse Trajectory Optimization via Sample Average Approximation**|Thomas Lew et.al.|[2307.03167](http://arxiv.org/abs/2307.03167)|null|
+|**2023-07-06**|**Risk-Averse Trajectory Optimization via Sample Average Approximation**|Thomas Lew et.al.|[2307.03167](http://arxiv.org/abs/2307.03167)|**[link](https://github.com/stanfordasl/riskaversetrajopt)**|
 |**2023-07-06**|**BrickPal: Augmented Reality-based Assembly Instructions for Brick Models**|Yao Shi et.al.|[2307.03162](http://arxiv.org/abs/2307.03162)|null|
 |**2023-07-06**|**Greedy Matching in Optimal Transport with concave cost**|Andrea Ottolini et.al.|[2307.03140](http://arxiv.org/abs/2307.03140)|null|
 |**2023-07-06**|**Multiplicative Updates for Online Convex Optimization over Symmetric Cones**|Ilayda Canyakmaz et.al.|[2307.03136](http://arxiv.org/abs/2307.03136)|null|
@@ -966,7 +966,7 @@ layout: default
 |**2023-07-05**|**Chiplet Cloud: Building AI Supercomputers for Serving Large Generative Language Models**|Huwan Peng et.al.|[2307.02666](http://arxiv.org/abs/2307.02666)|null|
 |**2023-07-05**|**A Robust Open-source Tendon-driven Robot Arm for Learning Control of Dynamic Motions**|Simon Guist et.al.|[2307.02654](http://arxiv.org/abs/2307.02654)|null|
 |**2023-07-05**|**User Perspectives on Branching in Computer-Aided Design**|Kathy Cheng et.al.|[2307.02583](http://arxiv.org/abs/2307.02583)|null|
-|**2023-07-05**|**QUBO.jl: A Julia Ecosystem for Quadratic Unconstrained Binary Optimization**|Pedro Maciel Xavier et.al.|[2307.02577](http://arxiv.org/abs/2307.02577)|null|
+|**2023-07-05**|**QUBO.jl: A Julia Ecosystem for Quadratic Unconstrained Binary Optimization**|Pedro Maciel Xavier et.al.|[2307.02577](http://arxiv.org/abs/2307.02577)|**[link](https://github.com/psrenergy/toqubo-benchmark)**|
 |**2023-07-05**|**Landscape approximation of low energy solutions to binary optimization problems**|Benjamin Y. L. Tan et.al.|[2307.02461](http://arxiv.org/abs/2307.02461)|null|
 |**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
 |**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443](http://arxiv.org/abs/2307.02443)|null|
@@ -1479,7 +1479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-06**|**Where shadows lie: reconstruction of anisotropies in the neutrino sky**|Willem Elbers et.al.|[2307.03191](http://arxiv.org/abs/2307.03191)|null|
+|**2023-07-06**|**Where shadows lie: reconstruction of anisotropies in the neutrino sky**|Willem Elbers et.al.|[2307.03191](http://arxiv.org/abs/2307.03191)|**[link](https://github.com/wullm/nubg_scripts)**|
 |**2023-07-06**|**Synthesizing Artistic Cinemagraphs from Text**|Aniruddha Mahapatra et.al.|[2307.03190](http://arxiv.org/abs/2307.03190)|null|
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181](http://arxiv.org/abs/2307.03181)|null|
 |**2023-07-06**|**Lost in the Middle: How Language Models Use Long Contexts**|Nelson F. Liu et.al.|[2307.03172](http://arxiv.org/abs/2307.03172)|null|
@@ -2024,7 +2024,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|null|
+|**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|**[link](https://github.com/benruben87/Learning-Curves-for-Heterogeneous-Feature-Subsampled-Ridge-Ensembles)**|
 |**2023-07-06**|**Push Past Green: Learning to Look Behind Plant Foliage by Moving It**|Xiaoyu Zhang et.al.|[2307.03175](http://arxiv.org/abs/2307.03175)|null|
 |**2023-07-06**|**On the Computation of Accessibility Provided by Shared Mobility**|Severin Diepolder et.al.|[2307.03148](http://arxiv.org/abs/2307.03148)|null|
 |**2023-07-06**|**Topology-Aware Loss for Aorta and Great Vessel Segmentation in Computed Tomography Images**|Seher Ozcelik et.al.|[2307.03137](http://arxiv.org/abs/2307.03137)|null|
@@ -2570,9 +2570,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-06**|**String operators for Cheshire strings in topological phases**|Nathanan Tantivasadakarn et.al.|[2307.03180](http://arxiv.org/abs/2307.03180)|null|
-|**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|null|
+|**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|**[link](https://github.com/benruben87/Learning-Curves-for-Heterogeneous-Feature-Subsampled-Ridge-Ensembles)**|
 |**2023-07-06**|**Demonstrating a superconducting dual-rail cavity qubit with erasure-detected logical measurements**|Kevin S. Chou et.al.|[2307.03169](http://arxiv.org/abs/2307.03169)|null|
-|**2023-07-06**|**Risk-Averse Trajectory Optimization via Sample Average Approximation**|Thomas Lew et.al.|[2307.03167](http://arxiv.org/abs/2307.03167)|null|
+|**2023-07-06**|**Risk-Averse Trajectory Optimization via Sample Average Approximation**|Thomas Lew et.al.|[2307.03167](http://arxiv.org/abs/2307.03167)|**[link](https://github.com/stanfordasl/riskaversetrajopt)**|
 |**2023-07-06**|**BrickPal: Augmented Reality-based Assembly Instructions for Brick Models**|Yao Shi et.al.|[2307.03162](http://arxiv.org/abs/2307.03162)|null|
 |**2023-07-06**|**On the Linear Stability of the Lamb-Chaplygin Dipole**|Bartosz Protas et.al.|[2307.03159](http://arxiv.org/abs/2307.03159)|null|
 |**2023-07-06**|**Can Domain Adaptation Improve Accuracy and Fairness of Skin Lesion Classification?**|Janet Wang et.al.|[2307.03157](http://arxiv.org/abs/2307.03157)|null|
