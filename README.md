@@ -177,6 +177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**ChainScience 2023, Conference Proceedings**|Hans Walter Behrens et.al.|[2307.03277](http://arxiv.org/abs/2307.03277)|null|
+|**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|null|
 |**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039](http://arxiv.org/abs/2307.03039)|null|
 |**2023-07-06**|**Cosmological effects of the Galileon term in Scalar-Tensor Theories**|A. G. Ferrari et.al.|[2307.02987](http://arxiv.org/abs/2307.02987)|null|
 |**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986](http://arxiv.org/abs/2307.02986)|null|
@@ -432,6 +434,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**When does the ID algorithm fail?**|Ilya Shpitser et.al.|[2307.03750](http://arxiv.org/abs/2307.03750)|null|
+|**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744](http://arxiv.org/abs/2307.03744)|null|
+|**2023-07-07**|**Swarm-intelligent search for gravitational waves from eccentric binary mergers**|Souradeep Pal et.al.|[2307.03736](http://arxiv.org/abs/2307.03736)|null|
+|**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704](http://arxiv.org/abs/2307.03704)|null|
+|**2023-07-07**|**Optimal Transport Reconstruction of Biased Tracers in Redshift Space**|Farnik Nikakhtar et.al.|[2307.03671](http://arxiv.org/abs/2307.03671)|null|
+|**2023-07-07**|**Should We Even Optimize for Execution Energy? Rethinking Mapping for MAGIC Design Style**|Simranjeet Singh et.al.|[2307.03669](http://arxiv.org/abs/2307.03669)|null|
+|**2023-07-07**|**On the Geometry and Refined Rate of Primal-Dual Hybrid Gradient for Linear Programming**|Haihao Lu et.al.|[2307.03664](http://arxiv.org/abs/2307.03664)|null|
+|**2023-07-07**|**Machine learning unveils the linear matter power spectrum of modified gravity**|J. Bayron Orjuela-Quintana et.al.|[2307.03643](http://arxiv.org/abs/2307.03643)|null|
+|**2023-07-07**|**Density-on-Density Regression**|Yi Zhao et.al.|[2307.03642](http://arxiv.org/abs/2307.03642)|null|
+|**2023-07-07**|**Online Network Source Optimization with Graph-Kernel MAB**|Laura Toni et.al.|[2307.03641](http://arxiv.org/abs/2307.03641)|null|
 |**2023-07-06**|**TGRL: An Algorithm for Teacher Guided Reinforcement Learning**|Idan Shenfeld et.al.|[2307.03186](http://arxiv.org/abs/2307.03186)|null|
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181](http://arxiv.org/abs/2307.03181)|null|
 |**2023-07-06**|**Data processing of Visible Emission Line Coronagraph Onboard ADITYA L1**|Muthu Priyal et.al.|[2307.03173](http://arxiv.org/abs/2307.03173)|null|
@@ -979,6 +991,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738](http://arxiv.org/abs/2307.03738)|null|
+|**2023-07-07**|**Fast reconstruction of programmable integrated interferometers**|B. I. Bantysh et.al.|[2307.03635](http://arxiv.org/abs/2307.03635)|null|
+|**2023-07-07**|**Physics-Constrained Hardware-Efficient Ansatz on Quantum Computers that is Universal, Systematically Improvable, and Size-consistent**|Xiaoxiao Xiao et.al.|[2307.03563](http://arxiv.org/abs/2307.03563)|null|
+|**2023-07-07**|**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**|Gamze İslamoğlu et.al.|[2307.03493](http://arxiv.org/abs/2307.03493)|null|
+|**2023-07-07**|**High-performance evaluation of high angular momentum 4-center Gaussian integrals on modern accelerated processors**|Andrey Asadchev et.al.|[2307.03452](http://arxiv.org/abs/2307.03452)|null|
+|**2023-07-07**|**Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency**|Shuaikai Shi et.al.|[2307.03413](http://arxiv.org/abs/2307.03413)|null|
+|**2023-07-07**|**Variational quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2307.03334](http://arxiv.org/abs/2307.03334)|null|
+|**2023-07-06**|**LFA-tuned matrix-free multigrid method for the elastic Helmholtz equation**|Rachel Yovel et.al.|[2307.03242](http://arxiv.org/abs/2307.03242)|null|
+|**2023-07-06**|**Quantum Computing for High-Energy Physics: State of the Art and Challenges. Summary of the QC4HEP Working Group**|Alberto Di Meglio et.al.|[2307.03236](http://arxiv.org/abs/2307.03236)|null|
+|**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|null|
 |**2023-07-06**|**Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance**|Hongzhan Yu et.al.|[2307.03015](http://arxiv.org/abs/2307.03015)|null|
 |**2023-07-06**|**Pruning vs Quantization: Which is Better?**|Andrey Kuzmin et.al.|[2307.02973](http://arxiv.org/abs/2307.02973)|null|
 |**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947](http://arxiv.org/abs/2307.02947)|null|
@@ -1503,6 +1525,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Incentive-Theoretic Bayesian Inference for Collaborative Science**|Stephen Bates et.al.|[2307.03748](http://arxiv.org/abs/2307.03748)|null|
+|**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744](http://arxiv.org/abs/2307.03744)|null|
+|**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738](http://arxiv.org/abs/2307.03738)|null|
+|**2023-07-07**|**Separability criterion using one observable for special states: Entanglement detection via quantum quench**|Roopayan Ghosh et.al.|[2307.03735](http://arxiv.org/abs/2307.03735)|null|
+|**2023-07-07**|**Improving Automatic Quotation Attribution in Literary Novels**|Krishnapriya Vishnubhotla et.al.|[2307.03734](http://arxiv.org/abs/2307.03734)|null|
+|**2023-07-07**|**LTE SFBC MIMO Transmitter Modelling and Performance Evaluation**|Gabriela Morillo et.al.|[2307.03726](http://arxiv.org/abs/2307.03726)|null|
+|**2023-07-07**|**Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations**|Zhongliang Jiang et.al.|[2307.03705](http://arxiv.org/abs/2307.03705)|null|
+|**2023-07-07**|**Monitoring Electron Spin Fluctuations with Paramagnetic Relaxation Enhancement**|Daniel Jardon Alvarez et.al.|[2307.03702](http://arxiv.org/abs/2307.03702)|null|
+|**2023-07-07**|**Unveiling the Potential of Knowledge-Prompted ChatGPT for Enhancing Drug Trafficking Detection on Social Media**|Chuanbo Hu et.al.|[2307.03699](http://arxiv.org/abs/2307.03699)|null|
+|**2023-07-07**|**Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation**|Dianye Huang et.al.|[2307.03698](http://arxiv.org/abs/2307.03698)|null|
 |**2023-07-06**|**Where shadows lie: reconstruction of anisotropies in the neutrino sky**|Willem Elbers et.al.|[2307.03191](http://arxiv.org/abs/2307.03191)|**[link](https://github.com/wullm/nubg_scripts)**|
 |**2023-07-06**|**Synthesizing Artistic Cinemagraphs from Text**|Aniruddha Mahapatra et.al.|[2307.03190](http://arxiv.org/abs/2307.03190)|null|
 |**2023-07-06**|**Markov Persuasion Processes with Endogenous Agent Beliefs**|Krishnamurthy Iyer et.al.|[2307.03181](http://arxiv.org/abs/2307.03181)|null|
@@ -2050,6 +2082,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**LTE SFBC MIMO Transmitter Modelling and Performance Evaluation**|Gabriela Morillo et.al.|[2307.03726](http://arxiv.org/abs/2307.03726)|null|
+|**2023-07-07**|**Universality in Open Quantum Spin Chains with Non-Reciprocity**|Samuel E. Begg et.al.|[2307.03714](http://arxiv.org/abs/2307.03714)|null|
+|**2023-07-07**|**Error-tolerant quantum convolutional neural networks for symmetry-protected topological phases**|Petr Zapletal et.al.|[2307.03711](http://arxiv.org/abs/2307.03711)|null|
+|**2023-07-07**|**Intelligent Robotic Sonographer: Mutual Information-based Disentangled Reward Learning from Few Demonstrations**|Zhongliang Jiang et.al.|[2307.03705](http://arxiv.org/abs/2307.03705)|null|
+|**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704](http://arxiv.org/abs/2307.03704)|null|
+|**2023-07-07**|**Unveiling the Potential of Knowledge-Prompted ChatGPT for Enhancing Drug Trafficking Detection on Social Media**|Chuanbo Hu et.al.|[2307.03699](http://arxiv.org/abs/2307.03699)|null|
+|**2023-07-07**|**Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation**|Dianye Huang et.al.|[2307.03698](http://arxiv.org/abs/2307.03698)|null|
+|**2023-07-07**|**Simulation-free Schrödinger bridges via score and flow matching**|Alexander Tong et.al.|[2307.03672](http://arxiv.org/abs/2307.03672)|**[link](https://github.com/atong01/conditional-flow-matching)**|
+|**2023-07-07**|**Milliarcsecond structure and variability of methanol maser emission in three high-mass protostars**|A Aberfelds et.al.|[2307.03663](http://arxiv.org/abs/2307.03663)|null|
+|**2023-07-07**|**Detecting the Sensing Area of A Laparoscopic Probe in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2307.03662](http://arxiv.org/abs/2307.03662)|null|
 |**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|**[link](https://github.com/benruben87/Learning-Curves-for-Heterogeneous-Feature-Subsampled-Ridge-Ensembles)**|
 |**2023-07-06**|**Push Past Green: Learning to Look Behind Plant Foliage by Moving It**|Xiaoyu Zhang et.al.|[2307.03175](http://arxiv.org/abs/2307.03175)|null|
 |**2023-07-06**|**On the Computation of Accessibility Provided by Shared Mobility**|Severin Diepolder et.al.|[2307.03148](http://arxiv.org/abs/2307.03148)|null|
@@ -2597,6 +2639,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**On the Efficacy of Sampling Adapters**|Clara Meister et.al.|[2307.03749](http://arxiv.org/abs/2307.03749)|null|
+|**2023-07-07**|**Dissipative preparation of a Floquet topological insulator in an optical lattice via bath engineering**|Alexander Schnell et.al.|[2307.03739](http://arxiv.org/abs/2307.03739)|null|
+|**2023-07-07**|**Separability criterion using one observable for special states: Entanglement detection via quantum quench**|Roopayan Ghosh et.al.|[2307.03735](http://arxiv.org/abs/2307.03735)|null|
+|**2023-07-07**|**First bromine doped cryogenic implosion at the National Ignition Facility**|A. C. Hayes et.al.|[2307.03730](http://arxiv.org/abs/2307.03730)|null|
+|**2023-07-07**|**Twist operator correlator revisited and tau function on Hurwitz space**|Hewei Frederic Jia et.al.|[2307.03729](http://arxiv.org/abs/2307.03729)|null|
+|**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727](http://arxiv.org/abs/2307.03727)|null|
+|**2023-07-07**|**LTE SFBC MIMO Transmitter Modelling and Performance Evaluation**|Gabriela Morillo et.al.|[2307.03726](http://arxiv.org/abs/2307.03726)|null|
+|**2023-07-07**|**The bright blue side of the night sky: Spectroscopic survey of bright and hot (pre-) white dwarfs**|Nicole Reindl et.al.|[2307.03721](http://arxiv.org/abs/2307.03721)|null|
+|**2023-07-07**|**Modeling intercalation chemistry with multi-redox reactions by sparse lattice models in disordered rocksalt cathodes**|Peichen Zhong et.al.|[2307.03717](http://arxiv.org/abs/2307.03717)|null|
+|**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716](http://arxiv.org/abs/2307.03716)|null|
 |**2023-07-06**|**String operators for Cheshire strings in topological phases**|Nathanan Tantivasadakarn et.al.|[2307.03180](http://arxiv.org/abs/2307.03180)|null|
 |**2023-07-06**|**Learning Curves for Heterogeneous Feature-Subsampled Ridge Ensembles**|Benjamin S. Ruben et.al.|[2307.03176](http://arxiv.org/abs/2307.03176)|**[link](https://github.com/benruben87/Learning-Curves-for-Heterogeneous-Feature-Subsampled-Ridge-Ensembles)**|
 |**2023-07-06**|**Demonstrating a superconducting dual-rail cavity qubit with erasure-detected logical measurements**|Kevin S. Chou et.al.|[2307.03169](http://arxiv.org/abs/2307.03169)|null|
@@ -3144,6 +3196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers**|Lakshmi Nair et.al.|[2307.03712](http://arxiv.org/abs/2307.03712)|null|
 |**2023-07-06**|**Free Bits: Latency Optimization of Mixed-Precision Quantized Neural Networks on the Edge**|Georg Rutishauser et.al.|[2307.02894](http://arxiv.org/abs/2307.02894)|null|
 |**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056](http://arxiv.org/abs/2307.01056)|null|
 |**2023-07-02**|**Data-Free Quantization via Mixed-Precision Compensation without Fine-Tuning**|Jun Chen et.al.|[2307.00498](http://arxiv.org/abs/2307.00498)|null|
