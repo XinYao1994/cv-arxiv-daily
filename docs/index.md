@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -161,7 +161,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-06**|**ChainScience 2023, Conference Proceedings**|Hans Walter Behrens et.al.|[2307.03277](http://arxiv.org/abs/2307.03277)|null|
 |**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|null|
-|**2023-07-06**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039](http://arxiv.org/abs/2307.03039)|null|
+|**2023-07-10**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039](http://arxiv.org/abs/2307.03039)|null|
 |**2023-07-06**|**Cosmological effects of the Galileon term in Scalar-Tensor Theories**|A. G. Ferrari et.al.|[2307.02987](http://arxiv.org/abs/2307.02987)|null|
 |**2023-07-06**|**Lecture Notes: Introduction to random unitary circuits and the measurement-induced entanglement phase transition**|Brian Skinner et.al.|[2307.02986](http://arxiv.org/abs/2307.02986)|null|
 |**2023-07-06**|**Towards Efficient Control Flow Handling in Spatial Architecture via Architecting the Control Flow Plane**|Jinyi Deng et.al.|[2307.02847](http://arxiv.org/abs/2307.02847)|null|
@@ -972,7 +972,7 @@ layout: default
 |**2023-07-07**|**QIGen: Generating Efficient Kernels for Quantized Inference on Large Language Models**|Tommaso Pegolotti et.al.|[2307.03738](http://arxiv.org/abs/2307.03738)|null|
 |**2023-07-07**|**Fast reconstruction of programmable integrated interferometers**|B. I. Bantysh et.al.|[2307.03635](http://arxiv.org/abs/2307.03635)|null|
 |**2023-07-07**|**Physics-Constrained Hardware-Efficient Ansatz on Quantum Computers that is Universal, Systematically Improvable, and Size-consistent**|Xiaoxiao Xiao et.al.|[2307.03563](http://arxiv.org/abs/2307.03563)|null|
-|**2023-07-07**|**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**|Gamze İslamoğlu et.al.|[2307.03493](http://arxiv.org/abs/2307.03493)|null|
+|**2023-07-10**|**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**|Gamze İslamoğlu et.al.|[2307.03493](http://arxiv.org/abs/2307.03493)|null|
 |**2023-07-07**|**High-performance evaluation of high angular momentum 4-center Gaussian integrals on modern accelerated processors**|Andrey Asadchev et.al.|[2307.03452](http://arxiv.org/abs/2307.03452)|null|
 |**2023-07-07**|**Unsupervised Hyperspectral and Multispectral Images Fusion Based on the Cycle Consistency**|Shuaikai Shi et.al.|[2307.03413](http://arxiv.org/abs/2307.03413)|null|
 |**2023-07-07**|**Variational quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2307.03334](http://arxiv.org/abs/2307.03334)|null|
@@ -3166,7 +3166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-07**|**INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers**|Lakshmi Nair et.al.|[2307.03712](http://arxiv.org/abs/2307.03712)|null|
+|**2023-07-07**|**INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers**|Lakshmi Nair et.al.|[2307.03712](http://arxiv.org/abs/2307.03712)|**[link](https://github.com/lightmatter-ai/int-fp-qsim)**|
 |**2023-07-06**|**Free Bits: Latency Optimization of Mixed-Precision Quantized Neural Networks on the Edge**|Georg Rutishauser et.al.|[2307.02894](http://arxiv.org/abs/2307.02894)|null|
 |**2023-07-03**|**A 3 TOPS/W RISC-V Parallel Cluster for Inference of Fine-Grain Mixed-Precision Quantized Neural Networks**|Alessandro Nadalini et.al.|[2307.01056](http://arxiv.org/abs/2307.01056)|null|
 |**2023-07-02**|**Data-Free Quantization via Mixed-Precision Compensation without Fine-Tuning**|Jun Chen et.al.|[2307.00498](http://arxiv.org/abs/2307.00498)|null|
