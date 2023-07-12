@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -426,7 +426,7 @@ layout: default
 |**2023-07-10**|**Vocal Tract Area Estimation by Gradient Descent**|David Südholt et.al.|[2307.04702](http://arxiv.org/abs/2307.04702)|null|
 |**2023-07-10**|**Cobalt: Optimizing Mining Rewards in Proof-of-Work Network Games**|Arti Vedula et.al.|[2307.04695](http://arxiv.org/abs/2307.04695)|null|
 |**2023-07-10**|**The matrix permanent and determinant from a spin system**|Abhijeet Alase et.al.|[2307.04681](http://arxiv.org/abs/2307.04681)|null|
-|**2023-07-10**|**Generalization Error of First-Order Methods for Statistical Learning with Generic Oracles**|Kevin Scaman et.al.|[2307.04679](http://arxiv.org/abs/2307.04679)|null|
+|**2023-07-11**|**Generalization Error of First-Order Methods for Statistical Learning with Generic Oracles**|Kevin Scaman et.al.|[2307.04679](http://arxiv.org/abs/2307.04679)|null|
 |**2023-07-10**|**Optimal Robot Path Planning In a Collaborative Human-Robot Team with Intermittent Human Availability**|Abhinav Dahiya et.al.|[2307.04674](http://arxiv.org/abs/2307.04674)|null|
 |**2023-07-07**|**When does the ID algorithm fail?**|Ilya Shpitser et.al.|[2307.03750](http://arxiv.org/abs/2307.03750)|null|
 |**2023-07-07**|**Comparing Traditional and LLM-based Search for Consumer Choice: A Randomized Experiment**|Sofia Eleni Spatharioti et.al.|[2307.03744](http://arxiv.org/abs/2307.03744)|null|
