@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -166,7 +166,7 @@ layout: default
 |**2023-07-10**|**BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**|Jiaming Ji et.al.|[2307.04657](http://arxiv.org/abs/2307.04657)|null|
 |**2023-07-08**|**Prediction of short stellar activity cycles using derived and established empirical relations between activity and rotation periods**|A. k. Althukair et.al.|[2307.04038](http://arxiv.org/abs/2307.04038)|null|
 |**2023-07-07**|**BlendNet: Design and Optimization of a Neural Network-Based Inference Engine Blending Binary and Fixed-Point Convolutions**|Arash Fayyazi et.al.|[2307.03784](http://arxiv.org/abs/2307.03784)|null|
-|**2023-07-06**|**ChainScience 2023, Conference Proceedings**|Hans Walter Behrens et.al.|[2307.03277](http://arxiv.org/abs/2307.03277)|null|
+|**2023-07-11**|**ChainScience 2023, Conference Proceedings**|Hans Walter Behrens et.al.|[2307.03277](http://arxiv.org/abs/2307.03277)|null|
 |**2023-07-06**|**Compilation of a simple chemistry application to quantum error correction primitives**|Nick S. Blunt et.al.|[2307.03233](http://arxiv.org/abs/2307.03233)|**[link](https://github.com/riverlane/h2_compilation)**|
 |**2023-07-10**|**Art Authentication with Vision Transformers**|Ludovica Schaerf et.al.|[2307.03039](http://arxiv.org/abs/2307.03039)|null|
 |**2023-07-06**|**Cosmological effects of the Galileon term in Scalar-Tensor Theories**|A. G. Ferrari et.al.|[2307.02987](http://arxiv.org/abs/2307.02987)|null|
@@ -996,7 +996,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-11**|**Precise Image Generation on Current Noisy Quantum Computing Devices**|Florian Rehm et.al.|[2307.05253](http://arxiv.org/abs/2307.05253)|null|
+|**2023-07-12**|**Precise Image Generation on Current Noisy Quantum Computing Devices**|Florian Rehm et.al.|[2307.05253](http://arxiv.org/abs/2307.05253)|null|
 |**2023-07-11**|**A Survey From Distributed Machine Learning to Distributed Deep Learning**|Mohammad Dehghani et.al.|[2307.05232](http://arxiv.org/abs/2307.05232)|null|
 |**2023-07-11**|**Energy Efficient Personalized Hand-Gesture Recognition with Neuromorphic Computing**|Muhammad Aitsam et.al.|[2307.05225](http://arxiv.org/abs/2307.05225)|null|
 |**2023-07-11**|**Fast Neural Network Inference on FPGAs for Triggering on Long-Lived Particles at Colliders**|Andrea Coccaro et.al.|[2307.05152](http://arxiv.org/abs/2307.05152)|null|
@@ -2700,7 +2700,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-11**|**Fractonic Higher-Order Topological Phases in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2307.05474](http://arxiv.org/abs/2307.05474)|null|
 |**2023-07-11**|**Scale Alone Does not Improve Mechanistic Interpretability in Vision Models**|Roland S. Zimmermann et.al.|[2307.05471](http://arxiv.org/abs/2307.05471)|null|
-|**2023-07-11**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
+|**2023-07-12**|**My3DGen: Building Lightweight Personalized 3D Generative Model**|Luchao Qi et.al.|[2307.05468](http://arxiv.org/abs/2307.05468)|null|
 |**2023-07-11**|**Is Kaniadakis $κ$ -generalized statistical mechanics general?**|T. F. A. Alves et.al.|[2307.05467](http://arxiv.org/abs/2307.05467)|null|
 |**2023-07-11**|**Dynamic Tolling in Arc-based Traffic Assignment Models**|Chih-Yuan Chiu et.al.|[2307.05466](http://arxiv.org/abs/2307.05466)|null|
 |**2023-07-11**|**Quantum noise dynamics in nonlinear pulse propagation**|Edwin Ng et.al.|[2307.05464](http://arxiv.org/abs/2307.05464)|null|
