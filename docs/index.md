@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.13
+## Updated on 2023.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -436,7 +436,7 @@ layout: default
 |**2023-07-12**|**Diagonally-Addressed Matrix Nicknack: How to improve SpMV performance**|Jens Saak et.al.|[2307.06305](http://arxiv.org/abs/2307.06305)|null|
 |**2023-07-12**|**Tackling Computational Heterogeneity in FL: A Few Theoretical Insights**|Adnan Ben Mansour et.al.|[2307.06283](http://arxiv.org/abs/2307.06283)|null|
 |**2023-07-12**|**Stochastic Light Field Holography**|Florian Schiffers et.al.|[2307.06277](http://arxiv.org/abs/2307.06277)|null|
-|**2023-07-12**|**Connectivity Labeling for Multiple Vertex Failures**|Merav Parter et.al.|[2307.06276](http://arxiv.org/abs/2307.06276)|null|
+|**2023-07-13**|**Connectivity Labeling for Multiple Vertex Failures**|Merav Parter et.al.|[2307.06276](http://arxiv.org/abs/2307.06276)|null|
 |**2023-07-12**|**Power Loss Minimization of Distribution Network using Different Grid Strategies**|Umar Jamil et.al.|[2307.06275](http://arxiv.org/abs/2307.06275)|null|
 |**2023-07-12**|**Towards a privacy-preserving distributed cloud service for preprocessing very large medical images**|Yuandou Wang et.al.|[2307.06266](http://arxiv.org/abs/2307.06266)|null|
 |**2023-07-12**|**PDE-Based Parameterisation Techniques for Planar Multipatch Domains**|Jochen Hinz et.al.|[2307.06265](http://arxiv.org/abs/2307.06265)|null|
