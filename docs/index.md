@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.14
+## Updated on 2023.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2791,7 +2791,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-13**|**Exact solution of an infinite-range, non-collective dissipative transverse-field Ising model**|David Roberts et.al.|[2307.06946](http://arxiv.org/abs/2307.06946)|null|
-|**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|null|
+|**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942](http://arxiv.org/abs/2307.06942)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation**|Yingqing He et.al.|[2307.06940](http://arxiv.org/abs/2307.06940)|null|
 |**2023-07-13**|**Mapping a 50-spin-qubit network through correlated sensing**|G. L. van de Stolpe et.al.|[2307.06939](http://arxiv.org/abs/2307.06939)|null|
 |**2023-07-13**|**An atomic boson sampler**|Aaron W. Young et.al.|[2307.06936](http://arxiv.org/abs/2307.06936)|null|
