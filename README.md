@@ -2826,7 +2826,7 @@
 |**2023-07-13**|**Ill-Typed Programs Don't Evaluate**|Steven Ramsay et.al.|[2307.06928](http://arxiv.org/abs/2307.06928)|null|
 |**2023-07-13**|**A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms**|Chockalingam Senthilnathan et.al.|[2307.06927](http://arxiv.org/abs/2307.06927)|null|
 |**2023-07-13**|**DRAGON: A Dialogue-Based Robot for Assistive Navigation with Visual Language Grounding**|Shuijing Liu et.al.|[2307.06924](http://arxiv.org/abs/2307.06924)|null|
-|**2023-07-13**|**Crucible: Graphical Test Cases for Alloy Models**|Adam G. Emerson et.al.|[2307.06922](http://arxiv.org/abs/2307.06922)|null|
+|**2023-07-13**|**Crucible: Graphical Test Cases for Alloy Models**|Adam G. Emerson et.al.|[2307.06922](http://arxiv.org/abs/2307.06922)|**[link](https://github.com/crucible-alloy/crucible)**|
 |**2023-07-13**|**DAXiot: A Decentralized Authentication and Authorization Scheme for Dynamic IoT Networks**|Artur Philipp et.al.|[2307.06919](http://arxiv.org/abs/2307.06919)|null|
 |**2023-07-12**|**Analysis of Half-Duplex Two-Node Slotted ALOHA Network With Asynchronous Traffic**|Seyed Ali Hashemian et.al.|[2307.06334](http://arxiv.org/abs/2307.06334)|null|
 |**2023-07-12**|**Influence of generic quantum coins on the spreading and entanglement in binary aperiodic quantum walks**|Tushar Kanti Bose et.al.|[2307.06332](http://arxiv.org/abs/2307.06332)|null|
