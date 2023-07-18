@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3436,7 +3436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-13**|**LVLane: Deep Learning for Lane Detection and Classification in Challenging Conditions**|Zillur Rahman et.al.|[2307.06853](http://arxiv.org/abs/2307.06853)|null|
+|**2023-07-13**|**LVLane: Deep Learning for Lane Detection and Classification in Challenging Conditions**|Zillur Rahman et.al.|[2307.06853](http://arxiv.org/abs/2307.06853)|**[link](https://github.com/zillur-av/LVLane)**|
 |**2023-07-11**|**Mixed-Precision Quantization with Cross-Layer Dependencies**|Zihao Deng et.al.|[2307.05657](http://arxiv.org/abs/2307.05657)|null|
 |**2023-07-10**|**QBitOpt: Fast and Accurate Bitwidth Reallocation during Training**|Jorn Peters et.al.|[2307.04535](http://arxiv.org/abs/2307.04535)|null|
 |**2023-07-08**|**Mixed Precision Iterative Refinement with Adaptive Precision Sparse Approximate Inverse Preconditioning**|Noaman Khan et.al.|[2307.03914](http://arxiv.org/abs/2307.03914)|null|
