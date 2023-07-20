@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Accelerating End-host Congestion Response using P4 Programmable Switches**|Nehal Baganal-Krishna et.al.|[2307.09639](http://arxiv.org/abs/2307.09639)|null|
 |**2023-07-16**|**Scaling Limits of Memristor-Based Routers for Asynchronous Neuromorphic Systems**|Junren Chen et.al.|[2307.08116](http://arxiv.org/abs/2307.08116)|null|
 |**2023-07-07**|**ALBUS: a Probabilistic Monitoring Algorithm to Counter Burst-Flood Attacks**|Simon Scherrer et.al.|[2306.14328](http://arxiv.org/abs/2306.14328)|null|
 |**2023-06-25**|**M $^3$ SC: A Generic Dataset for Mixed Multi-Modal (MMM) Sensing and Communication Integration**|Xiang Cheng et.al.|[2306.14125](http://arxiv.org/abs/2306.14125)|null|
@@ -68,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Stream Types**|Joseph W. Cutler et.al.|[2307.09553](http://arxiv.org/abs/2307.09553)|null|
 |**2023-07-18**|**Cloud-native RStudio on Kubernetes for Hopsworks**|Gibson Chikafa et.al.|[2307.09132](http://arxiv.org/abs/2307.09132)|null|
 |**2023-07-17**|**Pressure safety approach for PIP-II cryogenic distribution system and cryomodules**|William Soyars et.al.|[2307.08608](http://arxiv.org/abs/2307.08608)|null|
 |**2023-07-16**|**Architectures and circuits for distributed quantum computing**|Daniele Cuomo et.al.|[2307.07908](http://arxiv.org/abs/2307.07908)|null|
@@ -455,6 +457,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173](http://arxiv.org/abs/2307.10173)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
+|**2023-07-19**|**LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs**|Tongshuang Wu et.al.|[2307.10168](http://arxiv.org/abs/2307.10168)|null|
+|**2023-07-19**|**VITS : Variational Inference Thomson Sampling for contextual bandits**|Pierre Clavier et.al.|[2307.10167](http://arxiv.org/abs/2307.10167)|null|
+|**2023-07-19**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165](http://arxiv.org/abs/2307.10165)|null|
+|**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163](http://arxiv.org/abs/2307.10163)|null|
+|**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
+|**2023-07-19**|**GWDALI: A Fisher-matrix based software for gravitational wave parameter-estimation beyond Gaussian approximation**|Josiel Mendonça Soares de Souza et.al.|[2307.10154](http://arxiv.org/abs/2307.10154)|null|
+|**2023-07-19**|**Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures**|Kejia Chen et.al.|[2307.10153](http://arxiv.org/abs/2307.10153)|null|
+|**2023-07-19**|**QAOA Performance in Noisy Devices: The Effect of Classical Optimizers and Ansatz Depth**|Aidan Pellow-Jarman et.al.|[2307.10149](http://arxiv.org/abs/2307.10149)|null|
 |**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466](http://arxiv.org/abs/2307.09466)|null|
 |**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455](http://arxiv.org/abs/2307.09455)|null|
 |**2023-07-18**|**Solving Knapsack with Small Items via L0-Proximity**|Ce Jin et.al.|[2307.09454](http://arxiv.org/abs/2307.09454)|null|
@@ -1080,6 +1092,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Tangling schedules eases hardware connectivity requirements for quantum error correction**|Gyorgy P. Geher et.al.|[2307.10147](http://arxiv.org/abs/2307.10147)|null|
+|**2023-07-19**|**Two Approaches to Supervised Image Segmentation**|Alexandre Benatti et.al.|[2307.10123](http://arxiv.org/abs/2307.10123)|null|
+|**2023-07-19**|**BERRY: Bit Error Robustness for Energy-Efficient Reinforcement Learning-Based Autonomous Systems**|Zishen Wan et.al.|[2307.10041](http://arxiv.org/abs/2307.10041)|null|
+|**2023-07-19**|**EPUF: A Novel Scheme Based on Entropy Features of Latency-based DRAM PUFs Providing Lightweight Authentication in IoT Networks**|Fatemeh Najafi et.al.|[2307.09968](http://arxiv.org/abs/2307.09968)|null|
+|**2023-07-19**|**ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats**|Xiaoxia Wu et.al.|[2307.09782](http://arxiv.org/abs/2307.09782)|null|
+|**2023-07-19**|**Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation**|Hao Peng et.al.|[2307.09701](http://arxiv.org/abs/2307.09701)|null|
+|**2023-07-19**|**Towards Saner Deep Image Registration**|Bin Duan et.al.|[2307.09696](http://arxiv.org/abs/2307.09696)|**[link](https://github.com/tuffr5/saner-deep-registration)**|
+|**2023-07-19**|**On Quantum Annealing Without a Physical Quantum Annealer**|Ameya Bhave et.al.|[2307.09695](http://arxiv.org/abs/2307.09695)|null|
+|**2023-07-18**|**Data-driven reactivity prediction of targeted covalent inhibitors using computed quantum features for drug discovery**|Tom W. A. Montgomery et.al.|[2307.09671](http://arxiv.org/abs/2307.09671)|null|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-18**|**Hardness of the Maximum Independent Set Problem on Unit-Disk Graphs and Prospects for Quantum Speedups**|Ruben S. Andrist et.al.|[2307.09442](http://arxiv.org/abs/2307.09442)|null|
 |**2023-07-18**|**Grid-Forming Hybrid Angle Control: Behavior, Stability, Variants and Verification**|Ali Tayyebi et.al.|[2307.09398](http://arxiv.org/abs/2307.09398)|null|
@@ -1682,6 +1703,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172](http://arxiv.org/abs/2307.10172)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
+|**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163](http://arxiv.org/abs/2307.10163)|null|
+|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|null|
+|**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
+|**2023-07-19**|**Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures**|Kejia Chen et.al.|[2307.10153](http://arxiv.org/abs/2307.10153)|null|
+|**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139](http://arxiv.org/abs/2307.10139)|null|
+|**2023-07-19**|**A decision making framework for recommended maintenance of road segments**|Haoyu Sun et.al.|[2307.10085](http://arxiv.org/abs/2307.10085)|null|
+|**2023-07-19**|**The Containment Game in the plane: between the Firefighter Problem and Conway's Angel Problem**|Ohad Noy Feldheim et.al.|[2307.10081](http://arxiv.org/abs/2307.10081)|null|
+|**2023-07-19**|**Fundamental Limits of Reference-Based Sequence Reordering**|Nir Weinberger et.al.|[2307.10080](http://arxiv.org/abs/2307.10080)|null|
 |**2023-07-18**|**Overthinking the Truth: Understanding how Language Models Process False Demonstrations**|Danny Halawi et.al.|[2307.09476](http://arxiv.org/abs/2307.09476)|**[link](https://github.com/dannyallover/overthinking_the_truth)**|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-18**|**Deep Neural Aggregation for Recommending Items to Group of Users**|Jorge Dueñas-Lerín et.al.|[2307.09447](http://arxiv.org/abs/2307.09447)|null|
@@ -2307,6 +2338,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176](http://arxiv.org/abs/2307.10176)|null|
+|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|null|
+|**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
+|**2023-07-19**|**GWDALI: A Fisher-matrix based software for gravitational wave parameter-estimation beyond Gaussian approximation**|Josiel Mendonça Soares de Souza et.al.|[2307.10154](http://arxiv.org/abs/2307.10154)|null|
+|**2023-07-19**|**A pair-based approximation for simplicial contagion**|Federico Malizia et.al.|[2307.10151](http://arxiv.org/abs/2307.10151)|null|
+|**2023-07-19**|**Depleting states dictate the ideal glass and physics of glass transition**|Anshul D. S. Parmar et.al.|[2307.10143](http://arxiv.org/abs/2307.10143)|null|
+|**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139](http://arxiv.org/abs/2307.10139)|null|
+|**2023-07-19**|**An Improved NeuMIP with Better Accuracy**|Bowen Xue et.al.|[2307.10135](http://arxiv.org/abs/2307.10135)|null|
+|**2023-07-19**|**Coexistence of defect morphologies in three dimensional active nematics**|Pasquale Digregorio et.al.|[2307.10103](http://arxiv.org/abs/2307.10103)|null|
+|**2023-07-19**|**Gradient Sparsification For Masked Fine-Tuning of Transformers**|James O' Neill et.al.|[2307.10098](http://arxiv.org/abs/2307.10098)|null|
 |**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483](http://arxiv.org/abs/2307.09483)|null|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
 |**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
@@ -2932,6 +2973,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176](http://arxiv.org/abs/2307.10176)|null|
+|**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174](http://arxiv.org/abs/2307.10174)|null|
+|**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173](http://arxiv.org/abs/2307.10173)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
+|**2023-07-19**|**Controlling stable Bloch points with electric currents**|Martin Lang et.al.|[2307.10170](http://arxiv.org/abs/2307.10170)|null|
+|**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
+|**2023-07-19**|**Variability estimation in a non-linear crack growth simulation model with controlled parameters using Designed Experiments testing**|Seungju Yeoa et.al.|[2307.10161](http://arxiv.org/abs/2307.10161)|null|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160](http://arxiv.org/abs/2307.10160)|null|
+|**2023-07-19**|**Leveraging Visemes for Better Visual Speech Representation and Lip Reading**|Javad Peymanfard et.al.|[2307.10157](http://arxiv.org/abs/2307.10157)|null|
+|**2023-07-19**|**A pair-based approximation for simplicial contagion**|Federico Malizia et.al.|[2307.10151](http://arxiv.org/abs/2307.10151)|null|
+|**2023-07-19**|**Legolas 2.0: Improvements and extensions to an MHD spectroscopic framework**|Niels Claes et.al.|[2307.10145](http://arxiv.org/abs/2307.10145)|**[link](https://github.com/n-claes/legolas)**|
 |**2023-07-18**|**Exact results for a boundary-driven double spin chain and resource-efficient remote entanglement stabilization**|Andrew Lingenfelter et.al.|[2307.09482](http://arxiv.org/abs/2307.09482)|null|
 |**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466](http://arxiv.org/abs/2307.09466)|null|
 |**2023-07-18**|**Ultrafast In vivo Transient Absorption Spectroscopy**|Tomi K. Baikie et.al.|[2307.09448](http://arxiv.org/abs/2307.09448)|null|
@@ -3557,6 +3608,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Leveraging Mixed Precision in Exponential Time Integration Methods**|Cody J. Balos et.al.|[2307.09498](http://arxiv.org/abs/2307.09498)|null|
 |**2023-07-13**|**LVLane: Deep Learning for Lane Detection and Classification in Challenging Conditions**|Zillur Rahman et.al.|[2307.06853](http://arxiv.org/abs/2307.06853)|**[link](https://github.com/zillur-av/LVLane)**|
 |**2023-07-11**|**Mixed-Precision Quantization with Cross-Layer Dependencies**|Zihao Deng et.al.|[2307.05657](http://arxiv.org/abs/2307.05657)|null|
 |**2023-07-10**|**QBitOpt: Fast and Accurate Bitwidth Reallocation during Training**|Jorn Peters et.al.|[2307.04535](http://arxiv.org/abs/2307.04535)|null|
