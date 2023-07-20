@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -177,7 +177,7 @@ layout: default
 |**2023-07-17**|**Secure Composition of Robust and Optimising Compilers**|Matthis Kruse et.al.|[2307.08681](http://arxiv.org/abs/2307.08681)|null|
 |**2023-07-17**|**eGPU: A 750 MHz Class Soft GPGPU for FPGA**|Martin Langhammer et.al.|[2307.08378](http://arxiv.org/abs/2307.08378)|null|
 |**2023-07-17**|**A Lightweight Framework for High-Quality Code Generation**|Mohammed Latif Siddiq et.al.|[2307.08220](http://arxiv.org/abs/2307.08220)|null|
-|**2023-07-16**|**Computing the gradients with respect to all parameters of a quantum neural network using a single circuit**|Guang Ping He et.al.|[2307.08167](http://arxiv.org/abs/2307.08167)|null|
+|**2023-07-16**|**Computing the gradients with respect to all parameters of a quantum neural network using a single circuit**|Guang Ping He et.al.|[2307.08167](http://arxiv.org/abs/2307.08167)|**[link](https://github.com/gphehub/grad2210)**|
 |**2023-07-16**|**Analyzing Dataset Annotation Quality Management in the Wild**|Jan-Christoph Klie et.al.|[2307.08153](http://arxiv.org/abs/2307.08153)|null|
 |**2023-07-16**|**MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment**|Mohanad Odema et.al.|[2307.08065](http://arxiv.org/abs/2307.08065)|null|
 |**2023-07-16**|**Optimal Compression of Unit Norm Vectors in the High Distortion Regime**|Heng Zhu et.al.|[2307.07941](http://arxiv.org/abs/2307.07941)|null|
@@ -456,7 +456,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**Optimal Vehicle Trajectory Planning for Static Obstacle Avoidance using Nonlinear Optimization**|Yajia Zhang et.al.|[2307.09466](http://arxiv.org/abs/2307.09466)|null|
-|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455](http://arxiv.org/abs/2307.09455)|null|
+|**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455](http://arxiv.org/abs/2307.09455)|null|
 |**2023-07-18**|**Solving Knapsack with Small Items via L0-Proximity**|Ce Jin et.al.|[2307.09454](http://arxiv.org/abs/2307.09454)|null|
 |**2023-07-18**|**The effect of pressure-anisotropy-driven kinetic instabilities on magnetic field amplification in galaxy clusters**|Y. Rappaz et.al.|[2307.09451](http://arxiv.org/abs/2307.09451)|null|
 |**2023-07-18**|**No distributed quantum advantage for approximate graph coloring**|Xavier Coiteux-Roy et.al.|[2307.09444](http://arxiv.org/abs/2307.09444)|null|
@@ -2309,8 +2309,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**Forecasting the steam mass flow in a powerplant using the parallel hybrid network**|Andrii Kurkin et.al.|[2307.09483](http://arxiv.org/abs/2307.09483)|null|
 |**2023-07-18**|**A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction**|Frédéric Marcotte et.al.|[2307.09463](http://arxiv.org/abs/2307.09463)|null|
-|**2023-07-18**|**A comparative analysis of SR-GAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
-|**2023-07-18**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455](http://arxiv.org/abs/2307.09455)|null|
+|**2023-07-19**|**A comparative analysis of SRGAN models**|Fatemeh Rezapoor Nikroo et.al.|[2307.09456](http://arxiv.org/abs/2307.09456)|null|
+|**2023-07-19**|**Pseudo Outlier Exposure for Out-of-Distribution Detection using Pretrained Transformers**|Jaeyoung Kim et.al.|[2307.09455](http://arxiv.org/abs/2307.09455)|null|
 |**2023-07-18**|**Age-Based Cache Updating Under Timestomping**|Subhankar Banerjee et.al.|[2307.09443](http://arxiv.org/abs/2307.09443)|null|
 |**2023-07-18**|**Hardness of the Maximum Independent Set Problem on Unit-Disk Graphs and Prospects for Quantum Speedups**|Ruben S. Andrist et.al.|[2307.09442](http://arxiv.org/abs/2307.09442)|null|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435](http://arxiv.org/abs/2307.09435)|null|
