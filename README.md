@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -48,7 +48,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -79,7 +79,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -182,7 +182,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Compiler
 
@@ -191,7 +191,7 @@
 |**2023-07-17**|**The brightest (and faintest) sources in the radio sky**|Sarah V. White et.al.|[2307.09393](http://arxiv.org/abs/2307.09393)|null|
 |**2023-07-18**|**Is the correlation between the bulge-to-total stellar mass ratio and the number of dwarf galaxies in tension with $Λ$ CDM?**|Oliver Müller et.al.|[2307.09015](http://arxiv.org/abs/2307.09015)|null|
 |**2023-07-17**|**Directed Test Program Generation for JIT Compiler Bug Localization**|HeuiChan Lim et.al.|[2307.08885](http://arxiv.org/abs/2307.08885)|null|
-|**2023-07-17**|**Red Supergiant Candidates for Multimessenger Monitoring of the Next Galactic Supernova**|Sarah Healy et.al.|[2307.08785](http://arxiv.org/abs/2307.08785)|null|
+|**2023-07-17**|**Red Supergiant Candidates for Multimessenger Monitoring of the Next Galactic Supernova**|Sarah Healy et.al.|[2307.08785](http://arxiv.org/abs/2307.08785)|**[link](https://github.com/snews2/candidate_list)**|
 |**2023-07-17**|**ivrit.ai: A Comprehensive Dataset of Hebrew Speech for AI Research and Development**|Yanir Marmor et.al.|[2307.08720](http://arxiv.org/abs/2307.08720)|**[link](https://github.com/yairl/ivrit.ai)**|
 |**2023-07-17**|**COLLIE: Systematic Construction of Constrained Text Generation Tasks**|Shunyu Yao et.al.|[2307.08689](http://arxiv.org/abs/2307.08689)|**[link](https://github.com/princeton-nlp/Collie)**|
 |**2023-07-17**|**Secure Composition of Robust and Optimising Compilers**|Matthis Kruse et.al.|[2307.08681](http://arxiv.org/abs/2307.08681)|null|
@@ -471,16 +471,16 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173](http://arxiv.org/abs/2307.10173)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
-|**2023-07-19**|**LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs**|Tongshuang Wu et.al.|[2307.10168](http://arxiv.org/abs/2307.10168)|null|
+|**2023-07-20**|**LLMs as Workers in Human-Computational Algorithms? Replicating Crowdsourcing Pipelines with LLMs**|Tongshuang Wu et.al.|[2307.10168](http://arxiv.org/abs/2307.10168)|null|
 |**2023-07-19**|**VITS : Variational Inference Thomson Sampling for contextual bandits**|Pierre Clavier et.al.|[2307.10167](http://arxiv.org/abs/2307.10167)|null|
-|**2023-07-19**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165](http://arxiv.org/abs/2307.10165)|null|
+|**2023-07-20**|**Drone navigation and license place detection for vehicle location in indoor spaces**|Moa Arvidsson et.al.|[2307.10165](http://arxiv.org/abs/2307.10165)|null|
 |**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
 |**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163](http://arxiv.org/abs/2307.10163)|null|
 |**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
@@ -1108,7 +1108,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -1721,16 +1721,16 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Information Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172](http://arxiv.org/abs/2307.10172)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172](http://arxiv.org/abs/2307.10172)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
 |**2023-07-19**|**Rethinking Backdoor Attacks**|Alaa Khaddaj et.al.|[2307.10163](http://arxiv.org/abs/2307.10163)|null|
-|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|null|
+|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|**[link](https://github.com/rtvis/rtvis)**|
 |**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
 |**2023-07-19**|**Contact-aware Shaping and Maintenance of Deformable Linear Objects With Fixtures**|Kejia Chen et.al.|[2307.10153](http://arxiv.org/abs/2307.10153)|null|
 |**2023-07-19**|**Artificial Neural Networks for Predicting Mechanical Properties of Crystalline Polyamide12 via Molecular Dynamics Simulations**|Caglar Tamur et.al.|[2307.10139](http://arxiv.org/abs/2307.10139)|null|
@@ -2358,14 +2358,14 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176](http://arxiv.org/abs/2307.10176)|null|
-|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|null|
+|**2023-07-19**|**RTVis: Research Trend Visualization Toolkit**|Xingyu Shen et.al.|[2307.10162](http://arxiv.org/abs/2307.10162)|**[link](https://github.com/rtvis/rtvis)**|
 |**2023-07-19**|**Curvature-based Clustering on Graphs**|Yu Tian et.al.|[2307.10155](http://arxiv.org/abs/2307.10155)|null|
 |**2023-07-19**|**GWDALI: A Fisher-matrix based software for gravitational wave parameter-estimation beyond Gaussian approximation**|Josiel Mendonça Soares de Souza et.al.|[2307.10154](http://arxiv.org/abs/2307.10154)|null|
 |**2023-07-19**|**A pair-based approximation for simplicial contagion**|Federico Malizia et.al.|[2307.10151](http://arxiv.org/abs/2307.10151)|null|
@@ -2995,7 +2995,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -3004,7 +3004,7 @@
 |**2023-07-19**|**Entanglement and replica symmetry breaking in a driven-dissipative quantum spin glass**|Brendan P. Marsh et.al.|[2307.10176](http://arxiv.org/abs/2307.10176)|null|
 |**2023-07-19**|**A New Dissociative Galaxy Cluster Merger: RM J150822.0+575515.2**|Rodrigo Stancioli et.al.|[2307.10174](http://arxiv.org/abs/2307.10174)|null|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173](http://arxiv.org/abs/2307.10173)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
-|**2023-07-19**|**Controlling stable Bloch points with electric currents**|Martin Lang et.al.|[2307.10170](http://arxiv.org/abs/2307.10170)|null|
+|**2023-07-19**|**Controlling stable Bloch points with electric currents**|Martin Lang et.al.|[2307.10170](http://arxiv.org/abs/2307.10170)|**[link](https://github.com/lang-m/2023-paper-controlling-stable-bloch-points-with-electric-currents)**|
 |**2023-07-19**|**Optimized Design of Joint Mirror Array and Liquid Crystal-Based RIS-Aided VLC systems**|Omar Maraqa et.al.|[2307.10164](http://arxiv.org/abs/2307.10164)|null|
 |**2023-07-19**|**Variability estimation in a non-linear crack growth simulation model with controlled parameters using Designed Experiments testing**|Seungju Yeoa et.al.|[2307.10161](http://arxiv.org/abs/2307.10161)|null|
 |**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160](http://arxiv.org/abs/2307.10160)|null|
@@ -3632,7 +3632,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -3667,7 +3667,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
