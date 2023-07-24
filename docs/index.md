@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -41,7 +41,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
+|**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
@@ -472,8 +472,8 @@ layout: default
 |**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042](http://arxiv.org/abs/2307.11042)|null|
 |**2023-07-20**|**Cycle discrete-time quantum walks on a noisy quantum computer**|Vivek Wadhia et.al.|[2307.11027](http://arxiv.org/abs/2307.11027)|null|
 |**2023-07-20**|**Sharpness Minimization Algorithms Do Not Only Minimize Sharpness To Achieve Better Generalization**|Kaiyue Wen et.al.|[2307.11007](http://arxiv.org/abs/2307.11007)|null|
-|**2023-07-20**|**Dense Sample Deep Learning**|Stephen Josè Hanson et.al.|[2307.10991](http://arxiv.org/abs/2307.10991)|null|
-|**2023-07-20**|**Fair Allocation of goods and chores -- Tutorial and Survey of Recent Results**|Shaily Mishra et.al.|[2307.10985](http://arxiv.org/abs/2307.10985)|null|
+|**2023-07-21**|**Dense Sample Deep Learning**|Stephen Josè Hanson et.al.|[2307.10991](http://arxiv.org/abs/2307.10991)|null|
+|**2023-07-21**|**Fair Allocation of goods and chores -- Tutorial and Survey of Recent Results**|Shaily Mishra et.al.|[2307.10985](http://arxiv.org/abs/2307.10985)|null|
 |**2023-07-20**|**Denoising of Sphere- and SO(3)-Valued Data by Relaxed Tikhonov Regularization**|Robert Beinert et.al.|[2307.10980](http://arxiv.org/abs/2307.10980)|null|
 |**2023-07-20**|**Decentralized conditional gradient method over time-varying graphs**|Roman Vedernikov et.al.|[2307.10978](http://arxiv.org/abs/2307.10978)|null|
 |**2023-07-19**|**DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering**|Wei Cheng et.al.|[2307.10173](http://arxiv.org/abs/2307.10173)|**[link](https://github.com/DNA-Rendering/DNA-Rendering)**|
