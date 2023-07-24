@@ -71,6 +71,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Underwater 3D positioning on smart devices**|Tuochao Chen et.al.|[2307.11263](http://arxiv.org/abs/2307.11263)|null|
+|**2023-07-20**|**An Exceptional Actor System (Functional Pearl)**|Patrick Redmond et.al.|[2307.11194](http://arxiv.org/abs/2307.11194)|null|
 |**2023-07-18**|**Stream Types**|Joseph W. Cutler et.al.|[2307.09553](http://arxiv.org/abs/2307.09553)|null|
 |**2023-07-18**|**Cloud-native RStudio on Kubernetes for Hopsworks**|Gibson Chikafa et.al.|[2307.09132](http://arxiv.org/abs/2307.09132)|null|
 |**2023-07-17**|**Pressure safety approach for PIP-II cryogenic distribution system and cryomodules**|William Soyars et.al.|[2307.08608](http://arxiv.org/abs/2307.08608)|null|
@@ -172,6 +174,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Approximating a continuously stratified hydrostatic system by the multi-layer shallow water system**|Mahieddine Adim et.al.|[2307.11426](http://arxiv.org/abs/2307.11426)|null|
+|**2023-07-21**|**Uncomputation in the Qrisp high-level Quantum Programming Framework**|Raphael Seidel et.al.|[2307.11417](http://arxiv.org/abs/2307.11417)|null|
+|**2023-07-20**|**Robust ground-state energy estimation under depolarizing noise**|Zhiyan Ding et.al.|[2307.11257](http://arxiv.org/abs/2307.11257)|null|
+|**2023-07-20**|**An Exceptional Actor System (Functional Pearl)**|Patrick Redmond et.al.|[2307.11194](http://arxiv.org/abs/2307.11194)|null|
+|**2023-07-20**|**Approximate Computing Survey, Part I: Terminology and Software & Hardware Approximation Techniques**|Vasileios Leon et.al.|[2307.11124](http://arxiv.org/abs/2307.11124)|null|
 |**2023-07-20**|**The Post-AGB Star IRAS 07253-2001: Pulsations, Long-Term Brightness Variability and Spectral Peculiarities**|N. P. Ikonnikova et.al.|[2307.10796](http://arxiv.org/abs/2307.10796)|null|
 |**2023-07-20**|**Addressing Compiler Errors: Stack Overflow or Large Language Models?**|Patricia Widjojo et.al.|[2307.10793](http://arxiv.org/abs/2307.10793)|**[link](https://github.com/patwdj/java-compiler-error-help)**|
 |**2023-07-20**|**Decoding the compositions of four bright $r$ -process-enhanced stars**|Pallavi Saraf et.al.|[2307.10762](http://arxiv.org/abs/2307.10762)|null|
@@ -466,6 +473,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Differentially Private Heavy Hitter Detection using Federated Analytics**|Karan Chadha et.al.|[2307.11749](http://arxiv.org/abs/2307.11749)|null|
+|**2023-07-21**|**Scalable tensor-network error mitigation for near-term quantum computing**|Sergei Filippov et.al.|[2307.11740](http://arxiv.org/abs/2307.11740)|null|
+|**2023-07-21**|**Advancing Ad Auction Realism: Practical Insights & Modeling Implications**|Ming Chen et.al.|[2307.11732](http://arxiv.org/abs/2307.11732)|null|
+|**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722](http://arxiv.org/abs/2307.11722)|null|
+|**2023-07-21**|**A Sampling-Based Method for Gittins Index Approximation**|Stef Baas et.al.|[2307.11713](http://arxiv.org/abs/2307.11713)|null|
+|**2023-07-21**|**3D Skeletonization of Complex Grapevines for Robotic Pruning**|Eric Schneider et.al.|[2307.11706](http://arxiv.org/abs/2307.11706)|null|
+|**2023-07-21**|**JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning**|Kaiwen Wang et.al.|[2307.11704](http://arxiv.org/abs/2307.11704)|null|
+|**2023-07-21**|**Using simulation to calibrate real data acquisition in veterinary medicine**|Krystian Strzałka et.al.|[2307.11695](http://arxiv.org/abs/2307.11695)|null|
+|**2023-07-21**|**Longitudinal Data Clustering with a Copula Kernel Mixture Model**|Xi Zhang et.al.|[2307.11682](http://arxiv.org/abs/2307.11682)|null|
+|**2023-07-21**|**Formal Concept Lattice Representations and Algorithms for Hypergraphs**|Michael G. Rawson et.al.|[2307.11681](http://arxiv.org/abs/2307.11681)|null|
 |**2023-07-20**|**Quantum Logspace Computations are Verifiable**|Uma Girish et.al.|[2307.11083](http://arxiv.org/abs/2307.11083)|null|
 |**2023-07-20**|**AlignDet: Aligning Pre-training and Fine-tuning in Object Detection**|Ming Li et.al.|[2307.11077](http://arxiv.org/abs/2307.11077)|**[link](https://github.com/liming-ai/AlignDet)**|
 |**2023-07-20**|**Signal Identification and Entrainment for Practical FMCW Radar Spoofing Attacks**|Andrew M. Graff et.al.|[2307.11072](http://arxiv.org/abs/2307.11072)|null|
@@ -1111,6 +1128,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Scalable tensor-network error mitigation for near-term quantum computing**|Sergei Filippov et.al.|[2307.11740](http://arxiv.org/abs/2307.11740)|null|
+|**2023-07-21**|**Deep Reinforcement Learning Based System for Intraoperative Hyperspectral Video Autofocusing**|Charlie Budd et.al.|[2307.11638](http://arxiv.org/abs/2307.11638)|null|
+|**2023-07-21**|**Connecting Quantum Cities: Simulation of a Satellite-Based Quantum Network**|Raja Yehia et.al.|[2307.11606](http://arxiv.org/abs/2307.11606)|null|
+|**2023-07-21**|**Transferability of Convolutional Neural Networks in Stationary Learning Tasks**|Damian Owerko et.al.|[2307.11588](http://arxiv.org/abs/2307.11588)|**[link](https://github.com/damowerko/mtt)**|
+|**2023-07-21**|**CycleIK: Neuro-inspired Inverse Kinematics**|Jan-Gerrit Habekost et.al.|[2307.11554](http://arxiv.org/abs/2307.11554)|null|
+|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545](http://arxiv.org/abs/2307.11545)|null|
+|**2023-07-21**|**Software engineering to sustain a high-performance computing scientific application: QMCPACK**|William F. Godoy et.al.|[2307.11502](http://arxiv.org/abs/2307.11502)|null|
+|**2023-07-21**|**Uncomputation in the Qrisp high-level Quantum Programming Framework**|Raphael Seidel et.al.|[2307.11417](http://arxiv.org/abs/2307.11417)|null|
+|**2023-07-21**|**A Low Cost Mars Aerocapture Technology Demonstrator**|Athul Pradeepkumar Girija et.al.|[2307.11378](http://arxiv.org/abs/2307.11378)|null|
+|**2023-07-20**|**Reconfigurable cascaded thermal neuristors for neuromorphic computing**|Erbin Qiu et.al.|[2307.11256](http://arxiv.org/abs/2307.11256)|null|
 |**2023-07-20**|**Development of Indigenous Pulse-Shape Discrimination Algorithm for Organic Scintillation detectors**|Annesha Karmakar et.al.|[2307.10884](http://arxiv.org/abs/2307.10884)|null|
 |**2023-07-20**|**Threshold Encrypted Mempools: Limitations and Considerations**|Antoine Rondelet et.al.|[2307.10878](http://arxiv.org/abs/2307.10878)|null|
 |**2023-07-20**|**TwinLiteNet: An Efficient and Lightweight Model for Driveable Area and Lane Segmentation in Self-Driving Cars**|Quang Huy Che et.al.|[2307.10705](http://arxiv.org/abs/2307.10705)|**[link](https://github.com/chequanghuy/TwinLiteNet)**|
@@ -1732,6 +1759,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**3D Skeletonization of Complex Grapevines for Robotic Pruning**|Eric Schneider et.al.|[2307.11706](http://arxiv.org/abs/2307.11706)|null|
+|**2023-07-21**|**Redundancy of information: lowering dimension**|Jun Le Goh et.al.|[2307.11690](http://arxiv.org/abs/2307.11690)|null|
+|**2023-07-21**|**Improving Accuracy in Cell-Perturbation Experiments by Leveraging Auxiliary Information**|Jackson Loper et.al.|[2307.11686](http://arxiv.org/abs/2307.11686)|null|
+|**2023-07-21**|**Formal Concept Lattice Representations and Algorithms for Hypergraphs**|Michael G. Rawson et.al.|[2307.11681](http://arxiv.org/abs/2307.11681)|null|
+|**2023-07-21**|**Adapted poling to break the nonlinear efficiency limit in nanophotonic lithium niobate waveguides**|Pao-Kang Chen et.al.|[2307.11671](http://arxiv.org/abs/2307.11671)|null|
+|**2023-07-21**|**Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts**|Mayug Maniparambil et.al.|[2307.11661](http://arxiv.org/abs/2307.11661)|null|
+|**2023-07-21**|**Alleviating the Long-Tail Problem in Conversational Recommender Systems**|Zhipeng Zhao et.al.|[2307.11650](http://arxiv.org/abs/2307.11650)|null|
+|**2023-07-21**|**Sparse Cholesky factorization by greedy conditional selection**|Stephen Huan et.al.|[2307.11648](http://arxiv.org/abs/2307.11648)|null|
+|**2023-07-21**|**Thermodynamic curvature of charged black holes with $AdS_2$ horizons**|Aditya Singh et.al.|[2307.11641](http://arxiv.org/abs/2307.11641)|null|
+|**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636](http://arxiv.org/abs/2307.11636)|null|
 |**2023-07-20**|**Quantum Logspace Computations are Verifiable**|Uma Girish et.al.|[2307.11083](http://arxiv.org/abs/2307.11083)|null|
 |**2023-07-20**|**GLSFormer: Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos**|Nisarg A. Shah et.al.|[2307.11081](http://arxiv.org/abs/2307.11081)|**[link](https://github.com/nisargshah1999/glsformer)**|
 |**2023-07-20**|**Chemical Distribution of the Dynamical Ejecta in the Neutron Star Merger GW170817**|Shreya Anand et.al.|[2307.11080](http://arxiv.org/abs/2307.11080)|null|
@@ -2377,6 +2414,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Scalable tensor-network error mitigation for near-term quantum computing**|Sergei Filippov et.al.|[2307.11740](http://arxiv.org/abs/2307.11740)|null|
+|**2023-07-21**|**A modular theoretical framework for learning through structural plasticity**|Gianmarco Tiddia et.al.|[2307.11735](http://arxiv.org/abs/2307.11735)|null|
+|**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730](http://arxiv.org/abs/2307.11730)|null|
+|**2023-07-21**|**Convergence of SGD for Training Neural Networks with Sliced Wasserstein Losses**|Eloi Tanguy et.al.|[2307.11714](http://arxiv.org/abs/2307.11714)|null|
+|**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
+|**2023-07-21**|**Reduced collinearity, low-dimensional cluster expansion model for adsorption of halides (Cl, Br) on Cu(100) surface using principal component analysis**|Bibek Dash et.al.|[2307.11698](http://arxiv.org/abs/2307.11698)|null|
+|**2023-07-21**|**Strain stiffening universality in composite hydrogels and tissues**|Jake Song et.al.|[2307.11687](http://arxiv.org/abs/2307.11687)|null|
+|**2023-07-21**|**Fast Adaptive Test-Time Defense with Robust Features**|Anurag Singh et.al.|[2307.11672](http://arxiv.org/abs/2307.11672)|null|
+|**2023-07-21**|**Deep Learning Hyperspectral Pansharpening on large scale PRISMA dataset**|Simone Zini et.al.|[2307.11666](http://arxiv.org/abs/2307.11666)|null|
+|**2023-07-21**|**Soft and stiff normal modes in floppy colloidal square lattices**|Julio Melio et.al.|[2307.11664](http://arxiv.org/abs/2307.11664)|null|
 |**2023-07-20**|**Data-driven criteria for quantum correlations**|Mateusz Krawczyk et.al.|[2307.11091](http://arxiv.org/abs/2307.11091)|null|
 |**2023-07-20**|**Learning Dense UV Completion for Human Mesh Recovery**|Yanjun Wang et.al.|[2307.11074](http://arxiv.org/abs/2307.11074)|null|
 |**2023-07-20**|**Effectiveness and predictability of in-network storage cache for scientific workflows**|Caitlin Sim et.al.|[2307.11069](http://arxiv.org/abs/2307.11069)|null|
@@ -3022,6 +3069,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Entanglement of weighted graphs uncovers transitions in variable-range interacting models**|Debkanta Ghosh et.al.|[2307.11739](http://arxiv.org/abs/2307.11739)|null|
+|**2023-07-21**|**Signature of nodal topology in nonlinear quantum transport across junctions in Weyl and multi-Weyl semimetals**|Suvendu Ghosh et.al.|[2307.11737](http://arxiv.org/abs/2307.11737)|null|
+|**2023-07-21**|**Gaboriau's criterion and fixed price one for locally compact groups**|Sam Mellick et.al.|[2307.11728](http://arxiv.org/abs/2307.11728)|null|
+|**2023-07-21**|**The birth-death-suppression Markov process and wildfires**|George Hulsey et.al.|[2307.11726](http://arxiv.org/abs/2307.11726)|null|
+|**2023-07-21**|**Functional correlation bounds and deterministic homogenisation of fast-slow systems**|Nicholas Fleming-Vázquez et.al.|[2307.11723](http://arxiv.org/abs/2307.11723)|null|
+|**2023-07-21**|**Advanced Monte Carlo simulation techniques to study polymers under equilibrium conditions**|Monika Angwani et.al.|[2307.11722](http://arxiv.org/abs/2307.11722)|null|
+|**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
+|**2023-07-21**|**Revisiting greenhouse gases adsorption in carbon nanostructures: advances through a combined first-principles and molecular simulation approach**|Henrique Musseli Cezar et.al.|[2307.11710](http://arxiv.org/abs/2307.11710)|null|
+|**2023-07-21**|**JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning**|Kaiwen Wang et.al.|[2307.11704](http://arxiv.org/abs/2307.11704)|null|
+|**2023-07-21**|**Thermodynamic calculations using reverse Monte Carlo: Simultaneously tuning multiple short-range order parameters for 2D lattice adsorption problem**|Suhail Haque et.al.|[2307.11703](http://arxiv.org/abs/2307.11703)|null|
 |**2023-07-20**|**Data-driven criteria for quantum correlations**|Mateusz Krawczyk et.al.|[2307.11091](http://arxiv.org/abs/2307.11091)|null|
 |**2023-07-20**|**Quantifying the multi-scale and multi-resource impacts of large-scale adoption of renewable energy sources**|Elnaz Kabir et.al.|[2307.11076](http://arxiv.org/abs/2307.11076)|null|
 |**2023-07-20**|**Signal Identification and Entrainment for Practical FMCW Radar Spoofing Attacks**|Andrew M. Graff et.al.|[2307.11072](http://arxiv.org/abs/2307.11072)|null|
