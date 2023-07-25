@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1766,7 +1766,7 @@ layout: default
 |**2023-07-21**|**Adapted poling to break the nonlinear efficiency limit in nanophotonic lithium niobate waveguides**|Pao-Kang Chen et.al.|[2307.11671](http://arxiv.org/abs/2307.11671)|null|
 |**2023-07-21**|**Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts**|Mayug Maniparambil et.al.|[2307.11661](http://arxiv.org/abs/2307.11661)|null|
 |**2023-07-21**|**Alleviating the Long-Tail Problem in Conversational Recommender Systems**|Zhipeng Zhao et.al.|[2307.11650](http://arxiv.org/abs/2307.11650)|null|
-|**2023-07-21**|**Sparse Cholesky factorization by greedy conditional selection**|Stephen Huan et.al.|[2307.11648](http://arxiv.org/abs/2307.11648)|null|
+|**2023-07-21**|**Sparse Cholesky factorization by greedy conditional selection**|Stephen Huan et.al.|[2307.11648](http://arxiv.org/abs/2307.11648)|**[link](https://github.com/stephen-huan/conditional-knn)**|
 |**2023-07-21**|**Thermodynamic curvature of charged black holes with $AdS_2$ horizons**|Aditya Singh et.al.|[2307.11641](http://arxiv.org/abs/2307.11641)|null|
 |**2023-07-21**|**OxfordTVG-HIC: Can Machine Make Humorous Captions from Images?**|Runjia Li et.al.|[2307.11636](http://arxiv.org/abs/2307.11636)|null|
 |**2023-07-20**|**Quantum Logspace Computations are Verifiable**|Uma Girish et.al.|[2307.11083](http://arxiv.org/abs/2307.11083)|null|
