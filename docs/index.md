@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -185,7 +185,7 @@ layout: default
 |**2023-07-24**|**Refining ChatGPT-Generated Code: Characterizing and Mitigating Code Quality Issues**|Yue Liu et.al.|[2307.12596](http://arxiv.org/abs/2307.12596)|null|
 |**2023-07-22**|**Revealing the free energy landscape of halide perovskites: Metastability and transition characters in CsPbBr $_3$ and MAPbI$_3$**|Erik Fransson et.al.|[2307.12100](http://arxiv.org/abs/2307.12100)|null|
 |**2023-07-21**|**Efficient, direct compilation of SU(N) operations into SNAP & Displacement gates**|Joshua Job et.al.|[2307.11900](http://arxiv.org/abs/2307.11900)|null|
-|**2023-07-21**|**It Is Easy For Multi-Issue Bundles To Advance Anti-Democratic Agendas**|Matthew I Jones et.al.|[2307.11873](http://arxiv.org/abs/2307.11873)|null|
+|**2023-07-26**|**It Is Easy For Multi-Issue Bundles To Advance Anti-Democratic Agendas**|Matthew I. Jones et.al.|[2307.11873](http://arxiv.org/abs/2307.11873)|null|
 |**2023-07-21**|**Approximating a continuously stratified hydrostatic system by the multi-layer shallow water system**|Mahieddine Adim et.al.|[2307.11426](http://arxiv.org/abs/2307.11426)|null|
 |**2023-07-21**|**Uncomputation in the Qrisp high-level Quantum Programming Framework**|Raphael Seidel et.al.|[2307.11417](http://arxiv.org/abs/2307.11417)|null|
 |**2023-07-20**|**Robust ground-state energy estimation under depolarizing noise**|Zhiyan Ding et.al.|[2307.11257](http://arxiv.org/abs/2307.11257)|null|
