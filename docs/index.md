@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3206,7 +3206,7 @@ layout: default
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334](http://arxiv.org/abs/2307.14334)|null|
 |**2023-07-26**|**Effective-Hamiltonian theory: An approximation to the equilibrium state of open quantum systems**|Nicholas Anto-Sztrikacs et.al.|[2307.14330](http://arxiv.org/abs/2307.14330)|null|
 |**2023-07-26**|**High-sensitivity AC-charge detection with a MHz-frequency fluxonium qubit**|B. -L. Najera-Santos et.al.|[2307.14329](http://arxiv.org/abs/2307.14329)|null|
-|**2023-07-26**|**Simulation of Open Quantum Systems via Low-Depth Convex Unitary Evolutions**|Joseph Peetz et.al.|[2307.14325](http://arxiv.org/abs/2307.14325)|null|
+|**2023-07-27**|**Simulation of Open Quantum Systems via Low-Depth Convex Unitary Evolutions**|Joseph Peetz et.al.|[2307.14325](http://arxiv.org/abs/2307.14325)|null|
 |**2023-07-26**|**Modeling Inverse Demand Function with Explainable Dual Neural Networks**|Zhiyu Cao et.al.|[2307.14322](http://arxiv.org/abs/2307.14322)|null|
 |**2023-07-26**|**Symbolic dynamics for large non-uniformly hyperbolic sets of three dimensional flows**|Jérôme Buzzi et.al.|[2307.14319](http://arxiv.org/abs/2307.14319)|null|
 |**2023-07-26**|**LiDAR-based drone navigation with reinforcement learning**|Pawel Miera et.al.|[2307.14313](http://arxiv.org/abs/2307.14313)|null|
