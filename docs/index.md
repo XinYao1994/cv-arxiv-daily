@@ -1857,7 +1857,7 @@ layout: default
 |**2023-07-27**|**Self-Supervised Visual Acoustic Matching**|Arjun Somayazulu et.al.|[2307.15064](http://arxiv.org/abs/2307.15064)|null|
 |**2023-07-27**|**A Geometric Notion of Causal Probing**|Clément Guerner et.al.|[2307.15054](http://arxiv.org/abs/2307.15054)|null|
 |**2023-07-27**|**On (Normalised) Discounted Cumulative Gain as an Offline Evaluation Metric for Top- $n$ Recommendation**|Olivier Jeunen et.al.|[2307.15053](http://arxiv.org/abs/2307.15053)|null|
-|**2023-07-27**|**Local non-Gaussianities from cross-correlations between the CMB and 21-cm**|Giorgio Orlando et.al.|[2307.15046](http://arxiv.org/abs/2307.15046)|null|
+|**2023-07-27**|**Local non-Gaussianities from cross-correlations between the CMB and 21-cm**|Giorgio Orlando et.al.|[2307.15046](http://arxiv.org/abs/2307.15046)|**[link](https://github.com/giorgioorlando/21cm_cmb_cross)**|
 |**2023-07-27**|**Universal and Transferable Adversarial Attacks on Aligned Language Models**|Andy Zou et.al.|[2307.15043](http://arxiv.org/abs/2307.15043)|**[link](https://github.com/llm-attacks/llm-attacks)**|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
 |**2023-07-27**|**Galaxy bias renormalization group**|Henrique Rubira et.al.|[2307.15031](http://arxiv.org/abs/2307.15031)|null|
@@ -2558,7 +2558,7 @@ layout: default
 |**2023-07-27**|**Probing the large deviations for the Beta random walk in random medium**|Alexander K. Hartmann et.al.|[2307.15041](http://arxiv.org/abs/2307.15041)|null|
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
 |**2023-07-27**|**Vibrations and Heat Transfer in Glasses: the role played by Disorder**|Anne Tanguy et.al.|[2307.15038](http://arxiv.org/abs/2307.15038)|null|
-|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|null|
+|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339](http://arxiv.org/abs/2307.14339)|null|
 |**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla et.al.|[2307.14336](http://arxiv.org/abs/2307.14336)|null|
 |**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332](http://arxiv.org/abs/2307.14332)|null|
@@ -3939,7 +3939,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|null|
+|**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2023-07-24**|**A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization**|Edward Fish et.al.|[2307.12659](http://arxiv.org/abs/2307.12659)|null|
 |**2023-07-20**|**EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization**|Peijie Dong et.al.|[2307.10554](http://arxiv.org/abs/2307.10554)|**[link](https://github.com/lilujunai/emq-series)**|
 |**2023-07-18**|**Leveraging Mixed Precision in Exponential Time Integration Methods**|Cody J. Balos et.al.|[2307.09498](http://arxiv.org/abs/2307.09498)|null|
