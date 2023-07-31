@@ -56,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
 |**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
@@ -90,6 +91,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**FleXR: A System Enabling Flexibly Distributed Extended Reality**|Jin Heo et.al.|[2307.15574](http://arxiv.org/abs/2307.15574)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 |**2023-07-23**|**Resilient Scheduling of Control Software Updates in Radial Power Distribution Systems**|Kin Cheong Sou et.al.|[2307.12277](http://arxiv.org/abs/2307.12277)|null|
 |**2023-07-23**|**Content Censorship in the InterPlanetary File System**|Srivatsan Sridhar et.al.|[2307.12212](http://arxiv.org/abs/2307.12212)|null|
@@ -198,6 +200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Towards a reliable prediction of the infrared spectra of cosmic fullerenes and their derivatives in the JWST era**|Jianzhi Xu et.al.|[2307.15668](http://arxiv.org/abs/2307.15668)|null|
+|**2023-07-28**|**A Critical Review of Large Language Models: Sensitivity, Bias, and the Path Toward Specialized AI**|Arash Hajikhani et.al.|[2307.15425](http://arxiv.org/abs/2307.15425)|null|
 |**2023-07-27**|**Decomposing and Routing Quantum Circuits Under Constraints for Neutral Atom Architectures**|Natalia Nottingham et.al.|[2307.14996](http://arxiv.org/abs/2307.14996)|null|
 |**2023-07-27**|**Auto-Tables: Synthesizing Multi-Step Transformations to Relationalize Tables without Using Examples**|Peng Li et.al.|[2307.14565](http://arxiv.org/abs/2307.14565)|null|
 |**2023-07-26**|**WavJourney: Compositional Audio Creation with Large Language Models**|Xubo Liu et.al.|[2307.14335](http://arxiv.org/abs/2307.14335)|**[link](https://github.com/audio-agi/wavjourney)**|
@@ -510,6 +514,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Semi-Supervised Object Detection in the Open World**|Garvita Allabadi et.al.|[2307.15710](http://arxiv.org/abs/2307.15710)|null|
+|**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702](http://arxiv.org/abs/2307.15702)|null|
+|**2023-07-28**|**ODTlearn: A Package for Learning Optimal Decision Trees for Prediction and Prescription**|Patrick Vossler et.al.|[2307.15691](http://arxiv.org/abs/2307.15691)|**[link](https://github.com/d3m-research-group/odtlearn)**|
+|**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690](http://arxiv.org/abs/2307.15690)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
+|**2023-07-28**|**An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut**|Jun Takahashi et.al.|[2307.15688](http://arxiv.org/abs/2307.15688)|null|
+|**2023-07-28**|**Thomson problem in the disk**|Paolo Amore et.al.|[2307.15683](http://arxiv.org/abs/2307.15683)|null|
+|**2023-07-28**|**A supervised hybrid quantum machine learning solution to the emergency escape routing problem**|Nathan Haboury et.al.|[2307.15682](http://arxiv.org/abs/2307.15682)|null|
+|**2023-07-28**|**A Continuous-Time Dynamic Factor Model for Intensive Longitudinal Data Arising from Mobile Health Studies**|Madeline R. Abbott et.al.|[2307.15681](http://arxiv.org/abs/2307.15681)|null|
+|**2023-07-28**|**Dynamic Analysis and an Eigen Initializer for Recurrent Neural Networks**|Ran Dou et.al.|[2307.15679](http://arxiv.org/abs/2307.15679)|null|
+|**2023-07-28**|**Case Studies of Causal Discovery from IT Monitoring Time Series**|Ali Aït-Bachir et.al.|[2307.15678](http://arxiv.org/abs/2307.15678)|null|
 |**2023-07-27**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062](http://arxiv.org/abs/2307.15062)|null|
 |**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055](http://arxiv.org/abs/2307.15055)|null|
 |**2023-07-27**|**Learning Depth Estimation for Transparent and Mirror Surfaces**|Alex Costanzino et.al.|[2307.15052](http://arxiv.org/abs/2307.15052)|null|
@@ -1207,7 +1221,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-27**|**To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation**|Marc Botet Colomer et.al.|[2307.15063](http://arxiv.org/abs/2307.15063)|null|
+|**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690](http://arxiv.org/abs/2307.15690)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
+|**2023-07-28**|**Generalising the Fast Reciprocal Square Root Algorithm**|Mike Day et.al.|[2307.15600](http://arxiv.org/abs/2307.15600)|null|
+|**2023-07-28**|**OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes**|Fei Teng et.al.|[2307.15588](http://arxiv.org/abs/2307.15588)|**[link](https://github.com/feibryantkit/oafuser)**|
+|**2023-07-28**|**Learning to Open Doors with an Aerial Manipulator**|Eugenio Cuniato et.al.|[2307.15581](http://arxiv.org/abs/2307.15581)|null|
+|**2023-07-28**|**Fast Prototyping Next-Generation Accelerators for New ML Models using MASE: ML Accelerator System Exploration**|Jianyi Cheng et.al.|[2307.15517](http://arxiv.org/abs/2307.15517)|null|
+|**2023-07-28**|**SafeLS: Toward Building a Lockstep NOEL-V Core**|Marcel Sarraseca et.al.|[2307.15436](http://arxiv.org/abs/2307.15436)|null|
+|**2023-07-28**|**PUF Probe: A PUF-based Hardware Authentication Equipment for IEDs**|Vishal D. Jadhav et.al.|[2307.15338](http://arxiv.org/abs/2307.15338)|null|
+|**2023-07-28**|**Sensitivity of the IceCube Upgrade to Atmospheric Neutrino Oscillations**|Philipp Eller et.al.|[2307.15295](http://arxiv.org/abs/2307.15295)|null|
+|**2023-07-27**|**To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation**|Marc Botet Colomer et.al.|[2307.15063](http://arxiv.org/abs/2307.15063)|**[link](https://github.com/MarcBotet/hamlet)**|
 |**2023-07-27**|**Harnessing Synthetic Active Particles for Physical Reservoir Computing**|Xiangzun Wang et.al.|[2307.15010](http://arxiv.org/abs/2307.15010)|null|
 |**2023-07-27**|**Decomposing and Routing Quantum Circuits Under Constraints for Neutral Atom Architectures**|Natalia Nottingham et.al.|[2307.14996](http://arxiv.org/abs/2307.14996)|null|
 |**2023-07-27**|**State preparation by shallow circuits using feed forward**|Harry Buhrman et.al.|[2307.14840](http://arxiv.org/abs/2307.14840)|null|
@@ -1878,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Maximal intrinsic randomness of a quantum state**|Shuyang Meng et.al.|[2307.15708](http://arxiv.org/abs/2307.15708)|null|
+|**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703](http://arxiv.org/abs/2307.15703)|null|
+|**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702](http://arxiv.org/abs/2307.15702)|null|
+|**2023-07-28**|**Prevalence of two-dimensional photonic topology**|Ali Ghorashi et.al.|[2307.15701](http://arxiv.org/abs/2307.15701)|null|
+|**2023-07-28**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700](http://arxiv.org/abs/2307.15700)|null|
+|**2023-07-28**|**Development of a Boston-area 50-km fiber quantum network testbed**|Eric Bersin et.al.|[2307.15696](http://arxiv.org/abs/2307.15696)|null|
+|**2023-07-28**|**Universal Recurrent Event Memories for Streaming Data**|Ran Dou et.al.|[2307.15694](http://arxiv.org/abs/2307.15694)|null|
+|**2023-07-28**|**A Continuous-Time Dynamic Factor Model for Intensive Longitudinal Data Arising from Mobile Health Studies**|Madeline R. Abbott et.al.|[2307.15681](http://arxiv.org/abs/2307.15681)|null|
+|**2023-07-28**|**Dynamic Analysis and an Eigen Initializer for Recurrent Neural Networks**|Ran Dou et.al.|[2307.15679](http://arxiv.org/abs/2307.15679)|null|
+|**2023-07-28**|**Case Studies of Causal Discovery from IT Monitoring Time Series**|Ali Aït-Bachir et.al.|[2307.15678](http://arxiv.org/abs/2307.15678)|null|
 |**2023-07-27**|**Self-Supervised Visual Acoustic Matching**|Arjun Somayazulu et.al.|[2307.15064](http://arxiv.org/abs/2307.15064)|null|
 |**2023-07-27**|**A Geometric Notion of Causal Probing**|Clément Guerner et.al.|[2307.15054](http://arxiv.org/abs/2307.15054)|null|
 |**2023-07-27**|**On (Normalised) Discounted Cumulative Gain as an Offline Evaluation Metric for Top- $n$ Recommendation**|Olivier Jeunen et.al.|[2307.15053](http://arxiv.org/abs/2307.15053)|null|
@@ -2575,6 +2607,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**Semi-Supervised Object Detection in the Open World**|Garvita Allabadi et.al.|[2307.15710](http://arxiv.org/abs/2307.15710)|null|
+|**2023-07-28**|**An Introduction to Software Ecosystems**|Tom Mens et.al.|[2307.15709](http://arxiv.org/abs/2307.15709)|null|
+|**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702](http://arxiv.org/abs/2307.15702)|null|
+|**2023-07-28**|**Development of a Boston-area 50-km fiber quantum network testbed**|Eric Bersin et.al.|[2307.15696](http://arxiv.org/abs/2307.15696)|null|
+|**2023-07-28**|**Universal Recurrent Event Memories for Streaming Data**|Ran Dou et.al.|[2307.15694](http://arxiv.org/abs/2307.15694)|null|
+|**2023-07-28**|**PatchMixer: Rethinking network design to boost generalization for 3D point cloud understanding**|Davide Boscaini et.al.|[2307.15692](http://arxiv.org/abs/2307.15692)|null|
+|**2023-07-28**|**A supervised hybrid quantum machine learning solution to the emergency escape routing problem**|Nathan Haboury et.al.|[2307.15682](http://arxiv.org/abs/2307.15682)|null|
+|**2023-07-28**|**Dynamic Analysis and an Eigen Initializer for Recurrent Neural Networks**|Ran Dou et.al.|[2307.15679](http://arxiv.org/abs/2307.15679)|null|
+|**2023-07-28**|**Multi-layer Aggregation as a key to feature-based OOD detection**|Benjamin Lambert et.al.|[2307.15647](http://arxiv.org/abs/2307.15647)|null|
 |**2023-07-27**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062](http://arxiv.org/abs/2307.15062)|null|
 |**2023-07-27**|**MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving**|Zirui Wu et.al.|[2307.15058](http://arxiv.org/abs/2307.15058)|null|
 |**2023-07-27**|**IPv6 Hitlists at Scale: Be Careful What You Wish For**|Erik Rye et.al.|[2307.15057](http://arxiv.org/abs/2307.15057)|null|
@@ -3272,6 +3314,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707](http://arxiv.org/abs/2307.15707)|null|
+|**2023-07-28**|**Type II t-J model and shared antiferromagnetic spin coupling from Hund's rule in superconducting La $_3$Ni$_2$O$_7$**|Hanbit Oh et.al.|[2307.15706](http://arxiv.org/abs/2307.15706)|null|
+|**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703](http://arxiv.org/abs/2307.15703)|null|
+|**2023-07-28**|**Three-phase grid-forming droop control for unbalanced systems and fault ride through**|Prajwal Bhagwat et.al.|[2307.15699](http://arxiv.org/abs/2307.15699)|null|
+|**2023-07-28**|**The spectrum of states of Ba~nados-Teitelboim-Zanelli black hole formed by a collapsing dust shell**|Alexander A. Andrianov et.al.|[2307.15698](http://arxiv.org/abs/2307.15698)|null|
+|**2023-07-28**|**Development of a Boston-area 50-km fiber quantum network testbed**|Eric Bersin et.al.|[2307.15696](http://arxiv.org/abs/2307.15696)|null|
+|**2023-07-28**|**Entangling interactions between artificial atoms mediated by a multimode left-handed superconducting ring resonator**|T. McBroom-Carroll et.al.|[2307.15695](http://arxiv.org/abs/2307.15695)|null|
+|**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690](http://arxiv.org/abs/2307.15690)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
+|**2023-07-28**|**Crossover from Non-Fermi-Liquid to Pseudogap Behavior in the Spectral of Local Impurity in Power-Law Diverging Multichannel Kondo Model**|Zuodong Yu et.al.|[2307.15680](http://arxiv.org/abs/2307.15680)|null|
 |**2023-07-27**|**Exponential speedups for quantum walks in random hierarchical graphs**|Shankar Balasubramanian et.al.|[2307.15062](http://arxiv.org/abs/2307.15062)|null|
 |**2023-07-27**|**The RoboDepth Challenge: Methods and Advancements Towards Robust Depth Estimation**|Lingdong Kong et.al.|[2307.15061](http://arxiv.org/abs/2307.15061)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-07-27**|**Detection of a High-velocity Jet from MWC 349A Traced by Hydrogen Recombination Line Emission**|Sirina Prasad et.al.|[2307.15050](http://arxiv.org/abs/2307.15050)|null|
