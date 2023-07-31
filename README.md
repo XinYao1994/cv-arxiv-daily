@@ -520,16 +520,16 @@
 |**2023-07-27**|**Samplable Anonymous Aggregation for Private Federated Data Analysis**|Kunal Talwar et.al.|[2307.15017](http://arxiv.org/abs/2307.15017)|null|
 |**2023-07-27**|**Lattice quantum chromodynamics at large isospin density: 6144 pions in a box**|Ryan Abbott et.al.|[2307.15014](http://arxiv.org/abs/2307.15014)|null|
 |**2023-07-27**|**A general algorithm to build mixed real and virtual antenna functions for higher-order calculations**|Oscar Braun-White et.al.|[2307.14999](http://arxiv.org/abs/2307.14999)|null|
-|**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339](http://arxiv.org/abs/2307.14339)|null|
+|**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339](http://arxiv.org/abs/2307.14339)|**[link](https://github.com/marcobonici/capse_paper)**|
 |**2023-07-26**|**TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning**|Yury Gorishniy et.al.|[2307.14338](http://arxiv.org/abs/2307.14338)|**[link](https://github.com/yandex-research/tabular-dl-tabr)**|
-|**2023-07-26**|**Flow of gas detected from beyond the filaments to protostellar scales in Barnard 5**|M. T. Valdivia-Mena et.al.|[2307.14337](http://arxiv.org/abs/2307.14337)|null|
+|**2023-07-26**|**Flow of gas detected from beyond the filaments to protostellar scales in Barnard 5**|M. T. Valdivia-Mena et.al.|[2307.14337](http://arxiv.org/abs/2307.14337)|**[link](https://github.com/tere-valdivia/barnard_5_infall)**|
 |**2023-07-26**|**Waypoint-Based Imitation Learning for Robotic Manipulation**|Lucy Xiaoyang Shi et.al.|[2307.14326](http://arxiv.org/abs/2307.14326)|null|
-|**2023-07-26**|**Parameter-Free FISTA by Adaptive Restart and Backtracking**|Jean-François Aujol et.al.|[2307.14323](http://arxiv.org/abs/2307.14323)|null|
+|**2023-07-26**|**Parameter-Free FISTA by Adaptive Restart and Backtracking**|Jean-François Aujol et.al.|[2307.14323](http://arxiv.org/abs/2307.14323)|**[link](https://github.com/hippolytelbrrr/benchmarking_free_fista)**|
 |**2023-07-26**|**Exact distributed quantum algorithm for generalized Simon's problem**|Hao Li et.al.|[2307.14315](http://arxiv.org/abs/2307.14315)|null|
-|**2023-07-26**|**SQUWALS: A Szegedy QUantum WALks Simulator**|Sergio A. Ortega et.al.|[2307.14314](http://arxiv.org/abs/2307.14314)|null|
+|**2023-07-26**|**SQUWALS: A Szegedy QUantum WALks Simulator**|Sergio A. Ortega et.al.|[2307.14314](http://arxiv.org/abs/2307.14314)|**[link](https://github.com/ortegasa/squwals-repo)**|
 |**2023-07-26**|**LiDAR-based drone navigation with reinforcement learning**|Pawel Miera et.al.|[2307.14313](http://arxiv.org/abs/2307.14313)|null|
 |**2023-07-26**|**Comparative Analysis of Libraries for the Sentimental Analysis**|Wendy Ccoya et.al.|[2307.14311](http://arxiv.org/abs/2307.14311)|null|
-|**2023-07-26**|**QPLEX: Realizing the Integration of Quantum Computing into Combinatorial Optimization Software**|Juan Giraldo et.al.|[2307.14308](http://arxiv.org/abs/2307.14308)|null|
+|**2023-07-26**|**QPLEX: Realizing the Integration of Quantum Computing into Combinatorial Optimization Software**|Juan Giraldo et.al.|[2307.14308](http://arxiv.org/abs/2307.14308)|**[link](https://github.com/juangiraldo0212/qplex)**|
 |**2023-07-25**|**The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae**|H. Qu et.al.|[2307.13696](http://arxiv.org/abs/2307.13696)|null|
 |**2023-07-25**|**A Compact DAG for Storing and Searching Maximal Common Subsequences**|Alessio Conte et.al.|[2307.13695](http://arxiv.org/abs/2307.13695)|null|
 |**2023-07-25**|**A Comprehensive Review of Recent Research Trends on UAVs**|Kaled Telli et.al.|[2307.13691](http://arxiv.org/abs/2307.13691)|null|
@@ -860,7 +860,7 @@
 |**2023-06-06**|**Characterization of transport optimizers via graphs and applications to Stackelberg-Cournot-Nash equilibria**|Beatrice Acciaio et.al.|[2306.03843](http://arxiv.org/abs/2306.03843)|null|
 |**2023-06-06**|**MTS2Graph: Interpretable Multivariate Time Series Classification with Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834](http://arxiv.org/abs/2306.03834)|null|
 |**2023-06-06**|**Sequential Principal-Agent Problems with Communication: Efficient Computation and Learning**|Jiarui Gan et.al.|[2306.03832](http://arxiv.org/abs/2306.03832)|null|
-|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|**[link](https://github.com/mturja-vf-ic-bd/DeepGraphDMD)**|
 |**2023-06-05**|**SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression**|Tim Dettmers et.al.|[2306.03078](http://arxiv.org/abs/2306.03078)|**[link](https://github.com/vahe1994/spqr)**|
 |**2023-06-05**|**A General Perspective on Objectives of Reinforcement Learning**|Long Yang et.al.|[2306.03074](http://arxiv.org/abs/2306.03074)|null|
 |**2023-06-05**|**Explore to Generalize in Zero-Shot RL**|Ev Zisselman et.al.|[2306.03072](http://arxiv.org/abs/2306.03072)|null|
@@ -1221,7 +1221,7 @@
 |**2023-07-26**|**High-speed plasma measurements with a plasma impedance probe**|John W. Brooks et.al.|[2307.14263](http://arxiv.org/abs/2307.14263)|null|
 |**2023-07-26**|**High-definition event frame generation using SoC FPGA devices**|Krzysztof Blachut et.al.|[2307.14177](http://arxiv.org/abs/2307.14177)|null|
 |**2023-07-26**|**Toward Design of Synthetic Active Inference Agents by Mere Mortals**|Bert de Vries et.al.|[2307.14145](http://arxiv.org/abs/2307.14145)|null|
-|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|null|
+|**2023-07-26**|**Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**|Antoine Grimaldi et.al.|[2307.14077](http://arxiv.org/abs/2307.14077)|**[link](https://github.com/spikeai/2023_grimaldiperrinet_heterogeneousdelaysnn)**|
 |**2023-07-26**|**YOLOBench: Benchmarking Efficient Object Detectors on Embedded Systems**|Ivan Lazarevich et.al.|[2307.13901](http://arxiv.org/abs/2307.13901)|**[link](https://github.com/deeplite/deeplite-torch-zoo)**|
 |**2023-07-25**|**A Data-Driven Approach to Synthesizing Dynamics-Aware Trajectories for Underactuated Robotic Systems**|Anusha Srikanthan et.al.|[2307.13782](http://arxiv.org/abs/2307.13782)|null|
 |**2023-07-25**|**Implementing and Benchmarking the Locally Competitive Algorithm on the Loihi 2 Neuromorphic Processor**|Gavin Parpart et.al.|[2307.13762](http://arxiv.org/abs/2307.13762)|null|
@@ -1250,7 +1250,7 @@
 |**2023-07-21**|**Connecting Quantum Cities: Simulation of a Satellite-Based Quantum Network**|Raja Yehia et.al.|[2307.11606](http://arxiv.org/abs/2307.11606)|null|
 |**2023-07-21**|**Transferability of Convolutional Neural Networks in Stationary Learning Tasks**|Damian Owerko et.al.|[2307.11588](http://arxiv.org/abs/2307.11588)|**[link](https://github.com/damowerko/mtt)**|
 |**2023-07-21**|**CycleIK: Neuro-inspired Inverse Kinematics**|Jan-Gerrit Habekost et.al.|[2307.11554](http://arxiv.org/abs/2307.11554)|null|
-|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545](http://arxiv.org/abs/2307.11545)|null|
+|**2023-07-21**|**Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation**|Zunnan Xu et.al.|[2307.11545](http://arxiv.org/abs/2307.11545)|**[link](https://github.com/kkakkkka/etris)**|
 |**2023-07-21**|**Software engineering to sustain a high-performance computing scientific application: QMCPACK**|William F. Godoy et.al.|[2307.11502](http://arxiv.org/abs/2307.11502)|null|
 |**2023-07-21**|**Uncomputation in the Qrisp high-level Quantum Programming Framework**|Raphael Seidel et.al.|[2307.11417](http://arxiv.org/abs/2307.11417)|null|
 |**2023-07-21**|**A Low Cost Mars Aerocapture Technology Demonstrator**|Athul Pradeepkumar Girija et.al.|[2307.11378](http://arxiv.org/abs/2307.11378)|null|
@@ -2585,7 +2585,7 @@
 |**2023-07-27**|**A Sparse Quantized Hopfield Network for Online-Continual Memory**|Nick Alonso et.al.|[2307.15040](http://arxiv.org/abs/2307.15040)|null|
 |**2023-07-27**|**Vibrations and Heat Transfer in Glasses: the role played by Disorder**|Anne Tanguy et.al.|[2307.15038](http://arxiv.org/abs/2307.15038)|null|
 |**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
-|**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339](http://arxiv.org/abs/2307.14339)|null|
+|**2023-07-26**|**Capse.jl: efficient and auto-differentiable CMB power spectra emulation**|Marco Bonici et.al.|[2307.14339](http://arxiv.org/abs/2307.14339)|**[link](https://github.com/marcobonici/capse_paper)**|
 |**2023-07-26**|**MAMo: Leveraging Memory and Attention for Monocular Video Depth Estimation**|Rajeev Yasarla et.al.|[2307.14336](http://arxiv.org/abs/2307.14336)|null|
 |**2023-07-26**|**Event-based Vision for Early Prediction of Manipulation Actions**|Daniel Deniz et.al.|[2307.14332](http://arxiv.org/abs/2307.14332)|null|
 |**2023-07-26**|**Modeling Inverse Demand Function with Explainable Dual Neural Networks**|Zhiyu Cao et.al.|[2307.14322](http://arxiv.org/abs/2307.14322)|null|
@@ -2617,7 +2617,7 @@
 |**2023-07-24**|**Subspace Controllability and Clebsch-Gordan Decomposition of Symmetric Quantum Networks**|Domenico D'Alessandro et.al.|[2307.12908](http://arxiv.org/abs/2307.12908)|null|
 |**2023-07-21**|**Scalable tensor-network error mitigation for near-term quantum computing**|Sergei Filippov et.al.|[2307.11740](http://arxiv.org/abs/2307.11740)|null|
 |**2023-07-21**|**A modular theoretical framework for learning through structural plasticity**|Gianmarco Tiddia et.al.|[2307.11735](http://arxiv.org/abs/2307.11735)|null|
-|**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730](http://arxiv.org/abs/2307.11730)|null|
+|**2023-07-21**|**Mitigating Communications Threats in Decentralized Federated Learning through Moving Target Defense**|Enrique Tomás Martínez Beltrán et.al.|[2307.11730](http://arxiv.org/abs/2307.11730)|**[link](https://github.com/enriquetomasmb/fedstellar)**|
 |**2023-07-21**|**Convergence of SGD for Training Neural Networks with Sliced Wasserstein Losses**|Eloi Tanguy et.al.|[2307.11714](http://arxiv.org/abs/2307.11714)|null|
 |**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
 |**2023-07-21**|**Reduced collinearity, low-dimensional cluster expansion model for adsorption of halides (Cl, Br) on Cu(100) surface using principal component analysis**|Bibek Dash et.al.|[2307.11698](http://arxiv.org/abs/2307.11698)|null|
@@ -2925,7 +2925,7 @@
 |**2023-06-06**|**Atrial Septal Defect Detection in Children Based on Ultrasound Video Using Multiple Instances Learning**|Yiman Liu et.al.|[2306.03835](http://arxiv.org/abs/2306.03835)|null|
 |**2023-06-06**|**MTS2Graph: Interpretable Multivariate Time Series Classification with Temporal Evolving Graphs**|Raneen Younis et.al.|[2306.03834](http://arxiv.org/abs/2306.03834)|null|
 |**2023-06-07**|**Patient Dropout Prediction in Virtual Health: A Multimodal Dynamic Knowledge Graph and Text Mining Approach**|Shuang Geng et.al.|[2306.03833](http://arxiv.org/abs/2306.03833)|**[link](https://github.com/mdkdp/mdkdp)**|
-|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|**[link](https://github.com/mturja-vf-ic-bd/DeepGraphDMD)**|
 |**2023-06-05**|**Dismantling Hate: Understanding Hate Speech Trends Against NBA Athletes**|Edinam Kofi Klutse et.al.|[2306.03086](http://arxiv.org/abs/2306.03086)|null|
 |**2023-06-05**|**Machine Learning and Statistical Approaches to Measuring Similarity of Political Parties**|Daria Boratyn et.al.|[2306.03079](http://arxiv.org/abs/2306.03079)|null|
 |**2023-06-05**|**Shoal: Improving DAG-BFT Latency And Robustness**|Alexander Spiegelman et.al.|[2306.03058](http://arxiv.org/abs/2306.03058)|null|
@@ -3623,7 +3623,7 @@
 |**2023-06-06**|**Probabilistic Planning for Maritime Search and Rescue**|Luís Marques et.al.|[2306.03871](http://arxiv.org/abs/2306.03871)|null|
 |**2023-06-06**|**Correction of Errors in Preference Ratings from Automated Metrics for Text Generation**|Jan Deriu et.al.|[2306.03866](http://arxiv.org/abs/2306.03866)|null|
 |**2023-06-05**|**RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems**|Tianyang Liu et.al.|[2306.03091](http://arxiv.org/abs/2306.03091)|**[link](https://github.com/Leolty/repobench)**|
-|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|null|
+|**2023-06-05**|**DeepGraphDMD: Interpretable Spatio-Temporal Decomposition of Non-linear Functional Brain Network Dynamics**|Md Asadullah Turja et.al.|[2306.03088](http://arxiv.org/abs/2306.03088)|**[link](https://github.com/mturja-vf-ic-bd/DeepGraphDMD)**|
 |**2023-06-05**|**Nonparametric Detection of Gerrymandering in Multiparty Elections**|Wojciech Słomczyński et.al.|[2306.03085](http://arxiv.org/abs/2306.03085)|null|
 |**2023-06-05**|**Quantization of counterexamples to Dirac's conjecture**|Mauricio Valenzuela et.al.|[2306.03080](http://arxiv.org/abs/2306.03080)|null|
 |**2023-06-05**|**Machine Learning and Statistical Approaches to Measuring Similarity of Political Parties**|Daria Boratyn et.al.|[2306.03079](http://arxiv.org/abs/2306.03079)|null|
