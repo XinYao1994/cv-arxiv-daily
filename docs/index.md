@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1880,7 +1880,7 @@ layout: default
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703](http://arxiv.org/abs/2307.15703)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702](http://arxiv.org/abs/2307.15702)|null|
 |**2023-07-28**|**Prevalence of two-dimensional photonic topology**|Ali Ghorashi et.al.|[2307.15701](http://arxiv.org/abs/2307.15701)|null|
-|**2023-07-28**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700](http://arxiv.org/abs/2307.15700)|null|
+|**2023-07-31**|**MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.|[2307.15700](http://arxiv.org/abs/2307.15700)|null|
 |**2023-07-28**|**Development of a Boston-area 50-km fiber quantum network testbed**|Eric Bersin et.al.|[2307.15696](http://arxiv.org/abs/2307.15696)|null|
 |**2023-07-28**|**Universal Recurrent Event Memories for Streaming Data**|Ran Dou et.al.|[2307.15694](http://arxiv.org/abs/2307.15694)|null|
 |**2023-07-28**|**A Continuous-Time Dynamic Factor Model for Intensive Longitudinal Data Arising from Mobile Health Studies**|Madeline R. Abbott et.al.|[2307.15681](http://arxiv.org/abs/2307.15681)|null|
@@ -2581,7 +2581,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|null|
 |**2023-07-28**|**Semi-Supervised Object Detection in the Open World**|Garvita Allabadi et.al.|[2307.15710](http://arxiv.org/abs/2307.15710)|null|
 |**2023-07-28**|**An Introduction to Software Ecosystems**|Tom Mens et.al.|[2307.15709](http://arxiv.org/abs/2307.15709)|null|
 |**2023-07-28**|**The Strong Maximum Circulation Algorithm: A New Method for Aggregating Preference Rankings**|Nathan Atkinson et.al.|[2307.15702](http://arxiv.org/abs/2307.15702)|null|
@@ -3286,7 +3286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|**[link](https://github.com/mcmahon-lab/Single-Photon-Detection-Neural-Networks)**|
+|**2023-07-28**|**Quantum-noise-limited optical neural networks operating at a few quanta per activation**|Shi-Yuan Ma et.al.|[2307.15712](http://arxiv.org/abs/2307.15712)|null|
 |**2023-07-28**|**Density-polarity coupling in confined active polar films: asters, spirals, and biphasic orientational phases**|Mathieu Dedenon et.al.|[2307.15707](http://arxiv.org/abs/2307.15707)|null|
 |**2023-07-28**|**Type II t-J model and shared antiferromagnetic spin coupling from Hund's rule in superconducting La $_3$Ni$_2$O$_7$**|Hanbit Oh et.al.|[2307.15706](http://arxiv.org/abs/2307.15706)|null|
 |**2023-07-28**|**Uncertainty in Natural Language Generation: From Theory to Applications**|Joris Baan et.al.|[2307.15703](http://arxiv.org/abs/2307.15703)|null|
