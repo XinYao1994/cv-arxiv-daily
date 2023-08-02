@@ -56,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
 |**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
@@ -91,6 +92,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Quantum hacking against discrete-modulated continuous-variable quantum key distribution using modified local oscillator intensity attack with random fluctuations**|Lu Fan et.al.|[2308.00557](http://arxiv.org/abs/2308.00557)|null|
+|**2023-08-01**|**A many-sorted epistemic logic for chromatic hypergraphs**|Eric Goubault et.al.|[2308.00477](http://arxiv.org/abs/2308.00477)|null|
 |**2023-07-31**|**Asynchronous Silent Programmable Matter: Line Formation**|Alfredo Navarra et.al.|[2307.16731](http://arxiv.org/abs/2307.16731)|null|
 |**2023-07-31**|**Fight or Flight: Cosmic Ray-Induced Phonons and the Quantum Surface Code**|Bernard Ousmane Sane et.al.|[2307.16533](http://arxiv.org/abs/2307.16533)|null|
 |**2023-07-31**|**Distributionally Robust Safety Filter for Learning-Based Control in Active Distribution Systems**|Hoang Tien Nguyen et.al.|[2307.16351](http://arxiv.org/abs/2307.16351)|null|
@@ -204,6 +207,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
+|**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
+|**2023-08-01**|**Development of low-dissipative projection method framework integrating various high-order time integration schemes using OpenFOAM**|Hao Guo et.al.|[2308.00293](http://arxiv.org/abs/2308.00293)|null|
+|**2023-07-31**|**DiviML: A Module-based Heuristic for Mapping Neural Networks onto Heterogeneous Platforms**|Yassine Ghannane et.al.|[2308.00127](http://arxiv.org/abs/2308.00127)|null|
+|**2023-07-31**|**Trading oxygen for iron I: the [O/Fe] -- specific star formation rate relation of galaxies**|Martyna Chruślińska et.al.|[2308.00023](http://arxiv.org/abs/2308.00023)|null|
 |**2023-07-31**|**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**|Jin Chen et.al.|[2307.16376](http://arxiv.org/abs/2307.16376)|null|
 |**2023-07-30**|**Implicit Neural Representation in Medical Imaging: A Comparative Survey**|Amirali Molaei et.al.|[2307.16142](http://arxiv.org/abs/2307.16142)|**[link](https://github.com/mindflow-institue/awesome-implicit-neural-representations-in-medical-imaging)**|
 |**2023-07-29**|**nelli: a lightweight frontend for MLIR**|Maksim Levental et.al.|[2307.16080](http://arxiv.org/abs/2307.16080)|null|
@@ -522,6 +530,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Validation of wall boundary conditions for simulating complex fluid flows via the Boltzmann--BGK equation: Momentum transport and skin friction**|Tarik Dzanic et.al.|[2308.00700](http://arxiv.org/abs/2308.00700)|null|
+|**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699](http://arxiv.org/abs/2308.00699)|null|
+|**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
+|**2023-08-01**|**Increasing Supply Chain Resiliency Through Equilibrium Pricing and Stipulating Transportation Quota Regulation**|Mostafa Pazoki et.al.|[2308.00681](http://arxiv.org/abs/2308.00681)|null|
+|**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
+|**2023-08-01**|**Toward Zero-shot Character Recognition: A Gold Standard Dataset with Radical-level Annotations**|Xiaolei Diao et.al.|[2308.00655](http://arxiv.org/abs/2308.00655)|null|
+|**2023-08-01**|**Quasisynchronous LoRa for LEO Nanosatellite Communications**|Hasan Gokhan Uysal et.al.|[2308.00634](http://arxiv.org/abs/2308.00634)|null|
+|**2023-08-01**|**Hierarchical Space Exploration Campaign Schedule Optimization With Ambiguous Programmatic Requirements**|Nick Gollins et.al.|[2308.00632](http://arxiv.org/abs/2308.00632)|null|
+|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628](http://arxiv.org/abs/2308.00628)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-01**|**A quantum algorithm for track reconstruction in the LHCb vertex detector**|Davide Nicotra et.al.|[2308.00619](http://arxiv.org/abs/2308.00619)|null|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895](http://arxiv.org/abs/2307.16895)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890](http://arxiv.org/abs/2307.16890)|null|
@@ -1239,6 +1257,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699](http://arxiv.org/abs/2308.00699)|null|
+|**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
+|**2023-08-01**|**HyDe: A Hybrid PCM/FeFET/SRAM Device-search for Optimizing Area and Energy-efficiencies in Analog IMC Platforms**|Abhiroop Bhattacharjee et.al.|[2308.00664](http://arxiv.org/abs/2308.00664)|null|
+|**2023-08-01**|**Krylov Solvers for Interior Point Methods with Applications in Radiation Therapy**|Felix Liu et.al.|[2308.00637](http://arxiv.org/abs/2308.00637)|null|
+|**2023-08-01**|**On the Performance Tradeoff of an ISAC System with Finite Blocklength**|Xiao Shen et.al.|[2308.00543](http://arxiv.org/abs/2308.00543)|null|
+|**2023-08-01**|**Variational Label-Correlation Enhancement for Congestion Prediction**|Biao Liu et.al.|[2308.00529](http://arxiv.org/abs/2308.00529)|null|
+|**2023-08-01**|**Datapath Verification via Word-Level E-Graph Rewriting**|Samuel Coward et.al.|[2308.00431](http://arxiv.org/abs/2308.00431)|null|
+|**2023-08-01**|**Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**|Yue Cao et.al.|[2308.00419](http://arxiv.org/abs/2308.00419)|null|
+|**2023-08-01**|**Artificial-Intelligence-Based Hybrid Extended Phase Shift Modulation for the Dual Active Bridge Converter with Full ZVS Range and Optimal Efficiency**|Xinze Li et.al.|[2308.00381](http://arxiv.org/abs/2308.00381)|null|
+|**2023-08-01**|**Physical-Layer Authentication of Commodity Wi-Fi Devices via Micro-Signals on CSI Curves**|Ruiqi Kong et.al.|[2308.00373](http://arxiv.org/abs/2308.00373)|null|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**An entanglement-aware quantum computer simulation algorithm**|Maxime Oliva et.al.|[2307.16870](http://arxiv.org/abs/2307.16870)|null|
 |**2023-07-31**|**Toward Privacy in Quantum Program Execution On Untrusted Quantum Cloud Computing Machines for Business-sensitive Quantum Needs**|Tirthak Patel et.al.|[2307.16799](http://arxiv.org/abs/2307.16799)|null|
@@ -1928,6 +1956,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
+|**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
+|**2023-08-01**|**TimePool: Visually Answer "Which and When" Questions On Univariate Time Series**|Tinghao Feng et.al.|[2308.00682](http://arxiv.org/abs/2308.00682)|null|
+|**2023-08-01**|**Error tradeoff relation for estimating the unitary-shift parameter of a relativistic spin-1/2 particle**|Shin Funada et.al.|[2308.00669](http://arxiv.org/abs/2308.00669)|null|
+|**2023-08-01**|**Touching the Sky: The Use of Arduino in Transferring Telescopic Light to Haptic Vibrations**|Ruoning Lan et.al.|[2308.00657](http://arxiv.org/abs/2308.00657)|null|
+|**2023-08-01**|**Reversible complement cyclic codes over finite chain rings**|Monika Dalal et.al.|[2308.00642](http://arxiv.org/abs/2308.00642)|null|
+|**2023-08-01**|**VL-Grasp: a 6-Dof Interactive Grasp Policy for Language-Oriented Objects in Cluttered Indoor Scenes**|Yuhao Lu et.al.|[2308.00640](http://arxiv.org/abs/2308.00640)|null|
+|**2023-08-01**|**Hessian-Aware Bayesian Optimization for Decision Making Systems**|Mohit Rajpal et.al.|[2308.00629](http://arxiv.org/abs/2308.00629)|null|
+|**2023-08-01**|**Accelerating Black Holes in $2+1$ dimensions: Holography revisited**|Gabriel Arenas-Henriquez et.al.|[2308.00613](http://arxiv.org/abs/2308.00613)|null|
+|**2023-08-01**|**Beyond One-Hot-Encoding: Injecting Semantics to Drive Image Classifiers**|Alan Perotti et.al.|[2308.00607](http://arxiv.org/abs/2308.00607)|**[link](https://github.com/s1m0n38/semantic-encodings)**|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**Disruptive Autoencoders: Leveraging Low-level features for 3D Medical Image Pre-training**|Jeya Maria Jose Valanarasu et.al.|[2307.16896](http://arxiv.org/abs/2307.16896)|null|
 |**2023-07-31**|**HAGRID: A Human-LLM Collaborative Dataset for Generative Information-Seeking with Attribution**|Ehsan Kamalloo et.al.|[2307.16883](http://arxiv.org/abs/2307.16883)|**[link](https://github.com/project-miracl/hagrid)**|
@@ -2645,6 +2683,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**HyDe: A Hybrid PCM/FeFET/SRAM Device-search for Optimizing Area and Energy-efficiencies in Analog IMC Platforms**|Abhiroop Bhattacharjee et.al.|[2308.00664](http://arxiv.org/abs/2308.00664)|null|
+|**2023-08-01**|**Considerations on the EMF Exposure Relating to the Next Generation Non-Terrestrial Networks**|Amina Fellan et.al.|[2308.00658](http://arxiv.org/abs/2308.00658)|null|
+|**2023-08-01**|**Quasisynchronous LoRa for LEO Nanosatellite Communications**|Hasan Gokhan Uysal et.al.|[2308.00634](http://arxiv.org/abs/2308.00634)|null|
+|**2023-08-01**|**Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance**|Md Tanvir Rouf Shawon et.al.|[2308.00608](http://arxiv.org/abs/2308.00608)|**[link](https://github.com/shahariar-shibli/explainable-cost-sensitive-deep-neural-networks-for-brain-tumor-detection-from-brain-mri-images)**|
+|**2023-08-01**|**Simulating the social influence in transport mode choices**|Kathleen Salazar-Serna et.al.|[2308.00600](http://arxiv.org/abs/2308.00600)|null|
+|**2023-08-01**|**QualityBLE: A QoS Aware Implementation for BLE Mesh Networks**|Jimmy Fernandez Landivar et.al.|[2308.00599](http://arxiv.org/abs/2308.00599)|null|
+|**2023-08-01**|**MonoNext: A 3D Monocular Object Detection with ConvNext**|Marcelo Eduardo Pederiva et.al.|[2308.00596](http://arxiv.org/abs/2308.00596)|null|
+|**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
+|**2023-08-01**|**Relation-Aware Distribution Representation Network for Person Clustering with Multiple Modalities**|Kaijian Liu et.al.|[2308.00588](http://arxiv.org/abs/2308.00588)|null|
+|**2023-08-01**|**PVG: Progressive Vision Graph for Vision Recognition**|Jiafu Wu et.al.|[2308.00574](http://arxiv.org/abs/2308.00574)|null|
 |**2023-07-31**|**A reduced order model for geometrically parameterized two-scale simulations of elasto-plastic microstructures under large deformations**|Theron Guo et.al.|[2307.16894](http://arxiv.org/abs/2307.16894)|null|
 |**2023-07-31**|**Foundational Models for Fault Diagnosis of Electrical Motors**|Sriram Anbalagan et.al.|[2307.16891](http://arxiv.org/abs/2307.16891)|null|
 |**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890](http://arxiv.org/abs/2307.16890)|null|
@@ -3362,6 +3410,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Statistical methods for exoplanet detection with radial velocities**|Nathan C. Hara et.al.|[2308.00701](http://arxiv.org/abs/2308.00701)|null|
+|**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
+|**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
+|**2023-08-01**|**LISA: Reasoning Segmentation via Large Language Model**|Xin Lai et.al.|[2308.00692](http://arxiv.org/abs/2308.00692)|**[link](https://github.com/dvlab-research/lisa)**|
+|**2023-08-01**|**The current state of disk wind observations in BHLMXBs through X-ray absorption lines in the iron band**|M. Parra et.al.|[2308.00691](http://arxiv.org/abs/2308.00691)|null|
+|**2023-08-01**|**Solving Linear Equations Over Maxmin- $ω$ Systems**|Muhammad Syifa'ul Mufid et.al.|[2308.00690](http://arxiv.org/abs/2308.00690)|null|
+|**2023-08-01**|**Instanton-based Importance Sampling for Extreme Fluctuations in a Shell Model for Turbulent Energy Cascade**|Guilherme Tegoni Goedert et.al.|[2308.00687](http://arxiv.org/abs/2308.00687)|null|
+|**2023-08-01**|**Learning from Hypervectors: A Survey on Hypervector Encoding**|Sercan Aygun et.al.|[2308.00685](http://arxiv.org/abs/2308.00685)|null|
+|**2023-08-01**|**On the vibrational properties of transition metal doped ZnO: surface, defect, and bandgap engineering**|Viviane M. A. Lage et.al.|[2308.00684](http://arxiv.org/abs/2308.00684)|null|
+|**2023-08-01**|**Orthonormal eigenfunction expansions for sixth-order boundary value problems**|N C Papanicolaou et.al.|[2308.00673](http://arxiv.org/abs/2308.00673)|null|
 |**2023-07-31**|**DiVA-360: The Dynamic Visuo-Audio Dataset for Immersive Neural Fields**|Cheng-You Lu et.al.|[2307.16897](http://arxiv.org/abs/2307.16897)|null|
 |**2023-07-31**|**Conformal PID Control for Time Series Prediction**|Anastasios N. Angelopoulos et.al.|[2307.16895](http://arxiv.org/abs/2307.16895)|**[link](https://github.com/aangelopoulos/conformal-time-series)**|
 |**2023-07-31**|**A Quantized Interband Topological Index in Two-Dimensional Systems**|Tharindu Fernando et.al.|[2307.16893](http://arxiv.org/abs/2307.16893)|null|
