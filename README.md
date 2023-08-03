@@ -207,6 +207,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Digging a little deeper: characterising three new extreme ULX candidates**|T. P. Roberts et.al.|[2308.01034](http://arxiv.org/abs/2308.01034)|null|
+|**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876](http://arxiv.org/abs/2308.00876)|null|
+|**2023-08-01**|**Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology**|Bongjoon Hyun et.al.|[2308.00846](http://arxiv.org/abs/2308.00846)|null|
 |**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-08-01**|**Development of low-dissipative projection method framework integrating various high-order time integration schemes using OpenFOAM**|Hao Guo et.al.|[2308.00293](http://arxiv.org/abs/2308.00293)|null|
@@ -530,6 +533,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
+|**2023-08-02**|**Handling Communication via APIs for Microservices**|Vini Kanvar et.al.|[2308.01302](http://arxiv.org/abs/2308.01302)|null|
+|**2023-08-02**|**Bayesian quantum phase estimation with fixed photon states**|Boyu Zhou et.al.|[2308.01293](http://arxiv.org/abs/2308.01293)|null|
+|**2023-08-02**|**One-step Iterative Estimation of Effective Atomic Number and Electron Density for Dual Energy CT**|Qian Wang et.al.|[2308.01290](http://arxiv.org/abs/2308.01290)|null|
+|**2023-08-02**|**Polynomial-delay Enumeration Kernelizations for Cuts of Bounded Degree**|Lawqueen Kanesh et.al.|[2308.01286](http://arxiv.org/abs/2308.01286)|null|
+|**2023-08-02**|**Delegated Time-Lock Puzzle**|Aydin Abadi et.al.|[2308.01280](http://arxiv.org/abs/2308.01280)|null|
+|**2023-08-02**|**Quantum Algorithms for the computation of quantum thermal averages at work**|Riccardo Aiudi et.al.|[2308.01279](http://arxiv.org/abs/2308.01279)|null|
+|**2023-08-02**|**Full-counting statistics of particle distribution on a digital quantum computer**|Yun-Zhuo Fan et.al.|[2308.01255](http://arxiv.org/abs/2308.01255)|null|
+|**2023-08-02**|**A Hybrid Approach To Real-Time Multi-Object Tracking**|Vincenzo Mariano Scarrica et.al.|[2308.01248](http://arxiv.org/abs/2308.01248)|null|
+|**2023-08-02**|**An optimal convergent Collatz algorithm**|Juan Carlos Riano-Rojas et.al.|[2308.01214](http://arxiv.org/abs/2308.01214)|null|
 |**2023-08-01**|**Validation of wall boundary conditions for simulating complex fluid flows via the Boltzmann--BGK equation: Momentum transport and skin friction**|Tarik Dzanic et.al.|[2308.00700](http://arxiv.org/abs/2308.00700)|null|
 |**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699](http://arxiv.org/abs/2308.00699)|null|
 |**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
@@ -1257,6 +1270,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**A Hybrid Approach To Real-Time Multi-Object Tracking**|Vincenzo Mariano Scarrica et.al.|[2308.01248](http://arxiv.org/abs/2308.01248)|null|
+|**2023-08-02**|**Embedded Software of the KM3NeT Central Logic Board**|S. Aiello et.al.|[2308.01032](http://arxiv.org/abs/2308.01032)|null|
+|**2023-08-02**|**A Model Predictive Path Integral Method for Fast, Proactive, and Uncertainty-Aware UAV Planning in Cluttered Environments**|Jacob Higgins et.al.|[2308.00914](http://arxiv.org/abs/2308.00914)|null|
+|**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876](http://arxiv.org/abs/2308.00876)|null|
+|**2023-08-01**|**Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology**|Bongjoon Hyun et.al.|[2308.00846](http://arxiv.org/abs/2308.00846)|null|
+|**2023-08-01**|**Everything Matters in Programmable Packet Scheduling**|Albert Gran Alcoz et.al.|[2308.00797](http://arxiv.org/abs/2308.00797)|null|
+|**2023-08-01**|**Multi-time quantum process tomography of a superconducting qubit**|Christina Giarmatzi et.al.|[2308.00750](http://arxiv.org/abs/2308.00750)|null|
 |**2023-08-01**|**Efficient Quantum Counting and Quantum Content-Addressable Memory for DNA similarity**|Jan Balewski et.al.|[2308.00699](http://arxiv.org/abs/2308.00699)|null|
 |**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
 |**2023-08-01**|**HyDe: A Hybrid PCM/FeFET/SRAM Device-search for Optimizing Area and Energy-efficiencies in Analog IMC Platforms**|Abhiroop Bhattacharjee et.al.|[2308.00664](http://arxiv.org/abs/2308.00664)|null|
@@ -1956,6 +1976,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313](http://arxiv.org/abs/2308.01313)|**[link](https://github.com/umd-huang-lab/perceptionclip)**|
+|**2023-08-02**|**Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping**|Ming Li et.al.|[2308.01308](http://arxiv.org/abs/2308.01308)|**[link](https://github.com/liming-7/mask-swap-nnbr)**|
+|**2023-08-02**|**A quantum double-or-nothing game: The Kelly Criterion for Spins**|Bernhard K Meister et.al.|[2308.01305](http://arxiv.org/abs/2308.01305)|null|
+|**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295](http://arxiv.org/abs/2308.01295)|null|
+|**2023-08-02**|**Moment tracking and their coordinate transformations for macroparticles with an application to plasmas around black holes**|Alexander Warwick et.al.|[2308.01276](http://arxiv.org/abs/2308.01276)|null|
+|**2023-08-02**|**BRNES: Enabling Security and Privacy-aware Experience Sharing in Multiagent Robotic and Autonomous Systems**|Md Tamjid Hossain et.al.|[2308.01274](http://arxiv.org/abs/2308.01274)|**[link](https://github.com/aralab-unr/brnes)**|
+|**2023-08-02**|**Shaping Online Dialogue: Examining How Community Rules Affect Discussion Structures on Reddit**|Anna Fang et.al.|[2308.01257](http://arxiv.org/abs/2308.01257)|null|
+|**2023-08-02**|**Full-counting statistics of particle distribution on a digital quantum computer**|Yun-Zhuo Fan et.al.|[2308.01255](http://arxiv.org/abs/2308.01255)|null|
+|**2023-08-02**|**A Spatially Coupled LDPC Coding Scheme with Scalable Decoders for Space Division Multiplexing**|Haizheng Li et.al.|[2308.01249](http://arxiv.org/abs/2308.01249)|null|
+|**2023-08-02**|**CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**|Fenghe Tang et.al.|[2308.01239](http://arxiv.org/abs/2308.01239)|**[link](https://github.com/fenghetan9/cmunext)**|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
 |**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
 |**2023-08-01**|**TimePool: Visually Answer "Which and When" Questions On Univariate Time Series**|Tinghao Feng et.al.|[2308.00682](http://arxiv.org/abs/2308.00682)|null|
@@ -2683,6 +2713,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311](http://arxiv.org/abs/2308.01311)|null|
+|**2023-08-02**|**Constraining the nature of dark compact objects with spin-induced octupole moment measurement**|Pankaj Saini et.al.|[2308.01309](http://arxiv.org/abs/2308.01309)|null|
+|**2023-08-02**|**Broad Band Mott Localization is all you need for Hot Superconductivity: Atom Mott Insulator Theory for Cu-Pb Apatite**|G. Baskaran et.al.|[2308.01307](http://arxiv.org/abs/2308.01307)|null|
+|**2023-08-02**|**Incorporating Season and Solar Specificity into Renderings made by a NeRF Architecture using Satellite Images**|Michael Gableman et.al.|[2308.01262](http://arxiv.org/abs/2308.01262)|**[link](https://github.com/enterprisecv-6/season-nerf)**|
+|**2023-08-02**|**Surrogate modelling and uncertainty quantification based on multi-fidelity deep neural network**|Zhihui Li et.al.|[2308.01261](http://arxiv.org/abs/2308.01261)|null|
+|**2023-08-02**|**Shaping Online Dialogue: Examining How Community Rules Affect Discussion Structures on Reddit**|Anna Fang et.al.|[2308.01257](http://arxiv.org/abs/2308.01257)|null|
+|**2023-08-02**|**A Hyper-pixel-wise Contrastive Learning Augmented Segmentation Network for Old Landslide Detection Using High-Resolution Remote Sensing Images and Digital Elevation Model Data**|Yiming Zhou et.al.|[2308.01251](http://arxiv.org/abs/2308.01251)|null|
+|**2023-08-02**|**Digital Twin Brain: a simulation and assimilation platform for whole human brain**|Wenlian Lu et.al.|[2308.01241](http://arxiv.org/abs/2308.01241)|null|
+|**2023-08-02**|**CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion**|Fenghe Tang et.al.|[2308.01239](http://arxiv.org/abs/2308.01239)|**[link](https://github.com/fenghetan9/cmunext)**|
+|**2023-08-02**|**LSF-IDM: Lightweight Deep Learning Models for Automotive Intrusion Detection Model Based on Semantic Fusion**|Pengzhou Cheng et.al.|[2308.01237](http://arxiv.org/abs/2308.01237)|null|
 |**2023-08-01**|**HyDe: A Hybrid PCM/FeFET/SRAM Device-search for Optimizing Area and Energy-efficiencies in Analog IMC Platforms**|Abhiroop Bhattacharjee et.al.|[2308.00664](http://arxiv.org/abs/2308.00664)|null|
 |**2023-08-01**|**Considerations on the EMF Exposure Relating to the Next Generation Non-Terrestrial Networks**|Amina Fellan et.al.|[2308.00658](http://arxiv.org/abs/2308.00658)|null|
 |**2023-08-01**|**Quasisynchronous LoRa for LEO Nanosatellite Communications**|Hasan Gokhan Uysal et.al.|[2308.00634](http://arxiv.org/abs/2308.00634)|null|
@@ -3410,6 +3450,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317](http://arxiv.org/abs/2308.01317)|null|
+|**2023-08-02**|**Lode Encoder: AI-constrained co-creativity**|Debosmita Bhaumik et.al.|[2308.01312](http://arxiv.org/abs/2308.01312)|null|
+|**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311](http://arxiv.org/abs/2308.01311)|null|
+|**2023-08-02**|**Revitalizing Public Transit in Low Ridership Areas: An Exploration of On-Demand Multimodal Transit Systems**|Jiawei Lu et.al.|[2308.01298](http://arxiv.org/abs/2308.01298)|null|
+|**2023-08-02**|**A Parsec-Scale Galactic 3D Dust Map out to 1.25 kpc from the Sun**|Gordian Edenhofer et.al.|[2308.01295](http://arxiv.org/abs/2308.01295)|null|
+|**2023-08-02**|**Flows: Building Blocks of Reasoning and Collaborating AI**|Martin Josifoski et.al.|[2308.01285](http://arxiv.org/abs/2308.01285)|null|
+|**2023-08-02**|**Quantum Algorithms for the computation of quantum thermal averages at work**|Riccardo Aiudi et.al.|[2308.01279](http://arxiv.org/abs/2308.01279)|null|
+|**2023-08-02**|**Comparative analysis of local angular rotation between the Ring Laser Gyroscope GINGERINO and GNSS stations**|Giuseppe Di Somma et.al.|[2308.01277](http://arxiv.org/abs/2308.01277)|null|
+|**2023-08-02**|**Moment tracking and their coordinate transformations for macroparticles with an application to plasmas around black holes**|Alexander Warwick et.al.|[2308.01276](http://arxiv.org/abs/2308.01276)|null|
+|**2023-08-02**|**Unified Entropy-Ruled Einstein Relation for Bulk and Low-Dimensional Systems: A Hopping to Band Shift Analysis**|K. Navamani et.al.|[2308.01275](http://arxiv.org/abs/2308.01275)|null|
 |**2023-08-01**|**Statistical methods for exoplanet detection with radial velocities**|Nathan C. Hara et.al.|[2308.00701](http://arxiv.org/abs/2308.00701)|null|
 |**2023-08-01**|**Continuity of the relative entropy of resource**|Ludovico Lami et.al.|[2308.00696](http://arxiv.org/abs/2308.00696)|null|
 |**2023-08-01**|**Harnessing the Power of Sample Abundance: Theoretical Guarantees and Algorithms for Accelerated One-Bit Sensing**|Arian Eamaz et.al.|[2308.00695](http://arxiv.org/abs/2308.00695)|null|
