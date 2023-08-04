@@ -76,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Time-optimal geodesic mutual visibility of robots on grids within minimum area**|Serafino Cicerone et.al.|[2308.01855](http://arxiv.org/abs/2308.01855)|null|
 |**2023-08-01**|**Quantum hacking against discrete-modulated continuous-variable quantum key distribution using modified local oscillator intensity attack with random fluctuations**|Lu Fan et.al.|[2308.00557](http://arxiv.org/abs/2308.00557)|null|
 |**2023-08-01**|**A many-sorted epistemic logic for chromatic hypergraphs**|Eric Goubault et.al.|[2308.00477](http://arxiv.org/abs/2308.00477)|null|
 |**2023-07-31**|**Asynchronous Silent Programmable Matter: Line Formation**|Alfredo Navarra et.al.|[2307.16731](http://arxiv.org/abs/2307.16731)|null|
@@ -189,6 +190,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution**|Charitha Saumya et.al.|[2308.01554](http://arxiv.org/abs/2308.01554)|null|
+|**2023-08-02**|**SemDiff: Binary Similarity Detection by Diffing Key-Semantics Graphs**|Zian Liu et.al.|[2308.01463](http://arxiv.org/abs/2308.01463)|null|
 |**2023-08-02**|**Digging a little deeper: characterising three new extreme ULX candidates**|T. P. Roberts et.al.|[2308.01034](http://arxiv.org/abs/2308.01034)|null|
 |**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876](http://arxiv.org/abs/2308.00876)|null|
 |**2023-08-01**|**Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology**|Bongjoon Hyun et.al.|[2308.00846](http://arxiv.org/abs/2308.00846)|null|
@@ -513,6 +516,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Exact identification of nonlinear dynamical systems by Trimmed Lasso**|Shawn L. Kiser et.al.|[2308.01891](http://arxiv.org/abs/2308.01891)|null|
+|**2023-08-03**|**Mutually unbiased bases as a commuting polynomial optimisation problem**|Luke Mortimer et.al.|[2308.01879](http://arxiv.org/abs/2308.01879)|null|
+|**2023-08-03**|**Time-optimal geodesic mutual visibility of robots on grids within minimum area**|Serafino Cicerone et.al.|[2308.01855](http://arxiv.org/abs/2308.01855)|null|
+|**2023-08-03**|**A novel approach for quantum financial simulation and quantum state preparation**|Yen-Jui Chang et.al.|[2308.01844](http://arxiv.org/abs/2308.01844)|null|
+|**2023-08-03**|**Is your data alignable? Principled and interpretable alignability testing and integration of single-cell data**|Rong Ma et.al.|[2308.01839](http://arxiv.org/abs/2308.01839)|**[link](https://github.com/rongstat/smai)**|
+|**2023-08-03**|**Distribution-Free Inference for the Regression Function of Binary Classification**|Ambrus Tamás et.al.|[2308.01835](http://arxiv.org/abs/2308.01835)|null|
+|**2023-08-03**|**Not All Actions Are Created Equal: Bayesian Optimal Experimental Design for Safe and Optimal Nonlinear System Identification**|Parker Ewen et.al.|[2308.01829](http://arxiv.org/abs/2308.01829)|null|
+|**2023-08-03**|**Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations**|Annie E. Paine et.al.|[2308.01827](http://arxiv.org/abs/2308.01827)|null|
+|**2023-08-03**|**Entropic property of randomized QAOA circuits**|Chernyavkiy A. Yu. et.al.|[2308.01807](http://arxiv.org/abs/2308.01807)|null|
+|**2023-08-03**|**Greedy Matroid Algorithm And Computational Persistent Homology**|Tianyi Sun et.al.|[2308.01796](http://arxiv.org/abs/2308.01796)|null|
 |**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
 |**2023-08-02**|**Handling Communication via APIs for Microservices**|Vini Kanvar et.al.|[2308.01302](http://arxiv.org/abs/2308.01302)|null|
 |**2023-08-02**|**Bayesian quantum phase estimation with fixed photon states**|Boyu Zhou et.al.|[2308.01293](http://arxiv.org/abs/2308.01293)|null|
@@ -1248,6 +1261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library**|Xingquan Li et.al.|[2308.01857](http://arxiv.org/abs/2308.01857)|null|
+|**2023-08-03**|**Benchmarking Adaptative Variational Quantum Algorithms on QUBO Instances**|Gloria Turati et.al.|[2308.01789](http://arxiv.org/abs/2308.01789)|null|
+|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727](http://arxiv.org/abs/2308.01727)|null|
+|**2023-08-03**|**The Data Movement Bottleneck: Theoretical Shortcomings of Analog Optical Fourier Transform and Convolution Computing Accelerators**|James T. Meech et.al.|[2308.01719](http://arxiv.org/abs/2308.01719)|null|
+|**2023-08-03**|**Floorplet: Performance-aware Floorplan Framework for Chiplet Integration**|Shixin Chen et.al.|[2308.01672](http://arxiv.org/abs/2308.01672)|null|
+|**2023-08-03**|**Improving Wind Resistance Performance of Cascaded PID Controlled Quadcopters using Residual Reinforcement Learning**|Yu Ishihara et.al.|[2308.01648](http://arxiv.org/abs/2308.01648)|null|
+|**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600](http://arxiv.org/abs/2308.01600)|null|
+|**2023-08-03**|**Møller-Plesset Perturbation Theory Calculations on Quantum Devices**|Junxu Li et.al.|[2308.01559](http://arxiv.org/abs/2308.01559)|null|
+|**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477](http://arxiv.org/abs/2308.01477)|null|
+|**2023-08-02**|**Decentralized Translator of Trust: Supporting Heterogeneous TEE for Critical Infrastructure Protection**|Rabimba Karanjai et.al.|[2308.01474](http://arxiv.org/abs/2308.01474)|null|
 |**2023-08-02**|**A Hybrid Approach To Real-Time Multi-Object Tracking**|Vincenzo Mariano Scarrica et.al.|[2308.01248](http://arxiv.org/abs/2308.01248)|null|
 |**2023-08-02**|**Embedded Software of the KM3NeT Central Logic Board**|S. Aiello et.al.|[2308.01032](http://arxiv.org/abs/2308.01032)|null|
 |**2023-08-02**|**A Model Predictive Path Integral Method for Fast, Proactive, and Uncertainty-Aware UAV Planning in Cluttered Environments**|Jacob Higgins et.al.|[2308.00914](http://arxiv.org/abs/2308.00914)|null|
@@ -1952,6 +1975,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Revisiting Deformable Convolution for Depth Completion**|Xinglong Sun et.al.|[2308.01905](http://arxiv.org/abs/2308.01905)|null|
+|**2023-08-03**|**Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning**|Daniel Brignac et.al.|[2308.01895](http://arxiv.org/abs/2308.01895)|null|
+|**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|null|
+|**2023-08-03**|**ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation**|Xueying Du et.al.|[2308.01861](http://arxiv.org/abs/2308.01861)|**[link](https://github.com/fudanselab/classeval)**|
+|**2023-08-03**|**Cosmology from weak lensing, galaxy clustering, CMB lensing and tSZ: I. 10x2pt Modelling Methodology**|Xiao Fang et.al.|[2308.01856](http://arxiv.org/abs/2308.01856)|null|
+|**2023-08-03**|**User-friendly confidence regions for quantum state tomography**|Carlos de Gois et.al.|[2308.01851](http://arxiv.org/abs/2308.01851)|null|
+|**2023-08-03**|**Unraveling the Interplay of Leaf Structure and Wettability: A Comparative Study on Superhydrophobic Leaves of Cassia tora, Adiantum capillus-veneris, and Bauhinia variegata**|Shubham Ganar et.al.|[2308.01847](http://arxiv.org/abs/2308.01847)|null|
+|**2023-08-03**|**A novel approach for quantum financial simulation and quantum state preparation**|Yen-Jui Chang et.al.|[2308.01844](http://arxiv.org/abs/2308.01844)|null|
+|**2023-08-03**|**Not All Actions Are Created Equal: Bayesian Optimal Experimental Design for Safe and Optimal Nonlinear System Identification**|Parker Ewen et.al.|[2308.01829](http://arxiv.org/abs/2308.01829)|null|
 |**2023-08-02**|**More Context, Less Distraction: Visual Classification by Inferring and Conditioning on Contextual Attributes**|Bang An et.al.|[2308.01313](http://arxiv.org/abs/2308.01313)|**[link](https://github.com/umd-huang-lab/perceptionclip)**|
 |**2023-08-02**|**Masked and Swapped Sequence Modeling for Next Novel Basket Recommendation in Grocery Shopping**|Ming Li et.al.|[2308.01308](http://arxiv.org/abs/2308.01308)|**[link](https://github.com/liming-7/mask-swap-nnbr)**|
 |**2023-08-02**|**A quantum double-or-nothing game: The Kelly Criterion for Spins**|Bernhard K Meister et.al.|[2308.01305](http://arxiv.org/abs/2308.01305)|null|
@@ -2687,6 +2720,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|null|
+|**2023-08-03**|**Effects of Cytoskeletal Network Mesh Size on Cargo Transport**|Nimisha Krishnan et.al.|[2308.01859](http://arxiv.org/abs/2308.01859)|null|
+|**2023-08-03**|**Galactic Core-Collapse Supernovae at IceCube: "Fire Drill" Data Challenges and follow-up**|Spencer Griswold et.al.|[2308.01843](http://arxiv.org/abs/2308.01843)|null|
+|**2023-08-03**|**Local and extensive fluctuations in sparsely-interacting ecological communities**|Stav Marcus et.al.|[2308.01828](http://arxiv.org/abs/2308.01828)|null|
+|**2023-08-03**|**Physics-Informed Quantum Machine Learning: Solving nonlinear differential equations in latent spaces without costly grid evaluations**|Annie E. Paine et.al.|[2308.01827](http://arxiv.org/abs/2308.01827)|null|
+|**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823](http://arxiv.org/abs/2308.01823)|null|
+|**2023-08-03**|**Tensor Programs IVb: Adaptive Optimization in the Infinite-Width Limit**|Greg Yang et.al.|[2308.01814](http://arxiv.org/abs/2308.01814)|null|
+|**2023-08-03**|**Deep Neural Networks Fused with Textures for Image Classification**|Asish Bera et.al.|[2308.01813](http://arxiv.org/abs/2308.01813)|null|
+|**2023-08-03**|**Glass-like Caging with Random Planes**|Giampaolo Folena et.al.|[2308.01806](http://arxiv.org/abs/2308.01806)|null|
 |**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311](http://arxiv.org/abs/2308.01311)|null|
 |**2023-08-02**|**Constraining the nature of dark compact objects with spin-induced octupole moment measurement**|Pankaj Saini et.al.|[2308.01309](http://arxiv.org/abs/2308.01309)|null|
 |**2023-08-02**|**Broad Band Mott Localization is all you need for Hot Superconductivity: Atom Mott Insulator Theory for Cu-Pb Apatite**|G. Baskaran et.al.|[2308.01307](http://arxiv.org/abs/2308.01307)|null|
@@ -3422,6 +3465,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**The Tree of Light as interstellar optical transmitter system**|Elisa Bazzani et.al.|[2308.01900](http://arxiv.org/abs/2308.01900)|null|
+|**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
+|**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
+|**2023-08-03**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892](http://arxiv.org/abs/2308.01892)|null|
+|**2023-08-03**|**Exact identification of nonlinear dynamical systems by Trimmed Lasso**|Shawn L. Kiser et.al.|[2308.01891](http://arxiv.org/abs/2308.01891)|null|
+|**2023-08-03**|**FROD: Robust Object Detection for Free**|Muhammad et.al.|[2308.01888](http://arxiv.org/abs/2308.01888)|null|
+|**2023-08-03**|**Magic of quantum hypergraph states**|Junjie Chen et.al.|[2308.01886](http://arxiv.org/abs/2308.01886)|null|
+|**2023-08-03**|**LOFAR detection of extended emission around a mini-halo in the galaxy cluster Abell 1413**|Giulia Lusetti et.al.|[2308.01884](http://arxiv.org/abs/2308.01884)|null|
+|**2023-08-03**|**Energy System Optimisation using (Mixed Integer) Linear Programming**|Sebastian Miehling et.al.|[2308.01882](http://arxiv.org/abs/2308.01882)|null|
+|**2023-08-03**|**Observational Implications of OJ 287's Predicted 2022 Disk Impact in the Black Hole Binary Model**|Mauri J. Valtonen et.al.|[2308.01878](http://arxiv.org/abs/2308.01878)|null|
 |**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317](http://arxiv.org/abs/2308.01317)|null|
 |**2023-08-02**|**Lode Encoder: AI-constrained co-creativity**|Debosmita Bhaumik et.al.|[2308.01312](http://arxiv.org/abs/2308.01312)|null|
 |**2023-08-02**|**TEASMA: A Practical Approach for the Test Assessment of Deep Neural Networks using Mutation Analysis**|Amin Abbasishahkoo et.al.|[2308.01311](http://arxiv.org/abs/2308.01311)|null|
