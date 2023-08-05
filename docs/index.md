@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.04
+## Updated on 2023.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -193,7 +193,7 @@ layout: default
 |**2023-08-03**|**Targeted Control-flow Transformations for Mitigating Path Explosion in Dynamic Symbolic Execution**|Charitha Saumya et.al.|[2308.01554](http://arxiv.org/abs/2308.01554)|null|
 |**2023-08-02**|**SemDiff: Binary Similarity Detection by Diffing Key-Semantics Graphs**|Zian Liu et.al.|[2308.01463](http://arxiv.org/abs/2308.01463)|null|
 |**2023-08-02**|**Digging a little deeper: characterising three new extreme ULX candidates**|T. P. Roberts et.al.|[2308.01034](http://arxiv.org/abs/2308.01034)|null|
-|**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876](http://arxiv.org/abs/2308.00876)|null|
+|**2023-08-01**|**Single-Qubit Gates Matter for Optimising Quantum Circuit Depth in Qubit Mapping**|Sanjiang Li et.al.|[2308.00876](http://arxiv.org/abs/2308.00876)|**[link](https://github.com/ebony72/sqgm)**|
 |**2023-08-01**|**Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology**|Bongjoon Hyun et.al.|[2308.00846](http://arxiv.org/abs/2308.00846)|null|
 |**2023-08-01**|**Molecular Symmetry in VQE: A Dual Approach for Trapped-Ion Simulations of Benzene**|Joshua Goings et.al.|[2308.00667](http://arxiv.org/abs/2308.00667)|null|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
@@ -1263,7 +1263,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library**|Xingquan Li et.al.|[2308.01857](http://arxiv.org/abs/2308.01857)|null|
 |**2023-08-03**|**Benchmarking Adaptative Variational Quantum Algorithms on QUBO Instances**|Gloria Turati et.al.|[2308.01789](http://arxiv.org/abs/2308.01789)|null|
-|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727](http://arxiv.org/abs/2308.01727)|null|
+|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727](http://arxiv.org/abs/2308.01727)|**[link](https://github.com/innovationcore/LocalLLMStructured)**|
 |**2023-08-03**|**The Data Movement Bottleneck: Theoretical Shortcomings of Analog Optical Fourier Transform and Convolution Computing Accelerators**|James T. Meech et.al.|[2308.01719](http://arxiv.org/abs/2308.01719)|null|
 |**2023-08-03**|**Floorplet: Performance-aware Floorplan Framework for Chiplet Integration**|Shixin Chen et.al.|[2308.01672](http://arxiv.org/abs/2308.01672)|null|
 |**2023-08-03**|**Improving Wind Resistance Performance of Cascaded PID Controlled Quadcopters using Residual Reinforcement Learning**|Yu Ishihara et.al.|[2308.01648](http://arxiv.org/abs/2308.01648)|null|
@@ -1978,7 +1978,7 @@ layout: default
 |**2023-08-03**|**Revisiting Deformable Convolution for Depth Completion**|Xinglong Sun et.al.|[2308.01905](http://arxiv.org/abs/2308.01905)|null|
 |**2023-08-03**|**Improving Replay Sample Selection and Storage for Less Forgetting in Continual Learning**|Daniel Brignac et.al.|[2308.01895](http://arxiv.org/abs/2308.01895)|null|
 |**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
-|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2023-08-03**|**ClassEval: A Manually-Crafted Benchmark for Evaluating LLMs on Class-level Code Generation**|Xueying Du et.al.|[2308.01861](http://arxiv.org/abs/2308.01861)|**[link](https://github.com/fudanselab/classeval)**|
 |**2023-08-03**|**Cosmology from weak lensing, galaxy clustering, CMB lensing and tSZ: I. 10x2pt Modelling Methodology**|Xiao Fang et.al.|[2308.01856](http://arxiv.org/abs/2308.01856)|null|
 |**2023-08-03**|**User-friendly confidence regions for quantum state tomography**|Carlos de Gois et.al.|[2308.01851](http://arxiv.org/abs/2308.01851)|null|
@@ -2721,7 +2721,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
-|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|null|
+|**2023-08-03**|**Wider and Deeper LLM Networks are Fairer LLM Evaluators**|Xinghua Zhang et.al.|[2308.01862](http://arxiv.org/abs/2308.01862)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2023-08-03**|**Effects of Cytoskeletal Network Mesh Size on Cargo Transport**|Nimisha Krishnan et.al.|[2308.01859](http://arxiv.org/abs/2308.01859)|null|
 |**2023-08-03**|**Galactic Core-Collapse Supernovae at IceCube: "Fire Drill" Data Challenges and follow-up**|Spencer Griswold et.al.|[2308.01843](http://arxiv.org/abs/2308.01843)|null|
 |**2023-08-03**|**Local and extensive fluctuations in sparsely-interacting ecological communities**|Stav Marcus et.al.|[2308.01828](http://arxiv.org/abs/2308.01828)|null|
