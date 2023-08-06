@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.05
+## Updated on 2023.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1263,7 +1263,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-03**|**iEDA: An Open-Source Intelligent Physical Implementation Toolkit and Library**|Xingquan Li et.al.|[2308.01857](http://arxiv.org/abs/2308.01857)|null|
 |**2023-08-03**|**Benchmarking Adaptative Variational Quantum Algorithms on QUBO Instances**|Gloria Turati et.al.|[2308.01789](http://arxiv.org/abs/2308.01789)|null|
-|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727](http://arxiv.org/abs/2308.01727)|**[link](https://github.com/innovationcore/LocalLLMStructured)**|
+|**2023-08-03**|**Local Large Language Models for Complex Structured Medical Tasks**|V. K. Cody Bumgardner et.al.|[2308.01727](http://arxiv.org/abs/2308.01727)|null|
 |**2023-08-03**|**The Data Movement Bottleneck: Theoretical Shortcomings of Analog Optical Fourier Transform and Convolution Computing Accelerators**|James T. Meech et.al.|[2308.01719](http://arxiv.org/abs/2308.01719)|null|
 |**2023-08-03**|**Floorplet: Performance-aware Floorplan Framework for Chiplet Integration**|Shixin Chen et.al.|[2308.01672](http://arxiv.org/abs/2308.01672)|null|
 |**2023-08-03**|**Improving Wind Resistance Performance of Cascaded PID Controlled Quadcopters using Residual Reinforcement Learning**|Yu Ishihara et.al.|[2308.01648](http://arxiv.org/abs/2308.01648)|null|
