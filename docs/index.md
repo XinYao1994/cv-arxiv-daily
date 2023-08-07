@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3468,12 +3468,12 @@ layout: default
 |**2023-08-03**|**The Tree of Light as interstellar optical transmitter system**|Elisa Bazzani et.al.|[2308.01900](http://arxiv.org/abs/2308.01900)|null|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
 |**2023-08-03**|**Quantum Maps Between CPTP and HPTP**|Ningping Cao et.al.|[2308.01894](http://arxiv.org/abs/2308.01894)|null|
-|**2023-08-03**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892](http://arxiv.org/abs/2308.01892)|null|
+|**2023-08-04**|**Hamiltonian structure of isomonodromic deformation dynamics in linear systems of PDE's**|J. Harnad et.al.|[2308.01892](http://arxiv.org/abs/2308.01892)|null|
 |**2023-08-03**|**Exact identification of nonlinear dynamical systems by Trimmed Lasso**|Shawn L. Kiser et.al.|[2308.01891](http://arxiv.org/abs/2308.01891)|null|
 |**2023-08-03**|**FROD: Robust Object Detection for Free**|Muhammad et.al.|[2308.01888](http://arxiv.org/abs/2308.01888)|null|
 |**2023-08-03**|**Magic of quantum hypergraph states**|Junjie Chen et.al.|[2308.01886](http://arxiv.org/abs/2308.01886)|null|
 |**2023-08-03**|**LOFAR detection of extended emission around a mini-halo in the galaxy cluster Abell 1413**|Giulia Lusetti et.al.|[2308.01884](http://arxiv.org/abs/2308.01884)|null|
-|**2023-08-03**|**Energy System Optimisation using (Mixed Integer) Linear Programming**|Sebastian Miehling et.al.|[2308.01882](http://arxiv.org/abs/2308.01882)|null|
+|**2023-08-04**|**Energy System Optimisation using (Mixed Integer) Linear Programming**|Sebastian Miehling et.al.|[2308.01882](http://arxiv.org/abs/2308.01882)|null|
 |**2023-08-03**|**Observational Implications of OJ 287's Predicted 2022 Disk Impact in the Black Hole Binary Model**|Mauri J. Valtonen et.al.|[2308.01878](http://arxiv.org/abs/2308.01878)|null|
 |**2023-08-02**|**ELIXR: Towards a general purpose X-ray artificial intelligence system through alignment of large language models and radiology vision encoders**|Shawn Xu et.al.|[2308.01317](http://arxiv.org/abs/2308.01317)|null|
 |**2023-08-02**|**Lode Encoder: AI-constrained co-creativity**|Debosmita Bhaumik et.al.|[2308.01312](http://arxiv.org/abs/2308.01312)|null|
