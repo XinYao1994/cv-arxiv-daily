@@ -92,6 +92,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-05**|**ZePoP: A Distributed Leader Election Protocol using the Delay-based Closeness Centrality for Peer-to-Peer Applications**|Md Amjad Hossain et.al.|[2308.02795](http://arxiv.org/abs/2308.02795)|null|
+|**2023-08-05**|**Few-shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation**|Chengjia Jiang et.al.|[2308.02790](http://arxiv.org/abs/2308.02790)|null|
+|**2023-08-05**|**Decentralized Predicate Detection over Partially Synchronous Continuous-Time Signals**|Charles Koll et.al.|[2308.02763](http://arxiv.org/abs/2308.02763)|null|
 |**2023-08-03**|**Optimal Dynamic Reconfiguration of Distribution Networks**|Rida Fatima et.al.|[2308.01984](http://arxiv.org/abs/2308.01984)|null|
 |**2023-08-03**|**Time-optimal geodesic mutual visibility of robots on grids within minimum area**|Serafino Cicerone et.al.|[2308.01855](http://arxiv.org/abs/2308.01855)|null|
 |**2023-08-01**|**Quantum hacking against discrete-modulated continuous-variable quantum key distribution using modified local oscillator intensity attack with random fluctuations**|Lu Fan et.al.|[2308.00557](http://arxiv.org/abs/2308.00557)|null|
@@ -209,6 +212,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes**|Oscar Higgott et.al.|[2308.03750](http://arxiv.org/abs/2308.03750)|null|
+|**2023-08-07**|**QDax: A Library for Quality-Diversity and Population-based Algorithms with Hardware Acceleration**|Felix Chalumeau et.al.|[2308.03665](http://arxiv.org/abs/2308.03665)|null|
+|**2023-08-06**|**Bandicoot: C++ Library for GPU Linear Algebra and Scientific Computing**|Ryan R. Curtin et.al.|[2308.03120](http://arxiv.org/abs/2308.03120)|null|
+|**2023-08-06**|**Binary Code Similarity Detection**|Zian Liu et.al.|[2308.02992](http://arxiv.org/abs/2308.02992)|null|
+|**2023-08-06**|**Spanish Pre-trained BERT Model and Evaluation Data**|José Cañete et.al.|[2308.02976](http://arxiv.org/abs/2308.02976)|**[link](https://github.com/dccuchile/beto)**|
+|**2023-08-05**|**RV-CURE: A RISC-V Capability Architecture for Full Memory Safety**|Yonghae Kim et.al.|[2308.02945](http://arxiv.org/abs/2308.02945)|null|
 |**2023-08-04**|**Evidence of Scaling Advantage for the Quantum Approximate Optimization Algorithm on a Classically Intractable Problem**|Ruslan Shaydulin et.al.|[2308.02342](http://arxiv.org/abs/2308.02342)|null|
 |**2023-08-04**|**MASC: A Tool for Mutation-Based Evaluation of Static Crypto-API Misuse Detectors**|Amit Seal Ami et.al.|[2308.02310](http://arxiv.org/abs/2308.02310)|**[link](https://github.com/Secure-Platforms-Lab-W-M/MASC)**|
 |**2023-08-04**|**Efficient Labelling of Affective Video Datasets via Few-Shot & Multi-Task Contrastive Learning**|Ravikiran Parameshwara et.al.|[2308.02173](http://arxiv.org/abs/2308.02173)|**[link](https://github.com/ravikiranrao/mtclar-fsl)**|
@@ -541,6 +550,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Cosmology meets cohomology**|Shounak De et.al.|[2308.03753](http://arxiv.org/abs/2308.03753)|null|
+|**2023-08-07**|**The Copycat Perceptron: Smashing Barriers Through Collective Learning**|Giovanni Catania et.al.|[2308.03743](http://arxiv.org/abs/2308.03743)|null|
+|**2023-08-07**|**Randomized algorithms for precise measurement of differentially-private, personalized recommendations**|Allegra Laro et.al.|[2308.03735](http://arxiv.org/abs/2308.03735)|**[link](https://github.com/apple/ml-dprecs)**|
+|**2023-08-07**|**Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**|Abhay Tyagi et.al.|[2308.03717](http://arxiv.org/abs/2308.03717)|null|
+|**2023-08-07**|**Scaling may be all you need for achieving human-level object recognition capacity with human-like visual experience**|A. Emin Orhan et.al.|[2308.03712](http://arxiv.org/abs/2308.03712)|**[link](https://github.com/eminorhan/humanlike-vits)**|
+|**2023-08-07**|**Continuous Hamiltonian dynamics on noisy digital quantum computers without Trotter error**|Etienne Granet et.al.|[2308.03694](http://arxiv.org/abs/2308.03694)|null|
+|**2023-08-07**|**Almost-sure convergence of iterates and multipliers in stochastic sequential quadratic optimization**|Frank E. Curtis et.al.|[2308.03687](http://arxiv.org/abs/2308.03687)|null|
+|**2023-08-07**|**Active Noise Control based on the Momentum Multichannel Normalized Filtered-x Least Mean Square Algorithm**|Dongyuan Shi et.al.|[2308.03684](http://arxiv.org/abs/2308.03684)|null|
+|**2023-08-07**|**Improving FHB Screening in Wheat Breeding Using an Efficient Transformer Model**|Babak Azad et.al.|[2308.03670](http://arxiv.org/abs/2308.03670)|null|
+|**2023-08-07**|**Computing the noncommutative inner rank by means of operator-valued free probability theory**|Johannes Hoffmann et.al.|[2308.03667](http://arxiv.org/abs/2308.03667)|null|
 |**2023-08-04**|**Recovering non-Maxwellian particle velocity distribution functions from collective Thomson-scattered spectra**|Bryan C. Foo et.al.|[2308.02488](http://arxiv.org/abs/2308.02488)|null|
 |**2023-08-04**|**Discrete-Time Adaptive State Tracking Control Schemes Using Gradient Algorithms**|Gang Tao et.al.|[2308.02484](http://arxiv.org/abs/2308.02484)|null|
 |**2023-08-04**|**Randomized and quantum query complexities of finding a king in a tournament**|Nikhil S. Mande et.al.|[2308.02472](http://arxiv.org/abs/2308.02472)|null|
@@ -1298,6 +1317,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Continuous Hamiltonian dynamics on noisy digital quantum computers without Trotter error**|Etienne Granet et.al.|[2308.03694](http://arxiv.org/abs/2308.03694)|null|
+|**2023-08-07**|**QDax: A Library for Quality-Diversity and Population-based Algorithms with Hardware Acceleration**|Felix Chalumeau et.al.|[2308.03665](http://arxiv.org/abs/2308.03665)|null|
+|**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514](http://arxiv.org/abs/2308.03514)|null|
+|**2023-08-07**|**Design and Implementation of an Efficient Onboard Computer System for CanSat Atmosphere Monitoring**|Abhijit Gadekar et.al.|[2308.03496](http://arxiv.org/abs/2308.03496)|null|
+|**2023-08-07**|**Feasibility Retargeting for Multi-contact Teleoperation and Physical Interaction**|Quentin Rouxel et.al.|[2308.03479](http://arxiv.org/abs/2308.03479)|null|
+|**2023-08-07**|**FPPU: Design and Implementation of a Pipelined Full Posit Processing Unit**|Federico Rossi et.al.|[2308.03425](http://arxiv.org/abs/2308.03425)|null|
+|**2023-08-07**|**Efficient techniques to GPU Accelerations of Multi-Shot Quantum Computing Simulations**|Jun Doi et.al.|[2308.03399](http://arxiv.org/abs/2308.03399)|null|
+|**2023-08-07**|**Aggregating Single-wheeled Mobile Robots for Omnidirectional Movements**|Meng Wang et.al.|[2308.03328](http://arxiv.org/abs/2308.03328)|null|
+|**2023-08-07**|**DOMINO: Domain-invariant Hyperdimensional Classification for Multi-Sensor Time Series Data**|Junyao Wang et.al.|[2308.03295](http://arxiv.org/abs/2308.03295)|null|
+|**2023-08-07**|**SynJax: Structured Probability Distributions for JAX**|Miloš Stanojević et.al.|[2308.03291](http://arxiv.org/abs/2308.03291)|**[link](https://github.com/deepmind/synjax)**|
 |**2023-08-04**|**Nonprehensile Planar Manipulation through Reinforcement Learning with Multimodal Categorical Exploration**|Juan Del Aguila Ferrandis et.al.|[2308.02459](http://arxiv.org/abs/2308.02459)|null|
 |**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|null|
 |**2023-08-04**|**Unrolled and Pipelined Decoders based on Look-Up Tables for Polar Codes**|Pascal Giard et.al.|[2308.02394](http://arxiv.org/abs/2308.02394)|null|
@@ -2024,6 +2053,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Randomized algorithms for precise measurement of differentially-private, personalized recommendations**|Allegra Laro et.al.|[2308.03735](http://arxiv.org/abs/2308.03735)|**[link](https://github.com/apple/ml-dprecs)**|
+|**2023-08-07**|**Labeling without Seeing? Blind Annotation for Privacy-Preserving Entity Resolution**|Yixiang Yao et.al.|[2308.03734](http://arxiv.org/abs/2308.03734)|null|
+|**2023-08-07**|**Adaptive robust tracking control with active learning for linear systems with ellipsoidal bounded uncertainties**|Xuehui Ma et.al.|[2308.03727](http://arxiv.org/abs/2308.03727)|null|
+|**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725](http://arxiv.org/abs/2308.03725)|null|
+|**2023-08-07**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718](http://arxiv.org/abs/2308.03718)|null|
+|**2023-08-07**|**The role of APOBEC3-induced mutations in the differential evolution of monkeypox virus**|Xiangting Li et.al.|[2308.03714](http://arxiv.org/abs/2308.03714)|null|
+|**2023-08-07**|**Communication-Efficient Framework for Distributed Image Semantic Wireless Transmission**|Bingyan Xie et.al.|[2308.03713](http://arxiv.org/abs/2308.03713)|null|
+|**2023-08-07**|**Video-based Person Re-identification with Long Short-Term Representation Learning**|Xuehu Liu et.al.|[2308.03703](http://arxiv.org/abs/2308.03703)|null|
+|**2023-08-07**|**Universal shot-noise limit for quantum metrology with local Hamiltonians**|Hai-Long Shi et.al.|[2308.03696](http://arxiv.org/abs/2308.03696)|null|
+|**2023-08-07**|**Collective ion dynamics in Coulomb one-component plasmas within the self-consistent relaxation theory**|Ilnaz I. Fairushin et.al.|[2308.03692](http://arxiv.org/abs/2308.03692)|null|
 |**2023-08-04**|**Information causality as a tool for bounding the set of quantum correlations**|Prabhav Jain et.al.|[2308.02478](http://arxiv.org/abs/2308.02478)|null|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465](http://arxiv.org/abs/2308.02465)|null|
 |**2023-08-04**|**Universal Approximation of Linear Time-Invariant (LTI) Systems through RNNs: Power of Randomness in Reservoir Computing**|Shashank Jere et.al.|[2308.02464](http://arxiv.org/abs/2308.02464)|null|
@@ -2781,6 +2820,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics**|Tony Bonnaire et.al.|[2308.03754](http://arxiv.org/abs/2308.03754)|null|
+|**2023-08-07**|**Mask Frozen-DETR: High Quality Instance Segmentation with One GPU**|Zhanhao Liang et.al.|[2308.03747](http://arxiv.org/abs/2308.03747)|null|
+|**2023-08-07**|**The Copycat Perceptron: Smashing Barriers Through Collective Learning**|Giovanni Catania et.al.|[2308.03743](http://arxiv.org/abs/2308.03743)|null|
+|**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742](http://arxiv.org/abs/2308.03742)|null|
+|**2023-08-07**|**AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation**|Jay N. Paranjape et.al.|[2308.03726](http://arxiv.org/abs/2308.03726)|**[link](https://github.com/jayparanjape/biastuning)**|
+|**2023-08-07**|**Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation**|Renjie Liang et.al.|[2308.03725](http://arxiv.org/abs/2308.03725)|null|
+|**2023-08-07**|**GRN-Transformer: Enhancing Motion Artifact Detection in PICU Photoplethysmogram Signals**|Thanh-Dung Le et.al.|[2308.03722](http://arxiv.org/abs/2308.03722)|null|
+|**2023-08-07**|**SEM-GAT: Explainable Semantic Pose Estimation using Learned Graph Attention**|Efimia Panagiotaki et.al.|[2308.03718](http://arxiv.org/abs/2308.03718)|null|
+|**2023-08-07**|**Automated Real Time Delineation of Supraclavicular Brachial Plexus in Neck Ultrasonography Videos: A Deep Learning Approach**|Abhay Tyagi et.al.|[2308.03717](http://arxiv.org/abs/2308.03717)|null|
+|**2023-08-07**|**DeRisk: An Effective Deep Learning Framework for Credit Risk Prediction over Real-World Financial Data**|Yancheng Liang et.al.|[2308.03704](http://arxiv.org/abs/2308.03704)|null|
 |**2023-08-04**|**On the Inherent Anonymity of Gossiping**|Rachid Guerraoui et.al.|[2308.02477](http://arxiv.org/abs/2308.02477)|null|
 |**2023-08-04**|**Variance extrapolation method for neural-network variational Monte Carlo**|Weizhong Fu et.al.|[2308.02471](http://arxiv.org/abs/2308.02471)|null|
 |**2023-08-04**|**Element learning: a systematic approach of accelerating finite element-type methods via machine learning, with applications to radiative transfer**|Shukai Du et.al.|[2308.02467](http://arxiv.org/abs/2308.02467)|null|
@@ -3538,6 +3587,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**Interaction-induced charge pumping in a topological many-body system**|Konrad Viebahn et.al.|[2308.03756](http://arxiv.org/abs/2308.03756)|null|
+|**2023-08-07**|**High-Dimensional Non-Convex Landscapes and Gradient Descent Dynamics**|Tony Bonnaire et.al.|[2308.03754](http://arxiv.org/abs/2308.03754)|null|
+|**2023-08-07**|**Rearrangement of Granular Surfaces on Asteroids due to Thermal Cycling**|Danielle Bovie et.al.|[2308.03749](http://arxiv.org/abs/2308.03749)|null|
+|**2023-08-07**|**Metrewave Galactic Plane with the uGMRT (MeGaPluG) Survey: Lessons from the Pilot Study**|Rohit Dokara et.al.|[2308.03746](http://arxiv.org/abs/2308.03746)|null|
+|**2023-08-07**|**UNCOVER: Illuminating the Early Universe -- JWST/NIRSpec Confirmation of $z > 12$ Galaxies**|Bingjie Wang et.al.|[2308.03745](http://arxiv.org/abs/2308.03745)|null|
+|**2023-08-07**|**Lie reductions and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2308.03744](http://arxiv.org/abs/2308.03744)|null|
+|**2023-08-07**|**The Copycat Perceptron: Smashing Barriers Through Collective Learning**|Giovanni Catania et.al.|[2308.03743](http://arxiv.org/abs/2308.03743)|null|
+|**2023-08-07**|**What about translation? New coding system for content analysis on the perception of literary translation around the political transformation in 1989 in Hungary as a classification problem on an unbalanced dataset**|Dalma Galambos et.al.|[2308.03742](http://arxiv.org/abs/2308.03742)|null|
+|**2023-08-07**|**Phase transitions in self-gravitating systems and bacterial populations surrounding a central body**|P. H. Chavanis et.al.|[2308.03739](http://arxiv.org/abs/2308.03739)|null|
+|**2023-08-07**|**Kinks in cuscuton-like models with two scalar fields**|I. Andrade et.al.|[2308.03738](http://arxiv.org/abs/2308.03738)|null|
 |**2023-08-04**|**MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2308.02490](http://arxiv.org/abs/2308.02490)|**[link](https://github.com/yuweihao/mm-vet)**|
 |**2023-08-04**|**Why are Quasiperiodic Eruptions only Found in Low-Mass Galaxies?**|Andrew King et.al.|[2308.02489](http://arxiv.org/abs/2308.02489)|null|
 |**2023-08-04**|**JWST/NIRCam Coronagraphy of the Young Planet-hosting Debris Disk AU Microscopii**|Kellen Lawson et.al.|[2308.02486](http://arxiv.org/abs/2308.02486)|null|
@@ -4295,6 +4354,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-07**|**FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search**|Jordan Dotzel et.al.|[2308.03290](http://arxiv.org/abs/2308.03290)|null|
 |**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2023-07-24**|**A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization**|Edward Fish et.al.|[2307.12659](http://arxiv.org/abs/2307.12659)|null|
 |**2023-07-20**|**EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization**|Peijie Dong et.al.|[2307.10554](http://arxiv.org/abs/2307.10554)|**[link](https://github.com/lilujunai/emq-series)**|
