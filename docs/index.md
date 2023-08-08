@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -526,7 +526,7 @@ layout: default
 |**2023-08-04**|**Randomized and quantum query complexities of finding a king in a tournament**|Nikhil S. Mande et.al.|[2308.02472](http://arxiv.org/abs/2308.02472)|null|
 |**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|null|
 |**2023-08-04**|**Generative Modelling of Lévy Area for High Order SDE Simulation**|Andraž Jelinčič et.al.|[2308.02452](http://arxiv.org/abs/2308.02452)|null|
-|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|null|
+|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|**[link](https://github.com/4alexmin/knnsotas)**|
 |**2023-08-04**|**Hybrid Search method for Zermelo's navigation problem**|Daniel Precioso et.al.|[2308.02434](http://arxiv.org/abs/2308.02434)|null|
 |**2023-08-04**|**Unrolled and Pipelined Decoders based on Look-Up Tables for Polar Codes**|Pascal Giard et.al.|[2308.02394](http://arxiv.org/abs/2308.02394)|null|
 |**2023-08-04**|**A Bi-variant Variational Model for Diffeomorphic Image Registration with Relaxed Jacobian Determinant Constraints**|Yanyan Li et.al.|[2308.02393](http://arxiv.org/abs/2308.02393)|null|
@@ -2006,7 +2006,7 @@ layout: default
 |**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|null|
 |**2023-08-04**|**Composite Quantile Factor Models**|Xiao Huang et.al.|[2308.02450](http://arxiv.org/abs/2308.02450)|null|
 |**2023-08-04**|**From Military to Healthcare: Adopting and Expanding Ethical Principles for Generative Artificial Intelligence**|David Oniani et.al.|[2308.02448](http://arxiv.org/abs/2308.02448)|null|
-|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|null|
+|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|**[link](https://github.com/4alexmin/knnsotas)**|
 |**2023-08-04**|**Generation and characterization of polarization-entangled states using quantum dot single-photon sources**|Mauro Valeri et.al.|[2308.02422](http://arxiv.org/abs/2308.02422)|null|
 |**2023-08-04**|**Coherent spin qubit shuttling through germanium quantum dots**|Floor van Riggelen-Doelman et.al.|[2308.02406](http://arxiv.org/abs/2308.02406)|null|
 |**2023-08-04**|**Unrolled and Pipelined Decoders based on Look-Up Tables for Polar Codes**|Pascal Giard et.al.|[2308.02394](http://arxiv.org/abs/2308.02394)|null|
@@ -2762,7 +2762,7 @@ layout: default
 |**2023-08-04**|**Universal Approximation of Linear Time-Invariant (LTI) Systems through RNNs: Power of Randomness in Reservoir Computing**|Shashank Jere et.al.|[2308.02464](http://arxiv.org/abs/2308.02464)|null|
 |**2023-08-04**|**Fast and Accurate Reduced-Order Modeling of a MOOSE-based Additive Manufacturing Model with Operator Learning**|Mahmoud Yaseen et.al.|[2308.02462](http://arxiv.org/abs/2308.02462)|null|
 |**2023-08-04**|**Pruning a neural network using Bayesian inference**|Sunil Mathew et.al.|[2308.02451](http://arxiv.org/abs/2308.02451)|null|
-|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|null|
+|**2023-08-04**|**Adaptive Preferential Attached kNN Graph With Distribution-Awareness**|Shaojie Min et.al.|[2308.02442](http://arxiv.org/abs/2308.02442)|**[link](https://github.com/4alexmin/knnsotas)**|
 |**2023-08-04**|**Coherent spin qubit shuttling through germanium quantum dots**|Floor van Riggelen-Doelman et.al.|[2308.02406](http://arxiv.org/abs/2308.02406)|null|
 |**2023-08-04**|**Learning Optimal Admission Control in Partially Observable Queueing Networks**|Jonatha Anselmi et.al.|[2308.02391](http://arxiv.org/abs/2308.02391)|null|
 |**2023-08-03**|**UniSim: A Neural Closed-Loop Sensor Simulator**|Ze Yang et.al.|[2308.01898](http://arxiv.org/abs/2308.01898)|null|
