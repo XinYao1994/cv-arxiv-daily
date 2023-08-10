@@ -213,6 +213,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**CHERI Performance Enhancement for the MicroPython Interpreter**|Duncan Lowther et.al.|[2308.05076](http://arxiv.org/abs/2308.05076)|null|
+|**2023-08-09**|**Methods for Acquiring and Incorporating Knowledge into Stock Price Prediction: A Survey**|Liping Wang et.al.|[2308.04947](http://arxiv.org/abs/2308.04947)|null|
+|**2023-08-09**|**Targeted and Troublesome: Tracking and Advertising on Children's Websites**|Zahra Moti et.al.|[2308.04887](http://arxiv.org/abs/2308.04887)|null|
+|**2023-08-09**|**rCanary: Detecting Memory Leaks Across Semi-automated Memory Management Boundary in Rust**|Mohan Cui et.al.|[2308.04787](http://arxiv.org/abs/2308.04787)|null|
+|**2023-08-09**|**Universal Fuzzing via Large Language Models**|Chunqiu Steven Xia et.al.|[2308.04748](http://arxiv.org/abs/2308.04748)|null|
+|**2023-08-08**|**Hilbert-Schmidt operators and the conjugate of a complex Hilbert space: Dirac's bra-ket formalism revisited**|Frank Oertel et.al.|[2308.04627](http://arxiv.org/abs/2308.04627)|null|
 |**2023-08-08**|**I-WAS: a Data Augmentation Method with GPT-2 for Simile Detection**|Yongzhu Chang et.al.|[2308.04109](http://arxiv.org/abs/2308.04109)|null|
 |**2023-08-08**|**Aliphatics and Aromatics in the Universe: The Pre-JWST Era**|X. J. Yang et.al.|[2308.04004](http://arxiv.org/abs/2308.04004)|null|
 |**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929](http://arxiv.org/abs/2308.03929)|null|
@@ -556,6 +562,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101](http://arxiv.org/abs/2308.05101)|null|
+|**2023-08-09**|**Mean-Biased Processes for Balanced Allocations**|Dimitrios Los et.al.|[2308.05087](http://arxiv.org/abs/2308.05087)|null|
+|**2023-08-09**|**Space-bounded quantum state testing via space-efficient quantum singular value transformation**|François Le Gall et.al.|[2308.05079](http://arxiv.org/abs/2308.05079)|null|
+|**2023-08-09**|**Fast and converged classical simulations of evidence for the utility of quantum computing before fault tolerance**|Tomislav Begušić et.al.|[2308.05077](http://arxiv.org/abs/2308.05077)|null|
+|**2023-08-09**|**Benchmarking a trapped-ion quantum computer with 29 algorithmic qubits**|Jwo-Sy Chen et.al.|[2308.05071](http://arxiv.org/abs/2308.05071)|null|
+|**2023-08-09**|**Controlling Tail Risk in Online Ski-Rental**|Michael Dinitz et.al.|[2308.05067](http://arxiv.org/abs/2308.05067)|null|
+|**2023-08-09**|**Evaluating SZZ Implementations: An Empirical Study on the Linux Kernel**|Yunbo Lyu et.al.|[2308.05060](http://arxiv.org/abs/2308.05060)|null|
+|**2023-08-09**|**A Nesterov type algorithm with double Tikhonov regularization: fast convergence of the function values and strong convergence to the minimal norm solution**|Mikhail Karapetyants et.al.|[2308.05056](http://arxiv.org/abs/2308.05056)|null|
+|**2023-08-09**|**Large-scale simulation of Shor's quantum factoring algorithm**|Dennis Willsch et.al.|[2308.05047](http://arxiv.org/abs/2308.05047)|null|
+|**2023-08-09**|**Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration**|Hong Ye Tan et.al.|[2308.05045](http://arxiv.org/abs/2308.05045)|null|
 |**2023-08-08**|**Probabilistic Invariant Learning with Randomized Linear Classifiers**|Leonardo Cotta et.al.|[2308.04412](http://arxiv.org/abs/2308.04412)|null|
 |**2023-08-08**|**Chrisimos: A useful Proof-of-Work for finding Minimal Dominating Set of a graph**|Diptendu Chatterjee et.al.|[2308.04407](http://arxiv.org/abs/2308.04407)|null|
 |**2023-08-08**|**Nonlinear parametric models of viscoelastic fluid flows**|Cassio M. Oishi et.al.|[2308.04405](http://arxiv.org/abs/2308.04405)|null|
@@ -1333,6 +1349,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Benchmarking a trapped-ion quantum computer with 29 algorithmic qubits**|Jwo-Sy Chen et.al.|[2308.05071](http://arxiv.org/abs/2308.05071)|null|
+|**2023-08-09**|**CERMET: Coding for Energy Reduction with Multiple Encryption Techniques -- $It's\ easy\ being\ green$**|Jongchan Woo et.al.|[2308.05063](http://arxiv.org/abs/2308.05063)|null|
+|**2023-08-09**|**Large-scale simulation of Shor's quantum factoring algorithm**|Dennis Willsch et.al.|[2308.05047](http://arxiv.org/abs/2308.05047)|null|
+|**2023-08-09**|**HSD-PAM: High Speed Super Resolution Deep Penetration Photoacoustic Microscopy Imaging Boosted by Dual Branch Fusion Network**|Zhengyuan Zhang et.al.|[2308.04922](http://arxiv.org/abs/2308.04922)|null|
+|**2023-08-09**|**CiFHER: A Chiplet-Based FHE Accelerator with a Resizable Structure**|Sangpyo Kim et.al.|[2308.04890](http://arxiv.org/abs/2308.04890)|null|
+|**2023-08-09**|**InstantAvatar: Efficient 3D Head Reconstruction via Surface Rendering**|Antonio Canela et.al.|[2308.04868](http://arxiv.org/abs/2308.04868)|null|
+|**2023-08-09**|**A Fast and Optimal Learning-based Path Planning Method for Planetary Rovers**|Yiming Ji et.al.|[2308.04792](http://arxiv.org/abs/2308.04792)|null|
+|**2023-08-09**|**SAfER: Layer-Level Sensitivity Assessment for Efficient and Robust Neural Network Inference**|Edouard Yvinec et.al.|[2308.04753](http://arxiv.org/abs/2308.04753)|null|
+|**2023-08-09**|**Understanding Auto-Scheduling Optimizations for Model Deployment via Visualizations**|Laixin Xie et.al.|[2308.04724](http://arxiv.org/abs/2308.04724)|null|
+|**2023-08-09**|**Real-time FPGA Implementation of CNN-based Distributed Fiber Optic Vibration Event Recognition Method**|Zhongyao Luo et.al.|[2308.04683](http://arxiv.org/abs/2308.04683)|null|
 |**2023-08-08**|**Data Augmentation-Based Unsupervised Domain Adaptation In Medical Imaging**|Sebastian Nørgaard Llambias et.al.|[2308.04395](http://arxiv.org/abs/2308.04395)|null|
 |**2023-08-08**|**Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning**|Simon Queyrut et.al.|[2308.04373](http://arxiv.org/abs/2308.04373)|null|
 |**2023-08-08**|**Embracing Safe Contacts with Contact-aware Planning and Control**|Zhaoting Li et.al.|[2308.04323](http://arxiv.org/abs/2308.04323)|null|
@@ -2079,6 +2105,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Scene-Generalizable Interactive Segmentation of Radiance Fields**|Songlin Tang et.al.|[2308.05104](http://arxiv.org/abs/2308.05104)|null|
+|**2023-08-09**|**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**|Leigang Qu et.al.|[2308.05095](http://arxiv.org/abs/2308.05095)|null|
+|**2023-08-09**|**Organizational Bulk Email Systems: Their Role and Performance in Remote Work**|Ruoyan Kong et.al.|[2308.05085](http://arxiv.org/abs/2308.05085)|null|
+|**2023-08-09**|**Ergodic Capacity of Dyadic Fading Channels in Ultra Low-SNR Regime**|Kamal Singh et.al.|[2308.05078](http://arxiv.org/abs/2308.05078)|null|
+|**2023-08-09**|**Bayesian Inverse Transition Learning for Offline Settings**|Leo Benac et.al.|[2308.05075](http://arxiv.org/abs/2308.05075)|null|
+|**2023-08-09**|**Drones4Good: Supporting Disaster Relief Through Remote Sensing and AI**|Nina Merkle et.al.|[2308.05074](http://arxiv.org/abs/2308.05074)|null|
+|**2023-08-09**|**CERMET: Coding for Energy Reduction with Multiple Encryption Techniques -- $It's\ easy\ being\ green$**|Jongchan Woo et.al.|[2308.05063](http://arxiv.org/abs/2308.05063)|null|
+|**2023-08-09**|**Prompting In-Context Operator Learning with Sensor Data, Equations, and Natural Language**|Liu Yang et.al.|[2308.05061](http://arxiv.org/abs/2308.05061)|null|
+|**2023-08-09**|**Evaluating SZZ Implementations: An Empirical Study on the Linux Kernel**|Yunbo Lyu et.al.|[2308.05060](http://arxiv.org/abs/2308.05060)|null|
+|**2023-08-09**|**Enhancement of Direct LEO Satellite-to-Smartphone Communications by Distributed Beamforming**|Zhuoao Xu et.al.|[2308.05055](http://arxiv.org/abs/2308.05055)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
 |**2023-08-08**|**V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection**|Yichao Shen et.al.|[2308.04409](http://arxiv.org/abs/2308.04409)|**[link](https://github.com/yichaoshen-ms/v-detr)**|
 |**2023-08-08**|**XGBD: Explanation-Guided Graph Backdoor Detection**|Zihan Guan et.al.|[2308.04406](http://arxiv.org/abs/2308.04406)|**[link](https://github.com/guanzihan/gnn_backdoor_detection)**|
@@ -2856,6 +2892,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103](http://arxiv.org/abs/2308.05103)|null|
+|**2023-08-09**|**Learning of discrete models of variational PDEs from data**|Christian Offen et.al.|[2308.05082](http://arxiv.org/abs/2308.05082)|**[link](https://github.com/Christian-Offen/DLNN_pde)**|
+|**2023-08-09**|**Fast and converged classical simulations of evidence for the utility of quantum computing before fault tolerance**|Tomislav Begušić et.al.|[2308.05077](http://arxiv.org/abs/2308.05077)|null|
+|**2023-08-09**|**Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors**|Sneha Sree C et.al.|[2308.05068](http://arxiv.org/abs/2308.05068)|null|
+|**2023-08-09**|**CERMET: Coding for Energy Reduction with Multiple Encryption Techniques -- $It's\ easy\ being\ green$**|Jongchan Woo et.al.|[2308.05063](http://arxiv.org/abs/2308.05063)|null|
+|**2023-08-09**|**Prompting In-Context Operator Learning with Sensor Data, Equations, and Natural Language**|Liu Yang et.al.|[2308.05061](http://arxiv.org/abs/2308.05061)|null|
+|**2023-08-09**|**A Novel Method for improving accuracy in neural network by reinstating traditional back propagation technique**|Gokulprasath R et.al.|[2308.05059](http://arxiv.org/abs/2308.05059)|null|
+|**2023-08-09**|**Enhancement of Direct LEO Satellite-to-Smartphone Communications by Distributed Beamforming**|Zhuoao Xu et.al.|[2308.05055](http://arxiv.org/abs/2308.05055)|null|
+|**2023-08-09**|**Designing Cellular Networks for UAV Corridors via Bayesian Optimization**|Mohamed Benzaghta et.al.|[2308.05052](http://arxiv.org/abs/2308.05052)|null|
+|**2023-08-09**|**PAT: Position-Aware Transformer for Dense Multi-Label Action Detection**|Faegheh Sardari et.al.|[2308.05051](http://arxiv.org/abs/2308.05051)|null|
 |**2023-08-08**|**A Deep-Learning Method Using Auto-encoder and Generative Adversarial Network for Anomaly Detection on Ancient Stone Stele Surfaces**|Yikun Liu et.al.|[2308.04426](http://arxiv.org/abs/2308.04426)|null|
 |**2023-08-08**|**A Bi-directional Multi-hop Inference Model for Joint Dialog Sentiment Classification and Act Recognition**|Li Zheng et.al.|[2308.04424](http://arxiv.org/abs/2308.04424)|null|
 |**2023-08-08**|**Near-field 6G Networks: Why Mobile Terahertz Communications MUST Operate in the Near Field**|Vitaly Petrov et.al.|[2308.04418](http://arxiv.org/abs/2308.04418)|null|
@@ -3633,6 +3679,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**DOST -- Domain Obedient Self-supervised Training for Multi Label Classification with Noisy Labels**|Soumadeep Saha et.al.|[2308.05101](http://arxiv.org/abs/2308.05101)|null|
+|**2023-08-09**|**Coherence measurements of polaritons in thermal equilibrium reveal a new power law for two-dimensional condensates**|Hassan Alnatah et.al.|[2308.05100](http://arxiv.org/abs/2308.05100)|null|
+|**2023-08-09**|**Optimal Flexible Consensus and its Application to Ethereum**|Joachim Neu et.al.|[2308.05096](http://arxiv.org/abs/2308.05096)|**[link](https://github.com/tse-group/flexible-eth)**|
+|**2023-08-09**|**Impact of environmental constraints in hydrothermal energy planning**|Luís Felipe Bueno et.al.|[2308.05091](http://arxiv.org/abs/2308.05091)|null|
+|**2023-08-09**|**Lagrangian cobordism functor in microlocal sheaf theory II**|Wenyuan Li et.al.|[2308.05089](http://arxiv.org/abs/2308.05089)|null|
+|**2023-08-09**|**Motility induced phase separation of deformable cells**|Austin Hopkins et.al.|[2308.05088](http://arxiv.org/abs/2308.05088)|null|
+|**2023-08-09**|**Organizational Bulk Email Systems: Their Role and Performance in Remote Work**|Ruoyan Kong et.al.|[2308.05085](http://arxiv.org/abs/2308.05085)|null|
+|**2023-08-09**|**CHERI Performance Enhancement for the MicroPython Interpreter**|Duncan Lowther et.al.|[2308.05076](http://arxiv.org/abs/2308.05076)|null|
+|**2023-08-09**|**Benchmarking a trapped-ion quantum computer with 29 algorithmic qubits**|Jwo-Sy Chen et.al.|[2308.05071](http://arxiv.org/abs/2308.05071)|null|
+|**2023-08-09**|**CERMET: Coding for Energy Reduction with Multiple Encryption Techniques -- $It's\ easy\ being\ green$**|Jongchan Woo et.al.|[2308.05063](http://arxiv.org/abs/2308.05063)|null|
 |**2023-08-08**|**Non steady-state thermometry with optical diffraction tomography**|Adarsh B Vasista et.al.|[2308.04429](http://arxiv.org/abs/2308.04429)|null|
 |**2023-08-08**|**Meta-Learning Operators to Optimality from Multi-Task Non-IID Data**|Thomas T. C. K. Zhang et.al.|[2308.04428](http://arxiv.org/abs/2308.04428)|null|
 |**2023-08-08**|**Uniformly Movable Categories And Uniform Movability Of Topological Spaces**|Pavel S. Gevorgyan et.al.|[2308.04425](http://arxiv.org/abs/2308.04425)|null|
