@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -197,7 +197,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-10**|**Banzhaf Values for Facts in Query Answering**|Omer Abramovich et.al.|[2308.05588](http://arxiv.org/abs/2308.05588)|null|
+|**2023-08-10**|**Banzhaf Values for Facts in Query Answering**|Omer Abramovich et.al.|[2308.05588](http://arxiv.org/abs/2308.05588)|**[link](https://github.com/omer-abramovich/adaban)**|
 |**2023-08-10**|**Shape models and spin states of Jupiter Trojans: Testing the streaming instability formation scenario**|Josef Hanuš et.al.|[2308.05380](http://arxiv.org/abs/2308.05380)|null|
 |**2023-08-09**|**The spectral study of the faint radio sources in the ELAIS N1 field**|Akriti Sinha et.al.|[2308.05192](http://arxiv.org/abs/2308.05192)|null|
 |**2023-08-09**|**Fixing Rust Compilation Errors using LLMs**|Pantazis Deligiannis et.al.|[2308.05177](http://arxiv.org/abs/2308.05177)|null|
@@ -553,7 +553,7 @@ layout: default
 |**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738](http://arxiv.org/abs/2308.05738)|null|
 |**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724](http://arxiv.org/abs/2308.05724)|null|
 |**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697](http://arxiv.org/abs/2308.05697)|**[link](https://github.com/hkuds/sslrec)**|
-|**2023-08-10**|**Quantifying the Consistency and Characterizing the Confidence of Coronal Holes Detected by Active Contours without Edges (ACWE)**|Jeremy A. Grajeda et.al.|[2308.05679](http://arxiv.org/abs/2308.05679)|null|
+|**2023-08-10**|**Quantifying the Consistency and Characterizing the Confidence of Coronal Holes Detected by Active Contours without Edges (ACWE)**|Jeremy A. Grajeda et.al.|[2308.05679](http://arxiv.org/abs/2308.05679)|**[link](https://github.com/duckduckpig/ch-acwe)**|
 |**2023-08-10**|**Algorithms for 3D Hilbert Encoding and Decoding**|David Walker et.al.|[2308.05673](http://arxiv.org/abs/2308.05673)|null|
 |**2023-08-10**|**Coupling kinetic and continuum using data-driven maximum entropy distribution**|Mohsen Sadr et.al.|[2308.05672](http://arxiv.org/abs/2308.05672)|null|
 |**2023-08-10**|**Thermodynamic Linear Algebra**|Maxwell Aifer et.al.|[2308.05660](http://arxiv.org/abs/2308.05660)|null|
@@ -1343,7 +1343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-10**|**Teleamplification on Borealis**|Aaron Z. Goldberg et.al.|[2308.05699](http://arxiv.org/abs/2308.05699)|null|
+|**2023-08-10**|**Teleamplification on Borealis**|Aaron Z. Goldberg et.al.|[2308.05699](http://arxiv.org/abs/2308.05699)|**[link](https://github.com/aarongoldberg9/teleamplification_borealis)**|
 |**2023-08-10**|**Thermodynamic Linear Algebra**|Maxwell Aifer et.al.|[2308.05660](http://arxiv.org/abs/2308.05660)|null|
 |**2023-08-10**|**ReLU and Addition-based Gated RNN**|Rickard Brännvall et.al.|[2308.05629](http://arxiv.org/abs/2308.05629)|null|
 |**2023-08-10**|**NUPES : Non-Uniform Post-Training Quantization via Power Exponent Search**|Edouard Yvinec et.al.|[2308.05600](http://arxiv.org/abs/2308.05600)|null|
@@ -1351,7 +1351,7 @@ layout: default
 |**2023-08-10**|**Checkpoint Placement for Systematic Fault-Injection Campaigns**|Christian Dietrich et.al.|[2308.05521](http://arxiv.org/abs/2308.05521)|null|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459](http://arxiv.org/abs/2308.05459)|null|
 |**2023-08-10**|**Universal imaginary-time critical dynamics on a quantum computer**|Shi-Xin Zhang et.al.|[2308.05408](http://arxiv.org/abs/2308.05408)|null|
-|**2023-08-10**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
+|**2023-08-11**|**Fault Tolerant Quantum Error Mitigation**|Alvin Gonzales et.al.|[2308.05403](http://arxiv.org/abs/2308.05403)|null|
 |**2023-08-10**|**Machine Learning aided Computer Architecture Design for CNN Inferencing Systems**|Christopher A. Metz et.al.|[2308.05364](http://arxiv.org/abs/2308.05364)|null|
 |**2023-08-09**|**Benchmarking a trapped-ion quantum computer with 29 algorithmic qubits**|Jwo-Sy Chen et.al.|[2308.05071](http://arxiv.org/abs/2308.05071)|null|
 |**2023-08-09**|**CERMET: Coding for Energy Reduction with Multiple Encryption Techniques -- $It's\ easy\ being\ green$**|Jongchan Woo et.al.|[2308.05063](http://arxiv.org/abs/2308.05063)|null|
@@ -2111,7 +2111,7 @@ layout: default
 |**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738](http://arxiv.org/abs/2308.05738)|null|
 |**2023-08-10**|**MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2308.05736](http://arxiv.org/abs/2308.05736)|**[link](https://github.com/hustvl/maptr)**|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
-|**2023-08-10**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721](http://arxiv.org/abs/2308.05721)|**[link](https://github.com/yangyangxu0/demtg)**|
+|**2023-08-11**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721](http://arxiv.org/abs/2308.05721)|**[link](https://github.com/yangyangxu0/demtg)**|
 |**2023-08-10**|**Boosting likelihood learning with event reweighting**|Siyu Chen et.al.|[2308.05704](http://arxiv.org/abs/2308.05704)|null|
 |**2023-08-10**|**MobiScout: A Scalable Cloud-Based Driving and Activity Monitoring Platform Featuring an IOS App and a WatchOS Extension**|Kojo Konadu Adu-Gyamfi et.al.|[2308.05698](http://arxiv.org/abs/2308.05698)|null|
 |**2023-08-10**|**SSLRec: A Self-Supervised Learning Library for Recommendation**|Xubin Ren et.al.|[2308.05697](http://arxiv.org/abs/2308.05697)|**[link](https://github.com/hkuds/sslrec)**|
@@ -2907,7 +2907,7 @@ layout: default
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733](http://arxiv.org/abs/2308.05733)|null|
 |**2023-08-10**|**PDE-Refiner: Achieving Accurate Long Rollouts with Neural PDE Solvers**|Phillip Lippe et.al.|[2308.05732](http://arxiv.org/abs/2308.05732)|null|
 |**2023-08-10**|**Optimizing Performance of Feedforward and Convolutional Neural Networks through Dynamic Activation Functions**|Chinmay Rane et.al.|[2308.05724](http://arxiv.org/abs/2308.05724)|null|
-|**2023-08-10**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721](http://arxiv.org/abs/2308.05721)|**[link](https://github.com/yangyangxu0/demtg)**|
+|**2023-08-11**|**Deformable Mixer Transformer with Gating for Multi-Task Learning of Dense Prediction**|Yangyang Xu et.al.|[2308.05721](http://arxiv.org/abs/2308.05721)|**[link](https://github.com/yangyangxu0/demtg)**|
 |**2023-08-10**|**Engineering skin effect across a junction of Hermitian and non-Hermitian lattice**|Ranjan Modak et.al.|[2308.05702](http://arxiv.org/abs/2308.05702)|null|
 |**2023-08-10**|**Isolated Scheduling for Distributed Training Tasks in GPU Clusters**|Xinchi Han et.al.|[2308.05692](http://arxiv.org/abs/2308.05692)|null|
 |**2023-08-10**|**Functional analysis of a gene locus in response to non-canonical combinations of transcription factors**|Netta Haroush et.al.|[2308.05685](http://arxiv.org/abs/2308.05685)|null|
@@ -3698,10 +3698,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-10**|**The strongly driven Fermi polaron**|Franklin J. Vivanco et.al.|[2308.05746](http://arxiv.org/abs/2308.05746)|null|
-|**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737](http://arxiv.org/abs/2308.05737)|null|
+|**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737](http://arxiv.org/abs/2308.05737)|**[link](https://github.com/alaamaalouf/followanything)**|
 |**2023-08-10**|**MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2308.05736](http://arxiv.org/abs/2308.05736)|**[link](https://github.com/hustvl/maptr)**|
 |**2023-08-10**|**Rethinking Integration of Prediction and Planning in Deep Learning-Based Automated Driving Systems: A Review**|Steffen Hagedorn et.al.|[2308.05731](http://arxiv.org/abs/2308.05731)|null|
-|**2023-08-10**|**Quasi-normal mode of dyonic hairy black hole and its interplay with phase transitions**|Supragyan Priyadarshinee et.al.|[2308.05719](http://arxiv.org/abs/2308.05719)|null|
+|**2023-08-11**|**Quasi-normal mode of dyonic hairy black hole and its interplay with phase transitions**|Supragyan Priyadarshinee et.al.|[2308.05719](http://arxiv.org/abs/2308.05719)|null|
 |**2023-08-10**|**JIRAM Observations of Volcanic Flux on Io: Distribution and Comparison to Tidal Heat Flow Models**|M. Pettine et.al.|[2308.05717](http://arxiv.org/abs/2308.05717)|null|
 |**2023-08-10**|**A Comparison of Classical and Deep Reinforcement Learning Methods for HVAC Control**|Marshall Wang et.al.|[2308.05711](http://arxiv.org/abs/2308.05711)|null|
 |**2023-08-10**|**Engineering skin effect across a junction of Hermitian and non-Hermitian lattice**|Ranjan Modak et.al.|[2308.05702](http://arxiv.org/abs/2308.05702)|null|
