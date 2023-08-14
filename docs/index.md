@@ -77,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Proposing a Dynamic Executive Microservices Architecture Model for AI Systems**|Mahyar Karimi et.al.|[2308.05833](http://arxiv.org/abs/2308.05833)|null|
 |**2023-08-09**|**No Free Lunch for Avoiding Clustering Vulnerabilities in Distributed Systems**|Pheerawich Chitnelawong et.al.|[2308.05196](http://arxiv.org/abs/2308.05196)|null|
 |**2023-08-08**|**Capabilities for Distributed Authorization in Information-Centric Networking**|Jens Finkhäuser et.al.|[2308.04140](http://arxiv.org/abs/2308.04140)|null|
 |**2023-08-05**|**ZePoP: A Distributed Leader Election Protocol using the Delay-based Closeness Centrality for Peer-to-Peer Applications**|Md Amjad Hossain et.al.|[2308.02795](http://arxiv.org/abs/2308.02795)|null|
@@ -197,6 +198,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
+|**2023-08-10**|**Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning**|Shi-Ju Kang et.al.|[2308.05794](http://arxiv.org/abs/2308.05794)|null|
 |**2023-08-10**|**Banzhaf Values for Facts in Query Answering**|Omer Abramovich et.al.|[2308.05588](http://arxiv.org/abs/2308.05588)|**[link](https://github.com/omer-abramovich/adaban)**|
 |**2023-08-10**|**Shape models and spin states of Jupiter Trojans: Testing the streaming instability formation scenario**|Josef Hanuš et.al.|[2308.05380](http://arxiv.org/abs/2308.05380)|null|
 |**2023-08-09**|**The spectral study of the faint radio sources in the ELAIS N1 field**|Akriti Sinha et.al.|[2308.05192](http://arxiv.org/abs/2308.05192)|null|
@@ -548,6 +551,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262](http://arxiv.org/abs/2308.06262)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
+|**2023-08-11**|**A Better-Than-1.6-Approximation for Prize-Collecting TSP**|Jannis Blauth et.al.|[2308.06254](http://arxiv.org/abs/2308.06254)|null|
+|**2023-08-11**|**Characteristic cycles of IH sheaves of simply laced minuscule Schubert varieties are irreducible**|Leonardo C. Mihalcea et.al.|[2308.06249](http://arxiv.org/abs/2308.06249)|null|
+|**2023-08-11**|**Minimum Hilbert-Schmidt distance and the Closest Separable state to arbitrary $2 \times 2$ and $2 \times 3$ states**|Palash Pandya et.al.|[2308.06245](http://arxiv.org/abs/2308.06245)|null|
+|**2023-08-11**|**Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms in Visualizations for Consensus Ranking**|Hilson Shrestha et.al.|[2308.06233](http://arxiv.org/abs/2308.06233)|null|
+|**2023-08-11**|**Automated Sizing and Training of Efficient Deep Autoencoders using Second Order Algorithms**|Kanishka Tyagi et.al.|[2308.06221](http://arxiv.org/abs/2308.06221)|null|
+|**2023-08-11**|**Simpler constant factor approximation algorithms for weighted flow time -- now for any $p$ -norm**|Alexander Armbruster et.al.|[2308.06209](http://arxiv.org/abs/2308.06209)|null|
+|**2023-08-11**|**Hot Stellar Populations of Berkeley 39 using Swift/UVOT**|Komal Chand et.al.|[2308.06195](http://arxiv.org/abs/2308.06195)|null|
+|**2023-08-11**|**Sampling and Filtering with Markov Chains**|Michael A. Kouritzin et.al.|[2308.06192](http://arxiv.org/abs/2308.06192)|null|
+|**2023-08-11**|**High efficiency spin-decoupled modulation using chiral C2-symmetric meta-atoms**|Haohan Chen et.al.|[2308.06157](http://arxiv.org/abs/2308.06157)|null|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745](http://arxiv.org/abs/2308.05745)|null|
 |**2023-08-10**|**Zero Grads Ever Given: Learning Local Surrogate Losses for Non-Differentiable Graphics**|Michael Fischer et.al.|[2308.05739](http://arxiv.org/abs/2308.05739)|null|
 |**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738](http://arxiv.org/abs/2308.05738)|null|
@@ -1343,6 +1356,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Comprehensive Benchmarking of Binary Neural Networks on NVM Crossbar Architectures**|Ruirong Huang et.al.|[2308.06227](http://arxiv.org/abs/2308.06227)|null|
+|**2023-08-11**|**SALSy: Security-Aware Layout Synthesis**|Mohammad Eslami et.al.|[2308.06201](http://arxiv.org/abs/2308.06201)|null|
+|**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100](http://arxiv.org/abs/2308.06100)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
+|**2023-08-11**|**Joint Beamforming Optimization for Active STAR-RIS Assisted ISAC systems**|Shuang Zhang et.al.|[2308.06064](http://arxiv.org/abs/2308.06064)|null|
+|**2023-08-11**|**Hardware Accelerators in Autonomous Driving**|Ken Power et.al.|[2308.06054](http://arxiv.org/abs/2308.06054)|null|
+|**2023-08-11**|**Cost-effective On-device Continual Learning over Memory Hierarchy with Miro**|Xinyue Ma et.al.|[2308.06053](http://arxiv.org/abs/2308.06053)|null|
+|**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
+|**2023-08-10**|**Posiform Planting: Generating QUBO Instances for Benchmarking**|Georg Hahn et.al.|[2308.05859](http://arxiv.org/abs/2308.05859)|null|
+|**2023-08-10**|**Spintronics for image recognition : performance benchmarking via ultrafast data-driven simulations**|Anatole Moureaux et.al.|[2308.05810](http://arxiv.org/abs/2308.05810)|null|
+|**2023-08-10**|**Toward Process Controlled Medical Robotic System**|Yihao Liu et.al.|[2308.05809](http://arxiv.org/abs/2308.05809)|null|
 |**2023-08-10**|**Teleamplification on Borealis**|Aaron Z. Goldberg et.al.|[2308.05699](http://arxiv.org/abs/2308.05699)|**[link](https://github.com/aarongoldberg9/teleamplification_borealis)**|
 |**2023-08-10**|**Thermodynamic Linear Algebra**|Maxwell Aifer et.al.|[2308.05660](http://arxiv.org/abs/2308.05660)|null|
 |**2023-08-10**|**ReLU and Addition-based Gated RNN**|Rickard Brännvall et.al.|[2308.05629](http://arxiv.org/abs/2308.05629)|null|
@@ -2107,6 +2130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Fundamental Limits on Subwavelength Range Resolution**|Andrew N. Jordan et.al.|[2308.06252](http://arxiv.org/abs/2308.06252)|null|
+|**2023-08-11**|**Generation of phonon quantum states and quantum correlations among single photon emitters in hexagonal boron nitride**|Hugo Molinares et.al.|[2308.06244](http://arxiv.org/abs/2308.06244)|null|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235](http://arxiv.org/abs/2308.06235)|**[link](https://github.com/1094701018/ketm)**|
+|**2023-08-11**|**MaxFloodCast: Ensemble Machine Learning Model for Predicting Peak Inundation Depth And Decoding Influencing Features**|Cheng-Chun Lee et.al.|[2308.06228](http://arxiv.org/abs/2308.06228)|null|
+|**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212](http://arxiv.org/abs/2308.06212)|null|
+|**2023-08-11**|**Exploring Predicate Visual Context in Detecting of Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202](http://arxiv.org/abs/2308.06202)|**[link](https://github.com/fredzzhang/pvic)**|
+|**2023-08-11**|**SALSy: Security-Aware Layout Synthesis**|Mohammad Eslami et.al.|[2308.06201](http://arxiv.org/abs/2308.06201)|null|
+|**2023-08-11**|**Designs via Free Probability**|Michele Fava et.al.|[2308.06200](http://arxiv.org/abs/2308.06200)|null|
+|**2023-08-11**|**DIG In: Evaluating Disparities in Image Generations with Indicators for Geographic Diversity**|Melissa Hall et.al.|[2308.06198](http://arxiv.org/abs/2308.06198)|null|
+|**2023-08-11**|**Complex Facial Expression Recognition Using Deep Knowledge Distillation of Basic Features**|Angus Maiden et.al.|[2308.06197](http://arxiv.org/abs/2308.06197)|**[link](https://github.com/angusmaiden/complex-fer)**|
 |**2023-08-10**|**A Characterization of Entropy as a Universal Monoidal Natural Transformation**|Cheuk Ting Li et.al.|[2308.05742](http://arxiv.org/abs/2308.05742)|null|
 |**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738](http://arxiv.org/abs/2308.05738)|null|
 |**2023-08-10**|**MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2308.05736](http://arxiv.org/abs/2308.05736)|**[link](https://github.com/hustvl/maptr)**|
@@ -2902,6 +2935,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Foundation Model is Efficient Multimodal Multitask Model Selector**|Fanqing Meng et.al.|[2308.06262](http://arxiv.org/abs/2308.06262)|**[link](https://github.com/opengvlab/multitask-model-selector)**|
+|**2023-08-11**|**Enhancing Network Management Using Code Generated by Large Language Models**|Sathiya Kumaran Mani et.al.|[2308.06261](http://arxiv.org/abs/2308.06261)|null|
+|**2023-08-11**|**NEMA NU 2-2018 performance evaluation of a new generation digital 32-cm axial field-of-view Omni Legend PET-CT**|Rhodri Lyn Smith et.al.|[2308.06255](http://arxiv.org/abs/2308.06255)|null|
+|**2023-08-11**|**Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions**|Zirui Chen et.al.|[2308.06250](http://arxiv.org/abs/2308.06250)|null|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235](http://arxiv.org/abs/2308.06235)|**[link](https://github.com/1094701018/ketm)**|
+|**2023-08-11**|**Comprehensive Benchmarking of Binary Neural Networks on NVM Crossbar Architectures**|Ruirong Huang et.al.|[2308.06227](http://arxiv.org/abs/2308.06227)|null|
+|**2023-08-11**|**Automated Sizing and Training of Efficient Deep Autoencoders using Second Order Algorithms**|Kanishka Tyagi et.al.|[2308.06221](http://arxiv.org/abs/2308.06221)|null|
+|**2023-08-11**|**Nonlinear Permuted Granger Causality**|Noah D. Gade et.al.|[2308.06220](http://arxiv.org/abs/2308.06220)|**[link](https://github.com/noahgade/nonlinearpermutedgrangercausality)**|
+|**2023-08-11**|**Acoustofluidic Engineering Functional Vessel-on-a-Chip**|Yue Wu et.al.|[2308.06219](http://arxiv.org/abs/2308.06219)|null|
+|**2023-08-11**|**Change Point Detection With Conceptors**|Noah D. Gade et.al.|[2308.06213](http://arxiv.org/abs/2308.06213)|**[link](https://github.com/noahgade/changepointdetectionwithconceptors)**|
 |**2023-08-10**|**Iterative Reweighted Least Squares Networks With Convergence Guarantees for Solving Inverse Imaging Problems**|Iaroslav Koshelev et.al.|[2308.05745](http://arxiv.org/abs/2308.05745)|null|
 |**2023-08-10**|**Continuous and Atlas-free Analysis of Brain Structural Connectivity**|William Consagra et.al.|[2308.05738](http://arxiv.org/abs/2308.05738)|null|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733](http://arxiv.org/abs/2308.05733)|null|
@@ -3697,6 +3740,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Enhancing Network Management Using Code Generated by Large Language Models**|Sathiya Kumaran Mani et.al.|[2308.06261](http://arxiv.org/abs/2308.06261)|null|
+|**2023-08-11**|**NEMA NU 2-2018 performance evaluation of a new generation digital 32-cm axial field-of-view Omni Legend PET-CT**|Rhodri Lyn Smith et.al.|[2308.06255](http://arxiv.org/abs/2308.06255)|null|
+|**2023-08-11**|**Mixing Property of Symmetrical Polygonal Billiards**|R. B. do Carmo et.al.|[2308.06251](http://arxiv.org/abs/2308.06251)|null|
+|**2023-08-11**|**Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions**|Zirui Chen et.al.|[2308.06250](http://arxiv.org/abs/2308.06250)|null|
+|**2023-08-11**|**A new simulation framework for IceCube Upgrade calibration using IceCube Upgrade Camera system**|Christoph Tönnis et.al.|[2308.06247](http://arxiv.org/abs/2308.06247)|null|
+|**2023-08-11**|**ARGUS: Visualization of AI-Assisted Task Guidance in AR**|Sonia Castelo et.al.|[2308.06246](http://arxiv.org/abs/2308.06246)|null|
+|**2023-08-11**|**The nonlinear physical aging-susceptibility of a glass forming melt**|Kevin Moch et.al.|[2308.06238](http://arxiv.org/abs/2308.06238)|null|
+|**2023-08-11**|**The reshape of three-body interactions: Observation of the survival of an Efimov state in the atom-dimer continuum**|Yaakov Yudkin et.al.|[2308.06237](http://arxiv.org/abs/2308.06237)|null|
+|**2023-08-11**|**Forming rocky exoplanets around K-dwarf stars**|P. Hatalova et.al.|[2308.06236](http://arxiv.org/abs/2308.06236)|null|
+|**2023-08-11**|**KETM:A Knowledge-Enhanced Text Matching method**|Kexin Jiang et.al.|[2308.06235](http://arxiv.org/abs/2308.06235)|**[link](https://github.com/1094701018/ketm)**|
 |**2023-08-10**|**The strongly driven Fermi polaron**|Franklin J. Vivanco et.al.|[2308.05746](http://arxiv.org/abs/2308.05746)|null|
 |**2023-08-10**|**Follow Anything: Open-set detection, tracking, and following in real-time**|Alaa Maalouf et.al.|[2308.05737](http://arxiv.org/abs/2308.05737)|**[link](https://github.com/alaamaalouf/followanything)**|
 |**2023-08-10**|**MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction**|Bencheng Liao et.al.|[2308.05736](http://arxiv.org/abs/2308.05736)|**[link](https://github.com/hustvl/maptr)**|
