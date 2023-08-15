@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -199,7 +199,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
-|**2023-08-10**|**Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning**|Shi-Ju Kang et.al.|[2308.05794](http://arxiv.org/abs/2308.05794)|null|
+|**2023-08-10**|**Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning**|Shi-Ju Kang et.al.|[2308.05794](http://arxiv.org/abs/2308.05794)|**[link](https://github.com/ksj7924/kang2023mnrcode)**|
 |**2023-08-10**|**Banzhaf Values for Facts in Query Answering**|Omer Abramovich et.al.|[2308.05588](http://arxiv.org/abs/2308.05588)|**[link](https://github.com/omer-abramovich/adaban)**|
 |**2023-08-10**|**Shape models and spin states of Jupiter Trojans: Testing the streaming instability formation scenario**|Josef Hanuš et.al.|[2308.05380](http://arxiv.org/abs/2308.05380)|null|
 |**2023-08-09**|**The spectral study of the faint radio sources in the ELAIS N1 field**|Akriti Sinha et.al.|[2308.05192](http://arxiv.org/abs/2308.05192)|null|
@@ -1361,7 +1361,7 @@ layout: default
 |**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100](http://arxiv.org/abs/2308.06100)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
 |**2023-08-11**|**Joint Beamforming Optimization for Active STAR-RIS Assisted ISAC systems**|Shuang Zhang et.al.|[2308.06064](http://arxiv.org/abs/2308.06064)|null|
 |**2023-08-11**|**Hardware Accelerators in Autonomous Driving**|Ken Power et.al.|[2308.06054](http://arxiv.org/abs/2308.06054)|null|
-|**2023-08-11**|**Cost-effective On-device Continual Learning over Memory Hierarchy with Miro**|Xinyue Ma et.al.|[2308.06053](http://arxiv.org/abs/2308.06053)|null|
+|**2023-08-14**|**Cost-effective On-device Continual Learning over Memory Hierarchy with Miro**|Xinyue Ma et.al.|[2308.06053](http://arxiv.org/abs/2308.06053)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
 |**2023-08-10**|**Posiform Planting: Generating QUBO Instances for Benchmarking**|Georg Hahn et.al.|[2308.05859](http://arxiv.org/abs/2308.05859)|null|
 |**2023-08-10**|**Spintronics for image recognition : performance benchmarking via ultrafast data-driven simulations**|Anatole Moureaux et.al.|[2308.05810](http://arxiv.org/abs/2308.05810)|null|
