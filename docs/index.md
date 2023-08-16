@@ -77,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Resilience assessment and planning in power distribution systems:Past and future considerations**|Shuva Paul et.al.|[2308.07552](http://arxiv.org/abs/2308.07552)|null|
 |**2023-08-10**|**Proposing a Dynamic Executive Microservices Architecture Model for AI Systems**|Mahyar Karimi et.al.|[2308.05833](http://arxiv.org/abs/2308.05833)|null|
 |**2023-08-09**|**No Free Lunch for Avoiding Clustering Vulnerabilities in Distributed Systems**|Pheerawich Chitnelawong et.al.|[2308.05196](http://arxiv.org/abs/2308.05196)|null|
 |**2023-08-08**|**Capabilities for Distributed Authorization in Information-Centric Networking**|Jens Finkhäuser et.al.|[2308.04140](http://arxiv.org/abs/2308.04140)|null|
@@ -198,6 +199,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898](http://arxiv.org/abs/2308.07898)|**[link](https://github.com/jusiro/flair)**|
+|**2023-08-15**|**Nonleptonic two-body weak decays of charmed baryons**|Chia-Wei Liu et.al.|[2308.07754](http://arxiv.org/abs/2308.07754)|null|
+|**2023-08-15**|**SEER: Super-Optimization Explorer for HLS using E-graph Rewriting with MLIR**|Jianyi Cheng et.al.|[2308.07654](http://arxiv.org/abs/2308.07654)|null|
+|**2023-08-15**|**ADD: An Automatic Desensitization Fisheye Dataset for Autonomous Driving**|Zizhang Wu et.al.|[2308.07590](http://arxiv.org/abs/2308.07590)|null|
+|**2023-08-14**|**Degrees of Separation: A Flexible Type System for Data Race Prevention**|Yichen Xu et.al.|[2308.07474](http://arxiv.org/abs/2308.07474)|null|
 |**2023-08-14**|**OctoPack: Instruction Tuning Code Large Language Models**|Niklas Muennighoff et.al.|[2308.07124](http://arxiv.org/abs/2308.07124)|**[link](https://github.com/bigcode-project/octopack)**|
 |**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050](http://arxiv.org/abs/2308.07050)|null|
 |**2023-08-14**|**Planetary Entry Probe Dataset: Analysis and Rules of Thumb for Future Missions**|Athul Pradeepkumar Girija et.al.|[2308.07005](http://arxiv.org/abs/2308.07005)|null|
@@ -558,6 +564,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926](http://arxiv.org/abs/2308.07926)|**[link](https://github.com/qiuyu96/codef)**|
+|**2023-08-15**|**Enumerating Tarski fixed points on lattices of binary relations**|Julian Müller et.al.|[2308.07923](http://arxiv.org/abs/2308.07923)|null|
+|**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|
+|**2023-08-15**|**Benchmarking highly entangled states on a 60-atom analog quantum simulator**|Adam L. Shaw et.al.|[2308.07914](http://arxiv.org/abs/2308.07914)|null|
+|**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
+|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|null|
+|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-15**|**EduSAT: A Pedagogical Tool for Theory and Applications of Boolean Satisfiability**|Yiqi Zhao et.al.|[2308.07890](http://arxiv.org/abs/2308.07890)|**[link](https://github.com/zhaoy37/sat_solver)**|
+|**2023-08-15**|**On regularized Radon-Nikodym differentiation**|Duc Hoan Nguyen et.al.|[2308.07887](http://arxiv.org/abs/2308.07887)|null|
+|**2023-08-15**|**Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms**|Bhaskar Dhariyal et.al.|[2308.07886](http://arxiv.org/abs/2308.07886)|**[link](https://github.com/mlgig/tabularmodelsfortsc)**|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
 |**2023-08-14**|**Extend Wave Function Collapse to Large-Scale Content Generation**|Yuhe Nie et.al.|[2308.07307](http://arxiv.org/abs/2308.07307)|null|
 |**2023-08-14**|**Passing from plat closure to standard closure of braids in $\mathbb{R}^3$ , in handlebodies and in thickened surfaces**|Paolo Cavicchioli et.al.|[2308.07291](http://arxiv.org/abs/2308.07291)|null|
@@ -1373,6 +1389,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Domain-Adaptive Device Fingerprints for Network Access Authentication Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2308.07925](http://arxiv.org/abs/2308.07925)|null|
+|**2023-08-15**|**Benchmarking highly entangled states on a 60-atom analog quantum simulator**|Adam L. Shaw et.al.|[2308.07914](http://arxiv.org/abs/2308.07914)|null|
+|**2023-08-15**|**A Scalable Formal Verification Methodology for Data-Oblivious Hardware**|Lucas Deutschmann et.al.|[2308.07757](http://arxiv.org/abs/2308.07757)|null|
+|**2023-08-15**|**Global biasing using a Hardware-based artificial Zeeman term in Spinwave Ising Machines**|Victor H. González et.al.|[2308.07718](http://arxiv.org/abs/2308.07718)|null|
+|**2023-08-15**|**Single Qubit State Estimation on NISQ Devices with Limited Resources and SIC-POVMs**|Cristian A. Galvis-Florez et.al.|[2308.07664](http://arxiv.org/abs/2308.07664)|null|
+|**2023-08-15**|**SEER: Super-Optimization Explorer for HLS using E-graph Rewriting with MLIR**|Jianyi Cheng et.al.|[2308.07654](http://arxiv.org/abs/2308.07654)|null|
+|**2023-08-15**|**EQ-Net: Elastic Quantization Neural Networks**|Ke Xu et.al.|[2308.07650](http://arxiv.org/abs/2308.07650)|**[link](https://github.com/xuke225/eq-net)**|
+|**2023-08-15**|**Prism: Revealing Hidden Functional Clusters from Massive Instances in Cloud Systems**|Jinyang Liu et.al.|[2308.07638](http://arxiv.org/abs/2308.07638)|null|
+|**2023-08-14**|**Kernel Fusion in Atomistic Spin Dynamics Simulations on Nvidia GPUs using Tensor Core**|Hongwei Chen et.al.|[2308.07487](http://arxiv.org/abs/2308.07487)|null|
+|**2023-08-14**|**SerIOS: Enhancing Hardware Security in Integrated Optoelectronic Systems**|Felipe Gohring de Magalhaes et.al.|[2308.07466](http://arxiv.org/abs/2308.07466)|null|
 |**2023-08-14**|**Full Duplex Joint Communications and Sensing for 6G: Opportunities and Challenges**|Chandan Kumar Sheemar et.al.|[2308.07266](http://arxiv.org/abs/2308.07266)|null|
 |**2023-08-14**|**Multi-energy X-ray linear-array detector enabled by the side-illuminated metal halide scintillator**|Peng Ran et.al.|[2308.07254](http://arxiv.org/abs/2308.07254)|null|
 |**2023-08-14**|**Age of Processing-Based Data Offloading for Autonomous Vehicles in Multi-RATs Open RAN**|Anselme Ndikumana et.al.|[2308.07242](http://arxiv.org/abs/2308.07242)|null|
@@ -2157,6 +2183,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Investigation Toward The Economic Feasibility of Personalized Medicine For Healthcare Service Providers: The Case of Bladder Cancer**|Elizaveta Savchenko et.al.|[2308.07924](http://arxiv.org/abs/2308.07924)|null|
+|**2023-08-15**|**A characterization of strong percolation via disconnection**|Hugo Duminil-Copin et.al.|[2308.07920](http://arxiv.org/abs/2308.07920)|null|
+|**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
+|**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898](http://arxiv.org/abs/2308.07898)|**[link](https://github.com/jusiro/flair)**|
+|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|null|
+|**2023-08-15**|**On regularized Radon-Nikodym differentiation**|Duc Hoan Nguyen et.al.|[2308.07887](http://arxiv.org/abs/2308.07887)|null|
+|**2023-08-15**|**Electrically tunable quantum confinement of neutral excitons**|Deepankur Thureja et.al.|[2308.07879](http://arxiv.org/abs/2308.07879)|null|
+|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876](http://arxiv.org/abs/2308.07876)|null|
+|**2023-08-15**|**Near-Optimal Last-iterate Convergence of Policy Optimization in Zero-sum Polymatrix Markov games**|Zailin Ma et.al.|[2308.07873](http://arxiv.org/abs/2308.07873)|null|
+|**2023-08-15**|**Brain-Inspired Computational Intelligence via Predictive Coding**|Tommaso Salvatori et.al.|[2308.07870](http://arxiv.org/abs/2308.07870)|null|
 |**2023-08-14**|**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**|Ariel N. Lee et.al.|[2308.07317](http://arxiv.org/abs/2308.07317)|**[link](https://github.com/arielnlee/Platypus)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Dual Associated Encoder for Face Restoration**|Yu-Ju Tsai et.al.|[2308.07314](http://arxiv.org/abs/2308.07314)|null|
@@ -2972,6 +3008,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Domain-Adaptive Device Fingerprints for Network Access Authentication Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2308.07925](http://arxiv.org/abs/2308.07925)|null|
+|**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918](http://arxiv.org/abs/2308.07918)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
+|**2023-08-15**|**Sequential Monte Carlo with Cross-validated Neural Networks for Complexity of Hyperbolic Black Hole Solutions in 4D**|Armin Hatefi et.al.|[2308.07907](http://arxiv.org/abs/2308.07907)|null|
+|**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
+|**2023-08-15**|**The Challenge of Fetal Cardiac MRI Reconstruction Using Deep Learning**|Denis Prokopenko et.al.|[2308.07885](http://arxiv.org/abs/2308.07885)|null|
+|**2023-08-15**|**Towards Temporal Edge Regression: A Case Study on Agriculture Trade Between Nations**|Lekang Jiang et.al.|[2308.07883](http://arxiv.org/abs/2308.07883)|**[link](https://github.com/scylj1/gnn_edge_regression)**|
+|**2023-08-15**|**Clusters in randomly-coloured spatial networks**|Silvia Rognone et.al.|[2308.07880](http://arxiv.org/abs/2308.07880)|null|
+|**2023-08-15**|**Brain-Inspired Computational Intelligence via Predictive Coding**|Tommaso Salvatori et.al.|[2308.07870](http://arxiv.org/abs/2308.07870)|null|
+|**2023-08-15**|**ObjectSDF++: Improved Object-Compositional Neural Implicit Surfaces**|Qianyi Wu et.al.|[2308.07868](http://arxiv.org/abs/2308.07868)|**[link](https://github.com/qianyiwu/objectsdf_plus)**|
+|**2023-08-15**|**Graph-Structured Kernel Design for Power Flow Learning using Gaussian Processes**|Parikshit Pareek et.al.|[2308.07867](http://arxiv.org/abs/2308.07867)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**Vibrational Stabilization of Cluster Synchronization in Oscillator Networks**|Yuzhen Qin et.al.|[2308.07302](http://arxiv.org/abs/2308.07302)|null|
 |**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283](http://arxiv.org/abs/2308.07283)|null|
@@ -3787,6 +3833,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Bound state breaking and the importance of thermal exchange-correlation effects in warm dense hydrogen**|Zhandos Moldabekov et.al.|[2308.07916](http://arxiv.org/abs/2308.07916)|null|
+|**2023-08-15**|**Benchmarking highly entangled states on a 60-atom analog quantum simulator**|Adam L. Shaw et.al.|[2308.07914](http://arxiv.org/abs/2308.07914)|null|
+|**2023-08-15**|**Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD169142 disk**|Alice S. Booth et.al.|[2308.07910](http://arxiv.org/abs/2308.07910)|null|
+|**2023-08-15**|**Sequential Monte Carlo with Cross-validated Neural Networks for Complexity of Hyperbolic Black Hole Solutions in 4D**|Armin Hatefi et.al.|[2308.07907](http://arxiv.org/abs/2308.07907)|null|
+|**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
+|**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
+|**2023-08-15**|**Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**|Ziyu Zhuang et.al.|[2308.07902](http://arxiv.org/abs/2308.07902)|null|
+|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-15**|**Roses Have Thorns: Understanding the Downside of Oncological Care Delivery Through Visual Analytics and Sequential Rule Mining**|Carla Floricel et.al.|[2308.07895](http://arxiv.org/abs/2308.07895)|null|
+|**2023-08-15**|**Memory-and-Anticipation Transformer for Online Action Understanding**|Jiahao Wang et.al.|[2308.07893](http://arxiv.org/abs/2308.07893)|**[link](https://github.com/echo0125/memory-and-anticipation-transformer)**|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
 |**2023-08-14**|**Extend Wave Function Collapse to Large-Scale Content Generation**|Yuhe Nie et.al.|[2308.07307](http://arxiv.org/abs/2308.07307)|null|
 |**2023-08-14**|**Vibrational Stabilization of Cluster Synchronization in Oscillator Networks**|Yuzhen Qin et.al.|[2308.07302](http://arxiv.org/abs/2308.07302)|null|
@@ -4602,6 +4658,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Gradient-Based Post-Training Quantization: Challenging the Status Quo**|Edouard Yvinec et.al.|[2308.07662](http://arxiv.org/abs/2308.07662)|null|
+|**2023-08-15**|**EQ-Net: Elastic Quantization Neural Networks**|Ke Xu et.al.|[2308.07650](http://arxiv.org/abs/2308.07650)|**[link](https://github.com/xuke225/eq-net)**|
 |**2023-08-12**|**Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation**|Seyedarmin Azizi et.al.|[2308.06422](http://arxiv.org/abs/2308.06422)|null|
 |**2023-08-07**|**FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search**|Jordan Dotzel et.al.|[2308.03290](http://arxiv.org/abs/2308.03290)|null|
 |**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
