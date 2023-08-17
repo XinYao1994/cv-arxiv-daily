@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -208,7 +208,7 @@ layout: default
 |**2023-08-14**|**Survey on video anomaly detection in dynamic scenes with moving cameras**|Runyu Jiao et.al.|[2308.07050](http://arxiv.org/abs/2308.07050)|null|
 |**2023-08-14**|**Planetary Entry Probe Dataset: Analysis and Rules of Thumb for Future Missions**|Athul Pradeepkumar Girija et.al.|[2308.07005](http://arxiv.org/abs/2308.07005)|null|
 |**2023-08-13**|**Impact of Orientation on the Bias of SRAM-Based PUFs**|Zain Ul Abideen et.al.|[2308.06730](http://arxiv.org/abs/2308.06730)|null|
-|**2023-08-15**|**Streamlined data analysis in Python**|Luis Altenkort et.al.|[2308.06652](http://arxiv.org/abs/2308.06652)|null|
+|**2023-08-15**|**Streamlined data analysis in Python**|Luis Altenkort et.al.|[2308.06652](http://arxiv.org/abs/2308.06652)|**[link](https://github.com/latticeqcd/latticetoolbox)**|
 |**2023-08-12**|**Software refactoring and rewriting: from the perspective of code transformations**|Yu Liu et.al.|[2308.06615](http://arxiv.org/abs/2308.06615)|null|
 |**2023-08-12**|**Instruction Set Architecture (ISA) for Processing-in-Memory DNN Accelerators**|Xiaoming Chen et.al.|[2308.06449](http://arxiv.org/abs/2308.06449)|null|
 |**2023-08-11**|**INR-Arch: A Dataflow Architecture and Compiler for Arbitrary-Order Gradient Computations in Implicit Neural Representation Processing**|Stefan Abi-Karam et.al.|[2308.05930](http://arxiv.org/abs/2308.05930)|null|
@@ -569,8 +569,8 @@ layout: default
 |**2023-08-15**|**High-threshold and low-overhead fault-tolerant quantum memory**|Sergey Bravyi et.al.|[2308.07915](http://arxiv.org/abs/2308.07915)|null|
 |**2023-08-15**|**Benchmarking highly entangled states on a 60-atom analog quantum simulator**|Adam L. Shaw et.al.|[2308.07914](http://arxiv.org/abs/2308.07914)|null|
 |**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
-|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|null|
-|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|**[link](https://github.com/mingchiangchang/crystaltree.jl)**|
+|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
 |**2023-08-15**|**EduSAT: A Pedagogical Tool for Theory and Applications of Boolean Satisfiability**|Yiqi Zhao et.al.|[2308.07890](http://arxiv.org/abs/2308.07890)|**[link](https://github.com/zhaoy37/sat_solver)**|
 |**2023-08-15**|**On regularized Radon-Nikodym differentiation**|Duc Hoan Nguyen et.al.|[2308.07887](http://arxiv.org/abs/2308.07887)|null|
 |**2023-08-15**|**Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms**|Bhaskar Dhariyal et.al.|[2308.07886](http://arxiv.org/abs/2308.07886)|**[link](https://github.com/mlgig/tabularmodelsfortsc)**|
@@ -2187,11 +2187,11 @@ layout: default
 |**2023-08-15**|**A characterization of strong percolation via disconnection**|Hugo Duminil-Copin et.al.|[2308.07920](http://arxiv.org/abs/2308.07920)|null|
 |**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
 |**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898](http://arxiv.org/abs/2308.07898)|**[link](https://github.com/jusiro/flair)**|
-|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|null|
+|**2023-08-15**|**Probabilistic Phase Labeling and Lattice Refinement for Autonomous Material Research**|Ming-Chiang Chang et.al.|[2308.07897](http://arxiv.org/abs/2308.07897)|**[link](https://github.com/mingchiangchang/crystaltree.jl)**|
 |**2023-08-15**|**On regularized Radon-Nikodym differentiation**|Duc Hoan Nguyen et.al.|[2308.07887](http://arxiv.org/abs/2308.07887)|null|
 |**2023-08-15**|**Electrically tunable quantum confinement of neutral excitons**|Deepankur Thureja et.al.|[2308.07879](http://arxiv.org/abs/2308.07879)|null|
 |**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876](http://arxiv.org/abs/2308.07876)|null|
-|**2023-08-15**|**Near-Optimal Last-iterate Convergence of Policy Optimization in Zero-sum Polymatrix Markov games**|Zailin Ma et.al.|[2308.07873](http://arxiv.org/abs/2308.07873)|null|
+|**2023-08-16**|**Near-Optimal Last-iterate Convergence of Policy Optimization in Zero-sum Polymatrix Markov games**|Zailin Ma et.al.|[2308.07873](http://arxiv.org/abs/2308.07873)|null|
 |**2023-08-15**|**Brain-Inspired Computational Intelligence via Predictive Coding**|Tommaso Salvatori et.al.|[2308.07870](http://arxiv.org/abs/2308.07870)|null|
 |**2023-08-14**|**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**|Ariel N. Lee et.al.|[2308.07317](http://arxiv.org/abs/2308.07317)|**[link](https://github.com/arielnlee/Platypus)**|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316](http://arxiv.org/abs/2308.07316)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
@@ -3840,7 +3840,7 @@ layout: default
 |**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
 |**2023-08-15**|**Relightable and Animatable Neural Avatar from Sparse-View Video**|Zhen Xu et.al.|[2308.07903](http://arxiv.org/abs/2308.07903)|null|
 |**2023-08-15**|**Through the Lens of Core Competency: Survey on Evaluation of Large Language Models**|Ziyu Zhuang et.al.|[2308.07902](http://arxiv.org/abs/2308.07902)|null|
-|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
 |**2023-08-15**|**Roses Have Thorns: Understanding the Downside of Oncological Care Delivery Through Visual Analytics and Sequential Rule Mining**|Carla Floricel et.al.|[2308.07895](http://arxiv.org/abs/2308.07895)|null|
 |**2023-08-15**|**Memory-and-Anticipation Transformer for Online Action Understanding**|Jiahao Wang et.al.|[2308.07893](http://arxiv.org/abs/2308.07893)|**[link](https://github.com/echo0125/memory-and-anticipation-transformer)**|
 |**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
@@ -4660,7 +4660,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-15**|**Gradient-Based Post-Training Quantization: Challenging the Status Quo**|Edouard Yvinec et.al.|[2308.07662](http://arxiv.org/abs/2308.07662)|null|
 |**2023-08-15**|**EQ-Net: Elastic Quantization Neural Networks**|Ke Xu et.al.|[2308.07650](http://arxiv.org/abs/2308.07650)|**[link](https://github.com/xuke225/eq-net)**|
-|**2023-08-12**|**Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation**|Seyedarmin Azizi et.al.|[2308.06422](http://arxiv.org/abs/2308.06422)|null|
+|**2023-08-16**|**Sensitivity-Aware Mixed-Precision Quantization and Width Optimization of Deep Neural Networks Through Cluster-Based Tree-Structured Parzen Estimation**|Seyedarmin Azizi et.al.|[2308.06422](http://arxiv.org/abs/2308.06422)|null|
 |**2023-08-07**|**FLIQS: One-Shot Mixed-Precision Floating-Point and Integer Quantization Search**|Jordan Dotzel et.al.|[2308.03290](http://arxiv.org/abs/2308.03290)|null|
 |**2023-07-27**|**Speeding up Fourier Neural Operators via Mixed Precision**|Colin White et.al.|[2307.15034](http://arxiv.org/abs/2307.15034)|**[link](https://github.com/neuraloperator/neuraloperator)**|
 |**2023-07-24**|**A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization**|Edward Fish et.al.|[2307.12659](http://arxiv.org/abs/2307.12659)|null|
