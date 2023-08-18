@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1409,7 +1409,7 @@ layout: default
 |**2023-08-16**|**Automatic Vision-Based Parking Slot Detection and Occupancy Classification**|Ratko Grbić et.al.|[2308.08192](http://arxiv.org/abs/2308.08192)|null|
 |**2023-08-16**|**Accelerating Generic Graph Neural Networks via Architecture, Compiler, Partition Method Co-Design**|Shuwen Lu et.al.|[2308.08174](http://arxiv.org/abs/2308.08174)|null|
 |**2023-08-16**|**SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device**|Weiran Gou et.al.|[2308.08137](http://arxiv.org/abs/2308.08137)|null|
-|**2023-08-15**|**A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes**|Akhilesh Raj et.al.|[2308.08069](http://arxiv.org/abs/2308.08069)|null|
+|**2023-08-15**|**A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes**|Akhilesh Raj et.al.|[2308.08069](http://arxiv.org/abs/2308.08069)|**[link](https://github.com/akhileshraj91/generalized_rl_anl)**|
 |**2023-08-15**|**Exploring the Potential of Qutrits for Quantum Optimization of Graph Coloring**|Gabriel Bottrill et.al.|[2308.08050](http://arxiv.org/abs/2308.08050)|null|
 |**2023-08-15**|**Quantum computing for chemistry and physics applications from a Monte Carlo perspective**|Guglielmo Mazzola et.al.|[2308.07964](http://arxiv.org/abs/2308.07964)|null|
 |**2023-08-15**|**Targeted Multispectral Filter Array Design for Endoscopic Cancer Detection in the Gastrointestinal Tract**|Michaela Taylor-Williams et.al.|[2308.07947](http://arxiv.org/abs/2308.07947)|null|
@@ -2216,7 +2216,7 @@ layout: default
 |**2023-08-16**|**Time Travel in LLMs: Tracing Data Contamination in Large Language Models**|Shahriar Golchin et.al.|[2308.08493](http://arxiv.org/abs/2308.08493)|null|
 |**2023-08-16**|**Reflected spectroscopy of small exoplanets III: probing the UV band to measure biosignature gasses**|Mario Damiano et.al.|[2308.08490](http://arxiv.org/abs/2308.08490)|null|
 |**2023-08-16**|**Classification Committee for Active Deep Object Detection**|Lei Zhao et.al.|[2308.08476](http://arxiv.org/abs/2308.08476)|null|
-|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|null|
+|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|**[link](https://github.com/predictiveintelligencelab/jaxpi)**|
 |**2023-08-15**|**Investigation Toward The Economic Feasibility of Personalized Medicine For Healthcare Service Providers: The Case of Bladder Cancer**|Elizaveta Savchenko et.al.|[2308.07924](http://arxiv.org/abs/2308.07924)|null|
 |**2023-08-15**|**A characterization of strong percolation via disconnection**|Hugo Duminil-Copin et.al.|[2308.07920](http://arxiv.org/abs/2308.07920)|null|
 |**2023-08-15**|**The Role of Early Sampling in Age of Information Minimization in the Presence of ACK Delays**|Sahan Liyanaarachchi et.al.|[2308.07905](http://arxiv.org/abs/2308.07905)|null|
@@ -3050,7 +3050,7 @@ layout: default
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-16**|**An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms**|Alice Othmani et.al.|[2308.08472](http://arxiv.org/abs/2308.08472)|null|
 |**2023-08-16**|**Certifying Stability and Performance of Uncertain Differential-Algebraic Systems: A Dissipativity Framework**|Emily Jensen et.al.|[2308.08471](http://arxiv.org/abs/2308.08471)|null|
-|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|null|
+|**2023-08-16**|**An Expert's Guide to Training Physics-informed Neural Networks**|Sifan Wang et.al.|[2308.08468](http://arxiv.org/abs/2308.08468)|**[link](https://github.com/predictiveintelligencelab/jaxpi)**|
 |**2023-08-16**|**Hierarchical Uncertainty Estimation for Medical Image Segmentation Networks**|Xinyu Bai et.al.|[2308.08465](http://arxiv.org/abs/2308.08465)|null|
 |**2023-08-15**|**Domain-Adaptive Device Fingerprints for Network Access Authentication Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2308.07925](http://arxiv.org/abs/2308.07925)|null|
 |**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918](http://arxiv.org/abs/2308.07918)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
