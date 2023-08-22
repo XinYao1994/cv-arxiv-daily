@@ -57,6 +57,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
@@ -93,6 +94,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Algebraic Reasoning About Timeliness**|Seyed Hossein Haeri et.al.|[2308.10654](http://arxiv.org/abs/2308.10654)|null|
+|**2023-08-21**|**Proofs about Network Communication: For Humans and Machines**|Wolfgang Jeltsch et.al.|[2308.10652](http://arxiv.org/abs/2308.10652)|null|
+|**2023-08-21**|**Weakly synchronous systems with three machines are Turing powerful**|Cinzia Di Giusto et.al.|[2308.10578](http://arxiv.org/abs/2308.10578)|null|
+|**2023-08-21**|**Stochastic Co-design of Storage and Control for Water Distribution Systems**|Ye Wang et.al.|[2308.10466](http://arxiv.org/abs/2308.10466)|null|
+|**2023-08-19**|**Verification of Sometimes Termination of Lazy-Bounded Declarative Distributed Systems**|Francesco Di Cosmo et.al.|[2308.10007](http://arxiv.org/abs/2308.10007)|null|
 |**2023-08-18**|**Compensating Removed Frequency Components: Thwarting Voice Spectrum Reduction Attacks**|Shu Wang et.al.|[2308.09546](http://arxiv.org/abs/2308.09546)|null|
 |**2023-08-18**|**Data-driven Topology and Parameter Identification in Distribution Systems with limited Measurements**|Steven de Jongh et.al.|[2308.09521](http://arxiv.org/abs/2308.09521)|null|
 |**2023-08-17**|**Alternatives to Contour Visualizations for Power Systems Data**|Isaiah Lyons-Galante et.al.|[2308.09153](http://arxiv.org/abs/2308.09153)|null|
@@ -221,10 +227,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Little Red Dots or Brown Dwarfs? NIRSpec Confirmation of Three Brown Dwarfs Masquerading as NIRCam-Selected Highly-Reddened AGNs**|Danial Langeroodi et.al.|[2308.10900](http://arxiv.org/abs/2308.10900)|null|
+|**2023-08-21**|**One-Time Compilation of Device-Level Instructions for Quantum Subroutines**|Aniket S. Dalvi et.al.|[2308.10787](http://arxiv.org/abs/2308.10787)|null|
+|**2023-08-20**|**Aerocapture Design Reference Missions for Solar System Exploration: from Venus to Neptune**|Athul Pradeepkumar Girija et.al.|[2308.10384](http://arxiv.org/abs/2308.10384)|null|
 |**2023-08-18**|**Scope is all you need: Transforming LLMs for HPC Code**|Tal Kadosh et.al.|[2308.09440](http://arxiv.org/abs/2308.09440)|**[link](https://github.com/scientific-computing-lab-nrcn/tokompiler)**|
 |**2023-08-18**|**mcmsupply: An R Package for Estimating Contraceptive Method Market Supply Shares**|Hannah Comiskey et.al.|[2308.09434](http://arxiv.org/abs/2308.09434)|null|
 |**2023-08-18**|**EXFOR-based simultaneous evaluation for fast neutron-induced fission cross section of thorium-232**|Vidya Devi et.al.|[2308.09398](http://arxiv.org/abs/2308.09398)|null|
-|**2023-08-18**|**q-scatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering**|Amaro et.al.|[2308.09348](http://arxiv.org/abs/2308.09348)|null|
+|**2023-08-21**|**QScatter: Numerical Framework for Fast Prediction of Particle Distributions in Electron-Laser Scattering**|Óscar Amaro et.al.|[2308.09348](http://arxiv.org/abs/2308.09348)|null|
 |**2023-08-17**|**Tracing the assembly histories of galaxy clusters in the nearby universe**|César A. Caretta et.al.|[2308.09182](http://arxiv.org/abs/2308.09182)|null|
 |**2023-08-17**|**The Lyman Continuum Escape Fraction of Star-forming Galaxies at $2.4\lesssim z\lesssim3.7$ from UVCANDELS**|Xin Wang et.al.|[2308.09064](http://arxiv.org/abs/2308.09064)|null|
 |**2023-08-17**|**Photometric metallicities of fundamental-mode RR Lyr stars from Gaia $G$ -band photometry of globular-cluster variables**|Johanna Jurcsik et.al.|[2308.08929](http://arxiv.org/abs/2308.08929)|null|
@@ -602,6 +611,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Monte Carlo on manifolds in high dimensions**|Kerun Xu et.al.|[2308.10877](http://arxiv.org/abs/2308.10877)|null|
+|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
+|**2023-08-21**|**Clustering of Dynamical Systems**|Ludovico Theo Giorgini et.al.|[2308.10864](http://arxiv.org/abs/2308.10864)|null|
+|**2023-08-21**|**Characterization of random walks on space of unordered trees using efficient metric simulation**|Farah Ben Naoum et.al.|[2308.10861](http://arxiv.org/abs/2308.10861)|null|
+|**2023-08-21**|**Majorana Demonstrator Data Release for AI/ML Applications**|I. J. Arnquist et.al.|[2308.10856](http://arxiv.org/abs/2308.10856)|null|
+|**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
+|**2023-08-21**|**Real World Time Series Benchmark Datasets with Distribution Shifts: Global Crude Oil Price and Volatility**|Pranay Pasula et.al.|[2308.10846](http://arxiv.org/abs/2308.10846)|null|
+|**2023-08-21**|**An impossibility result for Markov Chain Monte Carlo sampling from micro-canonical bipartite graph ensembles**|Giulia Preti et.al.|[2308.10838](http://arxiv.org/abs/2308.10838)|null|
+|**2023-08-21**|**Initial-Final and Initial-Initial antenna functions for real radiation at next-to-leading order**|Elliot Fox et.al.|[2308.10829](http://arxiv.org/abs/2308.10829)|null|
+|**2023-08-21**|**Tree Drawings with Columns**|Jonathan Klawitter et.al.|[2308.10811](http://arxiv.org/abs/2308.10811)|null|
 |**2023-08-18**|**Explicit Runge-Kutta algorithm to solve non-local equations with memory effects: case of the Maxey-Riley-Gatignol equation**|Divya Jaganathan et.al.|[2308.09714](http://arxiv.org/abs/2308.09714)|null|
 |**2023-08-18**|**Counting and Sampling Labeled Chordal Graphs in Polynomial Time**|Ursula Hebert-Johnson et.al.|[2308.09703](http://arxiv.org/abs/2308.09703)|null|
 |**2023-08-18**|**Do you know what q-means?**|João F. Doriguello et.al.|[2308.09701](http://arxiv.org/abs/2308.09701)|null|
@@ -1449,6 +1468,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Simple Cycle Reservoirs are Universal**|Boyu Li et.al.|[2308.10793](http://arxiv.org/abs/2308.10793)|null|
+|**2023-08-21**|**SCC5G: A PQC-based Architecture for Highly Secure Critical Communication over Cellular Network in Zero-Trust Environment**|Mohammed Gharib et.al.|[2308.10696](http://arxiv.org/abs/2308.10696)|null|
+|**2023-08-21**|**Reducing Object Detection Uncertainty from RGB and Thermal Data for UAV Outdoor Surveillance**|Juan Sandino et.al.|[2308.10671](http://arxiv.org/abs/2308.10671)|null|
+|**2023-08-21**|**Ultrafast Radiographic Imaging and Tracking: An overview of instruments, methods, data, and applications**|Zhehui Wang et.al.|[2308.10643](http://arxiv.org/abs/2308.10643)|null|
+|**2023-08-21**|**Linking fast and slow: the case for generative models**|Johan Medrano et.al.|[2308.10618](http://arxiv.org/abs/2308.10618)|null|
+|**2023-08-21**|**Metaverse: A Vision, Architectural Elements, and Future Directions for Scalable and Realtime Virtual Worlds**|Leila Ismail et.al.|[2308.10559](http://arxiv.org/abs/2308.10559)|null|
+|**2023-08-21**|**Dataset Quantization**|Daquan Zhou et.al.|[2308.10524](http://arxiv.org/abs/2308.10524)|**[link](https://github.com/magic-research/dataset_quantization)**|
+|**2023-08-20**|**A Variational Qubit-Efficient MaxCut Heuristic Algorithm**|Yovav Tene-Cohen et.al.|[2308.10383](http://arxiv.org/abs/2308.10383)|null|
+|**2023-08-20**|**Channel sensing for holographic MIMO surfaces based on interference principle**|Jindiao Huang et.al.|[2308.10290](http://arxiv.org/abs/2308.10290)|null|
+|**2023-08-20**|**Towards a Formally Verified Security Monitor for VM-based Confidential Computing**|Wojciech Ozga et.al.|[2308.10249](http://arxiv.org/abs/2308.10249)|null|
 |**2023-08-18**|**Optimal Partitioning of Quantum Circuits using Gate Cuts and Wire Cuts**|Sebastian Brandhofer et.al.|[2308.09567](http://arxiv.org/abs/2308.09567)|null|
 |**2023-08-18**|**parti-gem5: gem5's Timing Mode Parallelised**|José Cubero-Cascante et.al.|[2308.09445](http://arxiv.org/abs/2308.09445)|null|
 |**2023-08-18**|**Optimal frequency plan for LISA pre-science operations using verification binaries**|Sweta Shah et.al.|[2308.09390](http://arxiv.org/abs/2308.09390)|null|
@@ -2263,6 +2292,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Differentiable Shadow Mapping for Efficient Inverse Graphics**|Markus Worchel et.al.|[2308.10896](http://arxiv.org/abs/2308.10896)|**[link](https://github.com/mworchel/differentiable-shadow-mapping)**|
+|**2023-08-21**|**Unlocking Accuracy and Fairness in Differentially Private Image Classification**|Leonard Berrada et.al.|[2308.10888](http://arxiv.org/abs/2308.10888)|null|
+|**2023-08-21**|**Quantum Symmetric Private Information Retrieval with Secure Storage and Eavesdroppers**|Alptug Aytekin et.al.|[2308.10883](http://arxiv.org/abs/2308.10883)|null|
+|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
+|**2023-08-21**|**Cosmology from weak lensing peaks and minima with Subaru Hyper Suprime-Cam survey first-year data**|Gabriela A. Marques et.al.|[2308.10866](http://arxiv.org/abs/2308.10866)|null|
+|**2023-08-21**|**Clustering of Dynamical Systems**|Ludovico Theo Giorgini et.al.|[2308.10864](http://arxiv.org/abs/2308.10864)|null|
+|**2023-08-21**|**Characterization of random walks on space of unordered trees using efficient metric simulation**|Farah Ben Naoum et.al.|[2308.10861](http://arxiv.org/abs/2308.10861)|null|
+|**2023-08-21**|**LatEval: An Interactive LLMs Evaluation Benchmark with Incomplete Information from Lateral Thinking Puzzles**|Shulin Huang et.al.|[2308.10855](http://arxiv.org/abs/2308.10855)|null|
+|**2023-08-21**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.|[2308.10845](http://arxiv.org/abs/2308.10845)|null|
+|**2023-08-21**|**An impossibility result for Markov Chain Monte Carlo sampling from micro-canonical bipartite graph ensembles**|Giulia Preti et.al.|[2308.10838](http://arxiv.org/abs/2308.10838)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**Robust Monocular Depth Estimation under Challenging Conditions**|Stefano Gasperini et.al.|[2308.09711](http://arxiv.org/abs/2308.09711)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705](http://arxiv.org/abs/2308.09705)|null|
@@ -3110,6 +3149,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Quantum Symmetric Private Information Retrieval with Secure Storage and Eavesdroppers**|Alptug Aytekin et.al.|[2308.10883](http://arxiv.org/abs/2308.10883)|null|
+|**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
+|**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
+|**2023-08-21**|**Evaluating quantum generative models via imbalanced data classification benchmarks**|Graham R. Enos et.al.|[2308.10847](http://arxiv.org/abs/2308.10847)|null|
+|**2023-08-21**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.|[2308.10845](http://arxiv.org/abs/2308.10845)|null|
+|**2023-08-21**|**An impossibility result for Markov Chain Monte Carlo sampling from micro-canonical bipartite graph ensembles**|Giulia Preti et.al.|[2308.10838](http://arxiv.org/abs/2308.10838)|null|
+|**2023-08-21**|**Enhancing Recommender Systems with Large Language Model Reasoning Graphs**|Yan Wang et.al.|[2308.10835](http://arxiv.org/abs/2308.10835)|null|
+|**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
+|**2023-08-21**|**Neural Networks Optimizations Against Concept and Data Drift in Malware Detection**|William Maillet et.al.|[2308.10821](http://arxiv.org/abs/2308.10821)|null|
+|**2023-08-21**|**Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers**|Natalia Frumkin et.al.|[2308.10814](http://arxiv.org/abs/2308.10814)|null|
 |**2023-08-18**|**Neural-network quantum state study of the long-range antiferromagnetic Ising chain**|Jicheol Kim et.al.|[2308.09709](http://arxiv.org/abs/2308.09709)|null|
 |**2023-08-18**|**Generating Hard Ising Instances With Planted Solutions Using Post-Quantum Cryptographic Protocols**|Salvatore Mandrà et.al.|[2308.09704](http://arxiv.org/abs/2308.09704)|null|
 |**2023-08-18**|**Reduced Order Modeling of a MOOSE-based Advanced Manufacturing Model with Operator Learning**|Mahmoud Yaseen et.al.|[2308.09691](http://arxiv.org/abs/2308.09691)|null|
@@ -3957,6 +4006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Phase transitions out of quantum Hall states in moiré TMD bilayers**|Xue-Yang Song et.al.|[2308.10903](http://arxiv.org/abs/2308.10903)|null|
+|**2023-08-21**|**Dynamics of supermassive black hole triples in the ROMULUS25 cosmological simulation**|Hauke Koehn et.al.|[2308.10894](http://arxiv.org/abs/2308.10894)|null|
+|**2023-08-21**|**Giraffe: Adventures in Expanding Context Lengths in LLMs**|Arka Pal et.al.|[2308.10882](http://arxiv.org/abs/2308.10882)|null|
+|**2023-08-21**|**Analyzing Transformer Dynamics as Movement through Embedding Space**|Sumeet S. Singh et.al.|[2308.10874](http://arxiv.org/abs/2308.10874)|null|
+|**2023-08-21**|**A study of $4-$ cycle systems**|B. Bagheri Gh. et.al.|[2308.10872](http://arxiv.org/abs/2308.10872)|null|
+|**2023-08-21**|**Clustering of Dynamical Systems**|Ludovico Theo Giorgini et.al.|[2308.10864](http://arxiv.org/abs/2308.10864)|null|
+|**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
+|**2023-08-21**|**AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents**|Weize Chen et.al.|[2308.10848](http://arxiv.org/abs/2308.10848)|**[link](https://github.com/openbmb/agentverse)**|
+|**2023-08-21**|**Election Manipulation in Social Networks with Single-Peaked Agents**|Vincenzo Auletta et.al.|[2308.10845](http://arxiv.org/abs/2308.10845)|null|
+|**2023-08-21**|**Affine Hecke algebras and symmetric quasi-polynomial duality**|Vidya Venkateswaran et.al.|[2308.10844](http://arxiv.org/abs/2308.10844)|null|
 |**2023-08-18**|**Explicit Runge-Kutta algorithm to solve non-local equations with memory effects: case of the Maxey-Riley-Gatignol equation**|Divya Jaganathan et.al.|[2308.09714](http://arxiv.org/abs/2308.09714)|null|
 |**2023-08-18**|**Majorana zero modes in twisted transition metal dichalcogenides homobilayers**|Xun-Jiang Luo et.al.|[2308.09707](http://arxiv.org/abs/2308.09707)|null|
 |**2023-08-18**|**Strong-coupling topological states and phase transitions in helical trilayer graphene**|Yves H. Kwan et.al.|[2308.09706](http://arxiv.org/abs/2308.09706)|null|
