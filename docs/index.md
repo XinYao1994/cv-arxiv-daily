@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -83,7 +83,7 @@ layout: default
 |**2023-08-17**|**Introducing Divergence for Infinite Probabilistic Models**|Alain Finkel et.al.|[2308.08842](http://arxiv.org/abs/2308.08842)|null|
 |**2023-08-15**|**Resilience assessment and planning in power distribution systems:Past and future considerations**|Shuva Paul et.al.|[2308.07552](http://arxiv.org/abs/2308.07552)|null|
 |**2023-08-10**|**Proposing a Dynamic Executive Microservices Architecture Model for AI Systems**|Mahyar Karimi et.al.|[2308.05833](http://arxiv.org/abs/2308.05833)|null|
-|**2023-08-09**|**No Free Lunch for Avoiding Clustering Vulnerabilities in Distributed Systems**|Pheerawich Chitnelawong et.al.|[2308.05196](http://arxiv.org/abs/2308.05196)|null|
+|**2023-08-18**|**No Free Lunch for Avoiding Clustering Vulnerabilities in Distributed Systems**|Pheerawich Chitnelawong et.al.|[2308.05196](http://arxiv.org/abs/2308.05196)|null|
 |**2023-08-08**|**Capabilities for Distributed Authorization in Information-Centric Networking**|Jens Finkhäuser et.al.|[2308.04140](http://arxiv.org/abs/2308.04140)|null|
 |**2023-08-05**|**ZePoP: A Distributed Leader Election Protocol using the Delay-based Closeness Centrality for Peer-to-Peer Applications**|Md Amjad Hossain et.al.|[2308.02795](http://arxiv.org/abs/2308.02795)|null|
 |**2023-08-05**|**Few-shot Class-Incremental Semantic Segmentation via Pseudo-Labeling and Knowledge Distillation**|Chengjia Jiang et.al.|[2308.02790](http://arxiv.org/abs/2308.02790)|**[link](https://github.com/chasonjiang/fscilss)**|
@@ -585,12 +585,12 @@ layout: default
 |**2023-08-18**|**Explicit Runge-Kutta algorithm to solve non-local equations with memory effects: case of the Maxey-Riley-Gatignol equation**|Divya Jaganathan et.al.|[2308.09714](http://arxiv.org/abs/2308.09714)|null|
 |**2023-08-18**|**Counting and Sampling Labeled Chordal Graphs in Polynomial Time**|Ursula Hebert-Johnson et.al.|[2308.09703](http://arxiv.org/abs/2308.09703)|null|
 |**2023-08-18**|**Do you know what q-means?**|João F. Doriguello et.al.|[2308.09701](http://arxiv.org/abs/2308.09701)|null|
-|**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693](http://arxiv.org/abs/2308.09693)|null|
+|**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693](http://arxiv.org/abs/2308.09693)|**[link](https://github.com/hdong920/ebsd_slice_recovery)**|
 |**2023-08-18**|**Sampling from Network Reliability in Near-linear Time**|Xiaoyu Chen et.al.|[2308.09683](http://arxiv.org/abs/2308.09683)|null|
 |**2023-08-18**|**Optimization Algorithms for Multi-Species Spherical Spin Glasses**|Brice Huang et.al.|[2308.09672](http://arxiv.org/abs/2308.09672)|null|
 |**2023-08-18**|**OCR Language Models with Custom Vocabularies**|Peter Garst et.al.|[2308.09671](http://arxiv.org/abs/2308.09671)|null|
 |**2023-08-18**|**On Lifting Integrality Gaps to SSEH Hardness for Globally Constrained CSPs**|Suprovat Ghoshal et.al.|[2308.09667](http://arxiv.org/abs/2308.09667)|null|
-|**2023-08-18**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658](http://arxiv.org/abs/2308.09658)|null|
+|**2023-08-21**|**Tree-of-Mixed-Thought: Combining Fast and Slow Thinking for Multi-hop Visual Reasoning**|Pengbo Hu et.al.|[2308.09658](http://arxiv.org/abs/2308.09658)|null|
 |**2023-08-18**|**Collision Isolation and Identification Using Proprioceptive Sensing for Parallel Robots to Enable Human-Robot Collaboration**|Aran Mohammad et.al.|[2308.09650](http://arxiv.org/abs/2308.09650)|null|
 |**2023-08-16**|**MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions**|Henghui Ding et.al.|[2308.08544](http://arxiv.org/abs/2308.08544)|**[link](https://github.com/henghuiding/MeViS)**|
 |**2023-08-16**|**Can Transformers Learn Optimal Filtering for Unknown Systems?**|Haldun Balim et.al.|[2308.08536](http://arxiv.org/abs/2308.08536)|null|
@@ -3087,7 +3087,7 @@ layout: default
 |**2023-08-18**|**Neural-network quantum state study of the long-range antiferromagnetic Ising chain**|Jicheol Kim et.al.|[2308.09709](http://arxiv.org/abs/2308.09709)|null|
 |**2023-08-18**|**Generating Hard Ising Instances With Planted Solutions Using Post-Quantum Cryptographic Protocols**|Salvatore Mandrà et.al.|[2308.09704](http://arxiv.org/abs/2308.09704)|null|
 |**2023-08-18**|**Reduced Order Modeling of a MOOSE-based Advanced Manufacturing Model with Operator Learning**|Mahmoud Yaseen et.al.|[2308.09691](http://arxiv.org/abs/2308.09691)|null|
-|**2023-08-18**|**Random Walks, Conductance, and Resistance for the Connection Graph Laplacian**|Alex Cloninger et.al.|[2308.09690](http://arxiv.org/abs/2308.09690)|null|
+|**2023-08-21**|**Random Walks, Conductance, and Resistance for the Connection Graph Laplacian**|Alexander Cloninger et.al.|[2308.09690](http://arxiv.org/abs/2308.09690)|null|
 |**2023-08-18**|**Topological Elasticity in Physical Gels with Limited Valence**|Giorgia Palombo et.al.|[2308.09689](http://arxiv.org/abs/2308.09689)|null|
 |**2023-08-18**|**Graph of Thoughts: Solving Elaborate Problems with Large Language Models**|Maciej Besta et.al.|[2308.09687](http://arxiv.org/abs/2308.09687)|**[link](https://github.com/spcl/graph-of-thoughts)**|
 |**2023-08-18**|**Audiovisual Moments in Time: A Large-Scale Annotated Dataset of Audiovisual Actions**|Michael Joannou et.al.|[2308.09685](http://arxiv.org/abs/2308.09685)|**[link](https://github.com/mjoannou/audiovisual-moments-in-time)**|
