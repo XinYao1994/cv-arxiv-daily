@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -43,7 +43,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
+|**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
@@ -85,7 +85,7 @@ layout: default
 |**2023-08-19**|**Verification of Sometimes Termination of Lazy-Bounded Declarative Distributed Systems**|Francesco Di Cosmo et.al.|[2308.10007](http://arxiv.org/abs/2308.10007)|null|
 |**2023-08-18**|**Compensating Removed Frequency Components: Thwarting Voice Spectrum Reduction Attacks**|Shu Wang et.al.|[2308.09546](http://arxiv.org/abs/2308.09546)|null|
 |**2023-08-18**|**Data-driven Topology and Parameter Identification in Distribution Systems with limited Measurements**|Steven de Jongh et.al.|[2308.09521](http://arxiv.org/abs/2308.09521)|null|
-|**2023-08-17**|**Alternatives to Contour Visualizations for Power Systems Data**|Isaiah Lyons-Galante et.al.|[2308.09153](http://arxiv.org/abs/2308.09153)|null|
+|**2023-08-17**|**Alternatives to Contour Visualizations for Power Systems Data**|Isaiah Lyons-Galante et.al.|[2308.09153](http://arxiv.org/abs/2308.09153)|**[link](https://github.com/isaiahlg/voltage-tiling)**|
 |**2023-08-17**|**Introducing Divergence for Infinite Probabilistic Models**|Alain Finkel et.al.|[2308.08842](http://arxiv.org/abs/2308.08842)|null|
 |**2023-08-15**|**Resilience assessment and planning in power distribution systems:Past and future considerations**|Shuva Paul et.al.|[2308.07552](http://arxiv.org/abs/2308.07552)|null|
 |**2023-08-10**|**Proposing a Dynamic Executive Microservices Architecture Model for AI Systems**|Mahyar Karimi et.al.|[2308.05833](http://arxiv.org/abs/2308.05833)|null|
@@ -595,7 +595,7 @@ layout: default
 |**2023-08-21**|**SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation**|Malyaban Bal et.al.|[2308.10873](http://arxiv.org/abs/2308.10873)|null|
 |**2023-08-21**|**Clustering of Dynamical Systems**|Ludovico Theo Giorgini et.al.|[2308.10864](http://arxiv.org/abs/2308.10864)|null|
 |**2023-08-21**|**Characterization of random walks on space of unordered trees using efficient metric simulation**|Farah Ben Naoum et.al.|[2308.10861](http://arxiv.org/abs/2308.10861)|null|
-|**2023-08-21**|**Majorana Demonstrator Data Release for AI/ML Applications**|I. J. Arnquist et.al.|[2308.10856](http://arxiv.org/abs/2308.10856)|null|
+|**2023-08-22**|**Majorana Demonstrator Data Release for AI/ML Applications**|I. J. Arnquist et.al.|[2308.10856](http://arxiv.org/abs/2308.10856)|null|
 |**2023-08-21**|**Learning in Dynamic Systems and Its Application to Adaptive PID Control**|Omar Makke et.al.|[2308.10851](http://arxiv.org/abs/2308.10851)|null|
 |**2023-08-21**|**Real World Time Series Benchmark Datasets with Distribution Shifts: Global Crude Oil Price and Volatility**|Pranay Pasula et.al.|[2308.10846](http://arxiv.org/abs/2308.10846)|null|
 |**2023-08-21**|**An impossibility result for Markov Chain Monte Carlo sampling from micro-canonical bipartite graph ensembles**|Giulia Preti et.al.|[2308.10838](http://arxiv.org/abs/2308.10838)|null|
@@ -1455,7 +1455,7 @@ layout: default
 |**2023-08-21**|**Dataset Quantization**|Daquan Zhou et.al.|[2308.10524](http://arxiv.org/abs/2308.10524)|**[link](https://github.com/magic-research/dataset_quantization)**|
 |**2023-08-20**|**A Variational Qubit-Efficient MaxCut Heuristic Algorithm**|Yovav Tene-Cohen et.al.|[2308.10383](http://arxiv.org/abs/2308.10383)|null|
 |**2023-08-20**|**Channel sensing for holographic MIMO surfaces based on interference principle**|Jindiao Huang et.al.|[2308.10290](http://arxiv.org/abs/2308.10290)|null|
-|**2023-08-20**|**Towards a Formally Verified Security Monitor for VM-based Confidential Computing**|Wojciech Ozga et.al.|[2308.10249](http://arxiv.org/abs/2308.10249)|null|
+|**2023-08-22**|**Towards a Formally Verified Security Monitor for VM-based Confidential Computing**|Wojciech Ozga et.al.|[2308.10249](http://arxiv.org/abs/2308.10249)|null|
 |**2023-08-18**|**Optimal Partitioning of Quantum Circuits using Gate Cuts and Wire Cuts**|Sebastian Brandhofer et.al.|[2308.09567](http://arxiv.org/abs/2308.09567)|null|
 |**2023-08-18**|**parti-gem5: gem5's Timing Mode Parallelised**|José Cubero-Cascante et.al.|[2308.09445](http://arxiv.org/abs/2308.09445)|null|
 |**2023-08-18**|**Optimal frequency plan for LISA pre-science operations using verification binaries**|Sweta Shah et.al.|[2308.09390](http://arxiv.org/abs/2308.09390)|null|
@@ -3980,7 +3980,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-21**|**Phase transitions out of quantum Hall states in moiré TMD bilayers**|Xue-Yang Song et.al.|[2308.10903](http://arxiv.org/abs/2308.10903)|null|
 |**2023-08-21**|**Dynamics of supermassive black hole triples in the ROMULUS25 cosmological simulation**|Hauke Koehn et.al.|[2308.10894](http://arxiv.org/abs/2308.10894)|null|
-|**2023-08-21**|**Giraffe: Adventures in Expanding Context Lengths in LLMs**|Arka Pal et.al.|[2308.10882](http://arxiv.org/abs/2308.10882)|null|
+|**2023-08-21**|**Giraffe: Adventures in Expanding Context Lengths in LLMs**|Arka Pal et.al.|[2308.10882](http://arxiv.org/abs/2308.10882)|**[link](https://github.com/abacusai/long-context)**|
 |**2023-08-21**|**Analyzing Transformer Dynamics as Movement through Embedding Space**|Sumeet S. Singh et.al.|[2308.10874](http://arxiv.org/abs/2308.10874)|null|
 |**2023-08-21**|**A study of $4-$ cycle systems**|B. Bagheri Gh. et.al.|[2308.10872](http://arxiv.org/abs/2308.10872)|null|
 |**2023-08-21**|**Clustering of Dynamical Systems**|Ludovico Theo Giorgini et.al.|[2308.10864](http://arxiv.org/abs/2308.10864)|null|
