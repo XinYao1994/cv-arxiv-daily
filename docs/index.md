@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -217,7 +217,7 @@ layout: default
 |**2023-08-22**|**Interplanetary Shock Data Base**|Denny M. Oliveira et.al.|[2308.11125](http://arxiv.org/abs/2308.11125)|null|
 |**2023-08-21**|**GSA to HDL: Towards principled generation of dynamically scheduled circuits**|Aditya Rajagopal et.al.|[2308.11048](http://arxiv.org/abs/2308.11048)|null|
 |**2023-08-19**|**Analyzing Quantization in TVM**|Mingfei Guo et.al.|[2308.10905](http://arxiv.org/abs/2308.10905)|null|
-|**2023-08-21**|**Little Red Dots or Brown Dwarfs? NIRSpec Confirmation of Three Brown Dwarfs Masquerading as NIRCam-Selected Highly-Reddened AGNs**|Danial Langeroodi et.al.|[2308.10900](http://arxiv.org/abs/2308.10900)|null|
+|**2023-08-22**|**Little Red Dots or Brown Dwarfs? NIRSpec Discovery of Three Brown Dwarfs Masquerading as NIRCam-Selected Highly-Reddened AGNs**|Danial Langeroodi et.al.|[2308.10900](http://arxiv.org/abs/2308.10900)|null|
 |**2023-08-21**|**One-Time Compilation of Device-Level Instructions for Quantum Subroutines**|Aniket S. Dalvi et.al.|[2308.10787](http://arxiv.org/abs/2308.10787)|null|
 |**2023-08-20**|**Aerocapture Design Reference Missions for Solar System Exploration: from Venus to Neptune**|Athul Pradeepkumar Girija et.al.|[2308.10384](http://arxiv.org/abs/2308.10384)|null|
 |**2023-08-18**|**Scope is all you need: Transforming LLMs for HPC Code**|Tal Kadosh et.al.|[2308.09440](http://arxiv.org/abs/2308.09440)|**[link](https://github.com/scientific-computing-lab-nrcn/tokompiler)**|
@@ -2300,7 +2300,7 @@ layout: default
 |**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604](http://arxiv.org/abs/2308.11604)|null|
 |**2023-08-22**|**On the Robustness of Democratic Electoral Processes to Computational Propaganda**|Glory M. Givi et.al.|[2308.11569](http://arxiv.org/abs/2308.11569)|null|
 |**2023-08-22**|**Tight Lower Bound on Equivalence Testing in Conditional Sampling Model**|Diptarka Chakraborty et.al.|[2308.11558](http://arxiv.org/abs/2308.11558)|null|
-|**2023-08-22**|**Oder-by-disorder charge density wave condensation at $\mathbf{\textit{q} =(\frac{1}{3},\frac{1}{3},\frac{1}{3})}$ in kagome metal ScV$_6$Sn$_6$**|Alaska Subedi et.al.|[2308.11553](http://arxiv.org/abs/2308.11553)|null|
+|**2023-08-23**|**Order-by-disorder charge density wave condensation at $\mathbf{\textit{q} =(\frac{1}{3},\frac{1}{3},\frac{1}{3})}$ in kagome metal ScV$_6$Sn$_6$**|Alaska Subedi et.al.|[2308.11553](http://arxiv.org/abs/2308.11553)|null|
 |**2023-08-22**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2023-08-22**|**Quantifying efficiency of remote excitation for surface enhanced Raman spectroscopy in molecular junctions**|Shusen Liao et.al.|[2308.11547](http://arxiv.org/abs/2308.11547)|null|
 |**2023-08-22**|**Magical or magnetic? Less commonly taught facts about real-world permanent magnets and their diverse interactions with objects**|Yan-Cong Chen et.al.|[2308.11542](http://arxiv.org/abs/2308.11542)|null|
