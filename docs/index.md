@@ -78,6 +78,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**|Jian Hu et.al.|[2308.12050](http://arxiv.org/abs/2308.12050)|null|
+|**2023-08-22**|**Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network**|Mahdi Manavi et.al.|[2308.11782](http://arxiv.org/abs/2308.11782)|null|
 |**2023-08-21**|**Warm Compressor system Overview and status of the PIP-II cryogenic system**|A Martinez et.al.|[2308.11045](http://arxiv.org/abs/2308.11045)|null|
 |**2023-08-21**|**Algebraic Reasoning About Timeliness**|Seyed Hossein Haeri et.al.|[2308.10654](http://arxiv.org/abs/2308.10654)|null|
 |**2023-08-21**|**Proofs about Network Communication: For Humans and Machines**|Wolfgang Jeltsch et.al.|[2308.10652](http://arxiv.org/abs/2308.10652)|null|
@@ -210,6 +212,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Multi-sequence alignment using the Quantum Approximate Optimization Algorithm**|Sebastian Yde Madsen et.al.|[2308.12103](http://arxiv.org/abs/2308.12103)|null|
+|**2023-08-23**|**Using the TypeScript compiler to fix erroneous Node.js snippets**|Brittany Reid et.al.|[2308.12079](http://arxiv.org/abs/2308.12079)|null|
+|**2023-08-23**|**Integrating Large Language Models into the Debugging C Compiler for generating contextual error explanations**|Andrew Taylor et.al.|[2308.11873](http://arxiv.org/abs/2308.11873)|null|
 |**2023-08-22**|**Gaining confidence on the correct realization of arbitrary quantum computations**|Jose Carrasco et.al.|[2308.11368](http://arxiv.org/abs/2308.11368)|null|
 |**2023-08-22**|**The Software Heritage License Dataset (2022 Edition)**|Jesús M. González-Barahona et.al.|[2308.11258](http://arxiv.org/abs/2308.11258)|null|
 |**2023-08-22**|**Automatic Task Parallelization of Dataflow Graphs in ML/DL models**|Srinjoy Das et.al.|[2308.11192](http://arxiv.org/abs/2308.11192)|null|
@@ -599,6 +604,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
+|**2023-08-23**|**A Generative Approach for Image Registration of Visible-Thermal (VT) Cancer Faces**|Catherine Ordun et.al.|[2308.12271](http://arxiv.org/abs/2308.12271)|null|
+|**2023-08-23**|**Transformer-based Nonlinear Equalization for DP-16QAM Coherent Optical Communication Systems**|Naveenta Gautam et.al.|[2308.12262](http://arxiv.org/abs/2308.12262)|null|
+|**2023-08-23**|**Innovating Computer Programming Pedagogy: The AI-Lab Framework for Generative AI Adoption**|Ethan Dickey et.al.|[2308.12258](http://arxiv.org/abs/2308.12258)|null|
+|**2023-08-23**|**Multi-Objective Optimization for Sparse Deep Neural Network Training**|S. S. Hotegni et.al.|[2308.12243](http://arxiv.org/abs/2308.12243)|**[link](https://github.com/salomonhotegni/mdmtn)**|
+|**2023-08-23**|**Recent Developments in Pandora's Box Problem: Variants and Applications**|Hedyeh Beyhaghi et.al.|[2308.12242](http://arxiv.org/abs/2308.12242)|null|
+|**2023-08-23**|**CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No**|Hualiang Wang et.al.|[2308.12213](http://arxiv.org/abs/2308.12213)|null|
+|**2023-08-23**|**Learning to Learn Financial Networks for Optimising Momentum Strategies**|Xingyue et.al.|[2308.12212](http://arxiv.org/abs/2308.12212)|null|
+|**2023-08-23**|**ULDP-FL: Federated Learning with Across Silo User-Level Differential Privacy**|Fumiyuki Kato et.al.|[2308.12210](http://arxiv.org/abs/2308.12210)|**[link](https://github.com/fumiyukikato/uldp-fl)**|
+|**2023-08-23**|**A Heuristic Informative-Path-Planning Algorithm for Autonomous Mapping of Unknown Areas**|Mobolaji O. Orisatoki et.al.|[2308.12209](http://arxiv.org/abs/2308.12209)|null|
 |**2023-08-22**|**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization**|Emanuele Bugliarello et.al.|[2308.11606](http://arxiv.org/abs/2308.11606)|**[link](https://github.com/google/storybench)**|
 |**2023-08-22**|**Nonparametric Assessment of Variable Selection and Ranking Algorithms**|Zhou Tang et.al.|[2308.11593](http://arxiv.org/abs/2308.11593)|null|
 |**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590](http://arxiv.org/abs/2308.11590)|null|
@@ -1464,6 +1479,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Holographic RIS Empowered THz Communications with Hardware Imperfections under Adverse Weather Conditions**|Alexandros-Apostolos A. Boulogeorgos et.al.|[2308.12248](http://arxiv.org/abs/2308.12248)|null|
+|**2023-08-23**|**Incremental Property Directed Reachability**|Max Blankestijn et.al.|[2308.12162](http://arxiv.org/abs/2308.12162)|null|
+|**2023-08-23**|**An Open-Source ML-Based Full-Stack Optimization Framework for Machine Learning Accelerators**|Hadi Esmaeilzadeh et.al.|[2308.12120](http://arxiv.org/abs/2308.12120)|null|
+|**2023-08-23**|**Multi-UAV Deployment in Obstacle-Cluttered Environments with LOS Connectivity**|Yuda Chen et.al.|[2308.12117](http://arxiv.org/abs/2308.12117)|null|
+|**2023-08-23**|**Multi-sequence alignment using the Quantum Approximate Optimization Algorithm**|Sebastian Yde Madsen et.al.|[2308.12103](http://arxiv.org/abs/2308.12103)|null|
+|**2023-08-23**|**Cached Operator Reordering: A Unified View for Fast GNN Training**|Julia Bazinska et.al.|[2308.12093](http://arxiv.org/abs/2308.12093)|null|
+|**2023-08-23**|**Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference**|Ranggi Hwang et.al.|[2308.12066](http://arxiv.org/abs/2308.12066)|null|
+|**2023-08-23**|**PARseL: Towards a Verified Root-of-Trust over seL4**|Ivan De Oliveira Nunes et.al.|[2308.11921](http://arxiv.org/abs/2308.11921)|null|
+|**2023-08-22**|**Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks**|Xi Xie et.al.|[2308.11825](http://arxiv.org/abs/2308.11825)|**[link](https://github.com/xiexi1990/iccad-accel-gnn)**|
+|**2023-08-22**|**Layering and subpool exploration for adaptive Variational Quantum Eigensolvers: Reducing circuit depth, runtime, and susceptibility to noise**|Christopher K. Long et.al.|[2308.11708](http://arxiv.org/abs/2308.11708)|null|
 |**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590](http://arxiv.org/abs/2308.11590)|null|
 |**2023-08-22**|**Tackling the Curse of Dimensionality in Large-scale Multi-agent LTL Task Planning via Poset Product**|Zesen Liu et.al.|[2308.11373](http://arxiv.org/abs/2308.11373)|null|
 |**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|null|
@@ -2296,6 +2321,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
+|**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256](http://arxiv.org/abs/2308.12256)|null|
+|**2023-08-23**|**Evaluation of SNOLAB background mitigation procedures through the use of an ICP-MS based dust monitoring methodology**|M. L. di Vacri et.al.|[2308.12253](http://arxiv.org/abs/2308.12253)|null|
+|**2023-08-23**|**How Safe Am I Given What I See? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy**|Zhenjiang Mao et.al.|[2308.12252](http://arxiv.org/abs/2308.12252)|null|
+|**2023-08-23**|**Investigating the feasibility of a trapped atom interferometer with movable traps**|Gayathrini Premawardhana et.al.|[2308.12246](http://arxiv.org/abs/2308.12246)|null|
+|**2023-08-23**|**LLMRec: Benchmarking Large Language Models on Recommendation Task**|Junling Liu et.al.|[2308.12241](http://arxiv.org/abs/2308.12241)|**[link](https://github.com/williamliujl/llmrec)**|
+|**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
+|**2023-08-23**|**MolGrapher: Graph-based Visual Recognition of Chemical Structures**|Lucas Morin et.al.|[2308.12234](http://arxiv.org/abs/2308.12234)|**[link](https://github.com/ds4sd/molgrapher)**|
+|**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231](http://arxiv.org/abs/2308.12231)|**[link](https://github.com/xq141839/sppnet)**|
+|**2023-08-23**|**Analysis of transient and intermittent flows using a multidimensional empirical mode decomposition**|Lucas F. de Souza et.al.|[2308.12230](http://arxiv.org/abs/2308.12230)|null|
 |**2023-08-22**|**Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic**|Andi Gu et.al.|[2308.11616](http://arxiv.org/abs/2308.11616)|null|
 |**2023-08-22**|**Semantic Multi-Resolution Communications**|Matin Mortaheb et.al.|[2308.11604](http://arxiv.org/abs/2308.11604)|null|
 |**2023-08-22**|**On the Robustness of Democratic Electoral Processes to Computational Propaganda**|Glory M. Givi et.al.|[2308.11569](http://arxiv.org/abs/2308.11569)|null|
@@ -3161,6 +3196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
+|**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
+|**2023-08-23**|**Network Navigation with Online Delays is PSPACE-complete**|Thomas Depian et.al.|[2308.12265](http://arxiv.org/abs/2308.12265)|null|
+|**2023-08-23**|**Transformer-based Nonlinear Equalization for DP-16QAM Coherent Optical Communication Systems**|Naveenta Gautam et.al.|[2308.12262](http://arxiv.org/abs/2308.12262)|null|
+|**2023-08-23**|**How to Protect Copyright Data in Optimization of Large Language Models?**|Timothy Chu et.al.|[2308.12247](http://arxiv.org/abs/2308.12247)|null|
+|**2023-08-23**|**Multi-Objective Optimization for Sparse Deep Neural Network Training**|S. S. Hotegni et.al.|[2308.12243](http://arxiv.org/abs/2308.12243)|**[link](https://github.com/salomonhotegni/mdmtn)**|
+|**2023-08-23**|**MolGrapher: Graph-based Visual Recognition of Chemical Structures**|Lucas Morin et.al.|[2308.12234](http://arxiv.org/abs/2308.12234)|**[link](https://github.com/ds4sd/molgrapher)**|
+|**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231](http://arxiv.org/abs/2308.12231)|**[link](https://github.com/xq141839/sppnet)**|
+|**2023-08-23**|**Semiparametric Modeling and Analysis for Longitudinal Network Data**|Yinqiu He et.al.|[2308.12227](http://arxiv.org/abs/2308.12227)|null|
+|**2023-08-23**|**Physically Consistent Modelling of Wireless Links with Reconfigurable Intelligent Surfaces Using Multiport Network Analysis**|Josef A. Nossek et.al.|[2308.12223](http://arxiv.org/abs/2308.12223)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617](http://arxiv.org/abs/2308.11617)|null|
 |**2023-08-22**|**Towards Universal Interaction for Extended Reality**|Pascal Knierim et.al.|[2308.11600](http://arxiv.org/abs/2308.11600)|null|
 |**2023-08-22**|**Vision-Based Intelligent Robot Grasping Using Sparse Neural Network**|Priya Shukla et.al.|[2308.11590](http://arxiv.org/abs/2308.11590)|null|
@@ -4026,6 +4071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Operational requirements for localization in autonomous vehicles**|Arpan Kusari et.al.|[2308.12277](http://arxiv.org/abs/2308.12277)|null|
+|**2023-08-23**|**Observation of Nagaoka Polarons in a Fermi-Hubbard Quantum Simulator**|Martin Lebrat et.al.|[2308.12269](http://arxiv.org/abs/2308.12269)|null|
+|**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
+|**2023-08-23**|**FECoM: A Step towards Fine-Grained Energy Measurement for Deep Learning**|Saurabhsingh Rajput et.al.|[2308.12264](http://arxiv.org/abs/2308.12264)|null|
+|**2023-08-23**|**Transformer-based Nonlinear Equalization for DP-16QAM Coherent Optical Communication Systems**|Naveenta Gautam et.al.|[2308.12262](http://arxiv.org/abs/2308.12262)|null|
+|**2023-08-23**|**Prompt2Model: Generating Deployable Models from Natural Language Instructions**|Vijay Viswanathan et.al.|[2308.12261](http://arxiv.org/abs/2308.12261)|**[link](https://github.com/neulab/prompt2model)**|
+|**2023-08-23**|**System Identification Using the Signed Cumulative Distribution Transform In Structural Health Monitoring Applications**|Abu Hasnat Mohammad Rubaiyat et.al.|[2308.12259](http://arxiv.org/abs/2308.12259)|null|
+|**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256](http://arxiv.org/abs/2308.12256)|null|
+|**2023-08-23**|**How Safe Am I Given What I See? Calibrated Prediction of Safety Chances for Image-Controlled Autonomy**|Zhenjiang Mao et.al.|[2308.12252](http://arxiv.org/abs/2308.12252)|null|
+|**2023-08-23**|**QED Fermions in a noisy magnetic field background: The effective action approach**|Jorge David Castaño-Yepes et.al.|[2308.12249](http://arxiv.org/abs/2308.12249)|null|
 |**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617](http://arxiv.org/abs/2308.11617)|null|
 |**2023-08-22**|**Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic**|Andi Gu et.al.|[2308.11616](http://arxiv.org/abs/2308.11616)|null|
 |**2023-08-22**|**Phantom energy of a quenched, prethermal quantum many-body scar state**|Kangning Yang et.al.|[2308.11615](http://arxiv.org/abs/2308.11615)|null|
