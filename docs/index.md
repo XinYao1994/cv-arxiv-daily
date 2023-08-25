@@ -212,6 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Rotating charged fluids: theorems and results for Weyl type systems**|Marcos L. W. Basso et.al.|[2308.12818](http://arxiv.org/abs/2308.12818)|null|
 |**2023-08-23**|**Multi-sequence alignment using the Quantum Approximate Optimization Algorithm**|Sebastian Yde Madsen et.al.|[2308.12103](http://arxiv.org/abs/2308.12103)|null|
 |**2023-08-23**|**Using the TypeScript compiler to fix erroneous Node.js snippets**|Brittany Reid et.al.|[2308.12079](http://arxiv.org/abs/2308.12079)|null|
 |**2023-08-23**|**Integrating Large Language Models into the Debugging C Compiler for generating contextual error explanations**|Andrew Taylor et.al.|[2308.11873](http://arxiv.org/abs/2308.11873)|**[link](https://github.com/comp1511unsw/dcc)**|
@@ -604,6 +605,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|null|
+|**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
+|**2023-08-24**|**Counting Distinct Elements Under Person-Level Differential Privacy**|Alexander Knop et.al.|[2308.12947](http://arxiv.org/abs/2308.12947)|null|
+|**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
+|**2023-08-24**|**A time multiscale based data-driven approach in cyclic elasto-plasticity**|Sebastian Rodriguez et.al.|[2308.12928](http://arxiv.org/abs/2308.12928)|null|
+|**2023-08-24**|**Low-count Time Series Anomaly Detection**|Philipp Renz et.al.|[2308.12925](http://arxiv.org/abs/2308.12925)|null|
+|**2023-08-24**|**On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis**|Daniele Malitesta et.al.|[2308.12911](http://arxiv.org/abs/2308.12911)|**[link](https://github.com/sisinflab/multimod-popularity-bias)**|
+|**2023-08-24**|**New time domain decomposition methods for parabolic control problems I: Dirichlet-Neumann and Neumann-Dirichlet algorithms**|Martin Jakob Gander et.al.|[2308.12907](http://arxiv.org/abs/2308.12907)|null|
+|**2023-08-24**|**A note on solving the envy-free perfect matching problem with qualities of items**|Marcos Salvatierra et.al.|[2308.12868](http://arxiv.org/abs/2308.12868)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
 |**2023-08-23**|**A Generative Approach for Image Registration of Visible-Thermal (VT) Cancer Faces**|Catherine Ordun et.al.|[2308.12271](http://arxiv.org/abs/2308.12271)|null|
 |**2023-08-23**|**Transformer-based Nonlinear Equalization for DP-16QAM Coherent Optical Communication Systems**|Naveenta Gautam et.al.|[2308.12262](http://arxiv.org/abs/2308.12262)|null|
@@ -1479,6 +1490,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**POLCA: Power Oversubscription in LLM Cloud Providers**|Pratyush Patel et.al.|[2308.12908](http://arxiv.org/abs/2308.12908)|null|
+|**2023-08-24**|**DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|null|
+|**2023-08-24**|**Steady vs. Dynamic Contributions of Different Doped Conducting Polymers in the Principal Components of an Electronic Nose's Response**|Wiem Haj Ammar et.al.|[2308.12623](http://arxiv.org/abs/2308.12623)|null|
+|**2023-08-23**|**Cryogenic microwave link for quantum local area networks**|M. Renger et.al.|[2308.12398](http://arxiv.org/abs/2308.12398)|null|
 |**2023-08-23**|**Holographic RIS Empowered THz Communications with Hardware Imperfections under Adverse Weather Conditions**|Alexandros-Apostolos A. Boulogeorgos et.al.|[2308.12248](http://arxiv.org/abs/2308.12248)|null|
 |**2023-08-23**|**Incremental Property Directed Reachability**|Max Blankestijn et.al.|[2308.12162](http://arxiv.org/abs/2308.12162)|null|
 |**2023-08-23**|**An Open-Source ML-Based Full-Stack Optimization Framework for Machine Learning Accelerators**|Hadi Esmaeilzadeh et.al.|[2308.12120](http://arxiv.org/abs/2308.12120)|null|
@@ -2321,6 +2336,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963](http://arxiv.org/abs/2308.12963)|null|
+|**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|null|
+|**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956](http://arxiv.org/abs/2308.12956)|null|
+|**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
+|**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
+|**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02\,$ TeV**|LHCb collaboration et.al.|[2308.12940](http://arxiv.org/abs/2308.12940)|null|
+|**2023-08-24**|**Learning Only On Boundaries: a Physics-Informed Neural operator for Solving Parametric Partial Differential Equations in Complex Geometries**|Zhiwei Fang et.al.|[2308.12939](http://arxiv.org/abs/2308.12939)|null|
+|**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938](http://arxiv.org/abs/2308.12938)|**[link](https://github.com/KenYu910645/perspective-aware-convolution)**|
+|**2023-08-24**|**Introductory quantum information science coursework at US institutions: Content coverage**|Josephine C. Meyer et.al.|[2308.12929](http://arxiv.org/abs/2308.12929)|null|
 |**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
 |**2023-08-23**|**Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders**|Yueqi Wang et.al.|[2308.12256](http://arxiv.org/abs/2308.12256)|null|
 |**2023-08-23**|**Evaluation of SNOLAB background mitigation procedures through the use of an ICP-MS based dust monitoring methodology**|M. L. di Vacri et.al.|[2308.12253](http://arxiv.org/abs/2308.12253)|null|
@@ -3196,6 +3221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory**|Navami Kairanda et.al.|[2308.12970](http://arxiv.org/abs/2308.12970)|null|
+|**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965](http://arxiv.org/abs/2308.12965)|null|
+|**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961](http://arxiv.org/abs/2308.12961)|**[link](https://github.com/yangyangyang127/tfs3d)**|
+|**2023-08-24**|**On the importance of disc chemistry in the formation of protoplanetary disc rings**|C. A. Nolan et.al.|[2308.12946](http://arxiv.org/abs/2308.12946)|null|
+|**2023-08-24**|**Learning Only On Boundaries: a Physics-Informed Neural operator for Solving Parametric Partial Differential Equations in Complex Geometries**|Zhiwei Fang et.al.|[2308.12939](http://arxiv.org/abs/2308.12939)|null|
+|**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938](http://arxiv.org/abs/2308.12938)|**[link](https://github.com/KenYu910645/perspective-aware-convolution)**|
+|**2023-08-24**|**Panoptic-Depth Color Map for Combination of Depth and Image Segmentation**|Jia-Quan Yu et.al.|[2308.12937](http://arxiv.org/abs/2308.12937)|null|
+|**2023-08-24**|**Effect of shape asymmetry on percolation of aligned and overlapping objects on lattices**|Jasna C. K. et.al.|[2308.12932](http://arxiv.org/abs/2308.12932)|null|
+|**2023-08-24**|**An Efficient Distributed Multi-Agent Reinforcement Learning for EV Charging Network Control**|Amin Shojaeighadikolaei et.al.|[2308.12921](http://arxiv.org/abs/2308.12921)|null|
+|**2023-08-24**|**CDAN: Convolutional Dense Attention-guided Network for Low-light Image Enhancement**|Hossein Shakibania et.al.|[2308.12902](http://arxiv.org/abs/2308.12902)|null|
 |**2023-08-23**|**On-Manifold Projected Gradient Descent**|Aaron Mahler et.al.|[2308.12279](http://arxiv.org/abs/2308.12279)|null|
 |**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
 |**2023-08-23**|**Network Navigation with Online Delays is PSPACE-complete**|Thomas Depian et.al.|[2308.12265](http://arxiv.org/abs/2308.12265)|null|
@@ -4071,6 +4106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Semi-analytical Framework for Modeling Strong Coupling of Quantum Emitters in Electromagnetic Resonators**|Mohammad Abutoama et.al.|[2308.12957](http://arxiv.org/abs/2308.12957)|null|
+|**2023-08-24**|**Homotopy lifting maps on Hochschild cohomology and connections to deformation of algebras using reduction systems**|Tolulope Oke et.al.|[2308.12954](http://arxiv.org/abs/2308.12954)|null|
+|**2023-08-24**|**Directly imaging spin polarons in a kinetically frustrated Hubbard system**|Max L. Prichard et.al.|[2308.12951](http://arxiv.org/abs/2308.12951)|null|
+|**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
+|**2023-08-24**|**On the importance of disc chemistry in the formation of protoplanetary disc rings**|C. A. Nolan et.al.|[2308.12946](http://arxiv.org/abs/2308.12946)|null|
+|**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
+|**2023-08-24**|**Excitons in twisted AA' hexagonal boron nitride bilayers**|Pedro Roman-Taboada et.al.|[2308.12942](http://arxiv.org/abs/2308.12942)|null|
+|**2023-08-24**|**Links Between Optical and X-ray Light in Scorpius X-1**|Alexander B. Igl et.al.|[2308.12934](http://arxiv.org/abs/2308.12934)|null|
+|**2023-08-24**|**Effect of shape asymmetry on percolation of aligned and overlapping objects on lattices**|Jasna C. K. et.al.|[2308.12932](http://arxiv.org/abs/2308.12932)|null|
+|**2023-08-24**|**Fragility of spectral flow for topological phases in non-Wigner-Dyson classes**|Alexander Altland et.al.|[2308.12931](http://arxiv.org/abs/2308.12931)|null|
 |**2023-08-23**|**Operational requirements for localization in autonomous vehicles**|Arpan Kusari et.al.|[2308.12277](http://arxiv.org/abs/2308.12277)|null|
 |**2023-08-23**|**Observation of Nagaoka Polarons in a Fermi-Hubbard Quantum Simulator**|Martin Lebrat et.al.|[2308.12269](http://arxiv.org/abs/2308.12269)|null|
 |**2023-08-23**|**Age of Gossip on Generalized Rings**|Arunabh Srivastava et.al.|[2308.12266](http://arxiv.org/abs/2308.12266)|null|
