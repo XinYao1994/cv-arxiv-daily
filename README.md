@@ -1513,7 +1513,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-24**|**POLCA: Power Oversubscription in LLM Cloud Providers**|Pratyush Patel et.al.|[2308.12908](http://arxiv.org/abs/2308.12908)|null|
-|**2023-08-24**|**DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|null|
+|**2023-08-24**|**DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|**[link](https://github.com/rit-chaos-sec/dica)**|
 |**2023-08-24**|**Steady vs. Dynamic Contributions of Different Doped Conducting Polymers in the Principal Components of an Electronic Nose's Response**|Wiem Haj Ammar et.al.|[2308.12623](http://arxiv.org/abs/2308.12623)|null|
 |**2023-08-23**|**Cryogenic microwave link for quantum local area networks**|M. Renger et.al.|[2308.12398](http://arxiv.org/abs/2308.12398)|null|
 |**2023-08-23**|**Holographic RIS Empowered THz Communications with Hardware Imperfections under Adverse Weather Conditions**|Alexandros-Apostolos A. Boulogeorgos et.al.|[2308.12248](http://arxiv.org/abs/2308.12248)|null|
@@ -5021,7 +5021,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|null|
+|**2023-08-22**|**DeepBurning-MixQ: An Open Source Mixed-Precision Neural Network Accelerator Design Framework for FPGAs**|Erjing Luo et.al.|[2308.11334](http://arxiv.org/abs/2308.11334)|**[link](https://github.com/fffasttime/anypackingnet)**|
 |**2023-08-21**|**Hierarchical Lowrank Arithmetic with Binary Compression**|Ronald Kriemann et.al.|[2308.10960](http://arxiv.org/abs/2308.10960)|null|
 |**2023-08-15**|**Gradient-Based Post-Training Quantization: Challenging the Status Quo**|Edouard Yvinec et.al.|[2308.07662](http://arxiv.org/abs/2308.07662)|null|
 |**2023-08-15**|**EQ-Net: Elastic Quantization Neural Networks**|Ke Xu et.al.|[2308.07650](http://arxiv.org/abs/2308.07650)|**[link](https://github.com/xuke225/eq-net)**|
