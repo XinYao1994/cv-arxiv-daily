@@ -626,7 +626,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
-|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
 |**2023-08-24**|**Counting Distinct Elements Under Person-Level Differential Privacy**|Alexander Knop et.al.|[2308.12947](http://arxiv.org/abs/2308.12947)|null|
 |**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
@@ -2362,7 +2362,7 @@
 |---|---|---|---|---|
 |**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963](http://arxiv.org/abs/2308.12963)|null|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
-|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956](http://arxiv.org/abs/2308.12956)|null|
 |**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
 |**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
