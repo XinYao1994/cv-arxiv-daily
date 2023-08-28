@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.27
+## Updated on 2023.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1491,7 +1491,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-24**|**POLCA: Power Oversubscription in LLM Cloud Providers**|Pratyush Patel et.al.|[2308.12908](http://arxiv.org/abs/2308.12908)|null|
-|**2023-08-24**|**DiCA: A Hardware-Software Co-Design for Differential Check-Pointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|**[link](https://github.com/rit-chaos-sec/dica)**|
+|**2023-08-25**|**DiCA: A Hardware-Software Co-Design for Differential Checkpointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|**[link](https://github.com/rit-chaos-sec/dica)**|
 |**2023-08-24**|**Steady vs. Dynamic Contributions of Different Doped Conducting Polymers in the Principal Components of an Electronic Nose's Response**|Wiem Haj Ammar et.al.|[2308.12623](http://arxiv.org/abs/2308.12623)|null|
 |**2023-08-23**|**Cryogenic microwave link for quantum local area networks**|M. Renger et.al.|[2308.12398](http://arxiv.org/abs/2308.12398)|null|
 |**2023-08-23**|**Holographic RIS Empowered THz Communications with Hardware Imperfections under Adverse Weather Conditions**|Alexandros-Apostolos A. Boulogeorgos et.al.|[2308.12248](http://arxiv.org/abs/2308.12248)|null|
@@ -2342,7 +2342,7 @@ layout: default
 |**2023-08-24**|**DLIP: Distilling Language-Image Pre-training**|Huafeng Kuang et.al.|[2308.12956](http://arxiv.org/abs/2308.12956)|null|
 |**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
 |**2023-08-24**|**Parallel-in-time quantum simulation via Page and Wootters quantum time**|N. L. Diaz et.al.|[2308.12944](http://arxiv.org/abs/2308.12944)|null|
-|**2023-08-24**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02\,$ TeV**|LHCb collaboration et.al.|[2308.12940](http://arxiv.org/abs/2308.12940)|null|
+|**2023-08-25**|**Measurement of $Z$ boson production cross-section in $pp$ collisions at $\sqrt{s} = 5.02$ TeV**|LHCb collaboration et.al.|[2308.12940](http://arxiv.org/abs/2308.12940)|null|
 |**2023-08-24**|**Learning Only On Boundaries: a Physics-Informed Neural operator for Solving Parametric Partial Differential Equations in Complex Geometries**|Zhiwei Fang et.al.|[2308.12939](http://arxiv.org/abs/2308.12939)|null|
 |**2023-08-24**|**Perspective-aware Convolution for Monocular 3D Object Detection**|Jia-Quan Yu et.al.|[2308.12938](http://arxiv.org/abs/2308.12938)|**[link](https://github.com/KenYu910645/perspective-aware-convolution)**|
 |**2023-08-24**|**Introductory quantum information science coursework at US institutions: Content coverage**|Josephine C. Meyer et.al.|[2308.12929](http://arxiv.org/abs/2308.12929)|null|
