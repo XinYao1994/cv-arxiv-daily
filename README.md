@@ -94,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Distributed AC Optimal Power Flow for Generic Integrated Transmission-Distribution Systems**|Xinliang Dai et.al.|[2308.13282](http://arxiv.org/abs/2308.13282)|null|
 |**2023-08-23**|**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**|Jian Hu et.al.|[2308.12050](http://arxiv.org/abs/2308.12050)|null|
 |**2023-08-22**|**Resource Allocation in Cloud Computing Using Genetic Algorithm and Neural Network**|Mahdi Manavi et.al.|[2308.11782](http://arxiv.org/abs/2308.11782)|null|
 |**2023-08-21**|**Warm Compressor system Overview and status of the PIP-II cryogenic system**|A Martinez et.al.|[2308.11045](http://arxiv.org/abs/2308.11045)|null|
@@ -230,6 +231,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs**|Phitchaya Mangpo Phothilimthana et.al.|[2308.13490](http://arxiv.org/abs/2308.13490)|**[link](https://github.com/google-research-datasets/tpu_graphs)**|
+|**2023-08-24**|**PEak: A Single Source of Truth for Hardware Design and Verification**|Caleb Donovick et.al.|[2308.13106](http://arxiv.org/abs/2308.13106)|null|
+|**2023-08-24**|**Efficient Long-Range Entanglement using Dynamic Circuits**|Elisa Bäumer et.al.|[2308.13065](http://arxiv.org/abs/2308.13065)|null|
+|**2023-08-24**|**A Survey of AI Music Generation Tools and Models**|Yueyue Zhu et.al.|[2308.12982](http://arxiv.org/abs/2308.12982)|null|
 |**2023-08-24**|**Rotating charged fluids: theorems and results for Weyl type systems**|Marcos L. W. Basso et.al.|[2308.12818](http://arxiv.org/abs/2308.12818)|null|
 |**2023-08-23**|**Multi-sequence alignment using the Quantum Approximate Optimization Algorithm**|Sebastian Yde Madsen et.al.|[2308.12103](http://arxiv.org/abs/2308.12103)|null|
 |**2023-08-23**|**Using the TypeScript compiler to fix erroneous Node.js snippets**|Brittany Reid et.al.|[2308.12079](http://arxiv.org/abs/2308.12079)|null|
@@ -625,6 +630,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**A Poisson-Based Approximation Algorithm for Stochastic Bin Packing of Bernoulli Items**|Tomasz Kanas et.al.|[2308.13512](http://arxiv.org/abs/2308.13512)|null|
+|**2023-08-25**|**Optimizing Hierarchical Queries for the Attribution Reporting API**|Matthew Dawson et.al.|[2308.13510](http://arxiv.org/abs/2308.13510)|null|
+|**2023-08-25**|**Towards Optimal Head-to-head Autonomous Racing with Curriculum Reinforcement Learning**|Dvij Kalaria et.al.|[2308.13491](http://arxiv.org/abs/2308.13491)|null|
+|**2023-08-25**|**Stand-alone Multigrid for Helmholtz Revisited: Towards Convergence Using Standard Components**|Vandana Dwarka et.al.|[2308.13476](http://arxiv.org/abs/2308.13476)|null|
+|**2023-08-25**|**Unlocking the Performance of Proximity Sensors by Utilizing Transient Histograms**|Carter Sifferman et.al.|[2308.13473](http://arxiv.org/abs/2308.13473)|null|
+|**2023-08-25**|**A Fast Minimization Algorithm for the Euler Elastica Model Based on a Bilinear Decomposition**|Zhifang Liu et.al.|[2308.13471](http://arxiv.org/abs/2308.13471)|null|
+|**2023-08-25**|**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**|Guangji Bai et.al.|[2308.13466](http://arxiv.org/abs/2308.13466)|null|
+|**2023-08-25**|**Invariant Ruelle Distributions on Convex-Cocompact Hyperbolic Surfaces -- A Numerical Algorithm via Weighted Zeta Functions**|Philipp Schütte et.al.|[2308.13463](http://arxiv.org/abs/2308.13463)|null|
+|**2023-08-25**|**Learning How to Price Charging in Electric Ride-Hailing Markets**|Marko Maljkovic et.al.|[2308.13460](http://arxiv.org/abs/2308.13460)|null|
+|**2023-08-25**|**Reweighting Monte Carlo Predictions and Automated Fragmentation Variations in Pythia 8**|Christan Bierlich et.al.|[2308.13459](http://arxiv.org/abs/2308.13459)|null|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
 |**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-24**|**Label Budget Allocation in Multi-Task Learning**|Ximeng Sun et.al.|[2308.12949](http://arxiv.org/abs/2308.12949)|null|
@@ -1512,6 +1527,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance**|Ian Colbert et.al.|[2308.13504](http://arxiv.org/abs/2308.13504)|null|
+|**2023-08-25**|**Real-Time Simulations To Validate The Impact Of M-SSSC Devices On Protection Coordination In Power Systems**|Sebastian Hincapie et.al.|[2308.13502](http://arxiv.org/abs/2308.13502)|null|
+|**2023-08-25**|**Open Gaze: An Open-Source Implementation Replicating Google's Eye Tracking Paper**|Sushmanth reddy Mereddy et.al.|[2308.13495](http://arxiv.org/abs/2308.13495)|null|
+|**2023-08-25**|**TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs**|Phitchaya Mangpo Phothilimthana et.al.|[2308.13490](http://arxiv.org/abs/2308.13490)|**[link](https://github.com/google-research-datasets/tpu_graphs)**|
+|**2023-08-25**|**An Intermediate Representation for Composable Typed Streaming Dataflow Designs**|Matthijs A. Reukers et.al.|[2308.13436](http://arxiv.org/abs/2308.13436)|null|
+|**2023-08-25**|**Layered Decoding of Quantum LDPC Codes**|Julien Du Crest et.al.|[2308.13377](http://arxiv.org/abs/2308.13377)|null|
+|**2023-08-25**|**Simulating LDPC code Hamiltonians on 2D lattices**|Harriet Apel et.al.|[2308.13277](http://arxiv.org/abs/2308.13277)|null|
+|**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
+|**2023-08-25**|**Observation of multiple steady states with engineered dissipation**|Li Li et.al.|[2308.13235](http://arxiv.org/abs/2308.13235)|null|
+|**2023-08-25**|**Design and Control of a Bio-inspired Wheeled Bipedal Robot**|Haizhou Zhao et.al.|[2308.13205](http://arxiv.org/abs/2308.13205)|null|
 |**2023-08-24**|**POLCA: Power Oversubscription in LLM Cloud Providers**|Pratyush Patel et.al.|[2308.12908](http://arxiv.org/abs/2308.12908)|null|
 |**2023-08-25**|**DiCA: A Hardware-Software Co-Design for Differential Checkpointing in Intermittently Powered Devices**|Antonio Joia Neto et.al.|[2308.12819](http://arxiv.org/abs/2308.12819)|**[link](https://github.com/rit-chaos-sec/dica)**|
 |**2023-08-24**|**Steady vs. Dynamic Contributions of Different Doped Conducting Polymers in the Principal Components of an Electronic Nose's Response**|Wiem Haj Ammar et.al.|[2308.12623](http://arxiv.org/abs/2308.12623)|null|
@@ -2360,6 +2385,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**A teleportation protocol in Schwarzschild-de Sitter space**|Sergio E. Aguilar-Gutierrez et.al.|[2308.13516](http://arxiv.org/abs/2308.13516)|null|
+|**2023-08-25**|**Robust Core-Periphery Constrained Transformer for Domain Adaptation**|Xiaowei Yu et.al.|[2308.13515](http://arxiv.org/abs/2308.13515)|null|
+|**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513](http://arxiv.org/abs/2308.13513)|null|
+|**2023-08-25**|**Joint Modeling of Feature, Correspondence, and a Compressed Memory for Video Object Segmentation**|Jiaming Zhang et.al.|[2308.13505](http://arxiv.org/abs/2308.13505)|null|
+|**2023-08-25**|**Escaping the Sample Trap: Fast and Accurate Epistemic Uncertainty Estimation with Pairwise-Distance Estimators**|Lucas Berry et.al.|[2308.13498](http://arxiv.org/abs/2308.13498)|null|
+|**2023-08-25**|**TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs**|Phitchaya Mangpo Phothilimthana et.al.|[2308.13490](http://arxiv.org/abs/2308.13490)|**[link](https://github.com/google-research-datasets/tpu_graphs)**|
+|**2023-08-25**|**Multi-Focus Querying of the Human Genome Information on Desktop and in Virtual Reality: an Evaluation**|Gunnar Reiske et.al.|[2308.13487](http://arxiv.org/abs/2308.13487)|null|
+|**2023-08-25**|**On the Practicality of Dynamic Updates in Fast Searchable Encryption**|Steven Willoughby et.al.|[2308.13486](http://arxiv.org/abs/2308.13486)|null|
+|**2023-08-25**|**Communicating on Security within Software Development Issue Tracking**|Léon McGregor et.al.|[2308.13480](http://arxiv.org/abs/2308.13480)|null|
+|**2023-08-25**|**RestNet: Boosting Cross-Domain Few-Shot Segmentation with Residual Transformation Network**|Xinyang Huang et.al.|[2308.13469](http://arxiv.org/abs/2308.13469)|null|
 |**2023-08-24**|**MapPrior: Bird's-Eye View Map Layout Estimation with Generative Models**|Xiyue Zhu et.al.|[2308.12963](http://arxiv.org/abs/2308.12963)|null|
 |**2023-08-24**|**Motion-Guided Masking for Spatiotemporal Representation Learning**|David Fan et.al.|[2308.12962](http://arxiv.org/abs/2308.12962)|null|
 |**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960](http://arxiv.org/abs/2308.12960)|**[link](https://github.com/sheng-eatamath/s3a)**|
@@ -3247,6 +3282,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Robust Core-Periphery Constrained Transformer for Domain Adaptation**|Xiaowei Yu et.al.|[2308.13515](http://arxiv.org/abs/2308.13515)|null|
+|**2023-08-25**|**Unveiling the Role of Message Passing in Dual-Privacy Preservation on GNNs**|Tianyi Zhao et.al.|[2308.13513](http://arxiv.org/abs/2308.13513)|null|
+|**2023-08-25**|**A2Q: Accumulator-Aware Quantization with Guaranteed Overflow Avoidance**|Ian Colbert et.al.|[2308.13504](http://arxiv.org/abs/2308.13504)|null|
+|**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492](http://arxiv.org/abs/2308.13492)|null|
+|**2023-08-25**|**TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs**|Phitchaya Mangpo Phothilimthana et.al.|[2308.13490](http://arxiv.org/abs/2308.13490)|**[link](https://github.com/google-research-datasets/tpu_graphs)**|
+|**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488](http://arxiv.org/abs/2308.13488)|null|
+|**2023-08-25**|**Machine Learning for the EUSO-SPB2 Fluorescence Telescope Data Analysis**|George Filippatos et.al.|[2308.13481](http://arxiv.org/abs/2308.13481)|null|
+|**2023-08-25**|**RestNet: Boosting Cross-Domain Few-Shot Segmentation with Residual Transformation Network**|Xinyang Huang et.al.|[2308.13469](http://arxiv.org/abs/2308.13469)|null|
+|**2023-08-25**|**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**|Guangji Bai et.al.|[2308.13466](http://arxiv.org/abs/2308.13466)|null|
+|**2023-08-25**|**Mesh-Wise Prediction of Demographic Composition from Satellite Images Using Multi-Head Convolutional Neural Network**|Yuta Sato et.al.|[2308.13441](http://arxiv.org/abs/2308.13441)|null|
 |**2023-08-24**|**NeuralClothSim: Neural Deformation Fields Meet the Kirchhoff-Love Thin Shell Theory**|Navami Kairanda et.al.|[2308.12970](http://arxiv.org/abs/2308.12970)|null|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965](http://arxiv.org/abs/2308.12965)|null|
 |**2023-08-24**|**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks**|Xiangyang Zhu et.al.|[2308.12961](http://arxiv.org/abs/2308.12961)|**[link](https://github.com/yangyangyang127/tfs3d)**|
@@ -4134,6 +4179,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Real-Time Simulations To Validate The Impact Of M-SSSC Devices On Protection Coordination In Power Systems**|Sebastian Hincapie et.al.|[2308.13502](http://arxiv.org/abs/2308.13502)|null|
+|**2023-08-25**|**Localized Virtual Purification**|Hideaki Hakoshima et.al.|[2308.13500](http://arxiv.org/abs/2308.13500)|null|
+|**2023-08-25**|**MRNAV: Multi-Robot Aware Planning and Control Stack for Collision and Deadlock-free Navigation in Cluttered Environments**|Baskın Şenbaşlar et.al.|[2308.13499](http://arxiv.org/abs/2308.13499)|null|
+|**2023-08-25**|**Ngambay-French Neural Machine Translation (sba-Fr)**|Sakayo Toadoum Sari et.al.|[2308.13497](http://arxiv.org/abs/2308.13497)|**[link](https://github.com/Toadoum/Ngambay-French-Neural-Machine-Translation-sba_fr_v1-)**|
+|**2023-08-25**|**Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere**|Yubiao Yue et.al.|[2308.13492](http://arxiv.org/abs/2308.13492)|null|
+|**2023-08-25**|**On the Practicality of Dynamic Updates in Fast Searchable Encryption**|Steven Willoughby et.al.|[2308.13486](http://arxiv.org/abs/2308.13486)|null|
+|**2023-08-25**|**Communicating on Security within Software Development Issue Tracking**|Léon McGregor et.al.|[2308.13480](http://arxiv.org/abs/2308.13480)|null|
+|**2023-08-25**|**Invariant Ruelle Distributions on Convex-Cocompact Hyperbolic Surfaces -- A Numerical Algorithm via Weighted Zeta Functions**|Philipp Schütte et.al.|[2308.13463](http://arxiv.org/abs/2308.13463)|null|
+|**2023-08-25**|**Learning How to Price Charging in Electric Ride-Hailing Markets**|Marko Maljkovic et.al.|[2308.13460](http://arxiv.org/abs/2308.13460)|null|
+|**2023-08-25**|**Disorder-induced phase transitions in double HgTe quantum wells**|S. S. Krishtopenko et.al.|[2308.13440](http://arxiv.org/abs/2308.13440)|null|
 |**2023-08-24**|**Semi-analytical Framework for Modeling Strong Coupling of Quantum Emitters in Electromagnetic Resonators**|Mohammad Abutoama et.al.|[2308.12957](http://arxiv.org/abs/2308.12957)|null|
 |**2023-08-24**|**Homotopy lifting maps on Hochschild cohomology and connections to deformation of algebras using reduction systems**|Tolulope Oke et.al.|[2308.12954](http://arxiv.org/abs/2308.12954)|null|
 |**2023-08-24**|**Directly imaging spin polarons in a kinetically frustrated Hubbard system**|Max L. Prichard et.al.|[2308.12951](http://arxiv.org/abs/2308.12951)|null|
