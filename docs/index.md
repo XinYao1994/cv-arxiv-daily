@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -634,7 +634,7 @@ layout: default
 |**2023-08-29**|**Gauss-Newton oriented greedy algorithms for the reconstruction of operators in nonlinear dynamics**|S. Buchwald et.al.|[2308.15450](http://arxiv.org/abs/2308.15450)|null|
 |**2023-08-29**|**Vulgar Remarks Detection in Chittagonian Dialect of Bangla**|Tanjim Mahmud et.al.|[2308.15448](http://arxiv.org/abs/2308.15448)|null|
 |**2023-08-29**|**On the hardness of inclusion-wise minimal separators enumeration**|Caroline Brosse et.al.|[2308.15444](http://arxiv.org/abs/2308.15444)|null|
-|**2023-08-29**|**Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios**|Naphan Benchasattabuse et.al.|[2308.15442](http://arxiv.org/abs/2308.15442)|null|
+|**2023-08-30**|**Lower Bounds on Number of QAOA Rounds Required for Guaranteed Approximation Ratios**|Naphan Benchasattabuse et.al.|[2308.15442](http://arxiv.org/abs/2308.15442)|null|
 |**2023-08-28**|**Quantum Computing for Solid Mechanics and Structural Engineering -- a Demonstration with Variational Quantum Eigensolver**|Yunya Liu et.al.|[2308.14745](http://arxiv.org/abs/2308.14745)|null|
 |**2023-08-28**|**Minimizing Quasi-Self-Concordant Functions by Gradient Regularization of Newton Method**|Nikita Doikov et.al.|[2308.14742](http://arxiv.org/abs/2308.14742)|null|
 |**2023-08-28**|**Differentially Private Aggregation via Imperfect Shuffling**|Badih Ghazi et.al.|[2308.14733](http://arxiv.org/abs/2308.14733)|null|
