@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.04
+## Updated on 2023.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -642,11 +642,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-01**|**A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects**|Hywel Normington et.al.|[2309.00605](http://arxiv.org/abs/2309.00605)|null|
+|**2023-09-01**|**A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects**|Hywel Normington et.al.|[2309.00605](http://arxiv.org/abs/2309.00605)|**[link](https://github.com/Horep/DecoupledLLGMagnetostrictionIntegrator)**|
 |**2023-09-01**|**Fast and Regret Optimal Best Arm Identification: Fundamental Limits and Low-Complexity Algorithms**|Qining Zhang et.al.|[2309.00591](http://arxiv.org/abs/2309.00591)|null|
 |**2023-09-01**|**Discrete Morphological Neural Networks**|Diego Marcondes et.al.|[2309.00588](http://arxiv.org/abs/2309.00588)|**[link](https://github.com/dmarcondes/dmnn)**|
 |**2023-09-01**|**Consistency of Lloyd's Algorithm Under Perturbations**|Dhruv Patel et.al.|[2309.00578](http://arxiv.org/abs/2309.00578)|null|
-|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570](http://arxiv.org/abs/2309.00570)|null|
+|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570](http://arxiv.org/abs/2309.00570)|**[link](https://github.com/aradha/convrfm)**|
 |**2023-09-01**|**Interactive and Concentrated Differential Privacy for Bandits**|Achraf Azize et.al.|[2309.00557](http://arxiv.org/abs/2309.00557)|null|
 |**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
 |**2023-09-01**|**Revisiting a flux recovery systematic error arising from common deconvolution methods used in aperture-synthesis imaging**|Jack F. Radcliffe et.al.|[2309.00533](http://arxiv.org/abs/2309.00533)|null|
@@ -3441,7 +3441,7 @@ layout: default
 |**2023-09-01**|**Discrete Morphological Neural Networks**|Diego Marcondes et.al.|[2309.00588](http://arxiv.org/abs/2309.00588)|**[link](https://github.com/dmarcondes/dmnn)**|
 |**2023-09-01**|**Geometry-Informed Neural Operator for Large-Scale 3D PDEs**|Zongyi Li et.al.|[2309.00583](http://arxiv.org/abs/2309.00583)|null|
 |**2023-09-01**|**Consistency of Lloyd's Algorithm Under Perturbations**|Dhruv Patel et.al.|[2309.00578](http://arxiv.org/abs/2309.00578)|null|
-|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570](http://arxiv.org/abs/2309.00570)|null|
+|**2023-09-01**|**Mechanism of feature learning in convolutional neural networks**|Daniel Beaglehole et.al.|[2309.00570](http://arxiv.org/abs/2309.00570)|**[link](https://github.com/aradha/convrfm)**|
 |**2023-09-01**|**Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models**|Janghoon Ock et.al.|[2309.00563](http://arxiv.org/abs/2309.00563)|null|
 |**2023-09-01**|**Exact Learning with Tunable Quantum Neural Networks and a Quantum Example Oracle**|Viet Pham Ngoc et.al.|[2309.00561](http://arxiv.org/abs/2309.00561)|null|
 |**2023-08-31**|**Robust Variational Physics-Informed Neural Networks**|Sergio Rojas et.al.|[2308.16910](http://arxiv.org/abs/2308.16910)|null|
@@ -4382,7 +4382,7 @@ layout: default
 |**2023-09-03**|**Dirac hydrodynamics in 19 forms**|Luca Fabbri et.al.|[2309.00617](http://arxiv.org/abs/2309.00617)|null|
 |**2023-09-01**|**Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair**|Yuxiang Wei et.al.|[2309.00608](http://arxiv.org/abs/2309.00608)|**[link](https://github.com/ise-uiuc/Repilot)**|
 |**2023-09-01**|**Non-Einsteinian Viscosity Reduction in Boron Nitride Nanotube Nanofluids**|André Guerra et.al.|[2309.00606](http://arxiv.org/abs/2309.00606)|null|
-|**2023-09-01**|**A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects**|Hywel Normington et.al.|[2309.00605](http://arxiv.org/abs/2309.00605)|null|
+|**2023-09-01**|**A decoupled, convergent and fully linear algorithm for the Landau--Lifshitz--Gilbert equation with magnetoelastic effects**|Hywel Normington et.al.|[2309.00605](http://arxiv.org/abs/2309.00605)|**[link](https://github.com/Horep/DecoupledLLGMagnetostrictionIntegrator)**|
 |**2023-09-01**|**Bulk density signatures of a lattice quasihole with very few particles**|R. O. Umucalilar et.al.|[2309.00604](http://arxiv.org/abs/2309.00604)|null|
 |**2023-09-01**|**Quantum Cognitive Modeling: New Applications and Systems Research Directions**|Raghavendra Pradyumna Pothukuchi et.al.|[2309.00597](http://arxiv.org/abs/2309.00597)|null|
 |**2023-09-01**|**Optimization towards Efficiency and Stateful of dispel4py**|Liang Liang et.al.|[2309.00595](http://arxiv.org/abs/2309.00595)|null|
