@@ -81,6 +81,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|null|
+|**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
+|**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|null|
+|**2023-09-06**|**Grove: a Separation-Logic Library for Verifying Distributed Systems (Extended Version)**|Upamanyu Sharma et.al.|[2309.03046](http://arxiv.org/abs/2309.03046)|null|
+|**2023-09-06**|**State-deterministic Finite Automata with Translucent Letters and Finite Automata with Nondeterministically Translucent Letters**|Benedek Nagy et.al.|[2309.02759](http://arxiv.org/abs/2309.02759)|null|
 |**2023-09-04**|**Distributionally Robust Decentralized Volt-Var Control with Network Reconfiguration**|Geunyeong Byeon et.al.|[2309.01836](http://arxiv.org/abs/2309.01836)|null|
 |**2023-09-03**|**Game Theory in Distributed Systems Security: Foundations, Challenges, and Future Directions**|Mustafa Abdallah et.al.|[2309.01281](http://arxiv.org/abs/2309.01281)|null|
 |**2023-09-03**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
@@ -232,6 +237,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
+|**2023-09-06**|**GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models**|Udit Gupta et.al.|[2309.03079](http://arxiv.org/abs/2309.03079)|**[link](https://github.com/UditGupta10/GPT-InvestAR)**|
+|**2023-09-06**|**Determining the Baryon Impact on the Matter Power Spectrum with Galaxy Clusters**|Sebastian Grandis et.al.|[2309.02920](http://arxiv.org/abs/2309.02920)|null|
+|**2023-09-06**|**Unveiling the frontiers of deep learning: innovations shaping diverse domains**|Shams Forruque Ahmed et.al.|[2309.02712](http://arxiv.org/abs/2309.02712)|null|
 |**2023-09-05**|**MAFIA: Protecting the Microarchitecture of Embedded Systems Against Fault Injection Attacks**|Thomas Chamelot et.al.|[2309.02255](http://arxiv.org/abs/2309.02255)|null|
 |**2023-09-05**|**Wordle: A Microcosm of Life. Luck, Skill, Cheating, Loyalty, and Influence!**|James P. Dilger et.al.|[2309.02110](http://arxiv.org/abs/2309.02110)|null|
 |**2023-09-05**|**Tetris: A compilation Framework for VQE Applications**|Yuwei Jin et.al.|[2309.01905](http://arxiv.org/abs/2309.01905)|null|
@@ -655,6 +664,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
+|**2023-09-06**|**Error analysis for local coarsening in univariate spline spaces**|Silvano Figueroa et.al.|[2309.03176](http://arxiv.org/abs/2309.03176)|null|
+|**2023-09-06**|**Distributed and Anytime Algorithm for Network Optimization Problems with Separable Structure**|Pol Mestres et.al.|[2309.03174](http://arxiv.org/abs/2309.03174)|null|
+|**2023-09-06**|**A Semiparametric Generalized Exponential Regression Model with a Principled Distance-based Prior for Analyzing Trends in Rainfall**|Arijit Dey et.al.|[2309.03165](http://arxiv.org/abs/2309.03165)|null|
+|**2023-09-06**|**On the Line-Separable Unit-Disk Coverage and Related Problems**|Gang Liu et.al.|[2309.03162](http://arxiv.org/abs/2309.03162)|null|
+|**2023-09-06**|**Learning to Recharge: UAV Coverage Path Planning through Deep Reinforcement Learning**|Mirco Theile et.al.|[2309.03157](http://arxiv.org/abs/2309.03157)|null|
+|**2023-09-06**|**Data-Driven Neural Polar Codes for Unknown Channels With and Without Memory**|Ziv Aharoni et.al.|[2309.03148](http://arxiv.org/abs/2309.03148)|null|
+|**2023-09-06**|**The Best Arm Evades: Near-optimal Multi-pass Streaming Lower Bounds for Pure Exploration in Multi-armed Bandits**|Sepehr Assadi et.al.|[2309.03145](http://arxiv.org/abs/2309.03145)|null|
+|**2023-09-06**|**FMplex: A Novel Method for Solving Linear Real Arithmetic Problems**|Jasper Nalbach et.al.|[2309.03138](http://arxiv.org/abs/2309.03138)|null|
 |**2023-09-05**|**Efficient RL via Disentangled Environment and Agent Representations**|Kevin Gmelin et.al.|[2309.02435](http://arxiv.org/abs/2309.02435)|null|
 |**2023-09-05**|**A call to arms: making the case for more reusable libraries**|Susi Lehtola et.al.|[2309.02433](http://arxiv.org/abs/2309.02433)|null|
 |**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431](http://arxiv.org/abs/2309.02431)|null|
@@ -1610,6 +1629,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Real-time auralization for performers on virtual stages**|Ernesto Accolti et.al.|[2309.03149](http://arxiv.org/abs/2309.03149)|null|
+|**2023-09-06**|**The Case for Asymmetric Systolic Array Floorplanning**|C. Peltekis et.al.|[2309.02969](http://arxiv.org/abs/2309.02969)|null|
+|**2023-09-06**|**tinySLAM-based exploration with a swarm of nano-UAVs**|Johan Markdahl et.al.|[2309.02834](http://arxiv.org/abs/2309.02834)|null|
+|**2023-09-06**|**Stacked Intelligent Metasurfaces for Multiuser Downlink Beamforming in the Wave Domain**|Jiancheng An et.al.|[2309.02687](http://arxiv.org/abs/2309.02687)|null|
+|**2023-09-06**|**Vector-Processing for Mobile Devices: Benchmark and Analysis**|Alireza Khadem et.al.|[2309.02680](http://arxiv.org/abs/2309.02680)|null|
+|**2023-09-05**|**A pragma based C++ framework for hybrid quantum/classical computation**|Arnaud Gazda et.al.|[2309.02605](http://arxiv.org/abs/2309.02605)|null|
+|**2023-09-05**|**Integrated Photonic AI Accelerators under Hardware Security Attacks: Impacts and Countermeasures**|Felipe Gohring de Magalhães et.al.|[2309.02543](http://arxiv.org/abs/2309.02543)|null|
+|**2023-09-05**|**Design of Oscillatory Neural Networks by Machine Learning**|Tamas Rudner et.al.|[2309.02532](http://arxiv.org/abs/2309.02532)|null|
+|**2023-09-05**|**Comparative Analysis of CPU and GPU Profiling for Deep Learning Models**|Dipesh Gyawali et.al.|[2309.02521](http://arxiv.org/abs/2309.02521)|null|
 |**2023-09-05**|**A call to arms: making the case for more reusable libraries**|Susi Lehtola et.al.|[2309.02433](http://arxiv.org/abs/2309.02433)|null|
 |**2023-09-05**|**nanoT5: A PyTorch Framework for Pre-training and Fine-tuning T5-style Models with Limited Resources**|Piotr Nawrot et.al.|[2309.02373](http://arxiv.org/abs/2309.02373)|null|
 |**2023-09-05**|**A Lightweight and Transferable Design for Robust LEGO Manipulation**|Ruixuan Liu et.al.|[2309.02354](http://arxiv.org/abs/2309.02354)|null|
@@ -2522,6 +2550,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
+|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
+|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
+|**2023-09-06**|**PDiscoNet: Semantically consistent part discovery for fine-grained recognition**|Robert van der Klis et.al.|[2309.03173](http://arxiv.org/abs/2309.03173)|null|
+|**2023-09-06**|**Optical pulse induced ultrafast antiferrodistortive transition in SrTiO3**|Saqeeb Adnan et.al.|[2309.03172](http://arxiv.org/abs/2309.03172)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
+|**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164](http://arxiv.org/abs/2309.03164)|null|
+|**2023-09-06**|**Real-time auralization for performers on virtual stages**|Ernesto Accolti et.al.|[2309.03149](http://arxiv.org/abs/2309.03149)|null|
+|**2023-09-06**|**Data-Driven Neural Polar Codes for Unknown Channels With and Without Memory**|Ziv Aharoni et.al.|[2309.03148](http://arxiv.org/abs/2309.03148)|null|
+|**2023-09-06**|**GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models**|Udit Gupta et.al.|[2309.03079](http://arxiv.org/abs/2309.03079)|**[link](https://github.com/UditGupta10/GPT-InvestAR)**|
 |**2023-09-05**|**Computing SHAP Efficiently Using Model Structure Information**|Linwei Hu et.al.|[2309.02417](http://arxiv.org/abs/2309.02417)|null|
 |**2023-09-05**|**Differentially Private Synthetic Heavy-tailed Data**|Tran Tran et.al.|[2309.02416](http://arxiv.org/abs/2309.02416)|null|
 |**2023-09-05**|**A Photon Burst Clears the Earliest Dusty Galaxies: Modelling Dust in High-redshift Galaxies from ALMA to JWST**|Daichi Tsuna et.al.|[2309.02415](http://arxiv.org/abs/2309.02415)|null|
@@ -3477,6 +3515,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Signatures of Bayesian inference emerge from energy efficient synapses**|James Malkin et.al.|[2309.03194](http://arxiv.org/abs/2309.03194)|null|
+|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
+|**2023-09-06**|**Bulk Operator Reconstruction in Topological Tensor Network and Generalized Free Fields**|Xiangdong Zeng et.al.|[2309.03178](http://arxiv.org/abs/2309.03178)|null|
+|**2023-09-06**|**Distributed and Anytime Algorithm for Network Optimization Problems with Separable Structure**|Pol Mestres et.al.|[2309.03174](http://arxiv.org/abs/2309.03174)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
+|**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|null|
+|**2023-09-06**|**Split-Boost Neural Networks**|Raffaele Giuseppe Cestari et.al.|[2309.03167](http://arxiv.org/abs/2309.03167)|null|
+|**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160](http://arxiv.org/abs/2309.03160)|null|
+|**2023-09-06**|**Optimal transmission switching and grid reconfiguration for transmission systems via convex relaxations**|Vineet Jagadeesan Nair et.al.|[2309.03154](http://arxiv.org/abs/2309.03154)|null|
+|**2023-09-06**|**Timing Analysis of the Intermediate Polar V709 Cas**|Srinivas M Rao et.al.|[2309.03150](http://arxiv.org/abs/2309.03150)|null|
 |**2023-09-05**|**Employing Real Training Data for Deep Noise Suppression**|Ziyi Xu et.al.|[2309.02432](http://arxiv.org/abs/2309.02432)|null|
 |**2023-09-05**|**Tensorization: Creating and Utilising Multidimensional Datasets for Multiway Analysis and Tensorised Deep Neural Networks -- Python Tutorial and Survey**|Manal Helal et.al.|[2309.02428](http://arxiv.org/abs/2309.02428)|**[link](https://github.com/mhelal/TensorsPyBook)**|
 |**2023-09-05**|**Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test**|Seunghoon Paik et.al.|[2309.02422](http://arxiv.org/abs/2309.02422)|null|
@@ -4432,6 +4480,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|null|
+|**2023-09-06**|**Complex scaling in finite volume**|Hang Yu et.al.|[2309.03196](http://arxiv.org/abs/2309.03196)|null|
+|**2023-09-06**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
+|**2023-09-06**|**Frustrated extended Bose-Hubbard model and deconfined quantum critical points with optical lattices at the anti-magic wavelength**|Niccolò Baldelli et.al.|[2309.03193](http://arxiv.org/abs/2309.03193)|null|
+|**2023-09-06**|**treams -- A T-matrix scattering code for nanophotonic computations**|Dominik Beutel et.al.|[2309.03182](http://arxiv.org/abs/2309.03182)|null|
+|**2023-09-06**|**3D Object Positioning Using Differentiable Multimodal Learning**|Sean Zanyk-McLean et.al.|[2309.03177](http://arxiv.org/abs/2309.03177)|null|
+|**2023-09-06**|**Gender-specific Machine Translation with Large Language Models**|Eduardo Sánchez et.al.|[2309.03175](http://arxiv.org/abs/2309.03175)|null|
+|**2023-09-06**|**Distributed and Anytime Algorithm for Network Optimization Problems with Separable Structure**|Pol Mestres et.al.|[2309.03174](http://arxiv.org/abs/2309.03174)|null|
+|**2023-09-06**|**Impression-Informed Multi-Behavior Recommender System: A Hierarchical Graph Attention Approach**|Dong Li et.al.|[2309.03169](http://arxiv.org/abs/2309.03169)|null|
+|**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|null|
 |**2023-09-05**|**Crack propagation in anisotropic brittle materials: from a phase-field model to a shape optimization approach**|Tim Suchan et.al.|[2309.02431](http://arxiv.org/abs/2309.02431)|null|
 |**2023-09-05**|**Cognitive Architectures for Language Agents**|Theodore Sumers et.al.|[2309.02427](http://arxiv.org/abs/2309.02427)|null|
 |**2023-09-05**|**Ruthenium dioxide RuO $_{2}$ : effect of the altermagnetism on the physical properties**|Andrzej Ptok et.al.|[2309.02421](http://arxiv.org/abs/2309.02421)|null|
