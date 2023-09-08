@@ -97,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**|Fahao Chen et.al.|[2309.03523](http://arxiv.org/abs/2309.03523)|null|
 |**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|null|
 |**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
 |**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|null|
@@ -255,6 +256,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
+|**2023-09-07**|**Compositional properties of planet-crossing asteroids from astronomical surveys**|A. V. Sergeyev et.al.|[2309.03555](http://arxiv.org/abs/2309.03555)|null|
+|**2023-09-06**|**RoDia: A New Dataset for Romanian Dialect Identification from Speech**|Codrut Rotaru et.al.|[2309.03378](http://arxiv.org/abs/2309.03378)|null|
 |**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
 |**2023-09-06**|**GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models**|Udit Gupta et.al.|[2309.03079](http://arxiv.org/abs/2309.03079)|**[link](https://github.com/UditGupta10/GPT-InvestAR)**|
 |**2023-09-06**|**Determining the Baryon Impact on the Matter Power Spectrum with Galaxy Clusters**|Sebastian Grandis et.al.|[2309.02920](http://arxiv.org/abs/2309.02920)|null|
@@ -684,6 +689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903](http://arxiv.org/abs/2309.03903)|null|
+|**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
+|**2023-09-07**|**Better Practices for Domain Adaptation**|Linus Ericsson et.al.|[2309.03879](http://arxiv.org/abs/2309.03879)|null|
+|**2023-09-07**|**The complexity of solving a random polynomial system**|Giulia Gaggero et.al.|[2309.03855](http://arxiv.org/abs/2309.03855)|null|
+|**2023-09-07**|**Mixtures of Gaussians are Privately Learnable with a Polynomial Number of Samples**|Mohammad Afzali et.al.|[2309.03847](http://arxiv.org/abs/2309.03847)|null|
+|**2023-09-07**|**Gradient-Based Feature Learning under Structured Data**|Alireza Mousavi-Hosseini et.al.|[2309.03843](http://arxiv.org/abs/2309.03843)|null|
+|**2023-09-07**|**Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning**|Jensen Gao et.al.|[2309.03839](http://arxiv.org/abs/2309.03839)|null|
+|**2023-09-07**|**On the Reduction of the Spherical Point-in-Polygon Problem for Antipode-Excluding Spherical Polygons**|Ziqiang Li et.al.|[2309.03822](http://arxiv.org/abs/2309.03822)|null|
+|**2023-09-07**|**On isomorphism to a free group and beyond**|Vladimir Shpilrain et.al.|[2309.03819](http://arxiv.org/abs/2309.03819)|null|
+|**2023-09-07**|**Empirical Risk Minimization for Losses without Variance**|Guanhua Fang et.al.|[2309.03818](http://arxiv.org/abs/2309.03818)|null|
 |**2023-09-07**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
 |**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185](http://arxiv.org/abs/2309.03185)|null|
 |**2023-09-06**|**Error analysis for local coarsening in univariate spline spaces**|Silvano Figueroa et.al.|[2309.03176](http://arxiv.org/abs/2309.03176)|null|
@@ -1651,6 +1666,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
+|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|null|
+|**2023-09-07**|**dacl1k: Real-World Bridge Damage Dataset Putting Open-Source Data to the Test**|Johannes Flotzinger et.al.|[2309.03763](http://arxiv.org/abs/2309.03763)|null|
+|**2023-09-07**|**A computationally lightweight safe learning algorithm**|Dominik Baumann et.al.|[2309.03672](http://arxiv.org/abs/2309.03672)|null|
+|**2023-09-07**|**OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs**|Mikhail Khalilov et.al.|[2309.03628](http://arxiv.org/abs/2309.03628)|null|
+|**2023-09-07**|**Single-electron occupation in quantum dot arrays at selectable plunger gate voltage**|Marcel Meyer et.al.|[2309.03591](http://arxiv.org/abs/2309.03591)|null|
+|**2023-09-07**|**Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence**|Sashidhar Jakkamsetti et.al.|[2309.03574](http://arxiv.org/abs/2309.03574)|null|
+|**2023-09-07**|**Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping**|Jingyang Hu et.al.|[2309.03492](http://arxiv.org/abs/2309.03492)|null|
+|**2023-09-07**|**Research on Damage Analysis of Key Parts of UAV Flight Control System**|Tianshun Li et.al.|[2309.03462](http://arxiv.org/abs/2309.03462)|null|
 |**2023-09-06**|**Real-time auralization for performers on virtual stages**|Ernesto Accolti et.al.|[2309.03149](http://arxiv.org/abs/2309.03149)|null|
 |**2023-09-06**|**The Case for Asymmetric Systolic Array Floorplanning**|C. Peltekis et.al.|[2309.02969](http://arxiv.org/abs/2309.02969)|null|
 |**2023-09-06**|**tinySLAM-based exploration with a swarm of nano-UAVs**|Johan Markdahl et.al.|[2309.02834](http://arxiv.org/abs/2309.02834)|null|
@@ -2574,6 +2599,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
+|**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897](http://arxiv.org/abs/2309.03897)|null|
+|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
+|**2023-09-07**|**Private Membership Aggregation**|Mohamed Nomeir et.al.|[2309.03872](http://arxiv.org/abs/2309.03872)|null|
+|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
+|**2023-09-07**|**Mixtures of Gaussians are Privately Learnable with a Polynomial Number of Samples**|Mohammad Afzali et.al.|[2309.03847](http://arxiv.org/abs/2309.03847)|null|
+|**2023-09-07**|**Gradient-Based Feature Learning under Structured Data**|Alireza Mousavi-Hosseini et.al.|[2309.03843](http://arxiv.org/abs/2309.03843)|null|
+|**2023-09-07**|**Early warning via transitions in latent stochastic dynamical systems**|Lingyu Feng et.al.|[2309.03842](http://arxiv.org/abs/2309.03842)|null|
+|**2023-09-07**|**Cross-Task Attention Network: Improving Multi-Task Learning for Medical Imaging Applications**|Sangwook Kim et.al.|[2309.03837](http://arxiv.org/abs/2309.03837)|null|
 |**2023-09-06**|**My Art My Choice: Adversarial Protection Against Unruly AI**|Anthony Rhodes et.al.|[2309.03198](http://arxiv.org/abs/2309.03198)|null|
 |**2023-09-07**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
 |**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
@@ -3541,6 +3576,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905](http://arxiv.org/abs/2309.03905)|null|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
+|**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
+|**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
+|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886](http://arxiv.org/abs/2309.03886)|null|
+|**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884](http://arxiv.org/abs/2309.03884)|null|
+|**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
+|**2023-09-07**|**Box-based Refinement for Weakly Supervised and Unsupervised Localization Tasks**|Eyal Gomel et.al.|[2309.03874](http://arxiv.org/abs/2309.03874)|null|
+|**2023-09-07**|**Private Membership Aggregation**|Mohamed Nomeir et.al.|[2309.03872](http://arxiv.org/abs/2309.03872)|null|
 |**2023-09-06**|**Signatures of Bayesian inference emerge from energy efficient synapses**|James Malkin et.al.|[2309.03194](http://arxiv.org/abs/2309.03194)|null|
 |**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
 |**2023-09-06**|**Bulk Operator Reconstruction in Topological Tensor Network and Generalized Free Fields**|Xiangdong Zeng et.al.|[2309.03178](http://arxiv.org/abs/2309.03178)|null|
@@ -4508,6 +4553,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Universality of $nn$ distributions of $s$-wave $2n$ halos and the unitary limit**|Matthias Göbel et.al.|[2309.03902](http://arxiv.org/abs/2309.03902)|null|
+|**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
+|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-07**|**Full L- and M-band high resolution spectroscopy of the S CrA binary disks with VLT-CRIRES+**|Sierra L. Grant et.al.|[2309.03888](http://arxiv.org/abs/2309.03888)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887](http://arxiv.org/abs/2309.03887)|null|
+|**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
+|**2023-09-07**|**A Tutorial on the Non-Asymptotic Theory of System Identification**|Ingvar Ziemann et.al.|[2309.03873](http://arxiv.org/abs/2309.03873)|null|
+|**2023-09-07**|**Private Membership Aggregation**|Mohamed Nomeir et.al.|[2309.03872](http://arxiv.org/abs/2309.03872)|null|
+|**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. III. Synthetic CO Line Emission**|Duo Xu et.al.|[2309.03868](http://arxiv.org/abs/2309.03868)|null|
+|**2023-09-07**|**Lie pairs**|Letterio Gatto et.al.|[2309.03867](http://arxiv.org/abs/2309.03867)|null|
 |**2023-09-06**|**Matcha-TTS: A fast TTS architecture with conditional flow matching**|Shivam Mehta et.al.|[2309.03199](http://arxiv.org/abs/2309.03199)|null|
 |**2023-09-06**|**Complex scaling in finite volume**|Hang Yu et.al.|[2309.03196](http://arxiv.org/abs/2309.03196)|null|
 |**2023-09-07**|**Terahertz-Band Direction Finding With Beam-Split and Mutual Coupling Calibration**|Ahmet M. Elbir et.al.|[2309.03195](http://arxiv.org/abs/2309.03195)|null|
