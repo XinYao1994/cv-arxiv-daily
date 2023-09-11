@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**pPython Performance Study**|Chansup Byun et.al.|[2309.03931](http://arxiv.org/abs/2309.03931)|null|
 |**2023-09-06**|**Collective Communication Patterns Using Time-Reversal Terahertz Links at the Chip Scale**|Fátima Rodríguez-Galán et.al.|[2309.01428](http://arxiv.org/abs/2309.01428)|null|
 |**2023-08-09**|**gZCCL: Compression-Accelerated Collective Communication Framework for GPU Clusters**|Jiajun Huang et.al.|[2308.05199](http://arxiv.org/abs/2308.05199)|null|
 |**2023-07-25**|**NetClone: Fast, Scalable, and Dynamic Request Cloning for Microsecond-Scale RPCs**|Gyuyeong Kim et.al.|[2307.13285](http://arxiv.org/abs/2307.13285)|null|
@@ -256,6 +257,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
+|**2023-09-08**|**Cyclic Operator Precedence Grammars for Parallel Parsing**|Michele Chiari et.al.|[2309.04200](http://arxiv.org/abs/2309.04200)|null|
+|**2023-09-08**|**The State of Disappearing Frameworks in 2023**|Juho Vepsäläinen et.al.|[2309.04188](http://arxiv.org/abs/2309.04188)|null|
+|**2023-09-08**|**A Grounded Conceptual Model for Ownership Types in Rust**|Will Crichton et.al.|[2309.04134](http://arxiv.org/abs/2309.04134)|null|
 |**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
 |**2023-09-08**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
 |**2023-09-07**|**Compositional properties of planet-crossing asteroids from astronomical surveys**|A. V. Sergeyev et.al.|[2309.03555](http://arxiv.org/abs/2309.03555)|null|
@@ -689,6 +694,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Variational Quantum Approximate Spectral Clustering for Binary Clustering Problems**|Hyeong-Gyu Kim et.al.|[2309.04465](http://arxiv.org/abs/2309.04465)|null|
+|**2023-09-08**|**Generalized Variable Selection Algorithms for Gaussian Process Models by LASSO-like Penalty**|Zhiyong Hu et.al.|[2309.04455](http://arxiv.org/abs/2309.04455)|null|
+|**2023-09-08**|**WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue**|Daniel Broyles et.al.|[2309.04453](http://arxiv.org/abs/2309.04453)|null|
+|**2023-09-08**|**A hybrid physics-informed neural network based multiscale solver as a partial differential equation constrained optimization problem**|Michael Hintermüller et.al.|[2309.04439](http://arxiv.org/abs/2309.04439)|null|
+|**2023-09-08**|**Physics-Informed Neural Networks for an optimal counterdiabatic quantum computation**|Antonio Ferrer-Sánchez et.al.|[2309.04434](http://arxiv.org/abs/2309.04434)|null|
+|**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426](http://arxiv.org/abs/2309.04426)|null|
+|**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
+|**2023-09-08**|**Quantum Ising model on two dimensional anti-de Sitter space**|Muhammad Asaduzzaman et.al.|[2309.04383](http://arxiv.org/abs/2309.04383)|null|
+|**2023-09-08**|**Generalization Bounds: Perspectives from Information Theory and PAC-Bayes**|Fredrik Hellström et.al.|[2309.04381](http://arxiv.org/abs/2309.04381)|null|
+|**2023-09-08**|**Data-Driven Batch Localization and SLAM Using Koopman Linearization**|Zi Cong Guo et.al.|[2309.04375](http://arxiv.org/abs/2309.04375)|null|
 |**2023-09-07**|**Tracking Anything with Decoupled Video Segmentation**|Ho Kei Cheng et.al.|[2309.03903](http://arxiv.org/abs/2309.03903)|**[link](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)**|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
 |**2023-09-07**|**Better Practices for Domain Adaptation**|Linus Ericsson et.al.|[2309.03879](http://arxiv.org/abs/2309.03879)|null|
@@ -1666,6 +1681,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Variational Quantum Approximate Spectral Clustering for Binary Clustering Problems**|Hyeong-Gyu Kim et.al.|[2309.04465](http://arxiv.org/abs/2309.04465)|null|
+|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441](http://arxiv.org/abs/2309.04441)|null|
+|**2023-09-08**|**Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control**|David DeFazio et.al.|[2309.04370](http://arxiv.org/abs/2309.04370)|null|
+|**2023-09-08**|**Revealing the preference for correcting separated aberrations in joint optic-image design**|Jingwen Zhou et.al.|[2309.04342](http://arxiv.org/abs/2309.04342)|null|
+|**2023-09-08**|**Trade-Offs in Decentralized Multi-Antenna Architectures: Sparse Combining Modules for WAX Decomposition**|Juan Vidal Alegría et.al.|[2309.04297](http://arxiv.org/abs/2309.04297)|null|
+|**2023-09-08**|**VR Accessibility in Distance Adult Education**|Bartosz Muczyński et.al.|[2309.04245](http://arxiv.org/abs/2309.04245)|null|
+|**2023-09-08**|**Performance Analysis of OTSM under Hardware Impairments in Millimeter-Wave Vehicular Communication Networks**|Abed Doosti-Aref et.al.|[2309.04161](http://arxiv.org/abs/2309.04161)|null|
+|**2023-09-08**|**Proprioceptive External Torque Learning for Floating Base Robot and its Applications to Humanoid Locomotion**|Daegyu Lim et.al.|[2309.04138](http://arxiv.org/abs/2309.04138)|null|
+|**2023-09-08**|**Penetrating Shields: A Systematic Analysis of Memory Corruption Mitigations in the Spectre Era**|Weon Taek Na et.al.|[2309.04119](http://arxiv.org/abs/2309.04119)|null|
+|**2023-09-07**|**CXLMemUring: A Hardware Software Co-design Paradigm for Asynchronous and Flexible Parallel CXL Memory Pool Access**|Yiwei Yang et.al.|[2309.04011](http://arxiv.org/abs/2309.04011)|null|
 |**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
 |**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
 |**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|**[link](https://github.com/coladog/tinyagent)**|
@@ -2599,6 +2624,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Bayesian and frequentist investigation of prior effects in EFTofLSS analyses of full-shape BOSS and eBOSS data**|Emil Brinch Holm et.al.|[2309.04468](http://arxiv.org/abs/2309.04468)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461](http://arxiv.org/abs/2309.04461)|null|
+|**2023-09-08**|**Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant Neural Networks**|Kevin Höhlein et.al.|[2309.04452](http://arxiv.org/abs/2309.04452)|null|
+|**2023-09-08**|**Formal first integrals and higher variational equations**|Sergi Simon et.al.|[2309.04449](http://arxiv.org/abs/2309.04449)|null|
+|**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441](http://arxiv.org/abs/2309.04441)|null|
+|**2023-09-08**|**A hybrid physics-informed neural network based multiscale solver as a partial differential equation constrained optimization problem**|Michael Hintermüller et.al.|[2309.04439](http://arxiv.org/abs/2309.04439)|null|
+|**2023-09-08**|**Physics-Informed Neural Networks for an optimal counterdiabatic quantum computation**|Antonio Ferrer-Sánchez et.al.|[2309.04434](http://arxiv.org/abs/2309.04434)|null|
+|**2023-09-08**|**Nonlinear Stability of Static Néel Walls in Ferromagnetic Thin Films**|A. Capella et.al.|[2309.04432](http://arxiv.org/abs/2309.04432)|null|
+|**2023-09-08**|**External Codes for Multiple Unicast Networks via Interference Alignment**|F. R. Kschischang et.al.|[2309.04431](http://arxiv.org/abs/2309.04431)|null|
+|**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426](http://arxiv.org/abs/2309.04426)|null|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897](http://arxiv.org/abs/2309.03897)|null|
 |**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
@@ -3576,6 +3611,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant Neural Networks**|Kevin Höhlein et.al.|[2309.04452](http://arxiv.org/abs/2309.04452)|null|
+|**2023-09-08**|**A hybrid physics-informed neural network based multiscale solver as a partial differential equation constrained optimization problem**|Michael Hintermüller et.al.|[2309.04439](http://arxiv.org/abs/2309.04439)|null|
+|**2023-09-08**|**Single View Refractive Index Tomography with Neural Fields**|Brandon Zhao et.al.|[2309.04437](http://arxiv.org/abs/2309.04437)|null|
+|**2023-09-08**|**Physics-Informed Neural Networks for an optimal counterdiabatic quantum computation**|Antonio Ferrer-Sánchez et.al.|[2309.04434](http://arxiv.org/abs/2309.04434)|null|
+|**2023-09-08**|**External Codes for Multiple Unicast Networks via Interference Alignment**|F. R. Kschischang et.al.|[2309.04431](http://arxiv.org/abs/2309.04431)|null|
+|**2023-09-08**|**Advanced Computing and Related Applications Leveraging Brain-inspired Spiking Neural Networks**|Lyuyang Sima et.al.|[2309.04426](http://arxiv.org/abs/2309.04426)|null|
+|**2023-09-08**|**Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving**|Thomas E. Huang et.al.|[2309.04422](http://arxiv.org/abs/2309.04422)|null|
+|**2023-09-08**|**Parallel and Limited Data Voice Conversion Using Stochastic Variational Deep Kernel Learning**|Mohamadreza Jafaryani et.al.|[2309.04420](http://arxiv.org/abs/2309.04420)|null|
+|**2023-09-08**|**Sequences of dislocation reactions and helicity transformations in tubular crystals**|Andrei Zakharov et.al.|[2309.04417](http://arxiv.org/abs/2309.04417)|null|
+|**2023-09-08**|**Wi-BFI: Extracting the IEEE 802.11 Beamforming Feedback Information from Commercial Wi-Fi Devices**|Khandaker Foysal Haque et.al.|[2309.04408](http://arxiv.org/abs/2309.04408)|null|
 |**2023-09-07**|**ImageBind-LLM: Multi-modality Instruction Tuning**|Jiaming Han et.al.|[2309.03905](http://arxiv.org/abs/2309.03905)|**[link](https://github.com/opengvlab/llama-adapter)**|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
@@ -4553,6 +4598,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Multi-contact Stochastic Predictive Control for Legged Robots with Contact Locations Uncertainty**|Ahmad Gazar et.al.|[2309.04469](http://arxiv.org/abs/2309.04469)|null|
+|**2023-09-08**|**The Local Group Symbiotic Star Population and its Weak Relation with Type Ia Supernovae**|M. Laversveiler et.al.|[2309.04466](http://arxiv.org/abs/2309.04466)|null|
+|**2023-09-08**|**Variational Quantum Approximate Spectral Clustering for Binary Clustering Problems**|Hyeong-Gyu Kim et.al.|[2309.04465](http://arxiv.org/abs/2309.04465)|null|
+|**2023-09-08**|**Historia: Refuting Callback Reachability with Message-History Logics (Extended Version)**|Shawn Meier et.al.|[2309.04464](http://arxiv.org/abs/2309.04464)|null|
+|**2023-09-08**|**Small systems and the single-hit approximation in the AMY parton cascade ALPACA**|Robin Törnkvist et.al.|[2309.04458](http://arxiv.org/abs/2309.04458)|null|
+|**2023-09-08**|**WiSARD: A Labeled Visual and Thermal Image Dataset for Wilderness Search and Rescue**|Daniel Broyles et.al.|[2309.04453](http://arxiv.org/abs/2309.04453)|null|
+|**2023-09-08**|**Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant Neural Networks**|Kevin Höhlein et.al.|[2309.04452](http://arxiv.org/abs/2309.04452)|null|
+|**2023-09-08**|**A Comparative Study of Coherent and Incoherent Drives in Four-Level Quantum Dot Based Spaser**|Ankit Purohit et.al.|[2309.04451](http://arxiv.org/abs/2309.04451)|null|
+|**2023-09-08**|**Formal first integrals and higher variational equations**|Sergi Simon et.al.|[2309.04449](http://arxiv.org/abs/2309.04449)|null|
+|**2023-09-08**|**Effect of Electron-Phonon Interactions on Three-Level QD-based Spaser: Linear and Quadratic Potentials**|Ankit Purohit et.al.|[2309.04448](http://arxiv.org/abs/2309.04448)|null|
 |**2023-09-07**|**Universality of $nn$ distributions of $s$-wave $2n$ halos and the unitary limit**|Matthias Göbel et.al.|[2309.03902](http://arxiv.org/abs/2309.03902)|null|
 |**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
 |**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
