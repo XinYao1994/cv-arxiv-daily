@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -52,7 +52,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -91,7 +91,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -250,14 +250,14 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Compiler
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
-|**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
+|**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-08**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
 |**2023-09-07**|**Compositional properties of planet-crossing asteroids from astronomical surveys**|A. V. Sergeyev et.al.|[2309.03555](http://arxiv.org/abs/2309.03555)|null|
 |**2023-09-06**|**RoDia: A New Dataset for Romanian Dialect Identification from Speech**|Codrut Rotaru et.al.|[2309.03378](http://arxiv.org/abs/2309.03378)|null|
 |**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
@@ -683,7 +683,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -1660,20 +1660,20 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Hardware Architecture
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
-|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
 |**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|**[link](https://github.com/coladog/tinyagent)**|
 |**2023-09-07**|**dacl1k: Real-World Bridge Damage Dataset Putting Open-Source Data to the Test**|Johannes Flotzinger et.al.|[2309.03763](http://arxiv.org/abs/2309.03763)|null|
 |**2023-09-07**|**A computationally lightweight safe learning algorithm**|Dominik Baumann et.al.|[2309.03672](http://arxiv.org/abs/2309.03672)|null|
-|**2023-09-07**|**OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs**|Mikhail Khalilov et.al.|[2309.03628](http://arxiv.org/abs/2309.03628)|null|
+|**2023-09-08**|**OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs**|Mikhail Khalilov et.al.|[2309.03628](http://arxiv.org/abs/2309.03628)|null|
 |**2023-09-07**|**Single-electron occupation in quantum dot arrays at selectable plunger gate voltage**|Marcel Meyer et.al.|[2309.03591](http://arxiv.org/abs/2309.03591)|null|
-|**2023-09-07**|**Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence**|Sashidhar Jakkamsetti et.al.|[2309.03574](http://arxiv.org/abs/2309.03574)|null|
+|**2023-09-08**|**Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence (Full Version)**|Sashidhar Jakkamsetti et.al.|[2309.03574](http://arxiv.org/abs/2309.03574)|null|
 |**2023-09-07**|**Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping**|Jingyang Hu et.al.|[2309.03492](http://arxiv.org/abs/2309.03492)|null|
 |**2023-09-07**|**Research on Damage Analysis of Key Parts of UAV Flight Control System**|Tianshun Li et.al.|[2309.03462](http://arxiv.org/abs/2309.03462)|null|
 |**2023-09-06**|**Real-time auralization for performers on virtual stages**|Ernesto Accolti et.al.|[2309.03149](http://arxiv.org/abs/2309.03149)|null|
@@ -2593,7 +2593,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -2601,7 +2601,7 @@
 |---|---|---|---|---|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897](http://arxiv.org/abs/2309.03897)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
 |**2023-09-07**|**Private Membership Aggregation**|Mohamed Nomeir et.al.|[2309.03872](http://arxiv.org/abs/2309.03872)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
@@ -3570,7 +3570,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -3580,7 +3580,7 @@
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
 |**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886](http://arxiv.org/abs/2309.03886)|**[link](https://github.com/multimodal-interpretability/find)**|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884](http://arxiv.org/abs/2309.03884)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
@@ -4547,7 +4547,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -4555,7 +4555,7 @@
 |---|---|---|---|---|
 |**2023-09-07**|**Universality of $nn$ distributions of $s$-wave $2n$ halos and the unitary limit**|Matthias Göbel et.al.|[2309.03902](http://arxiv.org/abs/2309.03902)|null|
 |**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**Full L- and M-band high resolution spectroscopy of the S CrA binary disks with VLT-CRIRES+**|Sierra L. Grant et.al.|[2309.03888](http://arxiv.org/abs/2309.03888)|null|
 |**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887](http://arxiv.org/abs/2309.03887)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
@@ -5524,7 +5524,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -5570,7 +5570,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20230910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

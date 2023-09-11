@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -238,8 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
-|**2023-09-07**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
+|**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-08**|**Exploring an LM to generate Prolog Predicates from Mathematics Questions**|Xiaocheng Yang et.al.|[2309.03667](http://arxiv.org/abs/2309.03667)|null|
 |**2023-09-07**|**Compositional properties of planet-crossing asteroids from astronomical surveys**|A. V. Sergeyev et.al.|[2309.03555](http://arxiv.org/abs/2309.03555)|null|
 |**2023-09-06**|**RoDia: A New Dataset for Romanian Dialect Identification from Speech**|Codrut Rotaru et.al.|[2309.03378](http://arxiv.org/abs/2309.03378)|null|
 |**2023-09-06**|**The Secrets of Non-Blind Poisson Deconvolution**|Abhiram Gnanasambandam et.al.|[2309.03105](http://arxiv.org/abs/2309.03105)|null|
@@ -1645,13 +1645,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-07**|**Learning from Demonstration via Probabilistic Diagrammatic Teaching**|Weiming Zhi et.al.|[2309.03835](http://arxiv.org/abs/2309.03835)|null|
-|**2023-09-07**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
+|**2023-09-08**|**Mapping of CNNs on multi-core RRAM-based CIM architectures**|Rebecca Pelke et.al.|[2309.03805](http://arxiv.org/abs/2309.03805)|null|
 |**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|**[link](https://github.com/coladog/tinyagent)**|
 |**2023-09-07**|**dacl1k: Real-World Bridge Damage Dataset Putting Open-Source Data to the Test**|Johannes Flotzinger et.al.|[2309.03763](http://arxiv.org/abs/2309.03763)|null|
 |**2023-09-07**|**A computationally lightweight safe learning algorithm**|Dominik Baumann et.al.|[2309.03672](http://arxiv.org/abs/2309.03672)|null|
-|**2023-09-07**|**OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs**|Mikhail Khalilov et.al.|[2309.03628](http://arxiv.org/abs/2309.03628)|null|
+|**2023-09-08**|**OSMOSIS: Enabling Multi-Tenancy in Datacenter SmartNICs**|Mikhail Khalilov et.al.|[2309.03628](http://arxiv.org/abs/2309.03628)|null|
 |**2023-09-07**|**Single-electron occupation in quantum dot arrays at selectable plunger gate voltage**|Marcel Meyer et.al.|[2309.03591](http://arxiv.org/abs/2309.03591)|null|
-|**2023-09-07**|**Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence**|Sashidhar Jakkamsetti et.al.|[2309.03574](http://arxiv.org/abs/2309.03574)|null|
+|**2023-09-08**|**Caveat (IoT) Emptor: Towards Transparency of IoT Device Presence (Full Version)**|Sashidhar Jakkamsetti et.al.|[2309.03574](http://arxiv.org/abs/2309.03574)|null|
 |**2023-09-07**|**Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping**|Jingyang Hu et.al.|[2309.03492](http://arxiv.org/abs/2309.03492)|null|
 |**2023-09-07**|**Research on Damage Analysis of Key Parts of UAV Flight Control System**|Tianshun Li et.al.|[2309.03462](http://arxiv.org/abs/2309.03462)|null|
 |**2023-09-06**|**Real-time auralization for performers on virtual stages**|Ernesto Accolti et.al.|[2309.03149](http://arxiv.org/abs/2309.03149)|null|
@@ -2577,7 +2577,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897](http://arxiv.org/abs/2309.03897)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
 |**2023-09-07**|**Private Membership Aggregation**|Mohamed Nomeir et.al.|[2309.03872](http://arxiv.org/abs/2309.03872)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
@@ -3554,7 +3554,7 @@ layout: default
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904](http://arxiv.org/abs/2309.03904)|null|
 |**2023-09-07**|**Multivariate, Multi-step, and Spatiotemporal Traffic Prediction for NextG Network Slicing under SLA Constraints**|Evren Tuna et.al.|[2309.03898](http://arxiv.org/abs/2309.03898)|null|
 |**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**A Function Interpretation Benchmark for Evaluating Interpretability Methods**|Sarah Schwettmann et.al.|[2309.03886](http://arxiv.org/abs/2309.03886)|**[link](https://github.com/multimodal-interpretability/find)**|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884](http://arxiv.org/abs/2309.03884)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
@@ -4527,7 +4527,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-07**|**Universality of $nn$ distributions of $s$-wave $2n$ halos and the unitary limit**|Matthias Göbel et.al.|[2309.03902](http://arxiv.org/abs/2309.03902)|null|
 |**2023-09-07**|**Fate of Quadratic Band Crossing under quasiperiodic modulation**|Raul Liquito et.al.|[2309.03896](http://arxiv.org/abs/2309.03896)|null|
-|**2023-09-07**|**SpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
+|**2023-09-08**|**XpookyNet: Advancement in Quantum System Analysis through Convolutional Neural Networks for Detection of Entanglement**|Ali Kookani et.al.|[2309.03890](http://arxiv.org/abs/2309.03890)|null|
 |**2023-09-07**|**Full L- and M-band high resolution spectroscopy of the S CrA binary disks with VLT-CRIRES+**|Sierra L. Grant et.al.|[2309.03888](http://arxiv.org/abs/2309.03888)|null|
 |**2023-09-07**|**Disk Wind Feedback from High-mass Protostars. IV. Shock-Ionized Jets**|Emiko C. Gardiner et.al.|[2309.03887](http://arxiv.org/abs/2309.03887)|null|
 |**2023-09-07**|**Network Sampling Methods for Estimating Social Networks, Population Percentages and Totals of People Experiencing Homelessness**|Zack W. Almquist et.al.|[2309.03875](http://arxiv.org/abs/2309.03875)|null|
