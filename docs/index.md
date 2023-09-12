@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -85,12 +85,12 @@ layout: default
 |**2023-09-07**|**DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**|Fahao Chen et.al.|[2309.03523](http://arxiv.org/abs/2309.03523)|null|
 |**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|null|
 |**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
-|**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|null|
+|**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|**[link](https://github.com/link-zju/orl-auditor)**|
 |**2023-09-06**|**Grove: a Separation-Logic Library for Verifying Distributed Systems (Extended Version)**|Upamanyu Sharma et.al.|[2309.03046](http://arxiv.org/abs/2309.03046)|null|
 |**2023-09-06**|**State-deterministic Finite Automata with Translucent Letters and Finite Automata with Nondeterministically Translucent Letters**|Benedek Nagy et.al.|[2309.02759](http://arxiv.org/abs/2309.02759)|null|
 |**2023-09-04**|**Distributionally Robust Decentralized Volt-Var Control with Network Reconfiguration**|Geunyeong Byeon et.al.|[2309.01836](http://arxiv.org/abs/2309.01836)|null|
 |**2023-09-03**|**Game Theory in Distributed Systems Security: Foundations, Challenges, and Future Directions**|Mustafa Abdallah et.al.|[2309.01281](http://arxiv.org/abs/2309.01281)|null|
-|**2023-09-03**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
+|**2023-09-09**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
 |**2023-09-03**|**Distribution System Power-Flow Solution by Hierarchical Artificial Neural Networks Structure**|Arbel Yaniv et.al.|[2309.01124](http://arxiv.org/abs/2309.01124)|null|
 |**2023-09-02**|**A Sub-Terahertz Sliding Correlator Channel Sounder with Absolute Timing using Precision Time Protocol over Wi-Fi**|Dipankar Shakya et.al.|[2309.01006](http://arxiv.org/abs/2309.01006)|null|
 |**2023-08-31**|**Precision Enhancement of Distribution System State Estimation via Tri-Objective Micro Phasor Measurement Unit Deployment**|Arya Abdolahi et.al.|[2309.00055](http://arxiv.org/abs/2309.00055)|null|
@@ -2601,7 +2601,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-08**|**Bayesian and frequentist investigation of prior effects in EFTofLSS analyses of full-shape BOSS and eBOSS data**|Emil Brinch Holm et.al.|[2309.04468](http://arxiv.org/abs/2309.04468)|null|
-|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461](http://arxiv.org/abs/2309.04461)|null|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461](http://arxiv.org/abs/2309.04461)|**[link](https://github.com/yangyi-chen/cotconsistency)**|
 |**2023-09-08**|**Postprocessing of Ensemble Weather Forecasts Using Permutation-invariant Neural Networks**|Kevin Höhlein et.al.|[2309.04452](http://arxiv.org/abs/2309.04452)|null|
 |**2023-09-08**|**Formal first integrals and higher variational equations**|Sergi Simon et.al.|[2309.04449](http://arxiv.org/abs/2309.04449)|null|
 |**2023-09-08**|**Comparative Study of Visual SLAM-Based Mobile Robot Localization Using Fiducial Markers**|Jongwon Lee et.al.|[2309.04441](http://arxiv.org/abs/2309.04441)|null|
