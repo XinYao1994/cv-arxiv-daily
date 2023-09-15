@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -86,7 +86,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-13**|**Bounds and Constructions for Generalized Batch Codes**|Xiangliang Kong et.al.|[2309.06806](http://arxiv.org/abs/2309.06806)|null|
 |**2023-09-12**|**Adopting Dynamic VAR Compensators to Mitigate PV Impacts on Unbalanced Distribution Systems**|Han Pyo Lee et.al.|[2309.06098](http://arxiv.org/abs/2309.06098)|null|
-|**2023-09-10**|**Distributed Kafka Clusters: A Novel Approach to Global Message Ordering**|Shashank Kumar et.al.|[2309.04918](http://arxiv.org/abs/2309.04918)|null|
+|**2023-09-10**|**Distributed Kafka Clusters: A Novel Approach to Global Message Ordering**|Shashank Kumar et.al.|[2309.04918](http://arxiv.org/abs/2309.04918)|**[link](https://github.com/aryan-jadon/distributed-kafka-clusters)**|
 |**2023-09-09**|**From Reversible Computation to Checkpoint-Based Rollback Recovery for Message-Passing Concurrent Programs**|Germán Vidal et.al.|[2309.04873](http://arxiv.org/abs/2309.04873)|null|
 |**2023-09-07**|**DGC: Training Dynamic Graphs with Spatio-Temporal Non-Uniformity using Graph Partitioning by Chunks**|Fahao Chen et.al.|[2309.03523](http://arxiv.org/abs/2309.03523)|null|
 |**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|**[link](https://github.com/hpcclab/nims)**|
@@ -245,7 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-13**|**Ungar $\unicode{x2013}$ A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming**|Flavio De Vincenti et.al.|[2309.06783](http://arxiv.org/abs/2309.06783)|**[link](https://github.com/fdevinc/ungar)**|
+|**2023-09-14**|**Ungar $\unicode{x2013}$ A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming**|Flavio De Vincenti et.al.|[2309.06783](http://arxiv.org/abs/2309.06783)|**[link](https://github.com/fdevinc/ungar)**|
 |**2023-09-13**|**OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability**|Wenjie Zhang et.al.|[2309.06771](http://arxiv.org/abs/2309.06771)|null|
 |**2023-09-12**|**REVIS: An Error Visualization Tool for Rust**|Ruochen Wang et.al.|[2309.06640](http://arxiv.org/abs/2309.06640)|null|
 |**2023-09-12**|**Accelerating model evaluations in uncertainty propagation on tensor grids using computational graph transformations**|Bingran Wang et.al.|[2309.06617](http://arxiv.org/abs/2309.06617)|null|
@@ -254,7 +254,7 @@ layout: default
 |**2023-09-12**|**Extending and Defending Attacks on Reset Operations in Quantum Computers**|Jerry Tan et.al.|[2309.06281](http://arxiv.org/abs/2309.06281)|null|
 |**2023-09-12**|**Unveiling Signle-Bit-Flip Attacks on DNN Executables**|Yanzuo Chen et.al.|[2309.06223](http://arxiv.org/abs/2309.06223)|null|
 |**2023-09-12**|**Integration of Quantum Accelerators with High Performance Computing $\unicode{x2013}$ A Review of Quantum Programming Tools**|Amr Elsharkawy et.al.|[2309.06167](http://arxiv.org/abs/2309.06167)|null|
-|**2023-09-12**|**Accelerating Edge AI with Morpher: An Integrated Design, Compilation and Simulation Framework for CGRAs**|Dhananjaya Wijerathne et.al.|[2309.06127](http://arxiv.org/abs/2309.06127)|null|
+|**2023-09-12**|**Accelerating Edge AI with Morpher: An Integrated Design, Compilation and Simulation Framework for CGRAs**|Dhananjaya Wijerathne et.al.|[2309.06127](http://arxiv.org/abs/2309.06127)|**[link](https://github.com/ecolab-nus/morpher-v2)**|
 |**2023-09-12**|**Self-supervised Extraction of Human Motion Structures via Frame-wise Discrete Features**|Tetsuya Abe et.al.|[2309.05972](http://arxiv.org/abs/2309.05972)|null|
 |**2023-09-12**|**Modeling Reachability Types with Logical Relations**|Yuyan Bao et.al.|[2309.05885](http://arxiv.org/abs/2309.05885)|null|
 |**2023-09-11**|**A New Framework to Estimate Return on Investment for Player Salaries in the National Basketball Association**|Jackson P. Lautier et.al.|[2309.05783](http://arxiv.org/abs/2309.05783)|null|
@@ -2696,7 +2696,7 @@ layout: default
 |**2023-09-13**|**Optimal adaptive control with separable drift uncertainty**|Samuel N. Cohen et.al.|[2309.07091](http://arxiv.org/abs/2309.07091)|null|
 |**2023-09-13**|**Developing a Novel Image Marker to Predict the Responses of Neoadjuvant Chemotherapy (NACT) for Ovarian Cancer Patients**|Ke Zhang et.al.|[2309.07087](http://arxiv.org/abs/2309.07087)|null|
 |**2023-09-13**|**CLiFF-LHMP: Using Spatial Dynamics Patterns for Long-Term Human Motion Prediction**|Yufei Zhu et.al.|[2309.07066](http://arxiv.org/abs/2309.07066)|null|
-|**2023-09-13**|**Physics-informed Bayesian inference of external potentials in classical density-functional theory**|Antonio Malpica-Morales et.al.|[2309.07065](http://arxiv.org/abs/2309.07065)|null|
+|**2023-09-14**|**Physics-informed Bayesian inference of external potentials in classical density-functional theory**|Antonio Malpica-Morales et.al.|[2309.07065](http://arxiv.org/abs/2309.07065)|null|
 |**2023-09-13**|**Multi-Robot Informative Path Planning from Regression with Sparse Gaussian Processes**|Kalvik Jakkala et.al.|[2309.07050](http://arxiv.org/abs/2309.07050)|null|
 |**2023-09-13**|**An Extreme Learning Machine-Based Method for Computational PDEs in Higher Dimensions**|Yiran Wang et.al.|[2309.07049](http://arxiv.org/abs/2309.07049)|null|
 |**2023-09-13**|**How (Not) to Use Sociodemographic Information for Subjective NLP Tasks**|Tilman Beck et.al.|[2309.07034](http://arxiv.org/abs/2309.07034)|null|
