@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.15
+## Updated on 2023.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -252,7 +252,7 @@ layout: default
 |**2023-09-13**|**Autotuning Apache TVM-based Scientific Applications Using Bayesian Optimization**|Xingfu Wu et.al.|[2309.07235](http://arxiv.org/abs/2309.07235)|null|
 |**2023-09-13**|**TRINITY IV: Predictions for Supermassive Black Holes at $z \gtrsim 7$**|Haowen Zhang et.al.|[2309.07210](http://arxiv.org/abs/2309.07210)|null|
 |**2023-09-14**|**Ungar $\unicode{x2013}$ A C++ Framework for Real-Time Optimal Control Using Template Metaprogramming**|Flavio De Vincenti et.al.|[2309.06783](http://arxiv.org/abs/2309.06783)|**[link](https://github.com/fdevinc/ungar)**|
-|**2023-09-13**|**OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability**|Wenjie Zhang et.al.|[2309.06771](http://arxiv.org/abs/2309.06771)|null|
+|**2023-09-13**|**OrdinalFix: Fixing Compilation Errors via Shortest-Path CFL Reachability**|Wenjie Zhang et.al.|[2309.06771](http://arxiv.org/abs/2309.06771)|**[link](https://github.com/myxxxsquared/ordinalfix)**|
 |**2023-09-12**|**REVIS: An Error Visualization Tool for Rust**|Ruochen Wang et.al.|[2309.06640](http://arxiv.org/abs/2309.06640)|null|
 |**2023-09-12**|**Accelerating model evaluations in uncertainty propagation on tensor grids using computational graph transformations**|Bingran Wang et.al.|[2309.06617](http://arxiv.org/abs/2309.06617)|null|
 |**2023-09-12**|**C4CAM: A Compiler for CAM-based In-memory Accelerators**|Hamid Farzaneh et.al.|[2309.06418](http://arxiv.org/abs/2309.06418)|null|
