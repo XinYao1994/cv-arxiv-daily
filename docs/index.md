@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.17
+## Updated on 2023.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -93,7 +93,7 @@ layout: default
 |**2023-09-06**|**UMS: Live Migration of Containerized Services across Autonomous Computing Systems**|Thanawat Chanikaphon et.al.|[2309.03168](http://arxiv.org/abs/2309.03168)|**[link](https://github.com/hpcclab/nims)**|
 |**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
 |**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|**[link](https://github.com/link-zju/orl-auditor)**|
-|**2023-09-06**|**Grove: a Separation-Logic Library for Verifying Distributed Systems (Extended Version)**|Upamanyu Sharma et.al.|[2309.03046](http://arxiv.org/abs/2309.03046)|null|
+|**2023-09-14**|**Grove: a Separation-Logic Library for Verifying Distributed Systems (Extended Version)**|Upamanyu Sharma et.al.|[2309.03046](http://arxiv.org/abs/2309.03046)|null|
 |**2023-09-06**|**State-deterministic Finite Automata with Translucent Letters and Finite Automata with Nondeterministically Translucent Letters**|Benedek Nagy et.al.|[2309.02759](http://arxiv.org/abs/2309.02759)|null|
 |**2023-09-04**|**Distributionally Robust Decentralized Volt-Var Control with Network Reconfiguration**|Geunyeong Byeon et.al.|[2309.01836](http://arxiv.org/abs/2309.01836)|null|
 |**2023-09-03**|**Game Theory in Distributed Systems Security: Foundations, Challenges, and Future Directions**|Mustafa Abdallah et.al.|[2309.01281](http://arxiv.org/abs/2309.01281)|null|
@@ -3744,7 +3744,7 @@ layout: default
 |**2023-09-14**|**An Observationally Driven Multifield Approach for Probing the Circum-Galactic Medium with Convolutional Neural Networks**|Naomi Gluck et.al.|[2309.07912](http://arxiv.org/abs/2309.07912)|null|
 |**2023-09-14**|**Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning**|Zhiwu Qing et.al.|[2309.07911](http://arxiv.org/abs/2309.07911)|**[link](https://github.com/alibaba-mmai-research/dist)**|
 |**2023-09-14**|**Visualizing MAC and IPv6 Address Allocations**|Erik Rye et.al.|[2309.07908](http://arxiv.org/abs/2309.07908)|null|
-|**2023-09-14**|**The Adjoint Is All You Need: Characterizing Barren Plateaus in Quantum Ansätze**|Enrico Fontana et.al.|[2309.07902](http://arxiv.org/abs/2309.07902)|null|
+|**2023-09-15**|**The Adjoint Is All You Need: Characterizing Barren Plateaus in Quantum Ansätze**|Enrico Fontana et.al.|[2309.07902](http://arxiv.org/abs/2309.07902)|null|
 |**2023-09-14**|**Improving physics-informed DeepONets with hard constraints**|Rüdiger Brecht et.al.|[2309.07899](http://arxiv.org/abs/2309.07899)|null|
 |**2023-09-14**|**Nash equilibrium seeking over digraphs with row-stochastic matrices and network-independent step-sizes**|Duong Thuy Anh Nguyen et.al.|[2309.07897](http://arxiv.org/abs/2309.07897)|null|
 |**2023-09-14**|**A Novel Local-Global Feature Fusion Framework for Body-weight Exercise Recognition with Pressure Mapping Sensors**|Davinder Pal Singh et.al.|[2309.07888](http://arxiv.org/abs/2309.07888)|null|
