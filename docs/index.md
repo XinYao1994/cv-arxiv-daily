@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -262,7 +262,7 @@ layout: default
 |**2023-09-16**|**Btor2MLIR: A Format and Toolchain for Hardware Verification**|Joseph Tafese et.al.|[2309.09100](http://arxiv.org/abs/2309.09100)|null|
 |**2023-09-16**|**Comparative evaluation of bandwidth-bound applications on the Intel Xeon CPU MAX Series**|Istvan Z Reguly et.al.|[2309.09084](http://arxiv.org/abs/2309.09084)|null|
 |**2023-09-16**|**Accelerating In-Browser Deep Learning Inference on Diverse Edge Clients through Just-in-Time Kernel Optimizations**|Fucheng Jia et.al.|[2309.08978](http://arxiv.org/abs/2309.08978)|null|
-|**2023-09-16**|**Architecture-Aware Synthesis of Stabilizer Circuits from Clifford Tableaus**|David Winder et.al.|[2309.08972](http://arxiv.org/abs/2309.08972)|null|
+|**2023-09-19**|**Architecture-Aware Synthesis of Stabilizer Circuits from Clifford Tableaus**|David Winderl et.al.|[2309.08972](http://arxiv.org/abs/2309.08972)|null|
 |**2023-09-16**|**Universal Metric Learning with Parameter-Efficient Transfer Learning**|Sungyeon Kim et.al.|[2309.08944](http://arxiv.org/abs/2309.08944)|null|
 |**2023-09-16**|**Exploration of TPUs for AI Applications**|Diego Sanmartín Carrión et.al.|[2309.08918](http://arxiv.org/abs/2309.08918)|null|
 |**2023-09-15**|**Graph IRs for Impure Higher-Order Languages (Technical Report)**|Oliver Bračevac et.al.|[2309.08118](http://arxiv.org/abs/2309.08118)|null|
@@ -731,7 +731,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-18**|**A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning**|Pedro Valdeira et.al.|[2309.09977](http://arxiv.org/abs/2309.09977)|null|
-|**2023-09-18**|**$Des$-$q$ : a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**|Niraj Kumar et.al.|[2309.09976](http://arxiv.org/abs/2309.09976)|null|
+|**2023-09-19**|**Des-q: a quantum algorithm to construct and efficiently retrain decision trees for regression and binary classification**|Niraj Kumar et.al.|[2309.09976](http://arxiv.org/abs/2309.09976)|null|
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975](http://arxiv.org/abs/2309.09975)|**[link](https://github.com/qcraftai/gedepth)**|
 |**2023-09-18**|**How to Make Knockout Tournaments More Popular?**|Juhi Chaudhary et.al.|[2309.09967](http://arxiv.org/abs/2309.09967)|null|
 |**2023-09-18**|**Quantum Circuit Optimization through Iteratively Pre-Conditioned Gradient Descent**|Dhruv Srinivasan et.al.|[2309.09957](http://arxiv.org/abs/2309.09957)|null|
@@ -2780,7 +2780,7 @@ layout: default
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-09-18**|**Property Graphs in Arachne**|Oliver Alvarado Rodriguez et.al.|[2309.09943](http://arxiv.org/abs/2309.09943)|null|
 |**2023-09-18**|**Model-Based Generation of Attack-Fault Trees**|Raffaela Groner et.al.|[2309.09941](http://arxiv.org/abs/2309.09941)|null|
-|**2023-09-18**|**Holographic Limitations and Corrections to Quantum Information Protocols**|Stefano Pirandola et.al.|[2309.09939](http://arxiv.org/abs/2309.09939)|null|
+|**2023-09-19**|**Holographic Limitations and Corrections to Quantum Information Protocols**|Stefano Pirandola et.al.|[2309.09939](http://arxiv.org/abs/2309.09939)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
 |**2023-09-18**|**An HST survey of 33 T8 to Y1 brown dwarfs: NIR photometry and multiplicity of the coldest isolated objects**|Clemence Fontanive et.al.|[2309.09923](http://arxiv.org/abs/2309.09923)|null|
 |**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921](http://arxiv.org/abs/2309.09921)|null|
@@ -3828,7 +3828,7 @@ layout: default
 |**2023-09-18**|**Property Graphs in Arachne**|Oliver Alvarado Rodriguez et.al.|[2309.09943](http://arxiv.org/abs/2309.09943)|null|
 |**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937](http://arxiv.org/abs/2309.09937)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
-|**2023-09-18**|**Graph topological property recovery with heat and wave dynamics-based features on graphsD**|Dhananjay Bhaskar et.al.|[2309.09924](http://arxiv.org/abs/2309.09924)|null|
+|**2023-09-19**|**Graph topological property recovery with heat and wave dynamics-based features on graphs**|Dhananjay Bhaskar et.al.|[2309.09924](http://arxiv.org/abs/2309.09924)|null|
 |**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921](http://arxiv.org/abs/2309.09921)|null|
 |**2023-09-18**|**Distilling HuBERT with LSTMs via Decoupled Knowledge Distillation**|Danilo de Oliveira et.al.|[2309.09920](http://arxiv.org/abs/2309.09920)|null|
 |**2023-09-18**|**Closing the Loop on Runtime Monitors with Fallback-Safe MPC**|Rohan Sinha et.al.|[2309.08603](http://arxiv.org/abs/2309.08603)|null|
@@ -4868,7 +4868,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-18**|**General In-Hand Object Rotation with Vision and Touch**|Haozhi Qi et.al.|[2309.09979](http://arxiv.org/abs/2309.09979)|null|
 |**2023-09-18**|**Emergence of chaotic cluster synchronization in heterogeneous networks**|Rodrigo M. Corder et.al.|[2309.09974](http://arxiv.org/abs/2309.09974)|null|
-|**2023-09-18**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971](http://arxiv.org/abs/2309.09971)|null|
+|**2023-09-19**|**MindAgent: Emergent Gaming Interaction**|Ran Gong et.al.|[2309.09971](http://arxiv.org/abs/2309.09971)|null|
 |**2023-09-18**|**Prompt a Robot to Walk with Large Language Models**|Yen-Jen Wang et.al.|[2309.09969](http://arxiv.org/abs/2309.09969)|null|
 |**2023-09-18**|**Exact Steering Bound for Two-Qubit Werner States**|Yujie Zhang et.al.|[2309.09960](http://arxiv.org/abs/2309.09960)|null|
 |**2023-09-18**|**PINN-based viscosity solution of HJB equation**|Tianyu Liu et.al.|[2309.09953](http://arxiv.org/abs/2309.09953)|null|
