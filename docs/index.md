@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -746,7 +746,7 @@ layout: default
 |**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
 |**2023-09-19**|**Towards affective computing that works for everyone**|Tessa Verhoef et.al.|[2309.10780](http://arxiv.org/abs/2309.10780)|null|
 |**2023-09-19**|**The Kinematic Structure of Magnetically Aligned HI Filaments**|Doyeon Avery Kim et.al.|[2309.10777](http://arxiv.org/abs/2309.10777)|null|
-|**2023-09-19**|**$O(k)$ -Equivariant Dimensionality Reduction on Stiefel Manifolds**|Andrew Lee et.al.|[2309.10775](http://arxiv.org/abs/2309.10775)|null|
+|**2023-09-19**|**$O(k)$ -Equivariant Dimensionality Reduction on Stiefel Manifolds**|Andrew Lee et.al.|[2309.10775](http://arxiv.org/abs/2309.10775)|**[link](https://github.com/harlinlee/psc)**|
 |**2023-09-19**|**Combinatorial Contracts Beyond Gross Substitutes**|Paul Dütting et.al.|[2309.10766](http://arxiv.org/abs/2309.10766)|null|
 |**2023-09-19**|**RIS-Assisted Over-the-Air Adaptive Federated Learning with Noisy Downlink**|Jiayu Mao et.al.|[2309.10758](http://arxiv.org/abs/2309.10758)|null|
 |**2023-09-18**|**A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning**|Pedro Valdeira et.al.|[2309.09977](http://arxiv.org/abs/2309.09977)|null|
@@ -1800,10 +1800,10 @@ layout: default
 |**2023-09-19**|**Learning Model Predictive Control with Error Dynamics Regression for Autonomous Racing**|Haoru Xue et.al.|[2309.10716](http://arxiv.org/abs/2309.10716)|null|
 |**2023-09-19**|**Interval Signal Temporal Logic from Natural Inclusion Functions**|Luke Baird et.al.|[2309.10686](http://arxiv.org/abs/2309.10686)|null|
 |**2023-09-19**|**Flip: Data-Centric Edge CGRA Accelerator**|Dan Wu et.al.|[2309.10623](http://arxiv.org/abs/2309.10623)|null|
-|**2023-09-19**|**TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin**|Audonnet P Florent et.al.|[2309.10579](http://arxiv.org/abs/2309.10579)|null|
+|**2023-09-20**|**TELESIM: A Modular and Plug-and-Play Framework for Robotic Arm Teleoperation using a Digital Twin**|Florent P Audonnet et.al.|[2309.10579](http://arxiv.org/abs/2309.10579)|null|
 |**2023-09-19**|**Logic Design of Neural Networks for High-Throughput and Low-Power Applications**|Kangwei Xu et.al.|[2309.10510](http://arxiv.org/abs/2309.10510)|null|
 |**2023-09-19**|**A Digital Forensics Case Study of the DJI Mini 3 Pro and DJI RC**|Aaron Taylor et.al.|[2309.10487](http://arxiv.org/abs/2309.10487)|null|
-|**2023-09-19**|**Poster: Control-Flow Integrity in Low-end Embedded Devices**|Sashidhar Jakkamsetti et.al.|[2309.10396](http://arxiv.org/abs/2309.10396)|null|
+|**2023-09-20**|**Poster: Control-Flow Integrity in Low-end Embedded Devices**|Sashidhar Jakkamsetti et.al.|[2309.10396](http://arxiv.org/abs/2309.10396)|null|
 |**2023-09-18**|**Quantum Circuit Optimization through Iteratively Pre-Conditioned Gradient Descent**|Dhruv Srinivasan et.al.|[2309.09957](http://arxiv.org/abs/2309.09957)|null|
 |**2023-09-18**|**Increasing the dimension of linear systems solved by classical or quantum binary optimization: A new method to solve large linear equation systems**|Erick R. Castro et.al.|[2309.09933](http://arxiv.org/abs/2309.09933)|null|
 |**2023-09-18**|**Quantum Vision Clustering**|Xuan Bac Nguyen et.al.|[2309.09907](http://arxiv.org/abs/2309.09907)|null|
@@ -2807,7 +2807,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
 |**2023-09-19**|**Semantic Text Compression for Classification**|Emrecan Kutay et.al.|[2309.10809](http://arxiv.org/abs/2309.10809)|null|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Relating CP divisibility of dynamical maps with compatibility of channels**|Arindam Mitra et.al.|[2309.10806](http://arxiv.org/abs/2309.10806)|null|
 |**2023-09-19**|**Dependence of stellar differential rotation on effective temperature and rotation: an analysis from starspot transit mapping**|Araújo et.al.|[2309.10805](http://arxiv.org/abs/2309.10805)|null|
 |**2023-09-19**|**Hierarchical Annotated Skeleton-Guided Tree-based Motion Planning**|Diane Uwacu et.al.|[2309.10801](http://arxiv.org/abs/2309.10801)|null|
@@ -3861,7 +3861,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Multi-Context Dual Hyper-Prior Neural Image Compression**|Atefeh Khoshkhahtinat et.al.|[2309.10799](http://arxiv.org/abs/2309.10799)|null|
 |**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788](http://arxiv.org/abs/2309.10788)|null|
@@ -4918,7 +4918,7 @@ layout: default
 |**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816](http://arxiv.org/abs/2309.10816)|null|
 |**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815](http://arxiv.org/abs/2309.10815)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
 |**2023-09-19**|**First X-ray polarization measurement confirms the low black-hole spin in LMC X-3**|Jiří Svoboda et.al.|[2309.10813](http://arxiv.org/abs/2309.10813)|null|
-|**2023-09-19**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
+|**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Symbolic recurrence plot for uniform binary substitutions**|Miroslava Poláková et.al.|[2309.10797](http://arxiv.org/abs/2309.10797)|null|
 |**2023-09-19**|**Exploring Speech Enhancement for Low-resource Speech Synthesis**|Zhaoheng Ni et.al.|[2309.10795](http://arxiv.org/abs/2309.10795)|null|
 |**2023-09-19**|**Multi-spectral Entropy Constrained Neural Compression of Solar Imagery**|Ali Zafari et.al.|[2309.10791](http://arxiv.org/abs/2309.10791)|null|
