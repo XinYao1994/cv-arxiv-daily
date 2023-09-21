@@ -257,6 +257,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Constraining the spatial curvature of the local Universe with deep learning**|Liang Liu et.al.|[2309.11334](http://arxiv.org/abs/2309.11334)|null|
+|**2023-09-20**|**The Pantheon+ supernovae are consistent with a large-scale isotropic universe**|Li Tang et.al.|[2309.11320](http://arxiv.org/abs/2309.11320)|null|
+|**2023-09-20**|**GME: GPU-based Microarchitectural Extensions to Accelerate Homomorphic Encryption**|Kaustubh Shivdikar et.al.|[2309.11001](http://arxiv.org/abs/2309.11001)|null|
+|**2023-09-19**|**DeepliteRT: Computer Vision at the Edge**|Saad Ashfaq et.al.|[2309.10878](http://arxiv.org/abs/2309.10878)|null|
+|**2023-09-19**|**Median Statistics Estimate of the Distance to M87**|Nicholas Rackers et.al.|[2309.10870](http://arxiv.org/abs/2309.10870)|null|
 |**2023-09-19**|**QuBEC: Boosting Equivalence Checking for Quantum Circuits with QEC Embedding**|Chao Lu et.al.|[2309.10728](http://arxiv.org/abs/2309.10728)|null|
 |**2023-09-19**|**Investigating the Magnetic Structure of Interplanetary Coronal Mass Ejections using Simultaneous Multi-Spacecraft In situ Measurements**|F. Regnault et.al.|[2309.10582](http://arxiv.org/abs/2309.10582)|null|
 |**2023-09-19**|**Partially-Specified Causal Simulations**|A. Zamanian et.al.|[2309.10514](http://arxiv.org/abs/2309.10514)|null|
@@ -739,6 +744,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Flow Annealed Kalman Inversion for Gradient-Free Inference in Bayesian Inverse Problems**|Richard D. P. Grumitt et.al.|[2309.11490](http://arxiv.org/abs/2309.11490)|null|
+|**2023-09-20**|**Robustly Stable Accelerated Momentum Methods With A Near-Optimal L2 Gain and $H_\infty$ Performance**|Mert Gurbuzbalaban et.al.|[2309.11481](http://arxiv.org/abs/2309.11481)|null|
+|**2023-09-20**|**CellSecure: Securing Image Data in Industrial Internet-of-Things via Cellular Automata and Chaos-Based Encryption**|Hassan Ali et.al.|[2309.11476](http://arxiv.org/abs/2309.11476)|null|
+|**2023-09-20**|**Multiplying poles to avoid unwanted points in root finding and optimization**|Tuyen Trung Truong et.al.|[2309.11475](http://arxiv.org/abs/2309.11475)|null|
+|**2023-09-20**|**Noise-Crypt: Image Encryption with Non-linear Noise, Hybrid Chaotic Maps, and Hashing**|Laiba Asghar et.al.|[2309.11471](http://arxiv.org/abs/2309.11471)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452](http://arxiv.org/abs/2309.11452)|null|
+|**2023-09-20**|**Hybrid quantum-classical and quantum-inspired classical algorithms for solving banded circulant linear systems**|Po-Wei Huang et.al.|[2309.11451](http://arxiv.org/abs/2309.11451)|null|
+|**2023-09-20**|**Reducing hardware requirements for entanglement distribution via joint hardware-protocol optimization**|Adrià Labay-Mora et.al.|[2309.11448](http://arxiv.org/abs/2309.11448)|**[link](https://gitlab.com/labay11/NetSquid-SimplifiedRepChain)**|
+|**2023-09-20**|**CalibFPA: A Focal Plane Array Imaging System based on Online Deep-Learning Calibration**|Alper Güngör et.al.|[2309.11421](http://arxiv.org/abs/2309.11421)|null|
+|**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
 |**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816](http://arxiv.org/abs/2309.10816)|null|
 |**2023-09-19**|**Phase space analysis of two-wavelength interferometry**|Robert H. Leonard et.al.|[2309.10803](http://arxiv.org/abs/2309.10803)|null|
 |**2023-09-19**|**Quantum Algorithm for Estimating Betti Numbers Using a Cohomology Approach**|Nhat A. Nghiem et.al.|[2309.10800](http://arxiv.org/abs/2309.10800)|null|
@@ -1794,6 +1809,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**An Evaluation and Comparison of GPU Hardware and Solver Libraries for Accelerating the OPM Flow Reservoir Simulator**|Tong Dong Qiu et.al.|[2309.11488](http://arxiv.org/abs/2309.11488)|null|
+|**2023-09-20**|**Budget-Aware Pruning: Handling Multiple Domains with Less Parameters**|Samuel Felipe dos Santos et.al.|[2309.11464](http://arxiv.org/abs/2309.11464)|null|
+|**2023-09-20**|**Reducing hardware requirements for entanglement distribution via joint hardware-protocol optimization**|Adrià Labay-Mora et.al.|[2309.11448](http://arxiv.org/abs/2309.11448)|**[link](https://gitlab.com/labay11/NetSquid-SimplifiedRepChain)**|
+|**2023-09-20**|**Software Compartmentalization Trade-Offs with Hardware Capabilities**|John Alistair Kressel et.al.|[2309.11332](http://arxiv.org/abs/2309.11332)|null|
+|**2023-09-20**|**Grassroots Operator Search for Model Edge Adaptation**|Hadjer Benmeziane et.al.|[2309.11246](http://arxiv.org/abs/2309.11246)|null|
+|**2023-09-20**|**Capacity: Cryptographically-Enforced In-Process Capabilities for Modern ARM Architectures (Extended Version)**|Kha Dinh Duy et.al.|[2309.11151](http://arxiv.org/abs/2309.11151)|null|
+|**2023-09-20**|**GPSINDy: Data-Driven Discovery of Equations of Motion**|Junette Hsin et.al.|[2309.11076](http://arxiv.org/abs/2309.11076)|null|
+|**2023-09-20**|**3SAT on an All-to-All-Connected CMOS Ising Solver Chip**|Hüsrev Cılasun et.al.|[2309.11017](http://arxiv.org/abs/2309.11017)|null|
+|**2023-09-20**|**STARNet: Sensor Trustworthiness and Anomaly Recognition via Approximated Likelihood Regret for Robust Edge Autonomy**|Nastaran Darabi et.al.|[2309.11006](http://arxiv.org/abs/2309.11006)|null|
+|**2023-09-20**|**GME: GPU-based Microarchitectural Extensions to Accelerate Homomorphic Encryption**|Kaustubh Shivdikar et.al.|[2309.11001](http://arxiv.org/abs/2309.11001)|null|
 |**2023-09-19**|**Mobile Manipulation Platform for Autonomous Indoor Inspections in Low-Clearance Areas**|Erik Pearson et.al.|[2309.10794](http://arxiv.org/abs/2309.10794)|null|
 |**2023-09-19**|**A Blueprint for Precise and Fault-Tolerant Analog Neural Networks**|Cansu Demirkiran et.al.|[2309.10759](http://arxiv.org/abs/2309.10759)|null|
 |**2023-09-19**|**GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models**|Yonggan Fu et.al.|[2309.10730](http://arxiv.org/abs/2309.10730)|null|
@@ -2805,6 +2830,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**On the damping of tidally driven oscillations**|Janosz W. Dewberry et.al.|[2309.11502](http://arxiv.org/abs/2309.11502)|null|
+|**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499](http://arxiv.org/abs/2309.11499)|null|
+|**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495](http://arxiv.org/abs/2309.11495)|null|
+|**2023-09-20**|**Decision-Directed Hybrid RIS Channel Estimation with Minimal Pilot Overhead**|Ly V. Nguyen et.al.|[2309.11485](http://arxiv.org/abs/2309.11485)|null|
+|**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
+|**2023-09-20**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473](http://arxiv.org/abs/2309.11473)|null|
+|**2023-09-20**|**Distribution and volume based scoring for Isolation Forests**|Hichem Dhouib et.al.|[2309.11450](http://arxiv.org/abs/2309.11450)|null|
+|**2023-09-20**|**Distributed Finite-Time Cooperative Localization for Three-Dimensional Sensor Networks**|Jinze Wu et.al.|[2309.11411](http://arxiv.org/abs/2309.11411)|null|
+|**2023-09-20**|**A representation-learning approach for insurance pricing with images**|Christopher Blier-Wong et.al.|[2309.11404](http://arxiv.org/abs/2309.11404)|null|
+|**2023-09-20**|**Retrieving non-linear features from noisy quantum states**|Benchi Zhao et.al.|[2309.11403](http://arxiv.org/abs/2309.11403)|null|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
 |**2023-09-19**|**Semantic Text Compression for Classification**|Emrecan Kutay et.al.|[2309.10809](http://arxiv.org/abs/2309.10809)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
@@ -3860,6 +3895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
+|**2023-09-20**|**CellSecure: Securing Image Data in Industrial Internet-of-Things via Cellular Automata and Chaos-Based Encryption**|Hassan Ali et.al.|[2309.11476](http://arxiv.org/abs/2309.11476)|null|
+|**2023-09-20**|**Multi-view Fuzzy Representation Learning with Rules based Model**|Wei Zhang et.al.|[2309.11473](http://arxiv.org/abs/2309.11473)|null|
+|**2023-09-20**|**Budget-Aware Pruning: Handling Multiple Domains with Less Parameters**|Samuel Felipe dos Santos et.al.|[2309.11464](http://arxiv.org/abs/2309.11464)|null|
+|**2023-09-20**|**Using deep learning to construct stochastic local search SAT solvers with performance bounds**|Maximilian Kramer et.al.|[2309.11452](http://arxiv.org/abs/2309.11452)|null|
+|**2023-09-20**|**Reducing hardware requirements for entanglement distribution via joint hardware-protocol optimization**|Adrià Labay-Mora et.al.|[2309.11448](http://arxiv.org/abs/2309.11448)|**[link](https://gitlab.com/labay11/NetSquid-SimplifiedRepChain)**|
+|**2023-09-20**|**Weight Averaging Improves Knowledge Distillation under Domain Shift**|Valeriy Berezovskiy et.al.|[2309.11446](http://arxiv.org/abs/2309.11446)|**[link](https://github.com/vorobeevich/distillation-in-dg)**|
+|**2023-09-20**|**Signature Activation: A Sparse Signal View for Holistic Saliency**|Jose Roberto Tello Ayala et.al.|[2309.11443](http://arxiv.org/abs/2309.11443)|null|
+|**2023-09-20**|**Brain-inspired computing with fluidic iontronic nanochannels**|T. M. Kamsma et.al.|[2309.11438](http://arxiv.org/abs/2309.11438)|null|
+|**2023-09-20**|**CalibFPA: A Focal Plane Array Imaging System based on Online Deep-Learning Calibration**|Alper Güngör et.al.|[2309.11421](http://arxiv.org/abs/2309.11421)|null|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
 |**2023-09-20**|**AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**|S. Karthik Mukkavilli et.al.|[2309.10808](http://arxiv.org/abs/2309.10808)|null|
 |**2023-09-19**|**Multi-Context Dual Hyper-Prior Neural Image Compression**|Atefeh Khoshkhahtinat et.al.|[2309.10799](http://arxiv.org/abs/2309.10799)|null|
@@ -4915,6 +4960,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Intrinsic superconducting diode effects in tilted Weyl and Dirac semimetals**|Kai Chen et.al.|[2309.11501](http://arxiv.org/abs/2309.11501)|null|
+|**2023-09-20**|**Investigating the Atmospheric Mass Loss of the Kepler-105 Planets Straddling the Radius Gap**|Aaron Householder et.al.|[2309.11494](http://arxiv.org/abs/2309.11494)|null|
+|**2023-09-20**|**A Neural TTS System with Parallel Prosody Transfer from Unseen Speakers**|Slava Shechtman et.al.|[2309.11487](http://arxiv.org/abs/2309.11487)|null|
+|**2023-09-20**|**First detection of CO $_2$ emission in a Centaur: JWST NIRSpec observations of 39P/Oterma**|O. Harrington Pinto et.al.|[2309.11486](http://arxiv.org/abs/2309.11486)|null|
+|**2023-09-20**|**Decision-Directed Hybrid RIS Channel Estimation with Minimal Pilot Overhead**|Ly V. Nguyen et.al.|[2309.11485](http://arxiv.org/abs/2309.11485)|null|
+|**2023-09-20**|**Temperature- and interaction-tweaked efficiency boost of finite-time robust quantum Otto engines**|Debarupa Saha et.al.|[2309.11483](http://arxiv.org/abs/2309.11483)|null|
+|**2023-09-20**|**X-rays Trace the Volatile Content of Interstellar Objects**|Samuel H. C. Cabot et.al.|[2309.11482](http://arxiv.org/abs/2309.11482)|null|
+|**2023-09-20**|**Robustly Stable Accelerated Momentum Methods With A Near-Optimal L2 Gain and $H_\infty$ Performance**|Mert Gurbuzbalaban et.al.|[2309.11481](http://arxiv.org/abs/2309.11481)|null|
+|**2023-09-20**|**Multi-Agent Robust Control Synthesis from Global Temporal Logic Tasks**|Tiange Yang et.al.|[2309.11477](http://arxiv.org/abs/2309.11477)|null|
+|**2023-09-20**|**CellSecure: Securing Image Data in Industrial Internet-of-Things via Cellular Automata and Chaos-Based Encryption**|Hassan Ali et.al.|[2309.11476](http://arxiv.org/abs/2309.11476)|null|
 |**2023-09-19**|**Multisource Holography**|Grace Kuo et.al.|[2309.10816](http://arxiv.org/abs/2309.10816)|null|
 |**2023-09-19**|**PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes**|Xiao Fu et.al.|[2309.10815](http://arxiv.org/abs/2309.10815)|**[link](https://github.com/fuxiao0719/panopticnerf)**|
 |**2023-09-19**|**First X-ray polarization measurement confirms the low black-hole spin in LMC X-3**|Jiří Svoboda et.al.|[2309.10813](http://arxiv.org/abs/2309.10813)|null|
