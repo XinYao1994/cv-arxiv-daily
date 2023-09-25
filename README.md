@@ -102,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**ChainsFormer: A Chain Latency-aware Resource Provisioning Approach for Microservices Cluster**|Chenghao Song et.al.|[2309.12592](http://arxiv.org/abs/2309.12592)|null|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788](http://arxiv.org/abs/2309.10788)|null|
 |**2023-09-19**|**Learning-Based Detection of Malicious Volt-VAr Control Parameters in Smart Inverters**|Ahmad Mohammad Saber et.al.|[2309.10304](http://arxiv.org/abs/2309.10304)|null|
 |**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921](http://arxiv.org/abs/2309.09921)|null|
@@ -275,6 +276,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Completeness of qufinite ZXW calculus, a graphical language for mixed-dimensional quantum computing**|Quanlong Wang et.al.|[2309.13014](http://arxiv.org/abs/2309.13014)|null|
+|**2023-09-22**|**Probabilistic Classification of Infrared-selected targets for SPHEREx mission: In search of YSOs**|K. Lakshmipathaiah et.al.|[2309.12957](http://arxiv.org/abs/2309.12957)|null|
 |**2023-09-21**|**Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**|Shuyao Jiang et.al.|[2309.12167](http://arxiv.org/abs/2309.12167)|null|
 |**2023-09-21**|**Extragalactic Test of General Relativity from Strong Gravitational Lensing by using Artificial Neural Networks**|Jing-Yu Ran et.al.|[2309.11810](http://arxiv.org/abs/2309.11810)|null|
 |**2023-09-20**|**Constraining the spatial curvature of the local Universe with deep learning**|Liang Liu et.al.|[2309.11334](http://arxiv.org/abs/2309.11334)|null|
@@ -766,6 +769,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Robust Stability Analysis of a Class of LTV Systems**|Shahzad Ahmed et.al.|[2309.13033](http://arxiv.org/abs/2309.13033)|null|
+|**2023-09-22**|**Differential Evolution Algorithm Based Hyperparameter Selection of Gated Recurrent Unit for Electrical Load Forecasting**|Anuvab Sen et.al.|[2309.13019](http://arxiv.org/abs/2309.13019)|null|
+|**2023-09-22**|**Efficient N:M Sparse DNN Training Using Algorithm, Architecture, and Dataflow Co-Design**|Chao Fang et.al.|[2309.13015](http://arxiv.org/abs/2309.13015)|null|
+|**2023-09-22**|**A Review of Bayesian Methods for Infinite Factorisations**|Margarita Grushanina et.al.|[2309.12990](http://arxiv.org/abs/2309.12990)|null|
+|**2023-09-22**|**Current file Overview PassViz: A Visualisation System for Analysing Leaked Passwords**|Sam Parker et.al.|[2309.12968](http://arxiv.org/abs/2309.12968)|null|
+|**2023-09-22**|**Probabilistic Classification of Infrared-selected targets for SPHEREx mission: In search of YSOs**|K. Lakshmipathaiah et.al.|[2309.12957](http://arxiv.org/abs/2309.12957)|null|
+|**2023-09-22**|**Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future**|Yan Song et.al.|[2309.12951](http://arxiv.org/abs/2309.12951)|**[link](https://github.com/jidiai/GRF_MARL)**|
+|**2023-09-22**|**Dynamic "Succincter"**|Tianxiao Li et.al.|[2309.12950](http://arxiv.org/abs/2309.12950)|null|
+|**2023-09-22**|**Guaranteed Private Communication with Secret Block Structure**|Maxime Ferreira Da Costa et.al.|[2309.12949](http://arxiv.org/abs/2309.12949)|null|
+|**2023-09-22**|**Evolving Spiking Neural Networks to Mimic PID Control for Autonomous Blimps**|Tim Burgers et.al.|[2309.12937](http://arxiv.org/abs/2309.12937)|null|
 |**2023-09-21**|**Active Stereo Without Pattern Projector**|Luca Bartolomei et.al.|[2309.12315](http://arxiv.org/abs/2309.12315)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2023-09-21**|**Cost-sharing in Parking Games**|Jennifer Elder et.al.|[2309.12265](http://arxiv.org/abs/2309.12265)|null|
 |**2023-09-21**|**Soft Merging: A Flexible and Robust Soft Model Merging Approach for Enhanced Neural Network Performance**|Hao Chen et.al.|[2309.12259](http://arxiv.org/abs/2309.12259)|null|
@@ -1843,6 +1856,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
+|**2023-09-22**|**Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit**|Shuxiang Cao et.al.|[2309.13036](http://arxiv.org/abs/2309.13036)|null|
+|**2023-09-22**|**Efficient N:M Sparse DNN Training Using Algorithm, Architecture, and Dataflow Co-Design**|Chao Fang et.al.|[2309.13015](http://arxiv.org/abs/2309.13015)|null|
+|**2023-09-22**|**A New Security Threat in MCUs -- SoC-wide timing side channels and how to find them**|Johannes Müller et.al.|[2309.12925](http://arxiv.org/abs/2309.12925)|null|
+|**2023-09-22**|**Platform-Aware FPGA System Architecture Generation based on MLIR**|Stephanie Soldavini et.al.|[2309.12917](http://arxiv.org/abs/2309.12917)|null|
+|**2023-09-22**|**VIC-KD: Variance-Invariance-Covariance Knowledge Distillation to Make Keyword Spotting More Robust Against Adversarial Attacks**|Heitor R. Guimarães et.al.|[2309.12914](http://arxiv.org/abs/2309.12914)|null|
+|**2023-09-22**|**The Importance of Worst-Case Memory Contention Analysis for Heterogeneous SoCs**|Lorenzo Carletti et.al.|[2309.12864](http://arxiv.org/abs/2309.12864)|null|
+|**2023-09-22**|**Risk-aware Control for Robots with Non-Gaussian Belief Spaces**|Matti Vahs et.al.|[2309.12857](http://arxiv.org/abs/2309.12857)|null|
+|**2023-09-22**|**AxOCS: Scaling FPGA-based Approximate Operators using Configuration Supersampling**|Siva Satyendra Sahoo et.al.|[2309.12830](http://arxiv.org/abs/2309.12830)|null|
+|**2023-09-22**|**S3TC: Spiking Separated Spatial and Temporal Convolutions with Unsupervised STDP-based Learning for Action Recognition**|Mireille El-Assal et.al.|[2309.12761](http://arxiv.org/abs/2309.12761)|null|
 |**2023-09-21**|**AIM: Accelerating Arbitrary-precision Integer Multiplication on Heterogeneous Reconfigurable Computing Platform Versal ACAP**|Zhuoping Yang et.al.|[2309.12275](http://arxiv.org/abs/2309.12275)|**[link](https://github.com/arc-research-lab/aim)**|
 |**2023-09-21**|**SupeRBNN: Randomized Binary Neural Network Using Adiabatic Superconductor Josephson Devices**|Zhengang Li et.al.|[2309.12212](http://arxiv.org/abs/2309.12212)|null|
 |**2023-09-21**|**Vulnerability of 3D Face Recognition Systems to Morphing Attacks**|Sanjeet Vardam et.al.|[2309.12118](http://arxiv.org/abs/2309.12118)|null|
@@ -2876,6 +2899,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?**|Xiaoxiao Sun et.al.|[2309.13038](http://arxiv.org/abs/2309.13038)|null|
+|**2023-09-22**|**Memory-augmented conformer for improved end-to-end long-form ASR**|Carlos Carvalho et.al.|[2309.13029](http://arxiv.org/abs/2309.13029)|**[link](https://github.com/miamoto/conformer-ntm)**|
+|**2023-09-22**|**Optical Cluster Cosmology with SDSS redMaPPer clusters and HSC-Y3 lensing measurements**|Tomomi Sunayama et.al.|[2309.13025](http://arxiv.org/abs/2309.13025)|null|
+|**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024](http://arxiv.org/abs/2309.13024)|null|
+|**2023-09-22**|**Completeness of qufinite ZXW calculus, a graphical language for mixed-dimensional quantum computing**|Quanlong Wang et.al.|[2309.13014](http://arxiv.org/abs/2309.13014)|null|
+|**2023-09-22**|**Deep3DSketch+: Rapid 3D Modeling from Single Free-hand Sketches**|Tianrun Chen et.al.|[2309.13006](http://arxiv.org/abs/2309.13006)|null|
+|**2023-09-22**|**Pursuing Counterfactual Fairness via Sequential Autoencoder Across Domains**|Yujie Lin et.al.|[2309.13005](http://arxiv.org/abs/2309.13005)|null|
+|**2023-09-22**|**Scaling Limits of the Wasserstein information matrix on Gaussian Mixture Models**|Wuchen Li et.al.|[2309.12997](http://arxiv.org/abs/2309.12997)|null|
+|**2023-09-22**|**Smart Fuzzing of 5G Wireless Software Implementation**|Huan Wu et.al.|[2309.12994](http://arxiv.org/abs/2309.12994)|null|
+|**2023-09-22**|**The statistical properties of eigenstates in chaotic many-body quantum systems**|Dominik Hahn et.al.|[2309.12982](http://arxiv.org/abs/2309.12982)|null|
 |**2023-09-21**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**|Kan Wu et.al.|[2309.12314](http://arxiv.org/abs/2309.12314)|null|
 |**2023-09-21**|**SlowFast Network for Continuous Sign Language Recognition**|Junseok Ahn et.al.|[2309.12304](http://arxiv.org/abs/2309.12304)|null|
 |**2023-09-22**|**PanoVOS: Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation**|Shilin Yan et.al.|[2309.12303](http://arxiv.org/abs/2309.12303)|**[link](https://github.com/shilinyan99/panovos)**|
@@ -3953,6 +3986,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**E(2)-Equivariant Graph Planning for Navigation**|Linfeng Zhao et.al.|[2309.13043](http://arxiv.org/abs/2309.13043)|null|
+|**2023-09-22**|**Memory-augmented conformer for improved end-to-end long-form ASR**|Carlos Carvalho et.al.|[2309.13029](http://arxiv.org/abs/2309.13029)|**[link](https://github.com/miamoto/conformer-ntm)**|
+|**2023-09-22**|**Directed propaganda in the majority-rule model**|Fabricio L. Forgerini et.al.|[2309.13026](http://arxiv.org/abs/2309.13026)|null|
+|**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024](http://arxiv.org/abs/2309.13024)|null|
+|**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
+|**2023-09-22**|**A Hybrid Deep Learning-based Approach for Optimal Genotype by Environment Selection**|Zahra Khalilzadeh et.al.|[2309.13021](http://arxiv.org/abs/2309.13021)|null|
+|**2023-09-22**|**Differential Evolution Algorithm Based Hyperparameter Selection of Gated Recurrent Unit for Electrical Load Forecasting**|Anuvab Sen et.al.|[2309.13019](http://arxiv.org/abs/2309.13019)|null|
+|**2023-09-22**|**Dynamic ASR Pathways: An Adaptive Masking Approach Towards Efficient Pruning of A Multilingual ASR Model**|Jiamin Xie et.al.|[2309.13018](http://arxiv.org/abs/2309.13018)|null|
+|**2023-09-22**|**Understanding Deep Gradient Leakage via Inversion Influence Functions**|Haobo Zhang et.al.|[2309.13016](http://arxiv.org/abs/2309.13016)|**[link](https://github.com/illidanlab/inversion-influence-function)**|
+|**2023-09-22**|**Completeness of qufinite ZXW calculus, a graphical language for mixed-dimensional quantum computing**|Quanlong Wang et.al.|[2309.13014](http://arxiv.org/abs/2309.13014)|null|
 |**2023-09-21**|**Active Stereo Without Pattern Projector**|Luca Bartolomei et.al.|[2309.12315](http://arxiv.org/abs/2309.12315)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
 |**2023-09-21**|**Model non-Hermitian topological operators without skin effect**|Daniel J. Salib et.al.|[2309.12310](http://arxiv.org/abs/2309.12310)|null|
@@ -5030,6 +5073,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041](http://arxiv.org/abs/2309.13041)|null|
+|**2023-09-22**|**GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators**|Philipp Wu et.al.|[2309.13037](http://arxiv.org/abs/2309.13037)|null|
+|**2023-09-22**|**Encoding optimization for quantum machine learning demonstrated on a superconducting transmon qutrit**|Shuxiang Cao et.al.|[2309.13036](http://arxiv.org/abs/2309.13036)|null|
+|**2023-09-22**|**Robust Stability Analysis of a Class of LTV Systems**|Shahzad Ahmed et.al.|[2309.13033](http://arxiv.org/abs/2309.13033)|null|
+|**2023-09-22**|**Modelling, Simulation, and Control of a Flexible Space Launch Vehicle**|Muhammad Abdullah Aamer et.al.|[2309.13032](http://arxiv.org/abs/2309.13032)|null|
+|**2023-09-22**|**Anti-Itô noise-induced phase transitions in tumor growth with chemotherapy**|Helder Rojas et.al.|[2309.13031](http://arxiv.org/abs/2309.13031)|null|
+|**2023-09-22**|**Memory-augmented conformer for improved end-to-end long-form ASR**|Carlos Carvalho et.al.|[2309.13029](http://arxiv.org/abs/2309.13029)|**[link](https://github.com/miamoto/conformer-ntm)**|
+|**2023-09-22**|**Directed propaganda in the majority-rule model**|Fabricio L. Forgerini et.al.|[2309.13026](http://arxiv.org/abs/2309.13026)|null|
+|**2023-09-22**|**Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization**|Yuyang Qiu et.al.|[2309.13024](http://arxiv.org/abs/2309.13024)|null|
+|**2023-09-22**|**Differential Evolution Algorithm Based Hyperparameter Selection of Gated Recurrent Unit for Electrical Load Forecasting**|Anuvab Sen et.al.|[2309.13019](http://arxiv.org/abs/2309.13019)|null|
 |**2023-09-21**|**Active Stereo Without Pattern Projector**|Luca Bartolomei et.al.|[2309.12315](http://arxiv.org/abs/2309.12315)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2023-09-21**|**ForceSight: Text-Guided Mobile Manipulation with Visual-Force Goals**|Jeremy A. Collins et.al.|[2309.12312](http://arxiv.org/abs/2309.12312)|null|
 |**2023-09-21**|**Model non-Hermitian topological operators without skin effect**|Daniel J. Salib et.al.|[2309.12310](http://arxiv.org/abs/2309.12310)|null|
@@ -6107,6 +6160,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Memory Efficient Mixed-Precision Optimizers**|Basile Lewandowski et.al.|[2309.12381](http://arxiv.org/abs/2309.12381)|null|
 |**2023-09-19**|**SlimPajama-DC: Understanding Data Combinations for LLM Training**|Zhiqiang Shen et.al.|[2309.10818](http://arxiv.org/abs/2309.10818)|null|
 |**2023-09-05**|**OHQ: On-chip Hardware-aware Quantization**|Wei Huang et.al.|[2309.01945](http://arxiv.org/abs/2309.01945)|null|
 |**2023-08-29**|**Reducing shared memory footprint to leverage high throughput on Tensor Cores and its flexible API extension library**|Hiroyuki Ootomo et.al.|[2308.15152](http://arxiv.org/abs/2308.15152)|**[link](https://github.com/wmmae/wmma_extension)**|
