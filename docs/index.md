@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -89,7 +89,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-25**|**The Computational Power of Distributed Shared-Memory Models with Bounded-Size Registers**|Carole Delporte et.al.|[2309.13977](http://arxiv.org/abs/2309.13977)|null|
-|**2023-09-22**|**ChainsFormer: A Chain Latency-aware Resource Provisioning Approach for Microservices Cluster**|Chenghao Song et.al.|[2309.12592](http://arxiv.org/abs/2309.12592)|null|
+|**2023-09-27**|**ChainsFormer: A Chain Latency-aware Resource Provisioning Approach for Microservices Cluster**|Chenghao Song et.al.|[2309.12592](http://arxiv.org/abs/2309.12592)|null|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788](http://arxiv.org/abs/2309.10788)|null|
 |**2023-09-19**|**Learning-Based Detection of Malicious Volt-VAr Control Parameters in Smart Inverters**|Ahmad Mohammad Saber et.al.|[2309.10304](http://arxiv.org/abs/2309.10304)|null|
 |**2023-09-18**|**A Heterogeneous Graph-Based Multi-Task Learning for Fault Event Diagnosis in Smart Grid**|Dibaloke Chanda et.al.|[2309.09921](http://arxiv.org/abs/2309.09921)|null|
