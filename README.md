@@ -279,6 +279,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Group twirling and noise tailoring for multi-qubit controlled phase gates**|Guoding Liu et.al.|[2309.15651](http://arxiv.org/abs/2309.15651)|null|
+|**2023-09-27**|**Enabling Resource-efficient AIoT System with Cross-level Optimization: A survey**|Sicong Liu et.al.|[2309.15467](http://arxiv.org/abs/2309.15467)|null|
+|**2023-09-27**|**ComPile: A Large IR Dataset from Production Sources**|Aiden Grossman et.al.|[2309.15432](http://arxiv.org/abs/2309.15432)|null|
+|**2023-09-27**|**The Design and Implementation of an Extensible System Meta-Programming Language**|Ronie Salgado et.al.|[2309.15416](http://arxiv.org/abs/2309.15416)|null|
 |**2023-09-26**|**Structural transitions, octahedral rotations, and electronic properties of $A_3$Ni$_2$O$_7$ rare-earth nickelates under high pressure**|Benjamin Geisler et.al.|[2309.15078](http://arxiv.org/abs/2309.15078)|null|
 |**2023-09-26**|**Implementation-Oblivious Transparent Checkpoint-Restart for MPI**|Yao Xu et.al.|[2309.14996](http://arxiv.org/abs/2309.14996)|null|
 |**2023-09-26**|**Types and Semantics for Extensible Data Types (Extended Version)**|Cas van der Rest et.al.|[2309.14985](http://arxiv.org/abs/2309.14985)|null|
@@ -782,6 +786,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Multi-unit soft sensing permits few-shot learning**|Bjarne Grimstad et.al.|[2309.15828](http://arxiv.org/abs/2309.15828)|null|
+|**2023-09-27**|**Novel approach for solving multipoint boundary value problem for integro-differential equation**|Anar Assanova et.al.|[2309.15805](http://arxiv.org/abs/2309.15805)|null|
+|**2023-09-27**|**A Quantum-Classical Hybrid Block-Matching Algorithm in Noisy Environment using Dissimilarity Measure**|M. Martínez-Felipe et.al.|[2309.15792](http://arxiv.org/abs/2309.15792)|null|
+|**2023-09-27**|**Some Efficient and Optimal K-Norm Mechanisms**|Matthew Joseph et.al.|[2309.15790](http://arxiv.org/abs/2309.15790)|null|
+|**2023-09-27**|**Partial Transport for Point-Cloud Registration**|Yikun Bai et.al.|[2309.15787](http://arxiv.org/abs/2309.15787)|null|
+|**2023-09-27**|**Importance-Weighted Offline Learning Done Right**|Germano Gabbianelli et.al.|[2309.15771](http://arxiv.org/abs/2309.15771)|null|
+|**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746](http://arxiv.org/abs/2309.15746)|null|
+|**2023-09-27**|**Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need**|Danil Provodin et.al.|[2309.15737](http://arxiv.org/abs/2309.15737)|null|
+|**2023-09-27**|**Synthetic Latent Fingerprint Generation Using Style Transfer**|Amol S. Joshi et.al.|[2309.15734](http://arxiv.org/abs/2309.15734)|null|
+|**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728](http://arxiv.org/abs/2309.15728)|null|
 |**2023-09-26**|**Planted Random Number Partitioning Problem**|Eren C. Kızıldağ et.al.|[2309.15115](http://arxiv.org/abs/2309.15115)|null|
 |**2023-09-26**|**Efficient, traceable, and numerical error-free implementation of the MMS voting rule**|Luis Sánchez-Fernández et.al.|[2309.15104](http://arxiv.org/abs/2309.15104)|null|
 |**2023-09-26**|**Challenges of building medical image datasets for development of deep learning software in stroke**|Alessandro Fontanella et.al.|[2309.15081](http://arxiv.org/abs/2309.15081)|null|
@@ -1889,6 +1903,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Convolutional Networks with Oriented 1D Kernels**|Alexandre Kirchmeyer et.al.|[2309.15812](http://arxiv.org/abs/2309.15812)|**[link](https://github.com/princeton-vl/oriented1d)**|
+|**2023-09-27**|**Noise propagation in hybrid tensor networks**|Hiroyuki Harada et.al.|[2309.15761](http://arxiv.org/abs/2309.15761)|null|
+|**2023-09-27**|**Breaking NoC Anonymity using Flow Correlation Attack**|Hansika Weerasena et.al.|[2309.15687](http://arxiv.org/abs/2309.15687)|null|
+|**2023-09-27**|**Design and Optimization of Residual Neural Network Accelerators for Low-Power FPGAs Using High-Level Synthesis**|Filippo Minnella et.al.|[2309.15631](http://arxiv.org/abs/2309.15631)|null|
+|**2023-09-27**|**Advancing the distributed Multi-GPU ChASE library through algorithm optimization and NCCL library**|Xinzhe Wu et.al.|[2309.15595](http://arxiv.org/abs/2309.15595)|null|
+|**2023-09-27**|**HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**|Yuhang Liu et.al.|[2309.15572](http://arxiv.org/abs/2309.15572)|null|
+|**2023-09-27**|**Enabling Resource-efficient AIoT System with Cross-level Optimization: A survey**|Sicong Liu et.al.|[2309.15467](http://arxiv.org/abs/2309.15467)|null|
+|**2023-09-27**|**DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism**|Jin Wang et.al.|[2309.15324](http://arxiv.org/abs/2309.15324)|null|
+|**2023-09-26**|**Quantum Information Driven Ansatz (QIDA): shallow-depth empirical quantum circuits from Quantum Chemistry**|Davide Materia et.al.|[2309.15287](http://arxiv.org/abs/2309.15287)|null|
+|**2023-09-26**|**Quantum tensor networks algorithms for evaluation of spectral functions on quantum computers**|Michael L. Wall et.al.|[2309.15165](http://arxiv.org/abs/2309.15165)|null|
 |**2023-09-26**|**Logic Locking based Trojans: A Friend Turns Foe**|Yuntao Liu et.al.|[2309.15067](http://arxiv.org/abs/2309.15067)|null|
 |**2023-09-26**|**First operation of an ACHINOS-equipped Spherical Proportional Counter with individual anode read-out**|D. Herd et.al.|[2309.15066](http://arxiv.org/abs/2309.15066)|null|
 |**2023-09-26**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2309.15060](http://arxiv.org/abs/2309.15060)|null|
@@ -2952,6 +2976,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Asymptotics and Scattering for massive Maxwell-Klein-Gordon equations**|Xuantao Chen et.al.|[2309.15834](http://arxiv.org/abs/2309.15834)|null|
+|**2023-09-27**|**OrthoPlanes: A Novel Representation for Better 3D-Awareness of GANs**|Honglin He et.al.|[2309.15830](http://arxiv.org/abs/2309.15830)|null|
+|**2023-09-27**|**To Fit or not to Fit: Unraveling Parameter Degeneracy in GRB Data Analysis**|Keneth Garcia-Cifuentes et.al.|[2309.15825](http://arxiv.org/abs/2309.15825)|null|
+|**2023-09-27**|**Node-Aligned Graph-to-Graph Generation for Retrosynthesis Prediction**|Lin Yao et.al.|[2309.15798](http://arxiv.org/abs/2309.15798)|null|
+|**2023-09-27**|**Time-Domain Channel Measurements and Small-Scale Fading Characterization for RIS-Assisted Wireless Communication Systems**|Yanqing Ren et.al.|[2309.15776](http://arxiv.org/abs/2309.15776)|null|
+|**2023-09-27**|**Learning the Efficient Frontier**|Philippe Chatigny et.al.|[2309.15775](http://arxiv.org/abs/2309.15775)|null|
+|**2023-09-27**|**Latent Graph Powered Semi-Supervised Learning on Biomedical Tabular Data**|Boshko Koloski et.al.|[2309.15757](http://arxiv.org/abs/2309.15757)|null|
+|**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755](http://arxiv.org/abs/2309.15755)|null|
+|**2023-09-27**|**Differentiable Machine Learning-Based Modeling for Directly-Modulated Lasers**|Sergio Hernandez et.al.|[2309.15747](http://arxiv.org/abs/2309.15747)|null|
+|**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746](http://arxiv.org/abs/2309.15746)|null|
 |**2023-09-26**|**Probing light relics through cosmic dawn**|Nanoom Lee et.al.|[2309.15119](http://arxiv.org/abs/2309.15119)|null|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117](http://arxiv.org/abs/2309.15117)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109](http://arxiv.org/abs/2309.15109)|null|
@@ -4059,6 +4093,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations**|Sharath Girish et.al.|[2309.15848](http://arxiv.org/abs/2309.15848)|null|
+|**2023-09-27**|**Multi-unit soft sensing permits few-shot learning**|Bjarne Grimstad et.al.|[2309.15828](http://arxiv.org/abs/2309.15828)|null|
+|**2023-09-27**|**Convolutional Networks with Oriented 1D Kernels**|Alexandre Kirchmeyer et.al.|[2309.15812](http://arxiv.org/abs/2309.15812)|**[link](https://github.com/princeton-vl/oriented1d)**|
+|**2023-09-27**|**Time-Domain Channel Measurements and Small-Scale Fading Characterization for RIS-Assisted Wireless Communication Systems**|Yanqing Ren et.al.|[2309.15776](http://arxiv.org/abs/2309.15776)|null|
+|**2023-09-27**|**AI in Software Engineering: Case Studies and Prospects**|Lei Wang et.al.|[2309.15768](http://arxiv.org/abs/2309.15768)|null|
+|**2023-09-27**|**Rapid Network Adaptation: Learning to Adapt Neural Networks Using Test-Time Feedback**|Teresa Yeo et.al.|[2309.15762](http://arxiv.org/abs/2309.15762)|null|
+|**2023-09-27**|**Noise propagation in hybrid tensor networks**|Hiroyuki Harada et.al.|[2309.15761](http://arxiv.org/abs/2309.15761)|null|
+|**2023-09-27**|**InfraParis: A multi-modal and multi-task autonomous driving dataset**|Gianni Franchi et.al.|[2309.15751](http://arxiv.org/abs/2309.15751)|null|
+|**2023-09-27**|**Synthetic Latent Fingerprint Generation Using Style Transfer**|Amol S. Joshi et.al.|[2309.15734](http://arxiv.org/abs/2309.15734)|null|
+|**2023-09-27**|**Deep Learning-based Analysis of Basins of Attraction**|David Valle et.al.|[2309.15732](http://arxiv.org/abs/2309.15732)|**[link](https://github.com/redlynx96/deep-learning-based-analysis-of-basins-of-attraction)**|
 |**2023-09-26**|**Stable Bosonic Topological Edge Modes in the Presence of Many-Body Interactions**|Niclas Heinsdorf et.al.|[2309.15113](http://arxiv.org/abs/2309.15113)|null|
 |**2023-09-26**|**SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem**|Margalit Glasgow et.al.|[2309.15111](http://arxiv.org/abs/2309.15111)|null|
 |**2023-09-26**|**Local Positional Encoding for Multi-Layer Perceptrons**|Shin Fujieda et.al.|[2309.15101](http://arxiv.org/abs/2309.15101)|null|
@@ -5166,6 +5210,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Period Evolution of Repeating Transients in Galactic Nuclei**|Itai Linial et.al.|[2309.15849](http://arxiv.org/abs/2309.15849)|null|
+|**2023-09-27**|**Feshbach resonance in a strongly repulsive bilayer model: a possible scenario for bilayer nickelate superconductors**|Hannah Lange et.al.|[2309.15843](http://arxiv.org/abs/2309.15843)|null|
+|**2023-09-27**|**Examining the Values Reflected by Children during AI Problem Formulation**|Utkarsh Dwivedi et.al.|[2309.15839](http://arxiv.org/abs/2309.15839)|null|
+|**2023-09-27**|**Asymptotics and Scattering for massive Maxwell-Klein-Gordon equations**|Xuantao Chen et.al.|[2309.15834](http://arxiv.org/abs/2309.15834)|null|
+|**2023-09-27**|**Multi-unit soft sensing permits few-shot learning**|Bjarne Grimstad et.al.|[2309.15828](http://arxiv.org/abs/2309.15828)|null|
+|**2023-09-27**|**Minimal model program for algebraically integrable foliations and generalized pairs**|Guodu Chen et.al.|[2309.15823](http://arxiv.org/abs/2309.15823)|null|
+|**2023-09-27**|**Distinguishing between long-transient and asymptotic states in a biological aggregation model**|Jonathan R. Potts et.al.|[2309.15810](http://arxiv.org/abs/2309.15810)|null|
+|**2023-09-27**|**Enabling multi-messenger astronomy with continuous gravitational waves: early warning and sky localization of binary neutron stars in Einstein Telescope**|Andrew L. Miller et.al.|[2309.15808](http://arxiv.org/abs/2309.15808)|null|
+|**2023-09-27**|**Novel approach for solving multipoint boundary value problem for integro-differential equation**|Anar Assanova et.al.|[2309.15805](http://arxiv.org/abs/2309.15805)|null|
+|**2023-09-27**|**Post-fabrication tuning of circular Bragg resonators for enhanced emitter-cavity coupling**|Tobias M. Krieger et.al.|[2309.15801](http://arxiv.org/abs/2309.15801)|null|
 |**2023-09-26**|**Classification of symmetry-enriched topological quantum spin liquids**|Weicheng Ye et.al.|[2309.15118](http://arxiv.org/abs/2309.15118)|null|
 |**2023-09-26**|**Solutions with positive components to quasilinear parabolic systems**|Evelina Shamarova et.al.|[2309.15114](http://arxiv.org/abs/2309.15114)|null|
 |**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112](http://arxiv.org/abs/2309.15112)|**[link](https://github.com/internlm/internlm-xcomposer)**|
