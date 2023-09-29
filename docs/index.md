@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2958,7 +2958,7 @@ layout: default
 |**2023-09-27**|**Node-Aligned Graph-to-Graph Generation for Retrosynthesis Prediction**|Lin Yao et.al.|[2309.15798](http://arxiv.org/abs/2309.15798)|null|
 |**2023-09-27**|**Time-Domain Channel Measurements and Small-Scale Fading Characterization for RIS-Assisted Wireless Communication Systems**|Yanqing Ren et.al.|[2309.15776](http://arxiv.org/abs/2309.15776)|null|
 |**2023-09-27**|**Learning the Efficient Frontier**|Philippe Chatigny et.al.|[2309.15775](http://arxiv.org/abs/2309.15775)|null|
-|**2023-09-27**|**Latent Graph Powered Semi-Supervised Learning on Biomedical Tabular Data**|Boshko Koloski et.al.|[2309.15757](http://arxiv.org/abs/2309.15757)|null|
+|**2023-09-28**|**Latent Graph Powered Semi-Supervised Learning on Biomedical Tabular Data**|Boshko Koloski et.al.|[2309.15757](http://arxiv.org/abs/2309.15757)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755](http://arxiv.org/abs/2309.15755)|null|
 |**2023-09-27**|**Differentiable Machine Learning-Based Modeling for Directly-Modulated Lasers**|Sergio Hernandez et.al.|[2309.15747](http://arxiv.org/abs/2309.15747)|null|
 |**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746](http://arxiv.org/abs/2309.15746)|null|
