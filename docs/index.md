@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -263,7 +263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**Modular quantum signal processing in many variables**|Zane M. Rossi et.al.|[2309.16665](http://arxiv.org/abs/2309.16665)|null|
+|**2023-09-28**|**Modular quantum signal processing in many variables**|Zane M. Rossi et.al.|[2309.16665](http://arxiv.org/abs/2309.16665)|**[link](https://github.com/ichuang/pyqsp)**|
 |**2023-09-28**|**Effects of heterogeneous data sets and time-lag measurement techniques on cosmological parameter constraints from MgII and CIV reverberation-mapped quasar data**|Shulei Cao et.al.|[2309.16516](http://arxiv.org/abs/2309.16516)|null|
 |**2023-09-28**|**Predicting performance difficulty from piano sheet music images**|Pedro Ramoneda et.al.|[2309.16287](http://arxiv.org/abs/2309.16287)|null|
 |**2023-09-28**|**TPE: Towards Better Compositional Reasoning over Conceptual Tools with Multi-persona Collaboration**|Hongru Wang et.al.|[2309.16090](http://arxiv.org/abs/2309.16090)|null|
@@ -772,7 +772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**Modular quantum signal processing in many variables**|Zane M. Rossi et.al.|[2309.16665](http://arxiv.org/abs/2309.16665)|null|
+|**2023-09-28**|**Modular quantum signal processing in many variables**|Zane M. Rossi et.al.|[2309.16665](http://arxiv.org/abs/2309.16665)|**[link](https://github.com/ichuang/pyqsp)**|
 |**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663](http://arxiv.org/abs/2309.16663)|null|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|null|
 |**2023-09-28**|**Sparse Submodular Function Minimization**|Andrei Graur et.al.|[2309.16632](http://arxiv.org/abs/2309.16632)|null|
@@ -5234,7 +5234,7 @@ layout: default
 |**2023-09-28**|**The Eccentric Kozai-Lidov Mechanism as the Cause of Exocomet Transits of KIC 8462852**|Steven D. Young et.al.|[2309.16659](http://arxiv.org/abs/2309.16659)|null|
 |**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654](http://arxiv.org/abs/2309.16654)|null|
 |**2023-09-28**|**Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system**|Yamen Hamdouni et.al.|[2309.16651](http://arxiv.org/abs/2309.16651)|null|
-|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649](http://arxiv.org/abs/2309.16649)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649](http://arxiv.org/abs/2309.16649)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Brick wall diagrams as a completely integrable system**|Moritz Kade et.al.|[2309.16640](http://arxiv.org/abs/2309.16640)|null|
 |**2023-09-28**|**The logarithmic Dirichlet Laplacian on Ahlfors regular spaces**|Dimitris Michail Gerontogiannis et.al.|[2309.16636](http://arxiv.org/abs/2309.16636)|null|
 |**2023-09-28**|**Sparse Submodular Function Minimization**|Andrei Graur et.al.|[2309.16632](http://arxiv.org/abs/2309.16632)|null|
