@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2978,12 +2978,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671](http://arxiv.org/abs/2309.16671)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671](http://arxiv.org/abs/2309.16671)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654](http://arxiv.org/abs/2309.16654)|null|
 |**2023-09-28**|**Reusability report: Prostate cancer stratification with diverse biologically-informed neural architectures**|Christian Pedersen et.al.|[2309.16645](http://arxiv.org/abs/2309.16645)|null|
 |**2023-09-28**|**Optical and microstructural characterization of Er $^{3+}$ doped epitaxial cerium oxide on silicon**|Gregory D. Grant et.al.|[2309.16644](http://arxiv.org/abs/2309.16644)|null|
 |**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639](http://arxiv.org/abs/2309.16639)|null|
-|**2023-09-28**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633](http://arxiv.org/abs/2309.16633)|**[link](https://github.com/yilei-wu/supremix)**|
+|**2023-09-29**|**Mixup Your Own Pairs**|Yilei Wu et.al.|[2309.16633](http://arxiv.org/abs/2309.16633)|**[link](https://github.com/yilei-wu/supremix)**|
 |**2023-09-28**|**Sparse Submodular Function Minimization**|Andrei Graur et.al.|[2309.16632](http://arxiv.org/abs/2309.16632)|null|
 |**2023-09-28**|**"AI enhances our performance, I have no doubt this one will do the same": The Placebo effect is robust to negative descriptions of AI**|Agnes M. Kloft et.al.|[2309.16606](http://arxiv.org/abs/2309.16606)|null|
 |**2023-09-28**|**Exploiting Edge Features in Graphs with Fused Network Gromov-Wasserstein Distance**|Junjie Yang et.al.|[2309.16604](http://arxiv.org/abs/2309.16604)|null|
@@ -5229,7 +5229,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-28**|**Learning to Transform for Generalizable Instance-wise Invariance**|Utkarsh Singhal et.al.|[2309.16672](http://arxiv.org/abs/2309.16672)|**[link](https://github.com/sutkarsh/flow_inv)**|
-|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671](http://arxiv.org/abs/2309.16671)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671](http://arxiv.org/abs/2309.16671)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**Decaf: Monocular Deformation Capture for Face and Hand Interactions**|Soshi Shimada et.al.|[2309.16670](http://arxiv.org/abs/2309.16670)|null|
 |**2023-09-28**|**The Eccentric Kozai-Lidov Mechanism as the Cause of Exocomet Transits of KIC 8462852**|Steven D. Young et.al.|[2309.16659](http://arxiv.org/abs/2309.16659)|null|
 |**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654](http://arxiv.org/abs/2309.16654)|null|
