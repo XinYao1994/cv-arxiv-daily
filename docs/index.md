@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3006,7 +3006,7 @@ layout: default
 |**2023-09-29**|**FACTS: First Amplify Correlations and Then Slice to Discover Bias**|Sriram Yenamandra et.al.|[2309.17430](http://arxiv.org/abs/2309.17430)|null|
 |**2023-09-29**|**Representing the inverse map as a composition of quadratics in a finite field of characteristic $2$**|Florian Luca et.al.|[2309.17424](http://arxiv.org/abs/2309.17424)|null|
 |**2023-09-29**|**Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417](http://arxiv.org/abs/2309.17417)|**[link](https://github.com/arjunsubramonian/link_bias_amplification)**|
-|**2023-09-29**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
+|**2023-10-03**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
 |**2023-09-29**|**Momentum-space imaging of ultra-thin electron liquids in delta-doped silicon**|Procopios Constantinou et.al.|[2309.17413](http://arxiv.org/abs/2309.17413)|null|
 |**2023-09-29**|**Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**|Vaidehi Patil et.al.|[2309.17410](http://arxiv.org/abs/2309.17410)|**[link](https://github.com/vaidehi99/infodeletionattacks)**|
 |**2023-09-29**|**Evolutionary Search and Theoretical Study of Silicene Grain Boundaries' Mechanical Properties**|Jianan Zhang et.al.|[2309.17407](http://arxiv.org/abs/2309.17407)|null|
@@ -4144,7 +4144,7 @@ layout: default
 |**2023-09-29**|**CNN-based automatic segmentation of Lumen & Media boundaries in IVUS images using closed polygonal chains**|Pavel Sinha et.al.|[2309.17406](http://arxiv.org/abs/2309.17406)|null|
 |**2023-09-29**|**Adversarial Machine Learning in Latent Representations of Neural Networks**|Milin Zhang et.al.|[2309.17401](http://arxiv.org/abs/2309.17401)|null|
 |**2023-09-29**|**Forward Flow for Novel View Synthesis of Dynamic Scenes**|Xiang Guo et.al.|[2309.17390](http://arxiv.org/abs/2309.17390)|null|
-|**2023-09-29**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372](http://arxiv.org/abs/2309.17372)|null|
+|**2023-10-03**|**Inferring coupling strengths of mixed-mode oscillations in red-giant stars using deep learning**|Siddharth Dhanpal et.al.|[2309.17372](http://arxiv.org/abs/2309.17372)|null|
 |**2023-09-29**|**Machine Learning for Practical Quantum Error Mitigation**|Haoran Liao et.al.|[2309.17368](http://arxiv.org/abs/2309.17368)|null|
 |**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663](http://arxiv.org/abs/2309.16663)|null|
 |**2023-09-28**|**SA2-Net: Scale-aware Attention Network for Microscopic Image Segmentation**|Mustansar Fiaz et.al.|[2309.16661](http://arxiv.org/abs/2309.16661)|**[link](https://github.com/mustansarfiaz/sa2-net)**|
