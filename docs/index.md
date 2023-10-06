@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -93,7 +93,7 @@ layout: default
 |**2023-10-04**|**MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems**|Samuel Hsia et.al.|[2310.02784](http://arxiv.org/abs/2310.02784)|null|
 |**2023-10-03**|**The Impact of Strategies and Information in Model Checking for Multi-Agent Systems**|Vadim Malvone et.al.|[2310.02342](http://arxiv.org/abs/2310.02342)|null|
 |**2023-10-03**|**Some New Results With k-set agreement**|Delporte-Gallet Carole et.al.|[2310.01976](http://arxiv.org/abs/2310.01976)|null|
-|**2023-10-03**|**High-rate multiplexed entanglement source based on time-bin qubits for advanced quantum networks**|Andrew Mueller et.al.|[2310.01804](http://arxiv.org/abs/2310.01804)|null|
+|**2023-10-04**|**High-rate multiplexed entanglement source based on time-bin qubits for advanced quantum networks**|Andrew Mueller et.al.|[2310.01804](http://arxiv.org/abs/2310.01804)|null|
 |**2023-10-03**|**Graph Isomorphic Networks for Assessing Reliability of the Medium-Voltage Grid**|Charlotte Cambier van Nooten et.al.|[2310.01181](http://arxiv.org/abs/2310.01181)|**[link](https://github.com/charlottecvn/ginenergygrids)**|
 |**2023-10-02**|**(Un)Decidability Bounds of the Synthesis Problem for Petri Games**|Paul Hannibal et.al.|[2310.01000](http://arxiv.org/abs/2310.01000)|null|
 |**2023-10-02**|**Semiframes: algebras of heterogeneous consensus**|Murdoch Gabbay et.al.|[2310.00956](http://arxiv.org/abs/2310.00956)|null|
@@ -802,7 +802,7 @@ layout: default
 |**2023-10-04**|**Towards Domain-Specific Features Disentanglement for Domain Generalization**|Hao Chen et.al.|[2310.03007](http://arxiv.org/abs/2310.03007)|null|
 |**2023-10-04**|**Reversing Deep Face Embeddings with Probable Privacy Protection**|Daile Osorio-Roig et.al.|[2310.03005](http://arxiv.org/abs/2310.03005)|null|
 |**2023-10-04**|**Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization**|Tanmay Gautam et.al.|[2310.03004](http://arxiv.org/abs/2310.03004)|null|
-|**2023-10-04**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995](http://arxiv.org/abs/2310.02995)|null|
+|**2023-10-05**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995](http://arxiv.org/abs/2310.02995)|null|
 |**2023-10-04**|**Finding coherent node groups in directed graphs**|Iiro Kumpulainen et.al.|[2310.02993](http://arxiv.org/abs/2310.02993)|null|
 |**2023-10-04**|**Scaling Laws for Associative Memories**|Vivien Cabannes et.al.|[2310.02984](http://arxiv.org/abs/2310.02984)|null|
 |**2023-10-04**|**Towards Fully Adaptive Regret Minimization in Heavy-Tailed Bandits**|Gianmarco Genalti et.al.|[2310.02975](http://arxiv.org/abs/2310.02975)|null|
@@ -1955,7 +1955,7 @@ layout: default
 |**2023-10-04**|**From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference**|Siddharth Samsi et.al.|[2310.03003](http://arxiv.org/abs/2310.03003)|null|
 |**2023-10-04**|**Co-Optimizing Cache Partitioning and Multi-Core Task Scheduling: Exploit Cache Sensitivity or Not?**|Binqi Sun et.al.|[2310.02959](http://arxiv.org/abs/2310.02959)|null|
 |**2023-10-04**|**Whole-body MPC for highly redundant legged manipulators: experimental evaluation with a 37 DoF dual-arm quadruped**|Ioannis Dadiotis et.al.|[2310.02907](http://arxiv.org/abs/2310.02907)|null|
-|**2023-10-04**|**Everest: GPU-Accelerated System For Mining Temporal Motifs**|Yichao Yuan et.al.|[2310.02800](http://arxiv.org/abs/2310.02800)|null|
+|**2023-10-05**|**Everest: GPU-Accelerated System For Mining Temporal Motifs**|Yichao Yuan et.al.|[2310.02800](http://arxiv.org/abs/2310.02800)|null|
 |**2023-10-04**|**MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems**|Samuel Hsia et.al.|[2310.02784](http://arxiv.org/abs/2310.02784)|null|
 |**2023-10-04**|**A Hybrid Quantum-Classical Approach to the Electric Mobility Problem**|Margarita Veshchezerova et.al.|[2310.02760](http://arxiv.org/abs/2310.02760)|null|
 |**2023-10-04**|**Optimal Collaborative Transportation for Under-Capacitated Vehicle Routing Problems using Aerial Drone Swarms**|Akash Kopparam Sreedhara et.al.|[2310.02726](http://arxiv.org/abs/2310.02726)|null|
@@ -5376,7 +5376,7 @@ layout: default
 |**2023-10-04**|**Zero Resource Code-switched Speech Benchmark Using Speech Utterance Pairs For Multiple Spoken Languages**|Kuan-Po Huang et.al.|[2310.03018](http://arxiv.org/abs/2310.03018)|null|
 |**2023-10-04**|**The Data Processor of the SPB2 Fluorescence Telescope: in flight performance**|Valentina Scotti et.al.|[2310.03012](http://arxiv.org/abs/2310.03012)|null|
 |**2023-10-04**|**SpiDy.jl -- open-source Julia package for the study of non-Markovian stochastic dynamics**|Stefano Scali et.al.|[2310.03008](http://arxiv.org/abs/2310.03008)|null|
-|**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006](http://arxiv.org/abs/2310.03006)|null|
+|**2023-10-05**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006](http://arxiv.org/abs/2310.03006)|**[link](https://github.com/BoSmallEar/COOLer)**|
 |**2023-10-04**|**Reversing Deep Face Embeddings with Probable Privacy Protection**|Daile Osorio-Roig et.al.|[2310.03005](http://arxiv.org/abs/2310.03005)|null|
 |**2023-10-04**|**Learning characteristic parameters and dynamics of centrifugal pumps under multi-phase flow using physics-informed neural networks**|Felipe de Castro Teixeira Carvalho et.al.|[2310.03001](http://arxiv.org/abs/2310.03001)|null|
 |**2023-10-04**|**Optimizing Key-Selection for Face-based One-Time Biometrics via Morphing**|Daile Osorio-Roig et.al.|[2310.02997](http://arxiv.org/abs/2310.02997)|null|
