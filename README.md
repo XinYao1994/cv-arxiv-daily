@@ -295,7 +295,7 @@
 |---|---|---|---|---|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714](http://arxiv.org/abs/2310.03714)|**[link](https://github.com/stanfordnlp/dspy)**|
 |**2023-10-05**|**Exploring the Hubble Tension: A Novel Approach through Cosmological Observations**|Darshan Kumar et.al.|[2310.03509](http://arxiv.org/abs/2310.03509)|null|
-|**2023-10-05**|**Tractable Bounding of Counterfactual Queries by Knowledge Compilation**|David Huber et.al.|[2310.03352](http://arxiv.org/abs/2310.03352)|null|
+|**2023-10-05**|**Tractable Bounding of Counterfactual Queries by Knowledge Compilation**|David Huber et.al.|[2310.03352](http://arxiv.org/abs/2310.03352)|**[link](https://github.com/idsia/credici)**|
 |**2023-10-05**|**Digitization of Weather Records of Seungjeongwon Ilgi: A Historical Weather Dynamics Dataset of the Korean Peninsula in 1623-1910**|Zeyu Lyu et.al.|[2310.03284](http://arxiv.org/abs/2310.03284)|null|
 |**2023-10-04**|**Time-Series Classification in Smart Manufacturing Systems: An Experimental Evaluation of State-of-the-Art Machine Learning Algorithms**|Mojtaba A. Farahani et.al.|[2310.02812](http://arxiv.org/abs/2310.02812)|null|
 |**2023-10-03**|**Spin-Spin Coupling at Small $x$ : Worm-Gear and Pretzelosity TMDs**|M. Gabriel Santiago et.al.|[2310.02231](http://arxiv.org/abs/2310.02231)|null|
