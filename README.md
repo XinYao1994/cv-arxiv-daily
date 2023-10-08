@@ -110,7 +110,7 @@
 |**2023-10-04**|**MAD Max Beyond Single-Node: Enabling Large Machine Learning Model Acceleration on Distributed Systems**|Samuel Hsia et.al.|[2310.02784](http://arxiv.org/abs/2310.02784)|null|
 |**2023-10-03**|**The Impact of Strategies and Information in Model Checking for Multi-Agent Systems**|Vadim Malvone et.al.|[2310.02342](http://arxiv.org/abs/2310.02342)|null|
 |**2023-10-03**|**Some New Results With k-set agreement**|Delporte-Gallet Carole et.al.|[2310.01976](http://arxiv.org/abs/2310.01976)|null|
-|**2023-10-04**|**High-rate multiplexed entanglement source based on time-bin qubits for advanced quantum networks**|Andrew Mueller et.al.|[2310.01804](http://arxiv.org/abs/2310.01804)|null|
+|**2023-10-04**|**High-rate multiplexed entanglement source based on time-bin qubits for advanced quantum networks**|Andrew Mueller et.al.|[2310.01804](http://arxiv.org/abs/2310.01804)|**[link](https://github.com/sansseriff/highrate_origin)**|
 |**2023-10-03**|**Graph Isomorphic Networks for Assessing Reliability of the Medium-Voltage Grid**|Charlotte Cambier van Nooten et.al.|[2310.01181](http://arxiv.org/abs/2310.01181)|**[link](https://github.com/charlottecvn/ginenergygrids)**|
 |**2023-10-02**|**(Un)Decidability Bounds of the Synthesis Problem for Petri Games**|Paul Hannibal et.al.|[2310.01000](http://arxiv.org/abs/2310.01000)|null|
 |**2023-10-02**|**Semiframes: algebras of heterogeneous consensus**|Murdoch Gabbay et.al.|[2310.00956](http://arxiv.org/abs/2310.00956)|null|
@@ -822,7 +822,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738](http://arxiv.org/abs/2310.03738)|null|
-|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|null|
+|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**An Uncertainty Principle for the Curvelet Transform, and the Infeasibility of Quantum Algorithms for Finding Short Lattice Vectors**|Yi-Kai Liu et.al.|[2310.03735](http://arxiv.org/abs/2310.03735)|null|
 |**2023-10-05**|**The Effect of Quadratic Base Change on Torsion**|Irmak Balçık et.al.|[2310.03709](http://arxiv.org/abs/2310.03709)|null|
 |**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
@@ -1991,7 +1991,7 @@
 |**2023-10-05**|**Adaptive variational ground state preparation for spin-1 models on qubit-based architectures**|João C. Getelina et.al.|[2310.03705](http://arxiv.org/abs/2310.03705)|null|
 |**2023-10-05**|**Role of Spatial Coherence in Diffractive Optical Neural Networks**|Matthew J. Filipovich et.al.|[2310.03679](http://arxiv.org/abs/2310.03679)|null|
 |**2023-10-05**|**A Suspended Aerial Manipulation Avatar for Physical Interaction in Unstructured Environments**|Fanyi Kong et.al.|[2310.03586](http://arxiv.org/abs/2310.03586)|null|
-|**2023-10-05**|**Putting a Padlock on Lambda -- Integrating vTPMs into AWS Firecracker**|Melker Veltman et.al.|[2310.03522](http://arxiv.org/abs/2310.03522)|null|
+|**2023-10-05**|**Putting a Padlock on Lambda -- Integrating vTPMs into AWS Firecracker**|Melker Veltman et.al.|[2310.03522](http://arxiv.org/abs/2310.03522)|**[link](https://github.com/datx05-csn-8/fctpm-2023)**|
 |**2023-10-05**|**RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing**|Alexander Mock et.al.|[2310.03505](http://arxiv.org/abs/2310.03505)|null|
 |**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461](http://arxiv.org/abs/2310.03461)|null|
 |**2023-10-05**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen et.al.|[2310.03443](http://arxiv.org/abs/2310.03443)|null|
@@ -3111,7 +3111,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|null|
+|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**Characterizing and Mitigating Timing Noise-Induced Decoherence in Single Electron Sources**|Sungguen Ryu et.al.|[2310.03728](http://arxiv.org/abs/2310.03728)|null|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714](http://arxiv.org/abs/2310.03714)|**[link](https://github.com/stanfordnlp/dspy)**|
@@ -4278,7 +4278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-05**|**A High-Performance Design, Implementation, Deployment, and Evaluation of The Slim Fly Network**|Nils Blach et.al.|[2310.03742](http://arxiv.org/abs/2310.03742)|null|
+|**2023-10-05**|**A High-Performance Design, Implementation, Deployment, and Evaluation of The Slim Fly Network**|Nils Blach et.al.|[2310.03742](http://arxiv.org/abs/2310.03742)|**[link](https://github.com/spcl/opensm)**|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707](http://arxiv.org/abs/2310.03707)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
 |**2023-10-05**|**Banach Space Optimality of Neural Architectures With Multivariate Nonlinearities**|Rahul Parhi et.al.|[2310.03696](http://arxiv.org/abs/2310.03696)|null|
