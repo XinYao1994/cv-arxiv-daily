@@ -275,6 +275,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications**|Abdullah Al Ishtiaq et.al.|[2310.04381](http://arxiv.org/abs/2310.04381)|**[link](https://github.com/synsec-den/hermes-spec-to-fsm)**|
+|**2023-10-06**|**mlirSynth: Automatic, Retargetable Program Raising in Multi-Level IR using Program Synthesis**|Alexander Brauckmann et.al.|[2310.04196](http://arxiv.org/abs/2310.04196)|null|
+|**2023-10-05**|**VLASS tidal disruption events with optical flares I: the sample and a comparison to optically-selected TDEs**|Jean J. Somalwar et.al.|[2310.03791](http://arxiv.org/abs/2310.03791)|null|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714](http://arxiv.org/abs/2310.03714)|**[link](https://github.com/stanfordnlp/dspy)**|
 |**2023-10-05**|**Exploring the Hubble Tension: A Novel Approach through Cosmological Observations**|Darshan Kumar et.al.|[2310.03509](http://arxiv.org/abs/2310.03509)|null|
 |**2023-10-05**|**Tractable Bounding of Counterfactual Queries by Knowledge Compilation**|David Huber et.al.|[2310.03352](http://arxiv.org/abs/2310.03352)|**[link](https://github.com/idsia/credici)**|
@@ -801,6 +804,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis**|Xiaoxiao Sun et.al.|[2310.04414](http://arxiv.org/abs/2310.04414)|null|
+|**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|null|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407](http://arxiv.org/abs/2310.04407)|null|
+|**2023-10-06**|**An algorithm to decide if an outer automorphism is geometric**|Edgar A. Bering IV et.al.|[2310.04402](http://arxiv.org/abs/2310.04402)|null|
+|**2023-10-06**|**Analysis and Algorithmic Construction of Self-Assembled DNA Complexes**|Cory Johnson et.al.|[2310.04398](http://arxiv.org/abs/2310.04398)|null|
+|**2023-10-06**|**Interpolating Parametrized Quantum Circuits using Blackbox Queries**|Lars Simon et.al.|[2310.04396](http://arxiv.org/abs/2310.04396)|null|
+|**2023-10-06**|**On a Hierarchy of Spectral Isomorphism Invariants**|V. Arvind et.al.|[2310.04391](http://arxiv.org/abs/2310.04391)|null|
+|**2023-10-06**|**Experimental Designs for Heteroskedastic Variance**|Justin Weltz et.al.|[2310.04390](http://arxiv.org/abs/2310.04390)|null|
+|**2023-10-06**|**Near-linear Time Dispersion of Mobile Agents**|Yuichi Sudo et.al.|[2310.04376](http://arxiv.org/abs/2310.04376)|null|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
 |**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738](http://arxiv.org/abs/2310.03738)|null|
 |**2023-10-06**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**An Uncertainty Principle for the Curvelet Transform, and the Infeasibility of Quantum Algorithms for Finding Short Lattice Vectors**|Yi-Kai Liu et.al.|[2310.03735](http://arxiv.org/abs/2310.03735)|null|
@@ -1966,6 +1979,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Interpolating Parametrized Quantum Circuits using Blackbox Queries**|Lars Simon et.al.|[2310.04396](http://arxiv.org/abs/2310.04396)|null|
+|**2023-10-06**|**Swordfish: A Framework for Evaluating Deep Neural Network-based Basecalling using Computation-In-Memory with Non-Ideal Memristors**|Taha Shahroodi et.al.|[2310.04366](http://arxiv.org/abs/2310.04366)|null|
+|**2023-10-06**|**Bringing Quantum Algorithms to Automated Machine Learning: A Systematic Review of AutoML Frameworks Regarding Extensibility for QML Algorithms**|Dennis Klau et.al.|[2310.04238](http://arxiv.org/abs/2310.04238)|null|
+|**2023-10-06**|**mlirSynth: Automatic, Retargetable Program Raising in Multi-Level IR using Program Synthesis**|Alexander Brauckmann et.al.|[2310.04196](http://arxiv.org/abs/2310.04196)|null|
+|**2023-10-06**|**Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching**|Chen Chen et.al.|[2310.04185](http://arxiv.org/abs/2310.04185)|null|
+|**2023-10-06**|**Indirect Meltdown: Building Novel Side-Channel Attacks from Transient-Execution Attacks**|Daniel Weber et.al.|[2310.04183](http://arxiv.org/abs/2310.04183)|null|
+|**2023-10-06**|**Victima: Drastically Increasing Address Translation Reach by Leveraging Underutilized Cache Resources**|Konstantinos Kanellopoulos et.al.|[2310.04158](http://arxiv.org/abs/2310.04158)|null|
+|**2023-10-06**|**Imaging Atmospheric Cherenkov Telescopes pointing determination using the trajectories of the stars in the field of view**|Mykhailo Dalchenko et.al.|[2310.04101](http://arxiv.org/abs/2310.04101)|null|
+|**2023-10-06**|**DeMiST: Detection and Mitigation of Stealthy Analog Hardware Trojans**|Enahoro Oriero et.al.|[2310.03994](http://arxiv.org/abs/2310.03994)|null|
+|**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|null|
 |**2023-10-05**|**Adaptive variational ground state preparation for spin-1 models on qubit-based architectures**|João C. Getelina et.al.|[2310.03705](http://arxiv.org/abs/2310.03705)|null|
 |**2023-10-05**|**Role of Spatial Coherence in Diffractive Optical Neural Networks**|Matthew J. Filipovich et.al.|[2310.03679](http://arxiv.org/abs/2310.03679)|null|
 |**2023-10-05**|**A Suspended Aerial Manipulation Avatar for Physical Interaction in Unstructured Environments**|Fanyi Kong et.al.|[2310.03586](http://arxiv.org/abs/2310.03586)|null|
@@ -3087,6 +3110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Evidence for Spatial Separation of Galactic Dust Components**|Corwin Shiu et.al.|[2310.04410](http://arxiv.org/abs/2310.04410)|null|
+|**2023-10-06**|**RECOMP: Improving Retrieval-Augmented LMs with Compression and Selective Augmentation**|Fangyuan Xu et.al.|[2310.04408](http://arxiv.org/abs/2310.04408)|null|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407](http://arxiv.org/abs/2310.04407)|null|
+|**2023-10-06**|**On the Embedding Collapse when Scaling up Recommendation Models**|Xingzhuo Guo et.al.|[2310.04400](http://arxiv.org/abs/2310.04400)|null|
+|**2023-10-06**|**Cloning, deleting, and hiding in modal quantum theory**|Phillip Diamond et.al.|[2310.04397](http://arxiv.org/abs/2310.04397)|null|
+|**2023-10-06**|**Rapid transform optimisation strategy for decoherence-protected quantum register in diamond**|Jiazhao Tian et.al.|[2310.04371](http://arxiv.org/abs/2310.04371)|null|
+|**2023-10-06**|**Transferring speech-generic and depression-specific knowledge for Alzheimer's disease detection**|Ziyun Cui et.al.|[2310.04358](http://arxiv.org/abs/2310.04358)|null|
+|**2023-10-06**|**A Language-Agent Approach to Formal Theorem-Proving**|Amitayush Thakur et.al.|[2310.04353](http://arxiv.org/abs/2310.04353)|null|
+|**2023-10-06**|**Beyond the Condon limit: Condensed phase optical spectra from atomistic simulations**|Zachary Wiethorn et.al.|[2310.04333](http://arxiv.org/abs/2310.04333)|null|
+|**2023-10-06**|**Game, Set, and Conflict: Evaluating Conflict and Game Frames in Indian Election News Coverage**|Tejasvi Chebrolu et.al.|[2310.04331](http://arxiv.org/abs/2310.04331)|null|
 |**2023-10-06**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**Characterizing and Mitigating Timing Noise-Induced Decoherence in Single Electron Sources**|Sungguen Ryu et.al.|[2310.03728](http://arxiv.org/abs/2310.03728)|null|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
@@ -4252,6 +4285,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
+|**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
+|**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412](http://arxiv.org/abs/2310.04412)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
+|**2023-10-06**|**Evolution of High Throughput Satellite Systems: Vision, Requirements, and Key Technologies**|Olfa Ben Yahia et.al.|[2310.04389](http://arxiv.org/abs/2310.04389)|null|
+|**2023-10-06**|**Hermes: Unlocking Security Analysis of Cellular Network Protocols by Synthesizing Finite State Machines from Natural Language Specifications**|Abdullah Al Ishtiaq et.al.|[2310.04381](http://arxiv.org/abs/2310.04381)|**[link](https://github.com/synsec-den/hermes-spec-to-fsm)**|
+|**2023-10-06**|**MBTFNet: Multi-Band Temporal-Frequency Neural Network For Singing Voice Enhancement**|Weiming Xu et.al.|[2310.04369](http://arxiv.org/abs/2310.04369)|null|
+|**2023-10-06**|**Swordfish: A Framework for Evaluating Deep Neural Network-based Basecalling using Computation-In-Memory with Non-Ideal Memristors**|Taha Shahroodi et.al.|[2310.04366](http://arxiv.org/abs/2310.04366)|null|
+|**2023-10-06**|**Enhanced Backpressure Routing with Wireless Link Features**|Zhongyuan Zhao et.al.|[2310.04364](http://arxiv.org/abs/2310.04364)|null|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
+|**2023-10-06**|**Exploiting Transformer Activation Sparsity with Dynamic Inference**|Mikołaj Piórczyński et.al.|[2310.04361](http://arxiv.org/abs/2310.04361)|null|
 |**2023-10-05**|**A High-Performance Design, Implementation, Deployment, and Evaluation of The Slim Fly Network**|Nils Blach et.al.|[2310.03742](http://arxiv.org/abs/2310.03742)|**[link](https://github.com/spcl/opensm)**|
 |**2023-10-05**|**OMG-ATTACK: Self-Supervised On-Manifold Generation of Transferable Evasion Attacks**|Ofir Bar Tal et.al.|[2310.03707](http://arxiv.org/abs/2310.03707)|null|
 |**2023-10-05**|**Drag View: Generalizable Novel View Synthesis with Unposed Imagery**|Zhiwen Fan et.al.|[2310.03704](http://arxiv.org/abs/2310.03704)|null|
@@ -5417,6 +5460,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Microscopic origin of the quantum Mpemba effect in integrable systems**|Colin Rylands et.al.|[2310.04419](http://arxiv.org/abs/2310.04419)|null|
+|**2023-10-06**|**Metal-Optic Nanophotonic Modulators in Standard CMOS Technology**|Mohamed ElKabbash et.al.|[2310.04409](http://arxiv.org/abs/2310.04409)|null|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407](http://arxiv.org/abs/2310.04407)|null|
+|**2023-10-06**|**Direct Photon Scattering by Plasmons in BiTeI**|A. C. Lee et.al.|[2310.04394](http://arxiv.org/abs/2310.04394)|null|
+|**2023-10-06**|**Fuzzy VC Combinatorics and Distality in Continuous Logic**|Aaron Anderson et.al.|[2310.04393](http://arxiv.org/abs/2310.04393)|null|
+|**2023-10-06**|**Evolution of High Throughput Satellite Systems: Vision, Requirements, and Key Technologies**|Olfa Ben Yahia et.al.|[2310.04389](http://arxiv.org/abs/2310.04389)|null|
+|**2023-10-06**|**Context-aware Trace Contracts**|Reiner Hähnle et.al.|[2310.04384](http://arxiv.org/abs/2310.04384)|null|
+|**2023-10-06**|**Near-linear Time Dispersion of Mobile Agents**|Yuichi Sudo et.al.|[2310.04376](http://arxiv.org/abs/2310.04376)|null|
+|**2023-10-06**|**A Marketplace Price Anomaly Detection System at Scale**|Akshit Sarpal et.al.|[2310.04367](http://arxiv.org/abs/2310.04367)|null|
+|**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360](http://arxiv.org/abs/2310.04360)|null|
 |**2023-10-05**|**Topological Density Correlations in a Fermi Gas**|Pok Man Tam et.al.|[2310.03737](http://arxiv.org/abs/2310.03737)|null|
 |**2023-10-05**|**Role of plasticity in the universal scaling of shear thickening dense suspensions**|Sachidananda Barik et.al.|[2310.03730](http://arxiv.org/abs/2310.03730)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
@@ -6582,6 +6635,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
+|**2023-10-06**|**Efficient Quantum Circuit Simulation by Tensor Network Methods on Modern GPUs**|Feng Pan et.al.|[2310.03978](http://arxiv.org/abs/2310.03978)|null|
 |**2023-10-04**|**A Study of Quantisation-aware Training on Time Series Transformer Models for Resource-constrained FPGAs**|Tianheng Ling et.al.|[2310.02654](http://arxiv.org/abs/2310.02654)|null|
 |**2023-10-03**|**Computing the Mittag-Leffler Function of a Matrix Argument**|João R. Cardoso et.al.|[2310.01896](http://arxiv.org/abs/2310.01896)|null|
 |**2023-09-29**|**MixQuant: Mixed Precision Quantization with a Bit-width Optimization Search**|Eliska Kloberdanz et.al.|[2309.17341](http://arxiv.org/abs/2309.17341)|null|
