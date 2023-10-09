@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -802,7 +802,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-05**|**Stylist: Style-Driven Feature Ranking for Robust Novelty Detection**|Stefan Smeu et.al.|[2310.03738](http://arxiv.org/abs/2310.03738)|null|
-|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
+|**2023-10-06**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**An Uncertainty Principle for the Curvelet Transform, and the Infeasibility of Quantum Algorithms for Finding Short Lattice Vectors**|Yi-Kai Liu et.al.|[2310.03735](http://arxiv.org/abs/2310.03735)|null|
 |**2023-10-05**|**The Effect of Quadratic Base Change on Torsion**|Irmak Balçık et.al.|[2310.03709](http://arxiv.org/abs/2310.03709)|null|
 |**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
@@ -1972,7 +1972,7 @@ layout: default
 |**2023-10-05**|**Putting a Padlock on Lambda -- Integrating vTPMs into AWS Firecracker**|Melker Veltman et.al.|[2310.03522](http://arxiv.org/abs/2310.03522)|**[link](https://github.com/datx05-csn-8/fctpm-2023)**|
 |**2023-10-05**|**RadaRays: Real-time Simulation of Rotating FMCW Radar for Mobile Robotics via Hardware-accelerated Ray Tracing**|Alexander Mock et.al.|[2310.03505](http://arxiv.org/abs/2310.03505)|null|
 |**2023-10-05**|**Which mode is better for federated learning? Centralized or Decentralized**|Yan Sun et.al.|[2310.03461](http://arxiv.org/abs/2310.03461)|null|
-|**2023-10-05**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen et.al.|[2310.03443](http://arxiv.org/abs/2310.03443)|null|
+|**2023-10-06**|**The North System for Formosa Speech Recognition Challenge 2023**|Li-Wei Chen et.al.|[2310.03443](http://arxiv.org/abs/2310.03443)|null|
 |**2023-10-05**|**Synergy of machine learning with quantum computing and communication**|Debasmita Bhoumik et.al.|[2310.03434](http://arxiv.org/abs/2310.03434)|null|
 |**2023-10-05**|**Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet**|Hossein Jafari et.al.|[2310.03365](http://arxiv.org/abs/2310.03365)|null|
 |**2023-10-05**|**PET-Enabled Dual-Energy CT Using a Kernel Method with Neural Optimization Transfer**|Siqi Li et.al.|[2310.03287](http://arxiv.org/abs/2310.03287)|null|
@@ -3087,14 +3087,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-05**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
+|**2023-10-06**|**Recovering Single-Crossing Preferences From Approval Ballots**|Andrei Constantinescu et.al.|[2310.03736](http://arxiv.org/abs/2310.03736)|**[link](https://github.com/andrei1998/rec-sc-from-approval)**|
 |**2023-10-05**|**Characterizing and Mitigating Timing Noise-Induced Decoherence in Single Electron Sources**|Sungguen Ryu et.al.|[2310.03728](http://arxiv.org/abs/2310.03728)|null|
 |**2023-10-05**|**Stochastic interpolants with data-dependent couplings**|Michael S. Albergo et.al.|[2310.03725](http://arxiv.org/abs/2310.03725)|null|
 |**2023-10-05**|**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**|Omar Khattab et.al.|[2310.03714](http://arxiv.org/abs/2310.03714)|**[link](https://github.com/stanfordnlp/dspy)**|
 |**2023-10-05**|**Speaker localization using direct path dominance test based on sound field directivity**|Boaz Rafaely et.al.|[2310.03688](http://arxiv.org/abs/2310.03688)|null|
 |**2023-10-05**|**DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers**|Anna Langedijk et.al.|[2310.03686](http://arxiv.org/abs/2310.03686)|null|
 |**2023-10-05**|**Quantifying High-Order Interdependencies in Entangled Quantum States**|Marco Alberto Javarone et.al.|[2310.03681](http://arxiv.org/abs/2310.03681)|null|
-|**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668](http://arxiv.org/abs/2310.03668)|**[link](https://github.com/hitz-zentroa/gollie)**|
+|**2023-10-06**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668](http://arxiv.org/abs/2310.03668)|**[link](https://github.com/hitz-zentroa/gollie)**|
 |**2023-10-05**|**MapperGPT: Large Language Models for Linking and Mapping Entities**|Nicolas Matentzoglu et.al.|[2310.03666](http://arxiv.org/abs/2310.03666)|null|
 |**2023-10-05**|**TRAM: Bridging Trust Regions and Sharpness Aware Minimization**|Tom Sherborne et.al.|[2310.03646](http://arxiv.org/abs/2310.03646)|null|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026](http://arxiv.org/abs/2310.03026)|null|
