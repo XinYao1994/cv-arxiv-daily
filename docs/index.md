@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -6640,7 +6640,7 @@ layout: default
 |**2023-10-04**|**A Study of Quantisation-aware Training on Time Series Transformer Models for Resource-constrained FPGAs**|Tianheng Ling et.al.|[2310.02654](http://arxiv.org/abs/2310.02654)|null|
 |**2023-10-03**|**Computing the Mittag-Leffler Function of a Matrix Argument**|João R. Cardoso et.al.|[2310.01896](http://arxiv.org/abs/2310.01896)|null|
 |**2023-09-29**|**MixQuant: Mixed Precision Quantization with a Bit-width Optimization Search**|Eliska Kloberdanz et.al.|[2309.17341](http://arxiv.org/abs/2309.17341)|null|
-|**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-10-07**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065](http://arxiv.org/abs/2309.14065)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-24**|**GHN-QAT: Training Graph Hypernetworks to Predict Quantization-Robust Parameters of Unseen Limited Precision Neural Networks**|Stone Yun et.al.|[2309.13773](http://arxiv.org/abs/2309.13773)|null|
 |**2023-09-21**|**Memory Efficient Mixed-Precision Optimizers**|Basile Lewandowski et.al.|[2309.12381](http://arxiv.org/abs/2309.12381)|null|
 |**2023-09-19**|**SlimPajama-DC: Understanding Data Combinations for LLM Training**|Zhiqiang Shen et.al.|[2309.10818](http://arxiv.org/abs/2309.10818)|null|
