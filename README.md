@@ -4429,7 +4429,7 @@
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697](http://arxiv.org/abs/2310.07697)|null|
 |**2023-10-11**|**Large-scale photonic computing with nonlinear disordered media**|Hao Wang et.al.|[2310.07690](http://arxiv.org/abs/2310.07690)|null|
 |**2023-10-11**|**Hypergraph Neural Networks through the Lens of Message Passing: A Common Perspective to Homophily and Architecture Design**|Lev Telyatnikov et.al.|[2310.07684](http://arxiv.org/abs/2310.07684)|null|
-|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678](http://arxiv.org/abs/2310.07678)|null|
+|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678](http://arxiv.org/abs/2310.07678)|**[link](https://github.com/ioannislivieris/grad_cam_siamese)**|
 |**2023-10-11**|**HaarNet: Large-scale Linear-Morphological Hybrid Network for RGB-D Semantic Segmentation**|Rick Groenendijk et.al.|[2310.07669](http://arxiv.org/abs/2310.07669)|null|
 |**2023-10-11**|**GRaMuFeN: Graph-based Multi-modal Fake News Detection in Social Media**|Makan Kananian et.al.|[2310.07668](http://arxiv.org/abs/2310.07668)|null|
 |**2023-10-11**|**Global Minima, Recoverability Thresholds, and Higher-Order Structure in GNNS**|Drake Brown et.al.|[2310.07667](http://arxiv.org/abs/2310.07667)|null|
@@ -5635,7 +5635,7 @@
 |**2023-10-11**|**Hybrid System Stability Analysis of Multi-Lane Mixed-Autonomy Traffic**|Sirui Li et.al.|[2310.07689](http://arxiv.org/abs/2310.07689)|null|
 |**2023-10-11**|**New optimal trade-off point for coded caching systems with limited cache size**|Yinbin Ma et.al.|[2310.07686](http://arxiv.org/abs/2310.07686)|null|
 |**2023-10-11**|**Hamiltonian Dynamics of Bayesian Inference Formalised by Arc Hamiltonian Systems**|Takuo Matsubara et.al.|[2310.07680](http://arxiv.org/abs/2310.07680)|null|
-|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678](http://arxiv.org/abs/2310.07678)|null|
+|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678](http://arxiv.org/abs/2310.07678)|**[link](https://github.com/ioannislivieris/grad_cam_siamese)**|
 |**2023-10-11**|**Super-twisting based sliding mode control of hydraulic actuator without velocity state**|Manuel Estrada et.al.|[2310.07675](http://arxiv.org/abs/2310.07675)|null|
 |**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
 |**2023-10-12**|**Well Begun is Half Done: Generator-agnostic Knowledge Pre-Selection for Knowledge-Grounded Dialogue**|Lang Qin et.al.|[2310.07659](http://arxiv.org/abs/2310.07659)|**[link](https://github.com/qinlang14/gate)**|
