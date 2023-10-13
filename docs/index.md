@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -286,7 +286,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-11**|**Fundamentals of thermoelasticity for curved beams**|Marcio A. Jorge Silva et.al.|[2310.07496](http://arxiv.org/abs/2310.07496)|null|
-|**2023-10-10**|**Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting**|Emmy Liu et.al.|[2310.07081](http://arxiv.org/abs/2310.07081)|null|
+|**2023-10-10**|**Crossing the Threshold: Idiomatic Machine Translation through Retrieval Augmentation and Loss Weighting**|Emmy Liu et.al.|[2310.07081](http://arxiv.org/abs/2310.07081)|**[link](https://github.com/nightingal3/idiom-translation)**|
 |**2023-10-10**|**Open SYCL on heterogeneous GPU systems: A case of study**|Rocío Carratalá-Sáez et.al.|[2310.06947](http://arxiv.org/abs/2310.06947)|null|
 |**2023-10-10**|**MQT Predictor: Automatic Device Selection with Device-Specific Circuit Compilation for Quantum Computing**|Nils Quetschlich et.al.|[2310.06889](http://arxiv.org/abs/2310.06889)|null|
 |**2023-10-10**|**Refining Decompiled C Code with Large Language Models**|Wai Kin Wong et.al.|[2310.06530](http://arxiv.org/abs/2310.06530)|null|
@@ -2036,7 +2036,7 @@ layout: default
 |**2023-10-11**|**VQE-inspired optimization for spin chains work extraction**|Ivan Medina et.al.|[2310.07617](http://arxiv.org/abs/2310.07617)|null|
 |**2023-10-11**|**$μ$ TAS: Design and implementation of Time Aware Shaper on SmartNICs to achieve bounded latency**|Joydeep Pal et.al.|[2310.07480](http://arxiv.org/abs/2310.07480)|null|
 |**2023-10-11**|**AI/ML-based Load Prediction in IEEE 802.11 Enterprise Networks**|Francesc Wilhelmi et.al.|[2310.07467](http://arxiv.org/abs/2310.07467)|null|
-|**2023-10-11**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
+|**2023-10-12**|**Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration**|Peiyu Liao et.al.|[2310.07424](http://arxiv.org/abs/2310.07424)|null|
 |**2023-10-11**|**Enhancing Neural Architecture Search with Multiple Hardware Constraints for Deep Learning Model Deployment on Tiny IoT Devices**|Alessio Burrello et.al.|[2310.07217](http://arxiv.org/abs/2310.07217)|null|
 |**2023-10-11**|**Boosting Learning for LDPC Codes to Improve the Error-Floor Performance**|Hee-Youl Kwak et.al.|[2310.07194](http://arxiv.org/abs/2310.07194)|null|
 |**2023-10-11**|**Integrated Sensing and Communication enabled Multiple Base Stations Cooperative Sensing Towards 6G**|Zhiqing Wei et.al.|[2310.07180](http://arxiv.org/abs/2310.07180)|null|
@@ -5610,7 +5610,7 @@ layout: default
 |**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678](http://arxiv.org/abs/2310.07678)|null|
 |**2023-10-11**|**Super-twisting based sliding mode control of hydraulic actuator without velocity state**|Manuel Estrada et.al.|[2310.07675](http://arxiv.org/abs/2310.07675)|null|
 |**2023-10-11**|**Thermal rectification in mass-asymmetric one-dimensional anharmonic oscillator lattices with and without a ballistic spacer**|M Romero-Bastida et.al.|[2310.07673](http://arxiv.org/abs/2310.07673)|null|
-|**2023-10-11**|**Well Begun is Half Done: Generator-agnostic Knowledge Pre-Selection for Knowledge-Grounded Dialogue**|Qin Lang et.al.|[2310.07659](http://arxiv.org/abs/2310.07659)|**[link](https://github.com/qinlang14/gate)**|
+|**2023-10-12**|**Well Begun is Half Done: Generator-agnostic Knowledge Pre-Selection for Knowledge-Grounded Dialogue**|Lang Qin et.al.|[2310.07659](http://arxiv.org/abs/2310.07659)|**[link](https://github.com/qinlang14/gate)**|
 |**2023-10-11**|**RF-ICE: large-scale gigahertz readout of frequency-multiplexed microwave kinetic inductance detectors**|M. Rouble et.al.|[2310.07657](http://arxiv.org/abs/2310.07657)|null|
 |**2023-10-10**|**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**|Huiqiang Jiang et.al.|[2310.06839](http://arxiv.org/abs/2310.06839)|null|
 |**2023-10-10**|**Milestoning estimators of dissipation in systems observed at a coarse resolution: When ignorance is truly bliss**|Kristian Blom et.al.|[2310.06833](http://arxiv.org/abs/2310.06833)|null|
