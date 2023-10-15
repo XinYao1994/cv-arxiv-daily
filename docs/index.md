@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.14
+## Updated on 2023.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -5650,7 +5650,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-12**|**Protoplanetary disks in $K_s$ -band total intensity and polarized light**|Bin B. Ren et.al.|[2310.08589](http://arxiv.org/abs/2310.08589)|null|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588](http://arxiv.org/abs/2310.08588)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Neural network approach to quasiparticle dispersions in doped antiferromagnets**|Hannah Lange et.al.|[2310.08578](http://arxiv.org/abs/2310.08578)|null|
 |**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574](http://arxiv.org/abs/2310.08574)|null|
 |**2023-10-12**|**Non-Bloch band theory for non-Hermitian continuum systems**|Yu-Min Hu et.al.|[2310.08572](http://arxiv.org/abs/2310.08572)|null|
