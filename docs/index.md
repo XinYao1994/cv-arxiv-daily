@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-17**|**Gaia FGK Benchmark Stars: fundamental Teff and log g of the third version**|Caroline Soubiran et.al.|[2310.11302](http://arxiv.org/abs/2310.11302)|null|
 |**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
-|**2023-10-17**|**RelativisticDynamics.jl: Relativistic Spin-Orbital Dynamics in Julia**|Tom Kimpson et.al.|[2310.11002](http://arxiv.org/abs/2310.11002)|null|
+|**2023-10-17**|**RelativisticDynamics.jl: Relativistic Spin-Orbital Dynamics in Julia**|Tom Kimpson et.al.|[2310.11002](http://arxiv.org/abs/2310.11002)|**[link](https://github.com/tomkimpson/relativisticdynamics.jl)**|
 |**2023-10-16**|**A simple asymptotically optimal Clifford circuit compilation algorithm**|Timothy Proctor et.al.|[2310.10882](http://arxiv.org/abs/2310.10882)|null|
 |**2023-10-16**|**Three Quantum Programming Language Parser Implementations for the Web**|Marcus Edwards et.al.|[2310.10802](http://arxiv.org/abs/2310.10802)|null|
 |**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|**[link](https://github.com/hazel1994/vipe)**|
@@ -852,7 +852,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
+|**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445](http://arxiv.org/abs/2310.11445)|null|
 |**2023-10-17**|**Theoretical investigation of delafossite-Cu2ZnSnO4 as a promising photovoltaic absorber**|Seoung-Hun Kang et.al.|[2310.11424](http://arxiv.org/abs/2310.11424)|null|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417](http://arxiv.org/abs/2310.11417)|**[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)**|
@@ -2097,7 +2097,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-17**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
+|**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Quantum Financial Modeling on NISQ Hardware: Random Walks using Approximate Quantum Counting**|Dominic Widdows et.al.|[2310.11394](http://arxiv.org/abs/2310.11394)|null|
 |**2023-10-17**|**FROST: Towards Energy-efficient AI-on-5G Platforms -- A GPU Power Capping Evaluation**|Ioannis Mavromatis et.al.|[2310.11131](http://arxiv.org/abs/2310.11131)|null|
 |**2023-10-17**|**Sparse-DySta: Sparsity-Aware Dynamic and Static Scheduling for Sparse Multi-DNN Workloads**|Hongxiang Fan et.al.|[2310.11096](http://arxiv.org/abs/2310.11096)|**[link](https://github.com/samsunglabs/sparse-multi-dnn-scheduling)**|
@@ -4545,7 +4545,7 @@ layout: default
 |**2023-10-17**|**Understanding deep neural networks through the lens of their non-linearity**|Quentin Bouniot et.al.|[2310.11439](http://arxiv.org/abs/2310.11439)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
 |**2023-10-17**|**Prebiotic Vitamin B $_3$ Synthesis in Carbonaceous Planetesimals**|Klaus Paschek et.al.|[2310.11433](http://arxiv.org/abs/2310.11433)|null|
-|**2023-10-17**|**Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**|David Klindt et.al.|[2310.11431](http://arxiv.org/abs/2310.11431)|null|
+|**2023-10-18**|**Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**|David Klindt et.al.|[2310.11431](http://arxiv.org/abs/2310.11431)|null|
 |**2023-10-17**|**Butterfly Effects of SGD Noise: Error Amplification in Behavior Cloning and Autoregression**|Adam Block et.al.|[2310.11428](http://arxiv.org/abs/2310.11428)|null|
 |**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417](http://arxiv.org/abs/2310.11417)|**[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)**|
 |**2023-10-17**|**GreenNFV: Energy-Efficient Network Function Virtualization with Service Level Agreement Constraints**|MD S Q Zulkar Nine et.al.|[2310.11406](http://arxiv.org/abs/2310.11406)|null|
@@ -5788,13 +5788,13 @@ layout: default
 |**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445](http://arxiv.org/abs/2310.11445)|null|
 |**2023-10-17**|**Parabolic First-Order Mean Field Games with Neumann Boundary Conditions**|Diogo A. Gomes et.al.|[2310.11444](http://arxiv.org/abs/2310.11444)|null|
 |**2023-10-17**|**An empirical connection between line-emitting regions and X-rays heating the accretion disc in BH-LMXB MAXI J1820 $+$ 070**|B. E. Tetarenko et.al.|[2310.11438](http://arxiv.org/abs/2310.11438)|null|
-|**2023-10-17**|**Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**|David Klindt et.al.|[2310.11431](http://arxiv.org/abs/2310.11431)|null|
+|**2023-10-18**|**Identifying Interpretable Visual Features in Artificial and Biological Neural Systems**|David Klindt et.al.|[2310.11431](http://arxiv.org/abs/2310.11431)|null|
 |**2023-10-17**|**Characters of the unitriangular group and the Mackey method**|Mikhail Ignatev et.al.|[2310.11421](http://arxiv.org/abs/2310.11421)|null|
 |**2023-10-17**|**Block Backstepping for Isotachic Hyperbolic PDEs and Multilayer Timoshenko Beams**|Guangwei Chen et.al.|[2310.11416](http://arxiv.org/abs/2310.11416)|null|
 |**2023-10-17**|**Scalar conservation law in a bounded domain with strong relaxation at boundary**|Lu Xu et.al.|[2310.11415](http://arxiv.org/abs/2310.11415)|null|
 |**2023-10-17**|**Optimization of Fossil Fuel Consumption under Grid Energy Supply by Wind Energy and Auxiliary Batteries Using Fossil Fuel for Energy Supply**|Yi Chen et.al.|[2310.11414](http://arxiv.org/abs/2310.11414)|null|
 |**2023-10-17**|**Adsorption of Diclofenac and PFBS on Hair Keratin Dimer**|René Hafner et.al.|[2310.11411](http://arxiv.org/abs/2310.11411)|null|
-|**2023-10-17**|**High kinetic inductance NbTiN films for quantum limited travelling wave parametric amplifiers**|Felix Ahrens et.al.|[2310.11410](http://arxiv.org/abs/2310.11410)|null|
+|**2023-10-18**|**High kinetic inductance NbTiN films for quantum limited travelling wave parametric amplifiers**|Federica Mantegazzini et.al.|[2310.11410](http://arxiv.org/abs/2310.11410)|null|
 |**2023-10-16**|**Interactive Task Planning with Language Models**|Boyi Li et.al.|[2310.10645](http://arxiv.org/abs/2310.10645)|null|
 |**2023-10-16**|**Towards Scenario-based Safety Validation for Autonomous Trains with Deep Generative Models**|Thomas Decker et.al.|[2310.10635](http://arxiv.org/abs/2310.10635)|null|
 |**2023-10-16**|**Overcoming the Rayleigh limit in extremely low SNR**|Hyunsoo Choi et.al.|[2310.10633](http://arxiv.org/abs/2310.10633)|null|
