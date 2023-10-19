@@ -108,6 +108,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**FreSh: A Lock-Free Data Series Index**|Panagiota Fatourou et.al.|[2310.11602](http://arxiv.org/abs/2310.11602)|null|
 |**2023-10-17**|**A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance**|Yibin Xu et.al.|[2310.11373](http://arxiv.org/abs/2310.11373)|null|
 |**2023-10-13**|**A GPU-based Distributed Algorithm for Linearized Optimal Power Flow in Distribution Systems**|Minseok Ryu et.al.|[2310.09410](http://arxiv.org/abs/2310.09410)|null|
 |**2023-10-12**|**Chrono: A Peer-to-Peer Network with Verifiable Causality**|Michael Hu Yiqing et.al.|[2310.08373](http://arxiv.org/abs/2310.08373)|null|
@@ -308,6 +309,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Native two-qubit gates in fixed-coupling, fixed-frequency transmons beyond cross-resonance interaction**|Ken Xuan Wei et.al.|[2310.12146](http://arxiv.org/abs/2310.12146)|null|
+|**2023-10-18**|**Advances in compilation for quantum hardware -- A demonstration of magic state distillation and repeat-until-success protocols**|Natalie C. Brown et.al.|[2310.12106](http://arxiv.org/abs/2310.12106)|null|
+|**2023-10-17**|**BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages**|Joseph Marvin Imperial et.al.|[2310.11584](http://arxiv.org/abs/2310.11584)|**[link](https://github.com/imperialite/basahacorpus-hierarchicalcrosslingualara)**|
+|**2023-10-17**|**Program Translation via Code Distillation**|Yufan Huang et.al.|[2310.11476](http://arxiv.org/abs/2310.11476)|null|
 |**2023-10-17**|**Gaia FGK Benchmark Stars: fundamental Teff and log g of the third version**|Caroline Soubiran et.al.|[2310.11302](http://arxiv.org/abs/2310.11302)|null|
 |**2023-10-17**|**Dynamic quantum circuit compilation**|Kun Fang et.al.|[2310.11021](http://arxiv.org/abs/2310.11021)|null|
 |**2023-10-17**|**RelativisticDynamics.jl: Relativistic Spin-Orbital Dynamics in Julia**|Tom Kimpson et.al.|[2310.11002](http://arxiv.org/abs/2310.11002)|**[link](https://github.com/tomkimpson/relativisticdynamics.jl)**|
@@ -872,6 +877,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Fairer and More Accurate Tabular Models Through NAS**|Richeek Das et.al.|[2310.12145](http://arxiv.org/abs/2310.12145)|null|
+|**2023-10-18**|**Dynamic financial processes identification using sparse regressive reservoir computers**|Fredy Vides et.al.|[2310.12144](http://arxiv.org/abs/2310.12144)|null|
+|**2023-10-18**|**Online Estimation with Rolling Validation: Adaptive Nonparametric Estimation with Stream Data**|Tianyu Zhang et.al.|[2310.12140](http://arxiv.org/abs/2310.12140)|null|
+|**2023-10-18**|**Optimal and parameter-free gradient minimization methods for smooth optimization**|Guanghui Lan et.al.|[2310.12139](http://arxiv.org/abs/2310.12139)|null|
+|**2023-10-18**|**Automatic prediction of mortality in patients with mental illness using electronic health records**|Sean Kim et.al.|[2310.12121](http://arxiv.org/abs/2310.12121)|null|
+|**2023-10-18**|**MMD-based Variable Importance for Distributional Random Forest**|Clément Bénard et.al.|[2310.12115](http://arxiv.org/abs/2310.12115)|null|
+|**2023-10-18**|**An Online Learning Theory of Brokerage**|Nataša Bolić et.al.|[2310.12107](http://arxiv.org/abs/2310.12107)|null|
+|**2023-10-18**|**Advances in compilation for quantum hardware -- A demonstration of magic state distillation and repeat-until-success protocols**|Natalie C. Brown et.al.|[2310.12106](http://arxiv.org/abs/2310.12106)|null|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Symmetric improved estimators for multipoint vertex functions**|Jae-Mo Lihm et.al.|[2310.12098](http://arxiv.org/abs/2310.12098)|null|
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445](http://arxiv.org/abs/2310.11445)|null|
 |**2023-10-17**|**Theoretical investigation of delafossite-Cu2ZnSnO4 as a promising photovoltaic absorber**|Seoung-Hun Kang et.al.|[2310.11424](http://arxiv.org/abs/2310.11424)|null|
@@ -2119,6 +2134,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
+|**2023-10-18**|**Simulating 2D lattice gauge theories on a qudit quantum computer**|Michael Meth et.al.|[2310.12110](http://arxiv.org/abs/2310.12110)|null|
+|**2023-10-18**|**Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture**|Daniel Y. Fu et.al.|[2310.12109](http://arxiv.org/abs/2310.12109)|null|
+|**2023-10-18**|**Advances in compilation for quantum hardware -- A demonstration of magic state distillation and repeat-until-success protocols**|Natalie C. Brown et.al.|[2310.12106](http://arxiv.org/abs/2310.12106)|null|
+|**2023-10-18**|**Quantum Radio Astronomy: Quantum Linear Solvers for Redundant Baseline Calibration**|Nicolas Renaud et.al.|[2310.11932](http://arxiv.org/abs/2310.11932)|null|
+|**2023-10-18**|**Denoising total scattering data using Compressed Sensing**|James Weng et.al.|[2310.11887](http://arxiv.org/abs/2310.11887)|null|
+|**2023-10-18**|**Towards Quantum Dynamics Simulation of Physical Systems: A Survey**|Rikteem Bhowmick et.al.|[2310.11801](http://arxiv.org/abs/2310.11801)|null|
+|**2023-10-18**|**Cloud-Magnetic Resonance Imaging System: In the Era of 6G and Artificial Intelligence**|Yirong Zhou et.al.|[2310.11641](http://arxiv.org/abs/2310.11641)|null|
+|**2023-10-17**|**LANSCE 805 MHz Low Level RF Resonance Control Water System Upgrade**|A. Poudel et.al.|[2310.11601](http://arxiv.org/abs/2310.11601)|null|
+|**2023-10-17**|**Confidential Consortium Framework: Secure Multiparty Applications with Confidentiality, Integrity, and High Availability**|Heidi Howard et.al.|[2310.11559](http://arxiv.org/abs/2310.11559)|null|
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448](http://arxiv.org/abs/2310.11448)|null|
 |**2023-10-17**|**Quantum Financial Modeling on NISQ Hardware: Random Walks using Approximate Quantum Counting**|Dominic Widdows et.al.|[2310.11394](http://arxiv.org/abs/2310.11394)|null|
 |**2023-10-17**|**FROST: Towards Energy-efficient AI-on-5G Platforms -- A GPU Power Capping Evaluation**|Ioannis Mavromatis et.al.|[2310.11131](http://arxiv.org/abs/2310.11131)|null|
@@ -3319,6 +3344,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Probabilistic Sampling of Balanced K-Means using Adiabatic Quantum Computing**|Jan-Nico Zaech et.al.|[2310.12153](http://arxiv.org/abs/2310.12153)|null|
+|**2023-10-18**|**Automated Attribute Extraction from Legal Proceedings**|Subinay Adhikary et.al.|[2310.12131](http://arxiv.org/abs/2310.12131)|null|
+|**2023-10-18**|**Chiral spin textures creation and dynamics in a rectangular nanostructure**|Sateesh Kandukuri et.al.|[2310.12129](http://arxiv.org/abs/2310.12129)|null|
+|**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128](http://arxiv.org/abs/2310.12128)|null|
+|**2023-10-18**|**A Tale of Pronouns: Interpretability Informs Gender Bias Mitigation for Fairer Instruction-Tuned Machine Translation**|Giuseppe Attanasio et.al.|[2310.12127](http://arxiv.org/abs/2310.12127)|**[link](https://github.com/milanlproc/interpretability-mt-gender-bias)**|
+|**2023-10-18**|**Time-energy uncertainty relation for neutrino oscillations: historical development, applications and future prospects**|Giuseppe Gaetano Luciano et.al.|[2310.12124](http://arxiv.org/abs/2310.12124)|null|
+|**2023-10-18**|**Automatic prediction of mortality in patients with mental illness using electronic health records**|Sean Kim et.al.|[2310.12121](http://arxiv.org/abs/2310.12121)|null|
+|**2023-10-18**|**Simulating 2D lattice gauge theories on a qudit quantum computer**|Michael Meth et.al.|[2310.12110](http://arxiv.org/abs/2310.12110)|null|
+|**2023-10-18**|**Classical-Nonclassical Polarity of Gaussian States**|Jiru Liu et.al.|[2310.12104](http://arxiv.org/abs/2310.12104)|null|
+|**2023-10-18**|**Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection**|Xiang Chen et.al.|[2310.12086](http://arxiv.org/abs/2310.12086)|**[link](https://github.com/zjunlp/factchd)**|
 |**2023-10-17**|**Trusted Provenance of Automated, Collaborative and Adaptive Data Processing Pipelines**|Ludwig Stage et.al.|[2310.11442](http://arxiv.org/abs/2310.11442)|null|
 |**2023-10-17**|**Sadness, Anger, or Anxiety: Twitter Users' Emotional Responses to Toxicity in Public Conversations**|Ana Aleksandric et.al.|[2310.11436](http://arxiv.org/abs/2310.11436)|null|
 |**2023-10-17**|**Prebiotic Vitamin B $_3$ Synthesis in Carbonaceous Planetesimals**|Klaus Paschek et.al.|[2310.11433](http://arxiv.org/abs/2310.11433)|null|
@@ -4566,6 +4601,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Simple Mechanisms for Representing, Indexing and Manipulating Concepts**|Yuanzhi Li et.al.|[2310.12143](http://arxiv.org/abs/2310.12143)|null|
+|**2023-10-18**|**SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks**|Mohammadreza Salehi et.al.|[2310.12126](http://arxiv.org/abs/2310.12126)|null|
+|**2023-10-18**|**Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers**|Osman Batur İnce et.al.|[2310.12118](http://arxiv.org/abs/2310.12118)|**[link](https://github.com/cyberiada/cartography-for-compositionality)**|
+|**2023-10-18**|**DASA: Difficulty-Aware Semantic Augmentation for Speaker Verification**|Yuanyuan Wang et.al.|[2310.12111](http://arxiv.org/abs/2310.12111)|null|
+|**2023-10-18**|**On the latent dimension of deep autoencoders for reduced order modeling of PDEs parametrized by random fields**|Nicola Rares Franco et.al.|[2310.12095](http://arxiv.org/abs/2310.12095)|null|
+|**2023-10-18**|**Improving probabilistic wind speed forecasting using M-Rice distribution and spatial data integratio**|Roberta Baggio et.al.|[2310.12088](http://arxiv.org/abs/2310.12088)|null|
+|**2023-10-18**|**Contributing Components of Metabolic Energy Models to Metabolic Cost Estimations in Gait**|Markus Gambietz et.al.|[2310.12083](http://arxiv.org/abs/2310.12083)|null|
+|**2023-10-18**|**Differential Equation Scaling Limits of Shaped and Unshaped Neural Networks**|Mufan Bill Li et.al.|[2310.12079](http://arxiv.org/abs/2310.12079)|null|
+|**2023-10-18**|**Black-Box Training Data Identification in GANs via Detector Networks**|Lukman Olagoke et.al.|[2310.12063](http://arxiv.org/abs/2310.12063)|null|
+|**2023-10-18**|**Applications of ML-Based Surrogates in Bayesian Approaches to Inverse Problems**|Pelin Ersin et.al.|[2310.12046](http://arxiv.org/abs/2310.12046)|null|
 |**2023-10-17**|**Explaining Deep Neural Networks for Bearing Fault Detection with Vibration Concepts**|Thomas Decker et.al.|[2310.11450](http://arxiv.org/abs/2310.11450)|null|
 |**2023-10-17**|**Functional Invariants to Watermark Large Transformers**|Fernandez Pierre et.al.|[2310.11446](http://arxiv.org/abs/2310.11446)|null|
 |**2023-10-17**|**Understanding deep neural networks through the lens of their non-linearity**|Quentin Bouniot et.al.|[2310.11439](http://arxiv.org/abs/2310.11439)|null|
@@ -5813,6 +5858,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Dynamic financial processes identification using sparse regressive reservoir computers**|Fredy Vides et.al.|[2310.12144](http://arxiv.org/abs/2310.12144)|null|
+|**2023-10-18**|**Electro-Mechanical system design:Self-balancing Robot**|Mustakim Hayder et.al.|[2310.12142](http://arxiv.org/abs/2310.12142)|null|
+|**2023-10-18**|**A little more about bipartite biregular cages, block designs, and generalized polygons**|Gabriela Araujo-Pardo et.al.|[2310.12137](http://arxiv.org/abs/2310.12137)|null|
+|**2023-10-18**|**Recurrence analysis of uniform binary substitutions**|Miroslava Poláková et.al.|[2310.12136](http://arxiv.org/abs/2310.12136)|null|
+|**2023-10-18**|**A comprehensible analysis of the efficacy of Ensemble Models for Bug Prediction**|Ingrid Marçal et.al.|[2310.12133](http://arxiv.org/abs/2310.12133)|null|
+|**2023-10-18**|**Semi-uniform stabilization of anisotropic Maxwell's equations via boundary feedback on split boundary**|Nathanael Skrepek et.al.|[2310.12123](http://arxiv.org/abs/2310.12123)|null|
+|**2023-10-18**|**Observation of helimagnetism in the candidate ferroelectric CrI $_2$**|John A. Schneeloch et.al.|[2310.12120](http://arxiv.org/abs/2310.12120)|null|
+|**2023-10-18**|**Effects of intra-layer correlations on electron-hole double-layer superfluidity**|Filippo Pascucci et.al.|[2310.12117](http://arxiv.org/abs/2310.12117)|null|
+|**2023-10-18**|**Dissipationless collapse and the dynamical mass-ellipticity relation of elliptical galaxies in Newtonian gravity and MOND**|Pierfrancesco Di Cintio et.al.|[2310.12114](http://arxiv.org/abs/2310.12114)|null|
+|**2023-10-18**|**Classical-Nonclassical Polarity of Gaussian States**|Jiru Liu et.al.|[2310.12104](http://arxiv.org/abs/2310.12104)|null|
 |**2023-10-17**|**Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions**|Guneykan Ozgul et.al.|[2310.11445](http://arxiv.org/abs/2310.11445)|null|
 |**2023-10-17**|**Parabolic First-Order Mean Field Games with Neumann Boundary Conditions**|Diogo A. Gomes et.al.|[2310.11444](http://arxiv.org/abs/2310.11444)|null|
 |**2023-10-17**|**An empirical connection between line-emitting regions and X-rays heating the accretion disc in BH-LMXB MAXI J1820 $+$ 070**|B. E. Tetarenko et.al.|[2310.11438](http://arxiv.org/abs/2310.11438)|null|
