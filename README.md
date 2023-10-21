@@ -880,7 +880,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|null|
+|**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|**[link](https://github.com/jozhang97/mutateeverything)**|
 |**2023-10-19**|**Pre-optimizing variational quantum eigensolvers with tensor networks**|Abid Khan et.al.|[2310.12965](http://arxiv.org/abs/2310.12965)|null|
 |**2023-10-19**|**PAC Prediction Sets Under Label Shift**|Wenwen Si et.al.|[2310.12964](http://arxiv.org/abs/2310.12964)|**[link](https://github.com/averysi224/pac-ps-label-shift)**|
 |**2023-10-19**|**Local Non-Cooperative Games with Principled Player Selection for Scalable Motion Planning**|Makram Chahine et.al.|[2310.12958](http://arxiv.org/abs/2310.12958)|null|
