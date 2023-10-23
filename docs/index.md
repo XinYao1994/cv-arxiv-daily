@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2127,7 +2127,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
 |**2023-10-19**|**Pre-optimizing variational quantum eigensolvers with tensor networks**|Abid Khan et.al.|[2310.12965](http://arxiv.org/abs/2310.12965)|null|
-|**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787](http://arxiv.org/abs/2310.12787)|null|
+|**2023-10-20**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787](http://arxiv.org/abs/2310.12787)|null|
 |**2023-10-19**|**Continuous variable quantum computation of the $O(3)$ model in 1+1 dimensions**|Raghav G. Jha et.al.|[2310.12512](http://arxiv.org/abs/2310.12512)|null|
 |**2023-10-18**|**NuQKD: A Modular Quantum Key Distribution Simulation Framework for Engineering Applications**|Konstantinos Gkouliaras et.al.|[2310.12351](http://arxiv.org/abs/2310.12351)|null|
 |**2023-10-18**|**Compiler Testing With Relaxed Memory Models**|Luke Geeson et.al.|[2310.12337](http://arxiv.org/abs/2310.12337)|null|
