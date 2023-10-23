@@ -49,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
@@ -92,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Deep Reinforcement Learning-Enabled Adaptive Forecasting-Aided State Estimation in Distribution Systems with Multi-Source Multi-Rate Data**|Ying Zhang et.al.|[2310.13218](http://arxiv.org/abs/2310.13218)|null|
 |**2023-10-17**|**FreSh: A Lock-Free Data Series Index**|Panagiota Fatourou et.al.|[2310.11602](http://arxiv.org/abs/2310.11602)|null|
 |**2023-10-17**|**A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance**|Yibin Xu et.al.|[2310.11373](http://arxiv.org/abs/2310.11373)|null|
 |**2023-10-13**|**A GPU-based Distributed Algorithm for Linearized Optimal Power Flow in Distribution Systems**|Minseok Ryu et.al.|[2310.09410](http://arxiv.org/abs/2310.09410)|null|
@@ -291,6 +293,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**GENL: An extensible fitting program for Laue oscillations**|Anna L. Ravensburg et.al.|[2310.13539](http://arxiv.org/abs/2310.13539)|null|
+|**2023-10-20**|**Quantum error mitigation in the regime of high noise using deep neural network: Trotterized dynamics**|A. A. Zhukov et.al.|[2310.13382](http://arxiv.org/abs/2310.13382)|null|
+|**2023-10-20**|**MultiCoNER v2: a Large Multilingual dataset for Fine-grained and Noisy Named Entity Recognition**|Besnik Fetahu et.al.|[2310.13213](http://arxiv.org/abs/2310.13213)|null|
+|**2023-10-20**|**Facile: Fast, Accurate, and Interpretable Basic-Block Throughput Prediction**|Andreas Abel et.al.|[2310.13212](http://arxiv.org/abs/2310.13212)|null|
 |**2023-10-19**|**Deep Learning Techniques for Video Instance Segmentation: A Survey**|Chenhao Xu et.al.|[2310.12393](http://arxiv.org/abs/2310.12393)|null|
 |**2023-10-18**|**Compiler Testing With Relaxed Memory Models**|Luke Geeson et.al.|[2310.12337](http://arxiv.org/abs/2310.12337)|null|
 |**2023-10-18**|**Updated reference wavelengths for Si VII and Mg VII lines in the 272-281 Angstrom range**|Peter R. Young et.al.|[2310.12313](http://arxiv.org/abs/2310.12313)|null|
@@ -860,6 +866,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Exploring Linguistic Probes for Morphological Generalization**|Jordan Kodner et.al.|[2310.13686](http://arxiv.org/abs/2310.13686)|null|
+|**2023-10-20**|**Automatic Unit Test Data Generation and Actor-Critic Reinforcement Learning for Code Synthesis**|Philip John Gorinski et.al.|[2310.13669](http://arxiv.org/abs/2310.13669)|**[link](https://github.com/huawei-noah/noah-research)**|
+|**2023-10-20**|**Benchmarking and Improving Text-to-SQL Generation under Ambiguity**|Adithya Bhaskar et.al.|[2310.13659](http://arxiv.org/abs/2310.13659)|**[link](https://github.com/testzer0/ambiqt)**|
+|**2023-10-20**|**Influence of roughness on the dynamical properties of granular gases**|Alberto Megías et.al.|[2310.13642](http://arxiv.org/abs/2310.13642)|null|
+|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
+|**2023-10-20**|**Application Performance Benchmarks for Quantum Computers**|Krzysztof Kurowski et.al.|[2310.13637](http://arxiv.org/abs/2310.13637)|null|
+|**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627](http://arxiv.org/abs/2310.13627)|null|
+|**2023-10-20**|**3D-Mirrorcle: Bridging the Virtual and Real through Depth Alignment in Smart Mirror Systems**|Yujia Liu et.al.|[2310.13617](http://arxiv.org/abs/2310.13617)|null|
+|**2023-10-20**|**Fair $ω$ -Regular Games**|Daniel Hausmann et.al.|[2310.13612](http://arxiv.org/abs/2310.13612)|null|
+|**2023-10-20**|**Upper bounds for the blow-up time of a system of fractional differential equations with Caputo derivatives and a numerical scheme for the solution of the system**|José Villa-Morales et.al.|[2310.13584](http://arxiv.org/abs/2310.13584)|null|
 |**2023-10-19**|**Predicting a Protein's Stability under a Million Mutations**|Jeffrey Ouyang-Zhang et.al.|[2310.12979](http://arxiv.org/abs/2310.12979)|**[link](https://github.com/jozhang97/mutateeverything)**|
 |**2023-10-19**|**Pre-optimizing variational quantum eigensolvers with tensor networks**|Abid Khan et.al.|[2310.12965](http://arxiv.org/abs/2310.12965)|null|
 |**2023-10-19**|**PAC Prediction Sets Under Label Shift**|Wenwen Si et.al.|[2310.12964](http://arxiv.org/abs/2310.12964)|**[link](https://github.com/averysi224/pac-ps-label-shift)**|
@@ -2125,6 +2141,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
+|**2023-10-19**|**Efficient, Dynamic Locomotion through Step Placement with Straight Legs and Rolling Contacts**|Stefan Fasano et.al.|[2310.13134](http://arxiv.org/abs/2310.13134)|null|
+|**2023-10-19**|**Sparse channel sampling for ultrasound localization microscopy (SPARSE-ULM)**|Erwan Hardy et.al.|[2310.13117](http://arxiv.org/abs/2310.13117)|null|
 |**2023-10-19**|**Improved Pairwise Measurement-Based Surface Code**|Linnea Grans-Samuelsson et.al.|[2310.12981](http://arxiv.org/abs/2310.12981)|null|
 |**2023-10-19**|**Pre-optimizing variational quantum eigensolvers with tensor networks**|Abid Khan et.al.|[2310.12965](http://arxiv.org/abs/2310.12965)|null|
 |**2023-10-20**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787](http://arxiv.org/abs/2310.12787)|null|
@@ -3340,6 +3359,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691](http://arxiv.org/abs/2310.13691)|null|
+|**2023-10-20**|**Optimizing Retrieval-augmented Reader Models via Token Elimination**|Moshe Berchansky et.al.|[2310.13682](http://arxiv.org/abs/2310.13682)|**[link](https://github.com/mosheber/token_elimination)**|
+|**2023-10-20**|**Information Value: Measuring Utterance Predictability as Distance from Plausible Alternatives**|Mario Giulianelli et.al.|[2310.13676](http://arxiv.org/abs/2310.13676)|**[link](https://github.com/dmg-illc/information-value)**|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667](http://arxiv.org/abs/2310.13667)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**Explainability, Interpretability, Depression detection, Social Media**|Eliseo Bao Souto et.al.|[2310.13664](http://arxiv.org/abs/2310.13664)|null|
+|**2023-10-20**|**Probing eccentric higher order modes through effective chirp mass model**|Ravikiran Hegde et.al.|[2310.13662](http://arxiv.org/abs/2310.13662)|null|
+|**2023-10-20**|**Observation of first- and second-order dissipative phase transitions in a two-photon driven Kerr resonator**|Guillaume Beaulieu et.al.|[2310.13636](http://arxiv.org/abs/2310.13636)|null|
+|**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|
+|**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627](http://arxiv.org/abs/2310.13627)|null|
+|**2023-10-20**|**Bridging Information-Theoretic and Geometric Compression in Language Models**|Emily Cheng et.al.|[2310.13620](http://arxiv.org/abs/2310.13620)|**[link](https://github.com/chengemily1/id_bridging)**|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973](http://arxiv.org/abs/2310.12973)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**Does Your Model Think Like an Engineer? Explainable AI for Bearing Fault Detection with Deep Learning**|Thomas Decker et.al.|[2310.12967](http://arxiv.org/abs/2310.12967)|null|
 |**2023-10-19**|**PAC Prediction Sets Under Label Shift**|Wenwen Si et.al.|[2310.12964](http://arxiv.org/abs/2310.12964)|**[link](https://github.com/averysi224/pac-ps-label-shift)**|
@@ -4605,6 +4634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Studying speed-accuracy trade-offs in best-of-n collective decision-making through heterogeneous mean-field modelling**|Andreagiovanni Reina et.al.|[2310.13694](http://arxiv.org/abs/2310.13694)|null|
+|**2023-10-20**|**Using Human-like Mechanism to Weaken Effect of Pre-training Weight Bias in Face-Recognition Convolutional Neural Network**|Haojiang Ying et.al.|[2310.13674](http://arxiv.org/abs/2310.13674)|null|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667](http://arxiv.org/abs/2310.13667)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**Optimising the exchange of Majorana zero modes in a quantum nanowire network**|Tomasz Maciazek et.al.|[2310.13634](http://arxiv.org/abs/2310.13634)|null|
+|**2023-10-20**|**SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes**|Tianjie Hu et.al.|[2310.13628](http://arxiv.org/abs/2310.13628)|null|
+|**2023-10-20**|**Deep-Learning-based Change Detection with Spaceborne Hyperspectral PRISMA data**|J. F. Amieva et.al.|[2310.13627](http://arxiv.org/abs/2310.13627)|null|
+|**2023-10-20**|**Evaluating Physically Motivated Loss Functions for Photometric Redshift Estimation**|Andrew Engel et.al.|[2310.13624](http://arxiv.org/abs/2310.13624)|null|
+|**2023-10-20**|**Analyzing the contribution of different passively collected data to predict Stress and Depression**|Irene Bonafonte et.al.|[2310.13607](http://arxiv.org/abs/2310.13607)|null|
+|**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
+|**2023-10-20**|**Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling**|Sania Eskandari et.al.|[2310.13604](http://arxiv.org/abs/2310.13604)|**[link](https://github.com/saniaesk/skin-lesion-segmentation)**|
 |**2023-10-19**|**Putting the Object Back into Video Object Segmentation**|Ho Kei Cheng et.al.|[2310.12982](http://arxiv.org/abs/2310.12982)|**[link](https://github.com/hkchengrex/Cutie)**|
 |**2023-10-19**|**Training Dynamics of Deep Network Linear Regions**|Ahmed Imtiaz Humayun et.al.|[2310.12977](http://arxiv.org/abs/2310.12977)|null|
 |**2023-10-19**|**On the Hidden Waves of Image**|Yinpeng Chen et.al.|[2310.12976](http://arxiv.org/abs/2310.12976)|null|
@@ -5870,6 +5909,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**A dark siren measurement of the Hubble constant using gravitational wave events from the first three LIGO/Virgo observing runs and DELVE**|V. Alfradique et.al.|[2310.13695](http://arxiv.org/abs/2310.13695)|null|
+|**2023-10-20**|**Studying speed-accuracy trade-offs in best-of-n collective decision-making through heterogeneous mean-field modelling**|Andreagiovanni Reina et.al.|[2310.13694](http://arxiv.org/abs/2310.13694)|null|
+|**2023-10-20**|**Neural-Base Music Generation for Intelligence Duplication**|Jacob Galajda et.al.|[2310.13691](http://arxiv.org/abs/2310.13691)|null|
+|**2023-10-20**|**Exploring Linguistic Probes for Morphological Generalization**|Jordan Kodner et.al.|[2310.13686](http://arxiv.org/abs/2310.13686)|null|
+|**2023-10-20**|**EXPLORA: AI/ML EXPLainability for the Open RAN**|Claudio Fiandrino et.al.|[2310.13667](http://arxiv.org/abs/2310.13667)|**[link](https://github.com/wineslab/explora)**|
+|**2023-10-20**|**Minimal Mechanisms of Microtubule Length Regulation in Living Cells**|Anna C Nelson et.al.|[2310.13666](http://arxiv.org/abs/2310.13666)|null|
+|**2023-10-20**|**Modular Golden Gate Assembly of Linear DNA Templates for Cell-free Prototyping**|François-Xavier Lehr et.al.|[2310.13665](http://arxiv.org/abs/2310.13665)|null|
+|**2023-10-20**|**Probing eccentric higher order modes through effective chirp mass model**|Ravikiran Hegde et.al.|[2310.13662](http://arxiv.org/abs/2310.13662)|null|
+|**2023-10-20**|**Arabic Dialect Identification under Scrutiny: Limitations of Single-label Classification**|Amr Keleg et.al.|[2310.13661](http://arxiv.org/abs/2310.13661)|**[link](https://github.com/amr-keleg/adi-under-scrutiny)**|
+|**2023-10-20**|**Benchmarking and Improving Text-to-SQL Generation under Ambiguity**|Adithya Bhaskar et.al.|[2310.13659](http://arxiv.org/abs/2310.13659)|**[link](https://github.com/testzer0/ambiqt)**|
 |**2023-10-19**|**Variational Inference for SDEs Driven by Fractional Noise**|Rembert Daems et.al.|[2310.12975](http://arxiv.org/abs/2310.12975)|null|
 |**2023-10-19**|**Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding**|Zhejun Zhang et.al.|[2310.12970](http://arxiv.org/abs/2310.12970)|**[link](https://github.com/zhejz/hptr)**|
 |**2023-10-19**|**Pre-optimizing variational quantum eigensolvers with tensor networks**|Abid Khan et.al.|[2310.12965](http://arxiv.org/abs/2310.12965)|null|
@@ -7135,6 +7184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
 |**2023-10-17**|**Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators**|Xueying Wu et.al.|[2310.12182](http://arxiv.org/abs/2310.12182)|null|
 |**2023-10-17**|**LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models**|Yixiao Li et.al.|[2310.08659](http://arxiv.org/abs/2310.08659)|null|
 |**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
