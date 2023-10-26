@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2181,7 +2181,7 @@ layout: default
 |**2023-10-24**|**A High-Performance and Low-Complexity 5G LDPC Decoder: Algorithm and Implementation**|Yuqing Ren et.al.|[2310.15801](http://arxiv.org/abs/2310.15801)|null|
 |**2023-10-24**|**An In-Memory Architecture for High-Performance Long-Read Pre-Alignment Filtering**|Taha Shahroodi et.al.|[2310.15634](http://arxiv.org/abs/2310.15634)|null|
 |**2023-10-24**|**Robust and Deterministic Preparation of Bosonic Logical States in a Trapped Ion**|V. G. Matsos et.al.|[2310.15546](http://arxiv.org/abs/2310.15546)|null|
-|**2023-10-24**|**AMG: Automated Efficient Approximate Multiplier Generator for FPGAs via Bayesian Optimization**|Zhen Li et.al.|[2310.15495](http://arxiv.org/abs/2310.15495)|null|
+|**2023-10-25**|**AMG: Automated Efficient Approximate Multiplier Generator for FPGAs via Bayesian Optimization**|Zhen Li et.al.|[2310.15495](http://arxiv.org/abs/2310.15495)|null|
 |**2023-10-24**|**LDPC Decoding with Degree-Specific Neural Message Weights and RCQ Decoding**|Linfang Wang et.al.|[2310.15483](http://arxiv.org/abs/2310.15483)|null|
 |**2023-10-24**|**How to Train Your Neural Control Barrier Function: Learning Safety Filters for Complex Input-Constrained Systems**|Oswin So et.al.|[2310.15478](http://arxiv.org/abs/2310.15478)|null|
 |**2023-10-24**|**EKGNet: A 10.96μW Fully Analog Neural Network for Intra-Patient Arrhythmia Classification**|Benyamin Haghi et.al.|[2310.15466](http://arxiv.org/abs/2310.15466)|null|
