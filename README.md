@@ -110,6 +110,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**A Convex Parameterization of Controllers Constrained to use only Relative Measurements**|Walden Marshall et.al.|[2310.16201](http://arxiv.org/abs/2310.16201)|null|
+|**2023-10-24**|**Multilayer Environment and Toolchain for Holistic NetwOrk Design and Analysis**|Filip Rezabek et.al.|[2310.16190](http://arxiv.org/abs/2310.16190)|null|
 |**2023-10-24**|**SharkGraph: A Time Series Distributed Graph System**|Derong Tang et.al.|[2310.15762](http://arxiv.org/abs/2310.15762)|null|
 |**2023-10-24**|**Dual frequency master oscillator generation and distribution for ALS and ALS-U**|Shreeharshini Dharanesh Murthy et.al.|[2310.15509](http://arxiv.org/abs/2310.15509)|null|
 |**2023-10-20**|**Deep Reinforcement Learning-Enabled Adaptive Forecasting-Aided State Estimation in Distribution Systems with Multi-Source Multi-Rate Data**|Ying Zhang et.al.|[2310.13218](http://arxiv.org/abs/2310.13218)|null|
@@ -314,6 +316,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**RIPencapsulation: Defeating IP Encapsulation on TI MSP Devices**|Prakhar Sah et.al.|[2310.16433](http://arxiv.org/abs/2310.16433)|null|
+|**2023-10-25**|**Snapshot: Fast, Userspace Crash Consistency for CXL and PM Using msync**|Suyash Mahar et.al.|[2310.16300](http://arxiv.org/abs/2310.16300)|null|
 |**2023-10-24**|**White-box Compiler Fuzzing Empowered by Large Language Models**|Chenyuan Yang et.al.|[2310.15991](http://arxiv.org/abs/2310.15991)|null|
 |**2023-10-24**|**Quality flags for GSP-Phot Gaia DR3 astrophysical parameters with machine learning: Effective temperatures case study**|Aleksandra S. Avdeeva et.al.|[2310.15671](http://arxiv.org/abs/2310.15671)|null|
 |**2023-10-24**|**Transfer learning for day-ahead load forecasting: a case study on European national electricity demand time series**|Alexandros-Menelaos Tzortzis et.al.|[2310.15555](http://arxiv.org/abs/2310.15555)|null|
@@ -901,6 +905,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**Lattice Multislice Algorithm for Fast Simulation of Scanning Transmission Electron Microscopy Images**|Christian Doberstein et.al.|[2310.16829](http://arxiv.org/abs/2310.16829)|null|
+|**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828](http://arxiv.org/abs/2310.16828)|null|
+|**2023-10-25**|**Robust Sparsification for Matroid Intersection with Applications**|Chien-Chung Huang et.al.|[2310.16827](http://arxiv.org/abs/2310.16827)|null|
+|**2023-10-25**|**Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**|Ana Inés Gómez de Castro et.al.|[2310.16820](http://arxiv.org/abs/2310.16820)|null|
+|**2023-10-25**|**Learning COVID-19 Regional Transmission Using Universal Differential Equations in a SIR model**|Adrian Rojas-Campos et.al.|[2310.16804](http://arxiv.org/abs/2310.16804)|**[link](https://github.com/adrocampos/udes_in_sir_regional_transmision)**|
+|**2023-10-25**|**Finding the saddlepoint faster than sorting**|Justin Dallant et.al.|[2310.16801](http://arxiv.org/abs/2310.16801)|null|
+|**2023-10-25**|**QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models**|Elias Frantar et.al.|[2310.16795](http://arxiv.org/abs/2310.16795)|**[link](https://github.com/ist-daslab/qmoe)**|
+|**2023-10-25**|**autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm**|Miguel Biron-Lattes et.al.|[2310.16782](http://arxiv.org/abs/2310.16782)|null|
+|**2023-10-25**|**Simple, Scalable and Effective Clustering via One-Dimensional Projections**|Moses Charikar et.al.|[2310.16752](http://arxiv.org/abs/2310.16752)|**[link](https://github.com/boredoms/prone)**|
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049](http://arxiv.org/abs/2310.16049)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
 |**2023-10-24**|**What Algorithms can Transformers Learn? A Study in Length Generalization**|Hattie Zhou et.al.|[2310.16028](http://arxiv.org/abs/2310.16028)|null|
@@ -2198,6 +2212,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836](http://arxiv.org/abs/2310.16836)|**[link](https://github.com/nbasyl/llm-fp4)**|
+|**2023-10-25**|**All-optical single-shot readout of a superconducting qubit**|Georg Arnold et.al.|[2310.16817](http://arxiv.org/abs/2310.16817)|null|
+|**2023-10-25**|**QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models**|Elias Frantar et.al.|[2310.16795](http://arxiv.org/abs/2310.16795)|**[link](https://github.com/ist-daslab/qmoe)**|
+|**2023-10-25**|**Learning Independent Program and Architecture Representations for Generalizable Performance Modeling**|Lingda Li et.al.|[2310.16792](http://arxiv.org/abs/2310.16792)|null|
+|**2023-10-25**|**From Heisenberg to Hubbard: An initial state for the shallow quantum simulation of correlated electrons**|Bruno Murta et.al.|[2310.16775](http://arxiv.org/abs/2310.16775)|null|
+|**2023-10-25**|**All-rounder: A flexible DNN accelerator with diverse data format support**|Seock-Hwan Noh et.al.|[2310.16757](http://arxiv.org/abs/2310.16757)|null|
+|**2023-10-25**|**Design Space Exploration of Sparsity-Aware Application-Specific Spiking Neural Network Accelerators**|Ilkin Aliyev. Kama Svoboda et.al.|[2310.16745](http://arxiv.org/abs/2310.16745)|null|
+|**2023-10-25**|**SkelFMM: A Simplified Fast Multipole Method Based on Recursive Skeletonization**|Anna Yesypenko et.al.|[2310.16668](http://arxiv.org/abs/2310.16668)|null|
+|**2023-10-25**|**Toward Practical Privacy-Preserving Convolutional Neural Networks Exploiting Fully Homomorphic Encryption**|Jaiyoung Park et.al.|[2310.16530](http://arxiv.org/abs/2310.16530)|null|
+|**2023-10-25**|**Citizen participation: crowd-sensed sustainable indoor location services**|Ioannis Nasios et.al.|[2310.16496](http://arxiv.org/abs/2310.16496)|null|
 |**2023-10-24**|**Variational quantum simulation using non-Gaussian continuous-variable systems**|Paolo Stornati et.al.|[2310.15919](http://arxiv.org/abs/2310.15919)|null|
 |**2023-10-24**|**KirchhoffNet: A Circuit Bridging Message Passing and Continuous-Depth Models**|Zhengqi Gao et.al.|[2310.15872](http://arxiv.org/abs/2310.15872)|null|
 |**2023-10-24**|**A High-Performance and Low-Complexity 5G LDPC Decoder: Algorithm and Implementation**|Yuqing Ren et.al.|[2310.15801](http://arxiv.org/abs/2310.15801)|null|
@@ -3438,6 +3462,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837](http://arxiv.org/abs/2310.16837)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835](http://arxiv.org/abs/2310.16835)|null|
+|**2023-10-25**|**Uncovering a new group of T Tauri stars in the Taurus-Auriga molecular complex from Gaia and GALEX data**|Ana Inés Gómez de Castro et.al.|[2310.16820](http://arxiv.org/abs/2310.16820)|null|
+|**2023-10-25**|**Improving the Aggregation and Evaluation of NBA Mock Drafts**|Jared D. Fisher et.al.|[2310.16813](http://arxiv.org/abs/2310.16813)|null|
+|**2023-10-25**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809](http://arxiv.org/abs/2310.16809)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
+|**2023-10-25**|**Fingervein Verification using Convolutional Multi-Head Attention Network**|Raghavendra Ramachandra et.al.|[2310.16808](http://arxiv.org/abs/2310.16808)|null|
+|**2023-10-25**|**Measuring Supermassive Black Hole Properties via Gravitational Radiation from Eccentrically Orbiting Stellar Mass Black Hole Binaries**|Andrew Laeuger et.al.|[2310.16799](http://arxiv.org/abs/2310.16799)|null|
+|**2023-10-25**|**Covert Planning against Imperfect Observers**|Haoxiang Ma et.al.|[2310.16791](http://arxiv.org/abs/2310.16791)|null|
+|**2023-10-25**|**Detecting Pretraining Data from Large Language Models**|Weijia Shi et.al.|[2310.16789](http://arxiv.org/abs/2310.16789)|null|
+|**2023-10-25**|**The Data Provenance Initiative: A Large Scale Audit of Dataset Licensing & Attribution in AI**|Shayne Longpre et.al.|[2310.16787](http://arxiv.org/abs/2310.16787)|null|
 |**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
 |**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040](http://arxiv.org/abs/2310.16040)|null|
 |**2023-10-24**|**Modeling of Fluctuations in Dynamical Optoelectronic Device Simulations within a Maxwell-Density Matrix Langevin Approach**|Johannes Popp et.al.|[2310.16039](http://arxiv.org/abs/2310.16039)|null|
@@ -4735,6 +4769,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838](http://arxiv.org/abs/2310.16838)|null|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837](http://arxiv.org/abs/2310.16837)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835](http://arxiv.org/abs/2310.16835)|null|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826](http://arxiv.org/abs/2310.16826)|null|
+|**2023-10-25**|**All-optical single-shot readout of a superconducting qubit**|Georg Arnold et.al.|[2310.16817](http://arxiv.org/abs/2310.16817)|null|
+|**2023-10-25**|**Fingervein Verification using Convolutional Multi-Head Attention Network**|Raghavendra Ramachandra et.al.|[2310.16808](http://arxiv.org/abs/2310.16808)|null|
+|**2023-10-25**|**Two-qubit logic between distant spins in silicon**|Jurgen Dijkema et.al.|[2310.16805](http://arxiv.org/abs/2310.16805)|null|
+|**2023-10-25**|**Learning COVID-19 Regional Transmission Using Universal Differential Equations in a SIR model**|Adrian Rojas-Campos et.al.|[2310.16804](http://arxiv.org/abs/2310.16804)|**[link](https://github.com/adrocampos/udes_in_sir_regional_transmision)**|
+|**2023-10-25**|**Sky location of Galactic white dwarf binaries in space-based gravitational wave detection**|Pan Guo et.al.|[2310.16796](http://arxiv.org/abs/2310.16796)|null|
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050](http://arxiv.org/abs/2310.16050)|null|
 |**2023-10-24**|**ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty**|Joey Wilson et.al.|[2310.16020](http://arxiv.org/abs/2310.16020)|null|
 |**2023-10-24**|**Spatio-temporal reconstruction of drop impact dynamics by means of color-coded glare points and deep learning**|Maximilian Dreisbach et.al.|[2310.16009](http://arxiv.org/abs/2310.16009)|null|
@@ -6032,6 +6076,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826](http://arxiv.org/abs/2310.16826)|null|
+|**2023-10-25**|**Parametric model for post-processing visibility ensemble forecasts**|Ágnes Baran et.al.|[2310.16824](http://arxiv.org/abs/2310.16824)|null|
+|**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber et.al.|[2310.16816](http://arxiv.org/abs/2310.16816)|null|
+|**2023-10-25**|**Manipulating Plasma Excitations with Terahertz Light Pulses in Superconducting Cuprates**|Jacopo Fiore et.al.|[2310.16815](http://arxiv.org/abs/2310.16815)|null|
+|**2023-10-25**|**Motility-induced clustering of active particles under soft confinement**|Timo Knippenberg et.al.|[2310.16814](http://arxiv.org/abs/2310.16814)|null|
+|**2023-10-25**|**Effect of initial conditions on current fluctuations in non-interacting active particles**|Stephy Jose et.al.|[2310.16811](http://arxiv.org/abs/2310.16811)|null|
+|**2023-10-25**|**Fingervein Verification using Convolutional Multi-Head Attention Network**|Raghavendra Ramachandra et.al.|[2310.16808](http://arxiv.org/abs/2310.16808)|null|
+|**2023-10-25**|**Two-qubit logic between distant spins in silicon**|Jurgen Dijkema et.al.|[2310.16805](http://arxiv.org/abs/2310.16805)|null|
+|**2023-10-25**|**Learning COVID-19 Regional Transmission Using Universal Differential Equations in a SIR model**|Adrian Rojas-Campos et.al.|[2310.16804](http://arxiv.org/abs/2310.16804)|**[link](https://github.com/adrocampos/udes_in_sir_regional_transmision)**|
+|**2023-10-25**|**From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction**|Nima Shoghi et.al.|[2310.16802](http://arxiv.org/abs/2310.16802)|null|
 |**2023-10-24**|**Sketched Nanoscale KTaO3-Based Superconducting Quantum Interference Device**|Muqing Yu et.al.|[2310.16051](http://arxiv.org/abs/2310.16051)|null|
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049](http://arxiv.org/abs/2310.16049)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048](http://arxiv.org/abs/2310.16048)|null|
