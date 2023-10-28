@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.27
+## Updated on 2023.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -57,7 +57,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -104,7 +104,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -312,7 +312,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Compiler
 
@@ -908,7 +908,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -917,7 +917,7 @@
 |**2023-10-26**|**High-Dimensional Prediction for Sequential Decision Making**|Georgy Noarov et.al.|[2310.17651](http://arxiv.org/abs/2310.17651)|null|
 |**2023-10-26**|**Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645](http://arxiv.org/abs/2310.17645)|**[link](https://github.com/wagner-group/pubdef)**|
 |**2023-10-26**|**A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation**|Jens Visbech et.al.|[2310.17621](http://arxiv.org/abs/2310.17621)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**PAC-tuning:Fine-tuning Pretrained Language Models with PAC-driven Perturbed Gradient Descent**|Guangliang Liu et.al.|[2310.17588](http://arxiv.org/abs/2310.17588)|null|
 |**2023-10-26**|**Synthetic Detections of Interstellar Objects with The Rubin Observatory Legacy Survey of Space and Time**|Dušan Marčeta et.al.|[2310.17575](http://arxiv.org/abs/2310.17575)|null|
 |**2023-10-26**|**Bifurcations and loss jumps in RNN training**|Lukas Eisenmann et.al.|[2310.17561](http://arxiv.org/abs/2310.17561)|null|
@@ -2225,7 +2225,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -3485,7 +3485,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -3496,7 +3496,7 @@
 |**2023-10-26**|**Where you go is who you are -- A study on machine learning based semantic privacy attacks**|Nina Wiedemann et.al.|[2310.17643](http://arxiv.org/abs/2310.17643)|**[link](https://github.com/mie-lab/trip_purpose_privacy)**|
 |**2023-10-26**|**ixFLIM: Interferometric Excitation Fluorescence Lifetime Imaging Microscopy**|Pavel Malý et.al.|[2310.17627](http://arxiv.org/abs/2310.17627)|null|
 |**2023-10-26**|**The metallicity dependence and evolutionary times of merging binary black holes: Combined constraints from individual gravitational-wave detections and the stochastic background**|Kevin Turbang et.al.|[2310.17625](http://arxiv.org/abs/2310.17625)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset**|Haitao Li et.al.|[2310.17609](http://arxiv.org/abs/2310.17609)|null|
 |**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602](http://arxiv.org/abs/2310.17602)|null|
 |**2023-10-26**|**Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways**|Venkata S Govindarajan et.al.|[2310.17591](http://arxiv.org/abs/2310.17591)|**[link](https://github.com/venkatasg/lil-bevo)**|
@@ -4802,7 +4802,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -6119,7 +6119,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -6134,7 +6134,7 @@
 |**2023-10-26**|**ixFLIM: Interferometric Excitation Fluorescence Lifetime Imaging Microscopy**|Pavel Malý et.al.|[2310.17627](http://arxiv.org/abs/2310.17627)|null|
 |**2023-10-26**|**Applications of emulation and Bayesian methods in heavy-ion physics**|Jean-François Paquet et.al.|[2310.17618](http://arxiv.org/abs/2310.17618)|null|
 |**2023-10-26**|**Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding**|Zhongye Wang et.al.|[2310.17616](http://arxiv.org/abs/2310.17616)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826](http://arxiv.org/abs/2310.16826)|null|
 |**2023-10-25**|**Parametric model for post-processing visibility ensemble forecasts**|Ágnes Baran et.al.|[2310.16824](http://arxiv.org/abs/2310.16824)|null|
 |**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber et.al.|[2310.16816](http://arxiv.org/abs/2310.16816)|null|
@@ -7436,7 +7436,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -7494,7 +7494,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.27
+## Updated on 2023.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -897,7 +897,7 @@ layout: default
 |**2023-10-26**|**High-Dimensional Prediction for Sequential Decision Making**|Georgy Noarov et.al.|[2310.17651](http://arxiv.org/abs/2310.17651)|null|
 |**2023-10-26**|**Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645](http://arxiv.org/abs/2310.17645)|**[link](https://github.com/wagner-group/pubdef)**|
 |**2023-10-26**|**A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation**|Jens Visbech et.al.|[2310.17621](http://arxiv.org/abs/2310.17621)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**PAC-tuning:Fine-tuning Pretrained Language Models with PAC-driven Perturbed Gradient Descent**|Guangliang Liu et.al.|[2310.17588](http://arxiv.org/abs/2310.17588)|null|
 |**2023-10-26**|**Synthetic Detections of Interstellar Objects with The Rubin Observatory Legacy Survey of Space and Time**|Dušan Marčeta et.al.|[2310.17575](http://arxiv.org/abs/2310.17575)|null|
 |**2023-10-26**|**Bifurcations and loss jumps in RNN training**|Lukas Eisenmann et.al.|[2310.17561](http://arxiv.org/abs/2310.17561)|null|
@@ -3472,7 +3472,7 @@ layout: default
 |**2023-10-26**|**Where you go is who you are -- A study on machine learning based semantic privacy attacks**|Nina Wiedemann et.al.|[2310.17643](http://arxiv.org/abs/2310.17643)|**[link](https://github.com/mie-lab/trip_purpose_privacy)**|
 |**2023-10-26**|**ixFLIM: Interferometric Excitation Fluorescence Lifetime Imaging Microscopy**|Pavel Malý et.al.|[2310.17627](http://arxiv.org/abs/2310.17627)|null|
 |**2023-10-26**|**The metallicity dependence and evolutionary times of merging binary black holes: Combined constraints from individual gravitational-wave detections and the stochastic background**|Kevin Turbang et.al.|[2310.17625](http://arxiv.org/abs/2310.17625)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset**|Haitao Li et.al.|[2310.17609](http://arxiv.org/abs/2310.17609)|null|
 |**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602](http://arxiv.org/abs/2310.17602)|null|
 |**2023-10-26**|**Lil-Bevo: Explorations of Strategies for Training Language Models in More Humanlike Ways**|Venkata S Govindarajan et.al.|[2310.17591](http://arxiv.org/abs/2310.17591)|**[link](https://github.com/venkatasg/lil-bevo)**|
@@ -6106,7 +6106,7 @@ layout: default
 |**2023-10-26**|**ixFLIM: Interferometric Excitation Fluorescence Lifetime Imaging Microscopy**|Pavel Malý et.al.|[2310.17627](http://arxiv.org/abs/2310.17627)|null|
 |**2023-10-26**|**Applications of emulation and Bayesian methods in heavy-ion physics**|Jean-François Paquet et.al.|[2310.17618](http://arxiv.org/abs/2310.17618)|null|
 |**2023-10-26**|**Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding**|Zhongye Wang et.al.|[2310.17616](http://arxiv.org/abs/2310.17616)|null|
-|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|null|
+|**2023-10-26**|**Topological and magnetic properties of the interacting Bernevig-Hughes-Zhang model**|Rahul Soni et.al.|[2310.17614](http://arxiv.org/abs/2310.17614)|**[link](https://github.com/DelMaestroGroup/papers-code-interactingBHZmodel)**|
 |**2023-10-26**|**Deep machine learning for meteor monitoring: advances with transfer learning and gradient-weighted class activation mapping**|Eloy Peña-Asensio et.al.|[2310.16826](http://arxiv.org/abs/2310.16826)|null|
 |**2023-10-25**|**Parametric model for post-processing visibility ensemble forecasts**|Ágnes Baran et.al.|[2310.16824](http://arxiv.org/abs/2310.16824)|null|
 |**2023-10-25**|**The intelligent agent model -- a fully two-dimensional microscopic traffic flow model**|Martin Treiber et.al.|[2310.16816](http://arxiv.org/abs/2310.16816)|null|
