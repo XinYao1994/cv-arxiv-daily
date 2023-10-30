@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -302,7 +302,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-26**|**A Lightweight, Compiler-Assisted Register File Cache for GPGPU**|Mojtaba Abaie Shoushtary et.al.|[2310.17501](http://arxiv.org/abs/2310.17501)|null|
 |**2023-10-26**|**Stealthy SWAPs: Adversarial SWAP Injection in Multi-Tenant Quantum Computing**|Suryansh Upadhyay et.al.|[2310.17426](http://arxiv.org/abs/2310.17426)|null|
-|**2023-10-26**|**Tackling the Matrix Multiplication Micro-kernel Generation with Exo**|Adrián Castelló et.al.|[2310.17408](http://arxiv.org/abs/2310.17408)|**[link](https://github.com/adcastel/exo_ukr_generator)**|
+|**2023-10-27**|**Tackling the Matrix Multiplication Micro-kernel Generation with Exo**|Adrián Castelló et.al.|[2310.17408](http://arxiv.org/abs/2310.17408)|**[link](https://github.com/adcastel/exo_ukr_generator)**|
 |**2023-10-26**|**Quantum Systems with Hidden Symmetry. Interbasis Expansions**|L. G. Mardoyan et.al.|[2310.17336](http://arxiv.org/abs/2310.17336)|null|
 |**2023-10-26**|**Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem**|Chenghao Li et.al.|[2310.17186](http://arxiv.org/abs/2310.17186)|null|
 |**2023-10-25**|**Observational Constraints on Dynamical Dark Energy Models**|Olga Avsajanishvili et.al.|[2310.16911](http://arxiv.org/abs/2310.16911)|null|
@@ -2213,7 +2213,7 @@ layout: default
 |**2023-10-26**|**Model-Based Runtime Monitoring with Interactive Imitation Learning**|Huihan Liu et.al.|[2310.17552](http://arxiv.org/abs/2310.17552)|null|
 |**2023-10-26**|**A Lightweight, Compiler-Assisted Register File Cache for GPGPU**|Mojtaba Abaie Shoushtary et.al.|[2310.17501](http://arxiv.org/abs/2310.17501)|null|
 |**2023-10-26**|**Stealthy SWAPs: Adversarial SWAP Injection in Multi-Tenant Quantum Computing**|Suryansh Upadhyay et.al.|[2310.17426](http://arxiv.org/abs/2310.17426)|null|
-|**2023-10-26**|**Tackling the Matrix Multiplication Micro-kernel Generation with Exo**|Adrián Castelló et.al.|[2310.17408](http://arxiv.org/abs/2310.17408)|**[link](https://github.com/adcastel/exo_ukr_generator)**|
+|**2023-10-27**|**Tackling the Matrix Multiplication Micro-kernel Generation with Exo**|Adrián Castelló et.al.|[2310.17408](http://arxiv.org/abs/2310.17408)|**[link](https://github.com/adcastel/exo_ukr_generator)**|
 |**2023-10-26**|**Extended Signaling Methods for Reduced Video Decoder Power Consumption Using Green Metadata**|Christian Herglotz et.al.|[2310.17346](http://arxiv.org/abs/2310.17346)|null|
 |**2023-10-26**|**CuRobo: Parallelized Collision-Free Minimum-Jerk Robot Motion Generation**|Balakumar Sundaralingam et.al.|[2310.17274](http://arxiv.org/abs/2310.17274)|null|
 |**2023-10-26**|**MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR**|Liao Pan et.al.|[2310.17170](http://arxiv.org/abs/2310.17170)|null|
@@ -7412,7 +7412,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-20**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
+|**2023-10-27**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
 |**2023-10-20**|**Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators**|Xueying Wu et.al.|[2310.12182](http://arxiv.org/abs/2310.12182)|null|
 |**2023-10-23**|**LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models**|Yixiao Li et.al.|[2310.08659](http://arxiv.org/abs/2310.08659)|null|
 |**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
