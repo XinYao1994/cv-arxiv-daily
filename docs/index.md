@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**iRED: A disaggregated P4-AQM fully implemented in programmable data plane hardware**|Leandro C. de Almeida et.al.|[2310.18088](http://arxiv.org/abs/2310.18088)|null|
 |**2023-10-10**|**Ultima: Robust and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud**|Ertza Warraich et.al.|[2310.06993](http://arxiv.org/abs/2310.06993)|null|
 |**2023-10-04**|**DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models**|Sam Ade Jacobs et.al.|[2309.14509](http://arxiv.org/abs/2309.14509)|null|
 |**2023-09-24**|**Efficient All-to-All Collective Communication Schedules for Direct-Connect Topologies**|Siddharth Pal et.al.|[2309.13541](http://arxiv.org/abs/2309.13541)|null|
@@ -300,6 +301,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Functional Ownership through Fractional Uniqueness**|Daniel Marshall et.al.|[2310.18166](http://arxiv.org/abs/2310.18166)|null|
+|**2023-10-27**|**Symmetry-Based Quantum Circuit Mapping**|Di Yu et.al.|[2310.18026](http://arxiv.org/abs/2310.18026)|null|
+|**2023-10-27**|**Restoring the Broken Covenant Between Compilers and Deep Learning Accelerators**|Sean Kinzer et.al.|[2310.17912](http://arxiv.org/abs/2310.17912)|null|
+|**2023-10-26**|**PockEngine: Sparse and Efficient Fine-tuning in a Pocket**|Ligeng Zhu et.al.|[2310.17752](http://arxiv.org/abs/2310.17752)|null|
 |**2023-10-26**|**A Lightweight, Compiler-Assisted Register File Cache for GPGPU**|Mojtaba Abaie Shoushtary et.al.|[2310.17501](http://arxiv.org/abs/2310.17501)|null|
 |**2023-10-26**|**Stealthy SWAPs: Adversarial SWAP Injection in Multi-Tenant Quantum Computing**|Suryansh Upadhyay et.al.|[2310.17426](http://arxiv.org/abs/2310.17426)|null|
 |**2023-10-27**|**Tackling the Matrix Multiplication Micro-kernel Generation with Exo**|Adrián Castelló et.al.|[2310.17408](http://arxiv.org/abs/2310.17408)|**[link](https://github.com/adcastel/exo_ukr_generator)**|
@@ -894,6 +899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Social media battle for attention: opinion dynamics on competing networks**|Andrea Somazzi et.al.|[2310.18309](http://arxiv.org/abs/2310.18309)|null|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-10-27**|**Sharp-Edge Diffraction of Laguerre-Gauss Vortex Beams by Elliptic Apertures**|Riccardo Borghi et.al.|[2310.18298](http://arxiv.org/abs/2310.18298)|null|
+|**2023-10-27**|**Sustainable Concrete via Bayesian Optimization**|Sebastian Ament et.al.|[2310.18288](http://arxiv.org/abs/2310.18288)|null|
+|**2023-10-27**|**Exploring Non-Linear Programming Formulations in QuantumCircuitOpt for Optimal Circuit Design**|Elena R. Henderson et.al.|[2310.18281](http://arxiv.org/abs/2310.18281)|null|
+|**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
+|**2023-10-27**|**Structured Semidefinite Programming for Recovering Structured Preconditioners**|Arun Jambulapati et.al.|[2310.18265](http://arxiv.org/abs/2310.18265)|null|
+|**2023-10-27**|**The Milky Way in Context: Building an integral-field spectrograph data cube of the Galaxy**|Zixian Wang et.al.|[2310.18258](http://arxiv.org/abs/2310.18258)|null|
+|**2023-10-27**|**Guided Data Augmentation for Offline Reinforcement Learning and Imitation Learning**|Nicholas E. Corrado et.al.|[2310.18247](http://arxiv.org/abs/2310.18247)|null|
+|**2023-10-27**|**Quantum-inspired attribute selection algorithm: A Fidelity-based Quantum Decision Tree**|Diksha Sharma et.al.|[2310.18243](http://arxiv.org/abs/2310.18243)|null|
 |**2023-10-26**|**High-Dimensional Prediction for Sequential Decision Making**|Georgy Noarov et.al.|[2310.17651](http://arxiv.org/abs/2310.17651)|null|
 |**2023-10-26**|**Defending Against Transfer Attacks From Public Models**|Chawin Sitawarin et.al.|[2310.17645](http://arxiv.org/abs/2310.17645)|**[link](https://github.com/wagner-group/pubdef)**|
 |**2023-10-26**|**A spectral element solution of the Poisson equation with shifted boundary polynomial corrections: influence of the surrogate to true boundary mapping and an asymptotically preserving Robin formulation**|Jens Visbech et.al.|[2310.17621](http://arxiv.org/abs/2310.17621)|null|
@@ -2209,6 +2224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Exploring Non-Linear Programming Formulations in QuantumCircuitOpt for Optimal Circuit Design**|Elena R. Henderson et.al.|[2310.18281](http://arxiv.org/abs/2310.18281)|null|
+|**2023-10-27**|**An Energy-Efficient Near-Data Processing Accelerator for DNNs that Optimizes Data Accesses**|Bahareh Khabbazan et.al.|[2310.18181](http://arxiv.org/abs/2310.18181)|null|
+|**2023-10-27**|**iRED: A disaggregated P4-AQM fully implemented in programmable data plane hardware**|Leandro C. de Almeida et.al.|[2310.18088](http://arxiv.org/abs/2310.18088)|null|
+|**2023-10-27**|**FPGA-Based Implicit-Explicit Real-time Simulation Solver for Railway Wireless Power Transfer with Nonlinear Magnetic Coupling Components**|Han Xu et.al.|[2310.18085](http://arxiv.org/abs/2310.18085)|null|
+|**2023-10-27**|**Symmetry-Based Quantum Circuit Mapping**|Di Yu et.al.|[2310.18026](http://arxiv.org/abs/2310.18026)|null|
+|**2023-10-27**|**Quantum Lattice Boltzmann-Carleman algorithm**|Claudio Sanavio et.al.|[2310.17973](http://arxiv.org/abs/2310.17973)|null|
+|**2023-10-27**|**Dynamic Grasping of Unknown Objects with a Multi-Fingered Hand**|Yannick Burkhardt et.al.|[2310.17923](http://arxiv.org/abs/2310.17923)|null|
+|**2023-10-27**|**Restoring the Broken Covenant Between Compilers and Deep Learning Accelerators**|Sean Kinzer et.al.|[2310.17912](http://arxiv.org/abs/2310.17912)|null|
+|**2023-10-26**|**BlackJack: Secure machine learning on IoT devices through hardware-based shuffling**|Karthik Ganesan et.al.|[2310.17804](http://arxiv.org/abs/2310.17804)|null|
+|**2023-10-26**|**SVR Algorithm as a Tool for More Optimal Intergalactic Medium Simulation in the Epoch of Reionization**|S. Mobina Hosseini et.al.|[2310.17789](http://arxiv.org/abs/2310.17789)|null|
 |**2023-10-26**|**Interactive Robot Learning from Verbal Correction**|Huihan Liu et.al.|[2310.17555](http://arxiv.org/abs/2310.17555)|null|
 |**2023-10-26**|**Model-Based Runtime Monitoring with Interactive Imitation Learning**|Huihan Liu et.al.|[2310.17552](http://arxiv.org/abs/2310.17552)|null|
 |**2023-10-26**|**A Lightweight, Compiler-Assisted Register File Cache for GPGPU**|Mojtaba Abaie Shoushtary et.al.|[2310.17501](http://arxiv.org/abs/2310.17501)|null|
@@ -3467,6 +3492,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Social media battle for attention: opinion dynamics on competing networks**|Andrea Somazzi et.al.|[2310.18309](http://arxiv.org/abs/2310.18309)|null|
+|**2023-10-27**|**Supervised and Penalized Baseline Correction**|Erik Andries Ramin Nikzad-Langerodi et.al.|[2310.18306](http://arxiv.org/abs/2310.18306)|null|
+|**2023-10-27**|**Searching for the signature of a pair density wave in YBa $_2$Cu$_3$O$_{6.67}$ using high energy X-ray diffraction**|Elizabeth Blackburn et.al.|[2310.18302](http://arxiv.org/abs/2310.18302)|null|
+|**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
+|**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291](http://arxiv.org/abs/2310.18291)|null|
+|**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
+|**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
+|**2023-10-27**|**Resolved-sideband cooling of a single $^9$Be$^+$ ion in a Penning trap**|Juan M. Cornejo et.al.|[2310.18262](http://arxiv.org/abs/2310.18262)|null|
+|**2023-10-27**|**Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator**|Liam. A. V. Nagle-Cocco et.al.|[2310.18255](http://arxiv.org/abs/2310.18255)|null|
+|**2023-10-27**|**Leveraging Machine Learning Models for Peptide-Protein Interaction Prediction**|Song Yin et.al.|[2310.18249](http://arxiv.org/abs/2310.18249)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
 |**2023-10-26**|**Chip-to-chip ODDM network with optically enabled equalization**|Andrea Zazzi et.al.|[2310.17648](http://arxiv.org/abs/2310.17648)|null|
 |**2023-10-26**|**Where you go is who you are -- A study on machine learning based semantic privacy attacks**|Nina Wiedemann et.al.|[2310.17643](http://arxiv.org/abs/2310.17643)|**[link](https://github.com/mie-lab/trip_purpose_privacy)**|
@@ -4782,6 +4817,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Mass gaps of a $\mathbb{Z}_3$ gauge theory with three fermion flavors in 1 + 1 dimensions**|Adrien Florio et.al.|[2310.18312](http://arxiv.org/abs/2310.18312)|null|
+|**2023-10-27**|**Social media battle for attention: opinion dynamics on competing networks**|Andrea Somazzi et.al.|[2310.18309](http://arxiv.org/abs/2310.18309)|null|
+|**2023-10-27**|**Measurement and feedforward induced entanglement negativity transition**|Alireza Seif et.al.|[2310.18305](http://arxiv.org/abs/2310.18305)|null|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-10-27**|**Twin-field quantum key distribution with local frequency reference**|Jiu-Peng Chen et.al.|[2310.18292](http://arxiv.org/abs/2310.18292)|null|
+|**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291](http://arxiv.org/abs/2310.18291)|null|
+|**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
+|**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
+|**2023-10-27**|**Learning to Search Feasible and Infeasible Regions of Routing Problems with Flexible Neural k-Opt**|Yining Ma et.al.|[2310.18264](http://arxiv.org/abs/2310.18264)|**[link](https://github.com/yining043/neuopt)**|
+|**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
 |**2023-10-26**|**Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model**|Karsten Roth et.al.|[2310.17653](http://arxiv.org/abs/2310.17653)|null|
 |**2023-10-26**|**Chip-to-chip ODDM network with optically enabled equalization**|Andrea Zazzi et.al.|[2310.17648](http://arxiv.org/abs/2310.17648)|null|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
@@ -6097,6 +6142,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Measurement and feedforward induced entanglement negativity transition**|Alireza Seif et.al.|[2310.18305](http://arxiv.org/abs/2310.18305)|null|
+|**2023-10-27**|**Interactive Motion Planning for Autonomous Vehicles with Joint Optimization**|Yuxiao Chen et.al.|[2310.18301](http://arxiv.org/abs/2310.18301)|null|
+|**2023-10-27**|**Quantum simulation of the tricritical Ising model in tunable Josephson junction ladders**|Lorenzo Maffi et.al.|[2310.18300](http://arxiv.org/abs/2310.18300)|null|
+|**2023-10-27**|**Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization**|Haosen Yang et.al.|[2310.18299](http://arxiv.org/abs/2310.18299)|null|
+|**2023-10-27**|**FLPR Model: Supervariable approach and a model for Hodge theory**|Ansha S. Nair et.al.|[2310.18295](http://arxiv.org/abs/2310.18295)|null|
+|**2023-10-27**|**Development and Characteristics of a Highly Biomimetic Robotic Shoulder Through Bionics-Inspired Optimization**|Haosen Yang et.al.|[2310.18283](http://arxiv.org/abs/2310.18283)|null|
+|**2023-10-27**|**Embeddings of generalised Morrey smoothness spaces**|Dorothee D. Haroske et.al.|[2310.18282](http://arxiv.org/abs/2310.18282)|null|
+|**2023-10-27**|**Exploring Non-Linear Programming Formulations in QuantumCircuitOpt for Optimal Circuit Design**|Elena R. Henderson et.al.|[2310.18281](http://arxiv.org/abs/2310.18281)|null|
+|**2023-10-27**|**Origin of flat bands and non-trivial topology in coupled kagome lattices**|Anumita Bose et.al.|[2310.18276](http://arxiv.org/abs/2310.18276)|null|
+|**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-26**|**A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection**|Anas Al-lahham et.al.|[2310.17650](http://arxiv.org/abs/2310.17650)|null|
 |**2023-10-26**|**Chip-to-chip ODDM network with optically enabled equalization**|Andrea Zazzi et.al.|[2310.17648](http://arxiv.org/abs/2310.17648)|null|
 |**2023-10-26**|**Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models**|Tsun-Hsuan Wang et.al.|[2310.17642](http://arxiv.org/abs/2310.17642)|null|
@@ -7412,6 +7467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
 |**2023-10-20**|**Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators**|Xueying Wu et.al.|[2310.12182](http://arxiv.org/abs/2310.12182)|null|
 |**2023-10-23**|**LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models**|Yixiao Li et.al.|[2310.08659](http://arxiv.org/abs/2310.08659)|null|
