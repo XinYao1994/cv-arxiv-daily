@@ -95,6 +95,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Decomposed Phase Analysis using Convex Inner Approximations: a Methodology for DER Hosting Capacity in Distribution Systems**|Hani Mavalizadeh et.al.|[2310.20185](http://arxiv.org/abs/2310.20185)|null|
+|**2023-10-31**|**Preparing a commercial quantum key distribution system for certification against implementation loopholes**|Vadim Makarov et.al.|[2310.20107](http://arxiv.org/abs/2310.20107)|null|
 |**2023-10-28**|**Cluster-Based Cell-Free Massive MIMO Systems: A Novel Framework to Enhance Spectral Efficiency with Low Complexity**|Reza Roshanghias et.al.|[2310.18734](http://arxiv.org/abs/2310.18734)|null|
 |**2023-10-26**|**Distributed Consensus in Content Centric Networking**|Marc Mosko et.al.|[2310.17532](http://arxiv.org/abs/2310.17532)|null|
 |**2023-10-26**|**Intermodal quantum key distribution field trial with active switching between fiber and free-space channels**|Francesco Picciariello et.al.|[2310.17441](http://arxiv.org/abs/2310.17441)|null|
@@ -302,8 +304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**PRIMA General Observer Science Book**|A. Moullet et.al.|[2310.20572](http://arxiv.org/abs/2310.20572)|null|
+|**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436](http://arxiv.org/abs/2310.20436)|null|
+|**2023-10-31**|**Square-Root parametrization of dark energy in $f(Q)$ cosmology**|M. Koussour et.al.|[2310.20405](http://arxiv.org/abs/2310.20405)|null|
+|**2023-10-31**|**Ncorpi $\mathcal{O}$N : A $\mathcal{O}(N)$ software for N-body integration in collisional and fragmenting systems**|Jérémy Couturier et.al.|[2310.20374](http://arxiv.org/abs/2310.20374)|null|
+|**2023-10-31**|**ChiSCor: A Corpus of Freely Told Fantasy Stories by Dutch Children for Computational Linguistics and Cognitive Science**|Bram M. A. van Dijk et.al.|[2310.20328](http://arxiv.org/abs/2310.20328)|null|
+|**2023-10-30**|**TorchProbe: Fuzzing Dynamic Deep Learning Compilers**|Qidong Su et.al.|[2310.20078](http://arxiv.org/abs/2310.20078)|null|
+|**2023-10-30**|**Recipes for calibration and validation of agent-based models in cancer biomedicine**|Nicolò Cogno et.al.|[2310.20031](http://arxiv.org/abs/2310.20031)|null|
+|**2023-10-30**|**The Galactic Bulge exploration I.: The period-absolute\,magnitude-metallicity relations for RR~Lyrae stars for $G_{\rm BP}$, $V$, $G$, $G_{\rm RP}$, $I$, $J$, $H$, and $K_{\rm s}$ passbands using $Gaia$ DR3 parallaxes**|Z. Prudil et.al.|[2310.19438](http://arxiv.org/abs/2310.19438)|null|
 |**2023-10-29**|**Dyanmics of falling raindrops**|Yashvir Tibrewal et.al.|[2310.18943](http://arxiv.org/abs/2310.18943)|null|
-|**2023-10-29**|**Multi-task deep learning for large-scale building detail extraction from high-resolution satellite imagery**|Zhen Qian et.al.|[2310.18899](http://arxiv.org/abs/2310.18899)|null|
+|**2023-10-29**|**Multi-task deep learning for large-scale building detail extraction from high-resolution satellite imagery**|Zhen Qian et.al.|[2310.18899](http://arxiv.org/abs/2310.18899)|**[link](https://github.com/chanceqz/buildingdetails-multitask)**|
 |**2023-10-28**|**Minimal Clifford Shadow Estimation by Mutually Unbiased Bases**|Qingyue Zhang et.al.|[2310.18749](http://arxiv.org/abs/2310.18749)|null|
 |**2023-10-27**|**Functional Ownership through Fractional Uniqueness**|Daniel Marshall et.al.|[2310.18166](http://arxiv.org/abs/2310.18166)|null|
 |**2023-10-27**|**Symmetry-Based Quantum Circuit Mapping**|Di Yu et.al.|[2310.18026](http://arxiv.org/abs/2310.18026)|null|
@@ -903,6 +913,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Vanishing Gradients in Reinforcement Finetuning of Language Models**|Noam Razin et.al.|[2310.20703](http://arxiv.org/abs/2310.20703)|null|
+|**2023-10-31**|**Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms**|Sébastien Designolle et.al.|[2310.20677](http://arxiv.org/abs/2310.20677)|null|
+|**2023-10-31**|**Evaluating the reconstruction of individual haloes in constrained cosmological simulations**|Richard Stiskalek et.al.|[2310.20672](http://arxiv.org/abs/2310.20672)|null|
+|**2023-10-31**|**Modeling multi-legged robot locomotion with slipping and its experimental validation**|Ziyou Wu et.al.|[2310.20669](http://arxiv.org/abs/2310.20669)|null|
+|**2023-10-31**|**Offline RL with Observation Histories: Analyzing and Improving Sample Complexity**|Joey Hong et.al.|[2310.20663](http://arxiv.org/abs/2310.20663)|null|
+|**2023-10-31**|**"Pick-and-Pass" as a Hat-Trick Class for First-Principle Memory, Generalizability, and Interpretability Benchmarks**|Jason Wang et.al.|[2310.20654](http://arxiv.org/abs/2310.20654)|null|
+|**2023-10-31**|**The Quantum Decoding Problem**|André Chailloux et.al.|[2310.20651](http://arxiv.org/abs/2310.20651)|null|
+|**2023-10-31**|**Constrained Planarity in Practice -- Engineering the Synchronized Planarity Algorithm**|Simon D. Fink et.al.|[2310.20632](http://arxiv.org/abs/2310.20632)|null|
+|**2023-10-31**|**Fully dynamic approximation schemes on planar and apex-minor-free graphs**|Tuukka Korhonen et.al.|[2310.20623](http://arxiv.org/abs/2310.20623)|null|
+|**2023-10-31**|**Near-Optimal Min-Sum Motion Planning for Two Square Robots in a Polygonal Environment**|Pankaj K. Agarwal et.al.|[2310.20615](http://arxiv.org/abs/2310.20615)|null|
 |**2023-10-30**|**Efficient vacuum state preparation for quantum simulation of strongly interacting local quantum field theories**|Thomas D. Cohen et.al.|[2310.19229](http://arxiv.org/abs/2310.19229)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225](http://arxiv.org/abs/2310.19225)|null|
 |**2023-10-30**|**From Stream to Pool: Dynamic Pricing Beyond i.i.d. Arrivals**|Titing Cui et.al.|[2310.19220](http://arxiv.org/abs/2310.19220)|null|
@@ -2238,6 +2258,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Density Matrix Emulation of Quantum Recurrent Neural Networks for Multivariate Time Series Prediction**|José Daniel Viqueira et.al.|[2310.20671](http://arxiv.org/abs/2310.20671)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
+|**2023-10-31**|**Fault-Tolerant Operation of Bosonic Qubits with Discrete-Variable Ancillae**|Qian Xu et.al.|[2310.20578](http://arxiv.org/abs/2310.20578)|null|
+|**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
+|**2023-10-31**|**Requirement falsification for cyber-physical systems using generative models**|Jarkko Peltomäki et.al.|[2310.20493](http://arxiv.org/abs/2310.20493)|null|
+|**2023-10-31**|**Assessing the Sustainability and Trustworthiness of Federated Learning Models**|Alberto Huertas Celdran et.al.|[2310.20435](http://arxiv.org/abs/2310.20435)|null|
+|**2023-10-31**|**DDC-PIM: Efficient Algorithm/Architecture Co-design for Doubling Data Capacity of SRAM-based Processing-In-Memory**|Cenlin Duan et.al.|[2310.20424](http://arxiv.org/abs/2310.20424)|null|
+|**2023-10-31**|**A Low-cost Strategic Monitoring Approach for Scalable and Interpretable Error Detection in Deep Neural Networks**|Florian Geissler et.al.|[2310.20349](http://arxiv.org/abs/2310.20349)|null|
+|**2023-10-31**|**Accelerating Generalized Linear Models by Trading off Computation for Uncertainty**|Lukas Tatzel et.al.|[2310.20285](http://arxiv.org/abs/2310.20285)|null|
+|**2023-10-31**|**Gibbs state sampling via cluster expansions**|Norhan M. Eassa et.al.|[2310.20129](http://arxiv.org/abs/2310.20129)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225](http://arxiv.org/abs/2310.19225)|null|
 |**2023-10-29**|**Finding Optimal Training Parameters for Quantum Generative Adversarial Networks**|C. Strynar et.al.|[2310.19117](http://arxiv.org/abs/2310.19117)|null|
 |**2023-10-29**|**Using Variational Eigensolvers on Low-End Hardware to Find the Ground State Energy of Simple Molecules**|T. Powers et.al.|[2310.19104](http://arxiv.org/abs/2310.19104)|null|
@@ -3516,6 +3546,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707](http://arxiv.org/abs/2310.20707)|null|
+|**2023-10-31**|**Farthest Greedy Path Sampling for Two-shot Recommender Search**|Yufan Cao et.al.|[2310.20705](http://arxiv.org/abs/2310.20705)|null|
+|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699](http://arxiv.org/abs/2310.20699)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
+|**2023-10-31**|**Dimensional advantage in secure information trading via the noisy dense coding protocol**|Ayan Patra et.al.|[2310.20688](http://arxiv.org/abs/2310.20688)|null|
+|**2023-10-31**|**Generalized locally compact models for approximate groups**|Krzysztof Krupiński et.al.|[2310.20683](http://arxiv.org/abs/2310.20683)|null|
+|**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682](http://arxiv.org/abs/2310.20682)|null|
+|**2023-10-31**|**Latent Field Discovery In Interacting Dynamical Systems With Neural Fields**|Miltiadis Kofinas et.al.|[2310.20679](http://arxiv.org/abs/2310.20679)|**[link](https://github.com/mkofinas/aether)**|
+|**2023-10-31**|**Density Matrix Emulation of Quantum Recurrent Neural Networks for Multivariate Time Series Prediction**|José Daniel Viqueira et.al.|[2310.20671](http://arxiv.org/abs/2310.20671)|null|
 |**2023-10-30**|**Cavity magnomechanics: from classical to quantum**|Xuan Zuo et.al.|[2310.19237](http://arxiv.org/abs/2310.19237)|null|
 |**2023-10-30**|**A Survey of Federated Unlearning: A Taxonomy, Challenges and Future Directions**|Jiaxi Yang et.al.|[2310.19218](http://arxiv.org/abs/2310.19218)|null|
 |**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
@@ -4851,6 +4891,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696](http://arxiv.org/abs/2310.20696)|null|
+|**2023-10-31**|**Latent Field Discovery In Interacting Dynamical Systems With Neural Fields**|Miltiadis Kofinas et.al.|[2310.20679](http://arxiv.org/abs/2310.20679)|**[link](https://github.com/mkofinas/aether)**|
+|**2023-10-31**|**Symmetric multipartite Bell inequalities via Frank-Wolfe algorithms**|Sébastien Designolle et.al.|[2310.20677](http://arxiv.org/abs/2310.20677)|null|
+|**2023-10-31**|**Density Matrix Emulation of Quantum Recurrent Neural Networks for Multivariate Time Series Prediction**|José Daniel Viqueira et.al.|[2310.20671](http://arxiv.org/abs/2310.20671)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
+|**2023-10-31**|**Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving**|Luca Cultrera et.al.|[2310.20650](http://arxiv.org/abs/2310.20650)|null|
+|**2023-10-31**|**Triggered telecom C-band single-photon source with high brightness, high indistinguishability and sub-GHz spectral linewidth**|Raphael Joos et.al.|[2310.20647](http://arxiv.org/abs/2310.20647)|null|
+|**2023-10-31**|**Identifying electronic transitions of defects in hexagonal boron nitride for quantum memories**|Chanaprom Cholsuk et.al.|[2310.20645](http://arxiv.org/abs/2310.20645)|null|
+|**2023-10-31**|**Using Higher-Order Moments to Assess the Quality of GAN-generated Image Features**|Lorenzo Luzi et.al.|[2310.20636](http://arxiv.org/abs/2310.20636)|null|
+|**2023-10-31**|**Projecting basis functions with tensor networks for Gaussian process regression**|Clara Menzen et.al.|[2310.20630](http://arxiv.org/abs/2310.20630)|null|
 |**2023-10-30**|**Suppressed terahertz dynamics of water confined in nanometer gaps**|Hyosim Yang et.al.|[2310.19236](http://arxiv.org/abs/2310.19236)|null|
 |**2023-10-30**|**There Are No Data Like More Data- Datasets for Deep Learning in Earth Observation**|Michael Schmitt et.al.|[2310.19231](http://arxiv.org/abs/2310.19231)|null|
 |**2023-10-30**|**Stochastic Configuration Machines: FPGA Implementation**|Matthew J. Felicetti et.al.|[2310.19225](http://arxiv.org/abs/2310.19225)|null|
@@ -6186,6 +6236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Universal localization-delocalization transition in chirally-symmetric Floquet drives**|Adrian B. Culver et.al.|[2310.20696](http://arxiv.org/abs/2310.20696)|null|
+|**2023-10-31**|**Explosions in Roche-Lobe Distorted Stars: Relativistic Bullets in Binaries**|Marcus DuPont et.al.|[2310.20692](http://arxiv.org/abs/2310.20692)|null|
+|**2023-10-31**|**Dimensional advantage in secure information trading via the noisy dense coding protocol**|Ayan Patra et.al.|[2310.20688](http://arxiv.org/abs/2310.20688)|null|
+|**2023-10-31**|**Generalized locally compact models for approximate groups**|Krzysztof Krupiński et.al.|[2310.20683](http://arxiv.org/abs/2310.20683)|null|
+|**2023-10-31**|**Cooperative isentropic charging of hybrid quantum batteries**|Yohan Vianna de Almeida et.al.|[2310.20680](http://arxiv.org/abs/2310.20680)|null|
+|**2023-10-31**|**Latent Field Discovery In Interacting Dynamical Systems With Neural Fields**|Miltiadis Kofinas et.al.|[2310.20679](http://arxiv.org/abs/2310.20679)|**[link](https://github.com/mkofinas/aether)**|
+|**2023-10-31**|**Kondo effect and its destruction in hetero-bilayer transition metal dichalcogenides**|Fang Xie et.al.|[2310.20676](http://arxiv.org/abs/2310.20676)|null|
+|**2023-10-31**|**Universality of random-site percolation thresholds for two-dimensional complex non-compact neighborhoods**|Krzysztof Malarz et.al.|[2310.20668](http://arxiv.org/abs/2310.20668)|null|
+|**2023-10-31**|**StairNet: Visual Recognition of Stairs for Human-Robot Locomotion**|Andrew Garrett Kurbis et.al.|[2310.20666](http://arxiv.org/abs/2310.20666)|null|
+|**2023-10-31**|**Offline RL with Observation Histories: Analyzing and Improving Sample Complexity**|Joey Hong et.al.|[2310.20663](http://arxiv.org/abs/2310.20663)|null|
 |**2023-10-30**|**Variational principles for the hydrodynamics of the classical one-component plasma**|Daniels Krimans et.al.|[2310.19239](http://arxiv.org/abs/2310.19239)|null|
 |**2023-10-30**|**Cavity magnomechanics: from classical to quantum**|Xuan Zuo et.al.|[2310.19237](http://arxiv.org/abs/2310.19237)|null|
 |**2023-10-30**|**Suppressed terahertz dynamics of water confined in nanometer gaps**|Hyosim Yang et.al.|[2310.19236](http://arxiv.org/abs/2310.19236)|null|
