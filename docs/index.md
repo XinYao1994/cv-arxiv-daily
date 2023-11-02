@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3548,7 +3548,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-31**|**What's In My Big Data?**|Yanai Elazar et.al.|[2310.20707](http://arxiv.org/abs/2310.20707)|null|
 |**2023-10-31**|**Farthest Greedy Path Sampling for Two-shot Recommender Search**|Yufan Cao et.al.|[2310.20705](http://arxiv.org/abs/2310.20705)|null|
-|**2023-10-31**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699](http://arxiv.org/abs/2310.20699)|null|
+|**2023-11-01**|**Bayesian Multistate Bennett Acceptance Ratio Methods**|Xinqiang Ding et.al.|[2310.20699](http://arxiv.org/abs/2310.20699)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-31**|**Experimental high-dimensional entanglement certification and quantum steering with time-energy measurements**|Kai-Chi Chang et.al.|[2310.20694](http://arxiv.org/abs/2310.20694)|null|
 |**2023-10-31**|**Dimensional advantage in secure information trading via the noisy dense coding protocol**|Ayan Patra et.al.|[2310.20688](http://arxiv.org/abs/2310.20688)|null|
