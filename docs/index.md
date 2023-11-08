@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -98,7 +98,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-04**|**NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation**|Shaofei Li et.al.|[2311.02331](http://arxiv.org/abs/2311.02331)|null|
 |**2023-11-04**|**On the Robustness, Connectivity and Giant Component Size of Random K-out Graphs**|Eray Can Elumar et.al.|[2311.02319](http://arxiv.org/abs/2311.02319)|null|
-|**2023-11-03**|**Closing the Gap to Quadratic Invariance: a Regret Minimization Approach to Optimal Distributed Control**|Daniele Martinelli et.al.|[2311.02068](http://arxiv.org/abs/2311.02068)|null|
+|**2023-11-03**|**Closing the Gap to Quadratic Invariance: a Regret Minimization Approach to Optimal Distributed Control**|Daniele Martinelli et.al.|[2311.02068](http://arxiv.org/abs/2311.02068)|**[link](https://github.com/decodepfl/spregret)**|
 |**2023-11-02**|**RTP: Rethinking Tensor Parallelism with Memory Deduplication**|Cheng Luo et.al.|[2311.01635](http://arxiv.org/abs/2311.01635)|**[link](https://github.com/wdlctc/rtp)**|
 |**2023-11-01**|**Formal Translation from Reversing Petri Nets to Coloured Petri Nets**|Kamila Barylska et.al.|[2311.00629](http://arxiv.org/abs/2311.00629)|null|
 |**2023-11-01**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
@@ -317,7 +317,7 @@ layout: default
 |**2023-11-05**|**Architecting Intermediate Layers for Efficient Composition of Data Management and Machine Learning Systems**|Supun Abeysinghe et.al.|[2311.02781](http://arxiv.org/abs/2311.02781)|null|
 |**2023-11-05**|**Shorter Pulses, Smaller Errors: Quantum Circuit Optimization via Parameterized Pulses**|Finn Voichick et.al.|[2311.02769](http://arxiv.org/abs/2311.02769)|null|
 |**2023-11-03**|**Quantum circuit synthesis with diffusion models**|Florian Fürrutter et.al.|[2311.02041](http://arxiv.org/abs/2311.02041)|**[link](https://github.com/florianfuerrutter/genqc)**|
-|**2023-11-03**|**FiniteFieldSolve: Exactly Solving Large Linear Systems in High-Energy Theory**|James Mangan et.al.|[2311.01671](http://arxiv.org/abs/2311.01671)|null|
+|**2023-11-03**|**FiniteFieldSolve: Exactly Solving Large Linear Systems in High-Energy Theory**|James Mangan et.al.|[2311.01671](http://arxiv.org/abs/2311.01671)|**[link](https://github.com/jfmangan/finitefieldsolve)**|
 |**2023-11-02**|**Implementation and Synthesis of Math Library Functions**|Ian Briggs et.al.|[2311.01515](http://arxiv.org/abs/2311.01515)|null|
 |**2023-11-02**|**Coronal bright point statistics I. Lifetime, shape, and coronal co-rotation**|I. Kraus et.al.|[2311.01408](http://arxiv.org/abs/2311.01408)|null|
 |**2023-11-02**|**Mathematical Properties of the Zadoff-Chu Sequences**|David Gregoratti et.al.|[2311.01035](http://arxiv.org/abs/2311.01035)|null|
