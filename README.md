@@ -329,6 +329,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Quantum Circuit Unoptimization**|Yusei Mori et.al.|[2311.03805](http://arxiv.org/abs/2311.03805)|null|
+|**2023-11-07**|**COOL: A Constraint Object-Oriented Logic Programming Language and its Neural-Symbolic Compilation System**|Jipeng Han et.al.|[2311.03753](http://arxiv.org/abs/2311.03753)|null|
+|**2023-11-07**|**Multimodal deep representation learning for quantum cross-platform verification**|Yang Qian et.al.|[2311.03713](http://arxiv.org/abs/2311.03713)|null|
+|**2023-11-07**|**PINNs-TF2: Fast and User-Friendly Physics-Informed Neural Networks in TensorFlow V2**|Reza Akbarian Bafghi et.al.|[2311.03626](http://arxiv.org/abs/2311.03626)|null|
+|**2023-11-06**|**Pinky: A Modern Malware-oriented Dynamic Information Retrieval Tool**|Paul Irofti et.al.|[2311.03588](http://arxiv.org/abs/2311.03588)|null|
+|**2023-11-06**|**Enabling Dynamic Selection of Implementation Variants in Component-Based Parallel Programming for Heterogeneous Systems**|Suejb Memeti et.al.|[2311.03543](http://arxiv.org/abs/2311.03543)|null|
+|**2023-11-06**|**Enhancing Performance Monitoring in C/C++ Programs with EDPM: A Domain-Specific Language for Performance Monitoring**|David Weisskopf Holmqvist et.al.|[2311.03535](http://arxiv.org/abs/2311.03535)|null|
+|**2023-11-06**|**Orion: A Fully Homomorphic Encryption Compiler for Private Deep Neural Network Inference**|Austin Ebel et.al.|[2311.03470](http://arxiv.org/abs/2311.03470)|null|
 |**2023-11-06**|**PROMPT: A Fast and Extensible Memory Profiling Framework**|Ziyang Xu et.al.|[2311.03263](http://arxiv.org/abs/2311.03263)|null|
 |**2023-11-06**|**An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata**|David Sánchez et.al.|[2311.03171](http://arxiv.org/abs/2311.03171)|null|
 |**2023-11-06**|**SurfFlow: high-throughput surface energy calculations for arbitrary crystals**|Firat Yalcin et.al.|[2311.03163](http://arxiv.org/abs/2311.03163)|null|
@@ -956,6 +964,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Harnessing excitons at the nanoscale -- photoelectrical platform for quantitative sensing and imaging**|Zhurun Ji et.al.|[2311.04211](http://arxiv.org/abs/2311.04211)|null|
+|**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207](http://arxiv.org/abs/2311.04207)|null|
+|**2023-11-07**|**Resource analysis of quantum algorithms for coarse-grained protein folding models**|Hanna Linn et.al.|[2311.04186](http://arxiv.org/abs/2311.04186)|null|
+|**2023-11-07**|**Cloud-cloud collisions triggering star formation in galaxy simulations**|Shu Horie et.al.|[2311.04175](http://arxiv.org/abs/2311.04175)|null|
+|**2023-11-07**|**Measure transport via polynomial density surrogates**|Josephine Westermann et.al.|[2311.04172](http://arxiv.org/abs/2311.04172)|null|
+|**2023-11-07**|**HADES: Fast Singularity Detection with Local Measure Comparison**|Uzu Lim et.al.|[2311.04171](http://arxiv.org/abs/2311.04171)|null|
+|**2023-11-07**|**Coarse correlated equilibria in linear quadratic mean field games and application to an emission abatement game**|Luciano Campi et.al.|[2311.04162](http://arxiv.org/abs/2311.04162)|null|
+|**2023-11-07**|**Breaking the Heavy-Tailed Noise Barrier in Stochastic Optimization Problems**|Nikita Puchkin et.al.|[2311.04161](http://arxiv.org/abs/2311.04161)|null|
+|**2023-11-07**|**Computing Approximate $\ell_p$ Sensitivities**|Swati Padmanabhan et.al.|[2311.04158](http://arxiv.org/abs/2311.04158)|null|
+|**2023-11-07**|**Benchmarking a Neutral-Atom Quantum Computer**|N. Wagner et.al.|[2311.04141](http://arxiv.org/abs/2311.04141)|null|
 |**2023-11-06**|**Differentiable Cutting-plane Layers for Mixed-integer Linear Optimization**|Gabriele Dragotto et.al.|[2311.03350](http://arxiv.org/abs/2311.03350)|null|
 |**2023-11-06**|**Sparse Quantum State Preparation for Strongly Correlated Systems**|C. Feniou et.al.|[2311.03347](http://arxiv.org/abs/2311.03347)|null|
 |**2023-11-06**|**Decomposing Probability Marginals Beyond Affine Requirements**|Jannik Matuschke et.al.|[2311.03346](http://arxiv.org/abs/2311.03346)|null|
@@ -2343,6 +2361,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Quantization-aware Neural Architectural Search for Intrusion Detection**|Rabin Yu Acharya et.al.|[2311.04194](http://arxiv.org/abs/2311.04194)|null|
+|**2023-11-07**|**Resource analysis of quantum algorithms for coarse-grained protein folding models**|Hanna Linn et.al.|[2311.04186](http://arxiv.org/abs/2311.04186)|null|
+|**2023-11-07**|**Hardware Aware Evolutionary Neural Architecture Search using Representation Similarity Metric**|Nilotpal Sinha et.al.|[2311.03923](http://arxiv.org/abs/2311.03923)|null|
+|**2023-11-07**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2311.03899](http://arxiv.org/abs/2311.03899)|null|
+|**2023-11-07**|**Shaping photons: quantum computation with bosonic cQED**|Adrian Copetudo et.al.|[2311.03846](http://arxiv.org/abs/2311.03846)|null|
+|**2023-11-07**|**Preliminary Design of Scalable Hardware Integrated Platform for LLRF Application**|Lin Jiang et.al.|[2311.03841](http://arxiv.org/abs/2311.03841)|null|
+|**2023-11-07**|**Accelerating Unstructured SpGEMM using Structured In-situ Computing**|Huize Li et.al.|[2311.03826](http://arxiv.org/abs/2311.03826)|null|
+|**2023-11-07**|**Theoretical Patchability Quantification for IP-Level Hardware Patching Designs**|Wei-Kai Liu et.al.|[2311.03818](http://arxiv.org/abs/2311.03818)|null|
+|**2023-11-07**|**SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers**|Xiangyong Lu et.al.|[2311.03747](http://arxiv.org/abs/2311.03747)|**[link](https://github.com/xyonglu/sbcformer)**|
+|**2023-11-07**|**Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models**|Longteng Zhang et.al.|[2311.03687](http://arxiv.org/abs/2311.03687)|null|
 |**2023-11-06**|**Exploitation-Guided Exploration for Semantic Embodied Navigation**|Justin Wasserman et.al.|[2311.03357](http://arxiv.org/abs/2311.03357)|null|
 |**2023-11-06**|**Resource Allocation for RIS-Empowered Wireless Communications: Low-Complexity and Robust Designs**|Ming Zeng et.al.|[2311.03282](http://arxiv.org/abs/2311.03282)|null|
 |**2023-11-06**|**Euclid's Near-Infrared Spectrometer and Photometer ready for flight -- review of final performance**|E. Medinaceli et.al.|[2311.03202](http://arxiv.org/abs/2311.03202)|null|
@@ -3673,6 +3701,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219](http://arxiv.org/abs/2311.04219)|null|
+|**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
+|**2023-11-07**|**Harnessing excitons at the nanoscale -- photoelectrical platform for quantitative sensing and imaging**|Zhurun Ji et.al.|[2311.04211](http://arxiv.org/abs/2311.04211)|null|
+|**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207](http://arxiv.org/abs/2311.04207)|null|
+|**2023-11-07**|**Sharp Thresholds Imply Circuit Lower Bounds: from random 2-SAT to Planted Clique**|David Gamarnik et.al.|[2311.04204](http://arxiv.org/abs/2311.04204)|null|
+|**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199](http://arxiv.org/abs/2311.04199)|null|
+|**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196](http://arxiv.org/abs/2311.04196)|**[link](https://github.com/zhongfendeng/jpave)**|
+|**2023-11-07**|**Selective Visual Representations Improve Convergence and Generalization for Embodied AI**|Ainaz Eftekhar et.al.|[2311.04193](http://arxiv.org/abs/2311.04193)|null|
+|**2023-11-07**|**Resource analysis of quantum algorithms for coarse-grained protein folding models**|Hanna Linn et.al.|[2311.04186](http://arxiv.org/abs/2311.04186)|null|
+|**2023-11-07**|**A First Look At NAT64 Deployment In-The-Wild**|Amanda Hsu et.al.|[2311.04181](http://arxiv.org/abs/2311.04181)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2023-11-06**|**Sparse Quantum State Preparation for Strongly Correlated Systems**|C. Feniou et.al.|[2311.03347](http://arxiv.org/abs/2311.03347)|null|
 |**2023-11-06**|**FLOGA: A machine learning ready dataset, a benchmark and a novel deep learning model for burnt area mapping with Sentinel-2**|Maria Sdraka et.al.|[2311.03339](http://arxiv.org/abs/2311.03339)|null|
@@ -5060,6 +5098,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218](http://arxiv.org/abs/2311.04218)|null|
+|**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
+|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212](http://arxiv.org/abs/2311.04212)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-07**|**Harnessing excitons at the nanoscale -- photoelectrical platform for quantitative sensing and imaging**|Zhurun Ji et.al.|[2311.04211](http://arxiv.org/abs/2311.04211)|null|
+|**2023-11-07**|**Quantization-aware Neural Architectural Search for Intrusion Detection**|Rabin Yu Acharya et.al.|[2311.04194](http://arxiv.org/abs/2311.04194)|null|
+|**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190](http://arxiv.org/abs/2311.04190)|null|
+|**2023-11-07**|**A First Look At NAT64 Deployment In-The-Wild**|Amanda Hsu et.al.|[2311.04181](http://arxiv.org/abs/2311.04181)|null|
+|**2023-11-07**|**Non-Linear pricing with differential machine learning**|Pavel Goldin et.al.|[2311.04178](http://arxiv.org/abs/2311.04178)|null|
+|**2023-11-07**|**HADES: Fast Singularity Detection with Local Measure Comparison**|Uzu Lim et.al.|[2311.04171](http://arxiv.org/abs/2311.04171)|null|
+|**2023-11-07**|**Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization**|Elan Rosenfeld et.al.|[2311.04163](http://arxiv.org/abs/2311.04163)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2023-11-06**|**Decomposing Probability Marginals Beyond Affine Requirements**|Jannik Matuschke et.al.|[2311.03346](http://arxiv.org/abs/2311.03346)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345](http://arxiv.org/abs/2311.03345)|null|
@@ -6447,6 +6495,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Fractional quantum anomalous Hall effects in rhombohedral multilayer graphene in the moiréless limit and in Coulomb imprinted superlattice**|Boran Zhou et.al.|[2311.04217](http://arxiv.org/abs/2311.04217)|null|
+|**2023-11-07**|**Replica symmetry breaking in a quantum-optical vector spin glass**|Ronen M. Kroeze et.al.|[2311.04216](http://arxiv.org/abs/2311.04216)|null|
+|**2023-11-07**|**Localised Gravity and Resolved Braneworlds**|Rahim Leung et.al.|[2311.04209](http://arxiv.org/abs/2311.04209)|null|
+|**2023-11-07**|**Quantization-aware Neural Architectural Search for Intrusion Detection**|Rabin Yu Acharya et.al.|[2311.04194](http://arxiv.org/abs/2311.04194)|null|
+|**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190](http://arxiv.org/abs/2311.04190)|null|
+|**2023-11-07**|**The role of sign indefinite invariants in shaping turbulent cascades**|Michal Shavit et.al.|[2311.04183](http://arxiv.org/abs/2311.04183)|null|
+|**2023-11-07**|**A First Look At NAT64 Deployment In-The-Wild**|Amanda Hsu et.al.|[2311.04181](http://arxiv.org/abs/2311.04181)|null|
+|**2023-11-07**|**Polyregular functions on unordered trees of bounded height**|Mikołaj Bojańczyk et.al.|[2311.04180](http://arxiv.org/abs/2311.04180)|null|
+|**2023-11-07**|**Non-Linear pricing with differential machine learning**|Pavel Goldin et.al.|[2311.04178](http://arxiv.org/abs/2311.04178)|null|
+|**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177](http://arxiv.org/abs/2311.04177)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2023-11-06**|**Topological Orders Having no Topological Quantum Field Theory Description**|P. Vojta et.al.|[2311.03353](http://arxiv.org/abs/2311.03353)|null|
 |**2023-11-06**|**Superconductivity in the pressurized nickelate La $_3$Ni$_2$O$_7$ in the vicinity of a BEC-BCS crossover**|Henning Schlömer et.al.|[2311.03349](http://arxiv.org/abs/2311.03349)|null|
@@ -7835,7 +7893,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-05**|**M4BRAM: Mixed-Precision Matrix-Matrix Multiplication in FPGA Block RAMs**|Yuzong Chen et.al.|[2311.02758](http://arxiv.org/abs/2311.02758)|null|
-|**2023-10-29**|**Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**|Yilong Zhao et.al.|[2310.19102](http://arxiv.org/abs/2310.19102)|null|
+|**2023-11-07**|**Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**|Yilong Zhao et.al.|[2310.19102](http://arxiv.org/abs/2310.19102)|null|
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Exploring the Potential of Flexible 8-bit Format: Design and Algorithm**|Zhuoyi Zhang et.al.|[2310.13513](http://arxiv.org/abs/2310.13513)|null|
 |**2023-10-27**|**Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators**|Xueying Wu et.al.|[2310.12182](http://arxiv.org/abs/2310.12182)|null|
