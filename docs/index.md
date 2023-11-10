@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -97,7 +97,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-07**|**How Hard is Weak-Memory Testing?**|Soham Chakraborty et.al.|[2311.04302](http://arxiv.org/abs/2311.04302)|null|
-|**2023-11-04**|**NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation**|Shaofei Li et.al.|[2311.02331](http://arxiv.org/abs/2311.02331)|null|
+|**2023-11-04**|**NODLINK: An Online System for Fine-Grained APT Attack Detection and Investigation**|Shaofei Li et.al.|[2311.02331](http://arxiv.org/abs/2311.02331)|**[link](https://github.com/nodlink/simulated-data)**|
 |**2023-11-04**|**On the Robustness, Connectivity and Giant Component Size of Random K-out Graphs**|Eray Can Elumar et.al.|[2311.02319](http://arxiv.org/abs/2311.02319)|null|
 |**2023-11-03**|**Closing the Gap to Quadratic Invariance: a Regret Minimization Approach to Optimal Distributed Control**|Daniele Martinelli et.al.|[2311.02068](http://arxiv.org/abs/2311.02068)|**[link](https://github.com/decodepfl/spregret)**|
 |**2023-11-02**|**RTP: Rethinking Tensor Parallelism with Memory Deduplication**|Cheng Luo et.al.|[2311.01635](http://arxiv.org/abs/2311.01635)|**[link](https://github.com/wdlctc/rtp)**|
