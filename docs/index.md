@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -319,10 +319,10 @@ layout: default
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
 |**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|null|
 |**2023-11-09**|**An Empirical Analysis of Just-in-Time Compilation in Modern Databases**|Miao Ma et.al.|[2311.04692](http://arxiv.org/abs/2311.04692)|null|
-|**2023-11-08**|**Learning Quantum Phase Estimation by Variational Quantum Circuits**|Chen-Yu Liu et.al.|[2311.04690](http://arxiv.org/abs/2311.04690)|null|
+|**2023-11-08**|**Learning Quantum Phase Estimation by Variational Quantum Circuits**|Chen-Yu Liu et.al.|[2311.04690](http://arxiv.org/abs/2311.04690)|**[link](https://github.com/abeeekoala/learnqpe)**|
 |**2023-11-09**|**Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape**|Ruochun Zhang et.al.|[2311.04648](http://arxiv.org/abs/2311.04648)|null|
-|**2023-11-08**|**Extended Paper: API-driven Program Synthesis for Testing Static Typing Implementations**|Thodoris Sotiropoulos et.al.|[2311.04527](http://arxiv.org/abs/2311.04527)|null|
-|**2023-11-07**|**Planetary perturbers: Flaring star-planet interactions in Kepler and TESS**|Ekaterina Ilin et.al.|[2311.04316](http://arxiv.org/abs/2311.04316)|null|
+|**2023-11-08**|**Extended Paper: API-driven Program Synthesis for Testing Static Typing Implementations**|Thodoris Sotiropoulos et.al.|[2311.04527](http://arxiv.org/abs/2311.04527)|**[link](https://github.com/hephaestus-compiler-project/thalia)**|
+|**2023-11-07**|**Planetary perturbers: Flaring star-planet interactions in Kepler and TESS**|Ekaterina Ilin et.al.|[2311.04316](http://arxiv.org/abs/2311.04316)|**[link](https://github.com/ekaterinailin/flaring-spi)**|
 |**2023-11-07**|**Compilation of product-formula Hamiltonian simulation via reinforcement learning**|Lea M. Trenkwalder et.al.|[2311.04285](http://arxiv.org/abs/2311.04285)|**[link](https://github.com/leamarion/rl-for-compilation-of-product-formula-hamiltonian-simulation)**|
 |**2023-11-07**|**Quantum Circuit Unoptimization**|Yusei Mori et.al.|[2311.03805](http://arxiv.org/abs/2311.03805)|null|
 |**2023-11-07**|**COOL: A Constraint Object-Oriented Logic Programming Language and its Neural-Symbolic Compilation System**|Jipeng Han et.al.|[2311.03753](http://arxiv.org/abs/2311.03753)|null|
@@ -958,7 +958,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications**|Kaiyuan Chen et.al.|[2311.05600](http://arxiv.org/abs/2311.05600)|null|
-|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|null|
+|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|**[link](https://github.com/AlfredoVitorino/TopOpt-SLP-3D)**|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
 |**2023-11-09**|**Inference for Probabilistic Dependency Graphs**|Oliver E. Richardson et.al.|[2311.05580](http://arxiv.org/abs/2311.05580)|**[link](https://github.com/orichardson/pdg-infer-uai)**|
 |**2023-11-09**|**A near-optimal zero-free disk for the Ising model**|Viresh Patel et.al.|[2311.05574](http://arxiv.org/abs/2311.05574)|null|
@@ -3731,7 +3731,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**FAMuS: Frames Across Multiple Sources**|Siddharth Vashishtha et.al.|[2311.05601](http://arxiv.org/abs/2311.05601)|null|
-|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|null|
+|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|**[link](https://github.com/AlfredoVitorino/TopOpt-SLP-3D)**|
 |**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591](http://arxiv.org/abs/2311.05591)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
 |**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
 |**2023-11-09**|**Effective Data-Driven Collective Variables for Free Energy Calculations from Metadynamics of Paths**|Lukas Müllender et.al.|[2311.05571](http://arxiv.org/abs/2311.05571)|null|
@@ -6565,7 +6565,7 @@ layout: default
 |**2023-11-09**|**FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications**|Kaiyuan Chen et.al.|[2311.05600](http://arxiv.org/abs/2311.05600)|null|
 |**2023-11-09**|**SynH2R: Synthesizing Hand-Object Motions for Learning Human-to-Robot Handovers**|Sammy Christen et.al.|[2311.05599](http://arxiv.org/abs/2311.05599)|null|
 |**2023-11-09**|**Sorting Out Quantum Monte Carlo**|Jack Richter-Powell et.al.|[2311.05598](http://arxiv.org/abs/2311.05598)|null|
-|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|null|
+|**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|**[link](https://github.com/AlfredoVitorino/TopOpt-SLP-3D)**|
 |**2023-11-09**|**Optimal Control of Robotic Systems and Biased Riemannian Splines**|Alejandro Cabrera et.al.|[2311.05593](http://arxiv.org/abs/2311.05593)|null|
 |**2023-11-09**|**Bayesian Methods for Media Mix Modelling with shape and funnel effects**|Javier Marin et.al.|[2311.05587](http://arxiv.org/abs/2311.05587)|null|
 |**2023-11-09**|**Thermodynamic phases in first detected return times of quantum many-body systems**|Benjamin Walter et.al.|[2311.05585](http://arxiv.org/abs/2311.05585)|null|
