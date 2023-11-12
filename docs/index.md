@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -962,7 +962,7 @@ layout: default
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
 |**2023-11-09**|**Inference for Probabilistic Dependency Graphs**|Oliver E. Richardson et.al.|[2311.05580](http://arxiv.org/abs/2311.05580)|**[link](https://github.com/orichardson/pdg-infer-uai)**|
 |**2023-11-09**|**A near-optimal zero-free disk for the Ising model**|Viresh Patel et.al.|[2311.05574](http://arxiv.org/abs/2311.05574)|null|
-|**2023-11-09**|**Effective Data-Driven Collective Variables for Free Energy Calculations from Metadynamics of Paths**|Lukas Müllender et.al.|[2311.05571](http://arxiv.org/abs/2311.05571)|null|
+|**2023-11-09**|**Effective Data-Driven Collective Variables for Free Energy Calculations from Metadynamics of Paths**|Lukas Müllender et.al.|[2311.05571](http://arxiv.org/abs/2311.05571)|**[link](https://github.com/lmuellender/mop-deeptda)**|
 |**2023-11-09**|**Improving Human Legibility in Collaborative Robot Tasks through Augmented Reality and Workspace Preparation**|Yi-Shiuan Tung et.al.|[2311.05562](http://arxiv.org/abs/2311.05562)|null|
 |**2023-11-09**|**Extending Regev's factoring algorithm to compute discrete logarithms**|Martin Ekerå et.al.|[2311.05545](http://arxiv.org/abs/2311.05545)|null|
 |**2023-11-09**|**Towards adiabatic quantum computing using compressed quantum circuits**|Conor Mc Keever et.al.|[2311.05544](http://arxiv.org/abs/2311.05544)|null|
@@ -3734,7 +3734,7 @@ layout: default
 |**2023-11-09**|**An efficient topology optimization algorithm for large-scale three-dimensional structures**|Alfredo Vitorino et.al.|[2311.05595](http://arxiv.org/abs/2311.05595)|**[link](https://github.com/AlfredoVitorino/TopOpt-SLP-3D)**|
 |**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591](http://arxiv.org/abs/2311.05591)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
 |**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
-|**2023-11-09**|**Effective Data-Driven Collective Variables for Free Energy Calculations from Metadynamics of Paths**|Lukas Müllender et.al.|[2311.05571](http://arxiv.org/abs/2311.05571)|null|
+|**2023-11-09**|**Effective Data-Driven Collective Variables for Free Energy Calculations from Metadynamics of Paths**|Lukas Müllender et.al.|[2311.05571](http://arxiv.org/abs/2311.05571)|**[link](https://github.com/lmuellender/mop-deeptda)**|
 |**2023-11-09**|**Exploring Emotion Expression Recognition in Older Adults Interacting with a Virtual Coach**|Cristina Palmero et.al.|[2311.05567](http://arxiv.org/abs/2311.05567)|null|
 |**2023-11-09**|**The Iron(ic) Melting Pot: Reviewing Human Evaluation in Humour, Irony and Sarcasm Generation**|Tyler Loakman et.al.|[2311.05552](http://arxiv.org/abs/2311.05552)|null|
 |**2023-11-09**|**L-WaveBlock: A Novel Feature Extractor Leveraging Wavelets for Generative Adversarial Networks**|Mirat Shah et.al.|[2311.05548](http://arxiv.org/abs/2311.05548)|null|
