@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.13
+## Updated on 2023.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2387,12 +2387,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-10**|**A Portable Parton-Level Event Generator for the High-Luminosity LHC**|Enrico Bothmann et.al.|[2311.06198](http://arxiv.org/abs/2311.06198)|null|
+|**2023-11-10**|**A Portable Parton-Level Event Generator for the High-Luminosity LHC**|Enrico Bothmann et.al.|[2311.06198](http://arxiv.org/abs/2311.06198)|**[link](https://gitlab.com/spice-mc/pepper)**|
 |**2023-11-10**|**Random Access Protocols for Cell-Free Wireless Network Exploiting Statistical Behavior of THz Signal Propagation**|Pranay Bhardwaj et.al.|[2311.06166](http://arxiv.org/abs/2311.06166)|null|
 |**2023-11-10**|**Triad: Trusted Timestamps in Untrusted Environments**|Gabriel P. Fernandez et.al.|[2311.06156](http://arxiv.org/abs/2311.06156)|null|
 |**2023-11-10**|**A Last-Level Defense for Application Integrity and Confidentiality**|Gabriel P. Fernandez et.al.|[2311.06154](http://arxiv.org/abs/2311.06154)|null|
 |**2023-11-10**|**A high throughput Intrusion Detection System (IDS) to enhance the security of data transmission among research centers**|Marco Grossi et.al.|[2311.06082](http://arxiv.org/abs/2311.06082)|null|
-|**2023-11-10**|**RapidChiplet: A Toolchain for Rapid Design Space Exploration of Chiplet Architectures**|Patrick Iff et.al.|[2311.06081](http://arxiv.org/abs/2311.06081)|null|
+|**2023-11-10**|**RapidChiplet: A Toolchain for Rapid Design Space Exploration of Chiplet Architectures**|Patrick Iff et.al.|[2311.06081](http://arxiv.org/abs/2311.06081)|**[link](https://github.com/spcl/rapidchiplet)**|
 |**2023-11-10**|**Keystroke Verification Challenge (KVC): Biometric and Fairness Benchmark Evaluation**|Giuseppe Stragapede et.al.|[2311.06000](http://arxiv.org/abs/2311.06000)|null|
 |**2023-11-10**|**KRATT: QBF-Assisted Removal and Structural Analysis Attack Against Logic Locking**|Levent Aksoy et.al.|[2311.05982](http://arxiv.org/abs/2311.05982)|null|
 |**2023-11-10**|**Benchmarking Quantum Processor Performance at Scale**|David C. McKay et.al.|[2311.05933](http://arxiv.org/abs/2311.05933)|null|
