@@ -97,6 +97,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
+|**2023-11-13**|**Advancements in Enhancing Resilience of Electrical Distribution Systems: A Review on Frameworks, Metrics, and Technological Innovations**|Divyanshi Dwivedi et.al.|[2311.07050](http://arxiv.org/abs/2311.07050)|null|
+|**2023-11-13**|**Making Distribution State Estimation Practical: Challenges and Opportunities**|Frederik Geth et.al.|[2311.07021](http://arxiv.org/abs/2311.07021)|null|
+|**2023-11-12**|**Analytical Verification of Deep Neural Network Performance for Time-Synchronized Distribution System State Estimation**|Behrouz Azimian et.al.|[2311.06973](http://arxiv.org/abs/2311.06973)|null|
+|**2023-11-12**|**pFedES: Model Heterogeneous Personalized Federated Learning with Feature Extractor Sharing**|Liping Yi et.al.|[2311.06879](http://arxiv.org/abs/2311.06879)|null|
+|**2023-11-10**|**The Impact of Load Altering Attacks on Distribution Systems with ZIP Loads**|Sajjad Maleki et.al.|[2311.06429](http://arxiv.org/abs/2311.06429)|null|
 |**2023-11-10**|**Reliable Broadcast despite Mobile Byzantine Faults**|Silvia Bonomi et.al.|[2311.05918](http://arxiv.org/abs/2311.05918)|null|
 |**2023-11-09**|**Probable Approximate Coordination**|Ariel Livshits et.al.|[2311.05368](http://arxiv.org/abs/2311.05368)|null|
 |**2023-11-08**|**DEMASQ: Unmasking the ChatGPT Wordsmith**|Kavita Kumari et.al.|[2311.05019](http://arxiv.org/abs/2311.05019)|null|
@@ -316,6 +322,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Sidekick compilation with xDSL**|Mathieu Fehr et.al.|[2311.07422](http://arxiv.org/abs/2311.07422)|null|
+|**2023-11-13**|**Unboxed data constructors -- or, how cpp decides a halting problem**|Nicolas Chataing et.al.|[2311.07369](http://arxiv.org/abs/2311.07369)|null|
+|**2023-11-13**|**IASCAR: Incremental Answer Set Counting by Anytime Refinement**|Johannes K. Fichte et.al.|[2311.07233](http://arxiv.org/abs/2311.07233)|null|
+|**2023-11-13**|**Wasm SpecTec: Engineering a Formal Language Standard**|Joachim Breitner et.al.|[2311.07223](http://arxiv.org/abs/2311.07223)|null|
+|**2023-11-13**|**QudCom: Towards Quantum Compilation for Qudit Systems**|Daniel Volya et.al.|[2311.07015](http://arxiv.org/abs/2311.07015)|null|
+|**2023-11-13**|**Managing Large Enclaves in a Data Center**|Sandeep Kumar et.al.|[2311.06991](http://arxiv.org/abs/2311.06991)|null|
+|**2023-11-12**|**Kepler Multi-Transiting Systems Physical Properties and Impact Parameter Variations**|Yair Judkovsky et.al.|[2311.06941](http://arxiv.org/abs/2311.06941)|null|
+|**2023-11-11**|**CompCodeVet: A Compiler-guided Validation and Enhancement Approach for Code Dataset**|Le Chen et.al.|[2311.06505](http://arxiv.org/abs/2311.06505)|null|
 |**2023-11-10**|**Evaluating the Consistency of Cosmological Distances Using Supernova Siblings in the Near-Infrared**|Arianna M. Dwomoh et.al.|[2311.06178](http://arxiv.org/abs/2311.06178)|null|
 |**2023-11-10**|**A Compiler from Array Programs to Vectorized Homomorphic Encryption**|Rolph Recto et.al.|[2311.06142](http://arxiv.org/abs/2311.06142)|null|
 |**2023-11-10**|**Robust Constant-Time Cryptography**|Matthew Kolosick et.al.|[2311.05831](http://arxiv.org/abs/2311.05831)|null|
@@ -962,6 +976,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573](http://arxiv.org/abs/2311.07573)|null|
+|**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
+|**2023-11-13**|**Exploration via linearly perturbed loss minimisation**|David Janz et.al.|[2311.07565](http://arxiv.org/abs/2311.07565)|**[link](https://github.com/davidjanz/evill-code)**|
+|**2023-11-13**|**Data-Efficient Task Generalization via Probabilistic Model-based Meta Reinforcement Learning**|Arjun Bhardwaj et.al.|[2311.07558](http://arxiv.org/abs/2311.07558)|null|
+|**2023-11-13**|**On Bounding and Approximating Functions of Multiple Expectations using Quasi-Monte Carlo**|Aleksei G. Sorokin et.al.|[2311.07555](http://arxiv.org/abs/2311.07555)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Finding planted cliques using Markov chain Monte Carlo**|Reza Gheissari et.al.|[2311.07540](http://arxiv.org/abs/2311.07540)|null|
+|**2023-11-13**|**Provably Efficient Learning of Phases of Matter via Dissipative Evolutions**|Emilio Onorati et.al.|[2311.07506](http://arxiv.org/abs/2311.07506)|null|
+|**2023-11-13**|**A Federated Data Fusion-Based Prognostic Model for Applications with Multi-Stream Incomplete Signals**|Madi Arabi et.al.|[2311.07474](http://arxiv.org/abs/2311.07474)|null|
+|**2023-11-13**|**Causal Discovery under Latent Class Confounding**|Bijan Mazaheri et.al.|[2311.07454](http://arxiv.org/abs/2311.07454)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
 |**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-10**|**Better Sparsifiers for Directed Eulerian Graphs**|Sushant Sachdeva et.al.|[2311.06232](http://arxiv.org/abs/2311.06232)|null|
@@ -2387,6 +2411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Explicit Foundation Model Optimization with Self-Attentive Feed-Forward Neural Units**|Jake Ryland Williams et.al.|[2311.07510](http://arxiv.org/abs/2311.07510)|null|
+|**2023-11-13**|**Ara2: Exploring Single- and Multi-Core Vector Processing with an Efficient RVV1.0 Compliant Open-Source Processor**|Matteo Perotti et.al.|[2311.07493](http://arxiv.org/abs/2311.07493)|null|
+|**2023-11-13**|**Reducing Entanglement With Physically-Inspired Fermion-To-Qubit Mappings**|Teodor Parella-Dilmé et.al.|[2311.07409](http://arxiv.org/abs/2311.07409)|null|
+|**2023-11-13**|**Predicting Ising Model Performance on Quantum Annealers**|Salvatore Certo et.al.|[2311.07388](http://arxiv.org/abs/2311.07388)|null|
+|**2023-11-13**|**P4-PSFP: P4-Based Per-Stream Filtering and Policing for Time-Sensitive Networking**|Fabian Ihle et.al.|[2311.07385](http://arxiv.org/abs/2311.07385)|null|
+|**2023-11-13**|**Dynamic Optimization on Quantum Hardware: Feasibility for a Process Industry Use Case**|Dennis Michael Nenno et.al.|[2311.07310](http://arxiv.org/abs/2311.07310)|null|
+|**2023-11-13**|**IndexMAC: A Custom RISC-V Vector Instruction to Accelerate Structured-Sparse Matrix Multiplications**|V. Titopoulos et.al.|[2311.07241](http://arxiv.org/abs/2311.07241)|null|
+|**2023-11-13**|**CARTOS: A Charging-Aware Real-Time Operating System for Intermittent Batteryless Devices**|Mohsen Karimi et.al.|[2311.07227](http://arxiv.org/abs/2311.07227)|null|
+|**2023-11-13**|**Pruning random resistive memory for optimizing analogue AI**|Yi Li et.al.|[2311.07164](http://arxiv.org/abs/2311.07164)|null|
+|**2023-11-13**|**Trustworthy Quantum Computation through Quantum Physical Unclonable Functions**|Kaitlin N. Smith et.al.|[2311.07094](http://arxiv.org/abs/2311.07094)|null|
 |**2023-11-10**|**A Portable Parton-Level Event Generator for the High-Luminosity LHC**|Enrico Bothmann et.al.|[2311.06198](http://arxiv.org/abs/2311.06198)|**[link](https://gitlab.com/spice-mc/pepper)**|
 |**2023-11-10**|**Random Access Protocols for Cell-Free Wireless Network Exploiting Statistical Behavior of THz Signal Propagation**|Pranay Bhardwaj et.al.|[2311.06166](http://arxiv.org/abs/2311.06166)|null|
 |**2023-11-10**|**Triad: Trusted Timestamps in Untrusted Environments**|Gabriel P. Fernandez et.al.|[2311.06156](http://arxiv.org/abs/2311.06156)|null|
@@ -3755,6 +3789,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561](http://arxiv.org/abs/2311.07561)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547](http://arxiv.org/abs/2311.07547)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
+|**2023-11-13**|**Finding planted cliques using Markov chain Monte Carlo**|Reza Gheissari et.al.|[2311.07540](http://arxiv.org/abs/2311.07540)|null|
+|**2023-11-13**|**A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering**|Yunxin Li et.al.|[2311.07536](http://arxiv.org/abs/2311.07536)|null|
+|**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
+|**2023-11-13**|**An optical tweezer array of ultracold polyatomic molecules**|Nathaniel B. Vilas et.al.|[2311.07529](http://arxiv.org/abs/2311.07529)|null|
+|**2023-11-13**|**The Link Between Health Insurance Coverage and Citizenship Among Immigrants: Bayesian Unit-Level Regression Modeling of Categorical Survey Data Observed with Measurement Error**|Paul A. Parker et.al.|[2311.07524](http://arxiv.org/abs/2311.07524)|null|
+|**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243](http://arxiv.org/abs/2311.06243)|null|
 |**2023-11-10**|**High-speed coherent photonic random-access memory in long-lasting sound waves**|Andreas Geilen et.al.|[2311.06219](http://arxiv.org/abs/2311.06219)|null|
 |**2023-11-10**|**Semantic-aware Video Representation for Few-shot Action Recognition**|Yutao Tang et.al.|[2311.06218](http://arxiv.org/abs/2311.06218)|null|
@@ -5180,6 +5224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
+|**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568](http://arxiv.org/abs/2311.07568)|null|
+|**2023-11-13**|**Learning Control Policies of Hodgkin-Huxley Neuronal Dynamics**|Malvern Madondo et.al.|[2311.07563](http://arxiv.org/abs/2311.07563)|null|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Tabdoor: Backdoor Vulnerabilities in Transformer-based Neural Networks for Tabular Data**|Bart Pleiter et.al.|[2311.07550](http://arxiv.org/abs/2311.07550)|null|
+|**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
+|**2023-11-13**|**Non-affinity of liquid networks and bicontinuous mesophases**|Michael S. Dimitriyev et.al.|[2311.07544](http://arxiv.org/abs/2311.07544)|null|
+|**2023-11-13**|**Grounding Neuroscience in Behavioral Changes using Artificial Neural Networks**|Grace W. Lindsay et.al.|[2311.07526](http://arxiv.org/abs/2311.07526)|null|
+|**2023-11-13**|**Machine Learning For Beamline Steering**|Isaac Kante et.al.|[2311.07519](http://arxiv.org/abs/2311.07519)|null|
 |**2023-11-10**|**EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy**|Xiaoyi Cai et.al.|[2311.06234](http://arxiv.org/abs/2311.06234)|null|
 |**2023-11-10**|**Harnessing Synthetic Datasets: The Role of Shape Bias in Deep Neural Network Generalization**|Elior Benarous et.al.|[2311.06224](http://arxiv.org/abs/2311.06224)|null|
 |**2023-11-10**|**High-speed coherent photonic random-access memory in long-lasting sound waves**|Andreas Geilen et.al.|[2311.06219](http://arxiv.org/abs/2311.06219)|null|
@@ -6605,6 +6659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**The local moduli space of the Einstein-Yang-Mills system**|Severin Bunk et.al.|[2311.07572](http://arxiv.org/abs/2311.07572)|null|
+|**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
+|**2023-11-13**|**Learning Control Policies of Hodgkin-Huxley Neuronal Dynamics**|Malvern Madondo et.al.|[2311.07563](http://arxiv.org/abs/2311.07563)|null|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562](http://arxiv.org/abs/2311.07562)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
+|**2023-11-13**|**Non-affinity of liquid networks and bicontinuous mesophases**|Michael S. Dimitriyev et.al.|[2311.07544](http://arxiv.org/abs/2311.07544)|null|
+|**2023-11-13**|**$q$ -Analogue of the degree zero part of a rational Cherednik algebra**|Misha Feigin et.al.|[2311.07543](http://arxiv.org/abs/2311.07543)|null|
+|**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
+|**2023-11-13**|**Retrievals Applied To A Decision Tree Framework Can Characterize Earth-like Exoplanet Analogs**|Amber V. Young et.al.|[2311.07530](http://arxiv.org/abs/2311.07530)|null|
+|**2023-11-13**|**CCD Photometry of the Globular Cluster NGC 5897**|A. Ruelas-Mayorga et.al.|[2311.07525](http://arxiv.org/abs/2311.07525)|null|
 |**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-10**|**EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy**|Xiaoyi Cai et.al.|[2311.06234](http://arxiv.org/abs/2311.06234)|null|
 |**2023-11-10**|**Better Sparsifiers for Directed Eulerian Graphs**|Sushant Sachdeva et.al.|[2311.06232](http://arxiv.org/abs/2311.06232)|null|
@@ -8030,6 +8094,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-12**|**MetaMix: Meta-state Precision Searcher for Mixed-precision Activation Quantization**|Han-Byul Kim et.al.|[2311.06798](http://arxiv.org/abs/2311.06798)|null|
 |**2023-11-09**|**MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications**|Bo Fang et.al.|[2311.05782](http://arxiv.org/abs/2311.05782)|null|
 |**2023-11-05**|**M4BRAM: Mixed-Precision Matrix-Matrix Multiplication in FPGA Block RAMs**|Yuzong Chen et.al.|[2311.02758](http://arxiv.org/abs/2311.02758)|null|
 |**2023-11-07**|**Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**|Yilong Zhao et.al.|[2310.19102](http://arxiv.org/abs/2310.19102)|null|
