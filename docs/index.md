@@ -97,12 +97,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
 |**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
 |**2023-11-13**|**Advancements in Enhancing Resilience of Electrical Distribution Systems: A Review on Frameworks, Metrics, and Technological Innovations**|Divyanshi Dwivedi et.al.|[2311.07050](http://arxiv.org/abs/2311.07050)|null|
 |**2023-11-13**|**Making Distribution State Estimation Practical: Challenges and Opportunities**|Frederik Geth et.al.|[2311.07021](http://arxiv.org/abs/2311.07021)|null|
 |**2023-11-12**|**Analytical Verification of Deep Neural Network Performance for Time-Synchronized Distribution System State Estimation**|Behrouz Azimian et.al.|[2311.06973](http://arxiv.org/abs/2311.06973)|null|
 |**2023-11-12**|**pFedES: Model Heterogeneous Personalized Federated Learning with Feature Extractor Sharing**|Liping Yi et.al.|[2311.06879](http://arxiv.org/abs/2311.06879)|null|
-|**2023-11-10**|**The Impact of Load Altering Attacks on Distribution Systems with ZIP Loads**|Sajjad Maleki et.al.|[2311.06429](http://arxiv.org/abs/2311.06429)|null|
+|**2023-11-14**|**The Impact of Load Altering Attacks on Distribution Systems with ZIP Loads**|Sajjad Maleki et.al.|[2311.06429](http://arxiv.org/abs/2311.06429)|null|
 |**2023-11-10**|**Reliable Broadcast despite Mobile Byzantine Faults**|Silvia Bonomi et.al.|[2311.05918](http://arxiv.org/abs/2311.05918)|null|
 |**2023-11-09**|**Probable Approximate Coordination**|Ariel Livshits et.al.|[2311.05368](http://arxiv.org/abs/2311.05368)|null|
 |**2023-11-08**|**DEMASQ: Unmasking the ChatGPT Wordsmith**|Kavita Kumari et.al.|[2311.05019](http://arxiv.org/abs/2311.05019)|null|
@@ -322,6 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Kilometric type II radio emissions in Wind/WAVES TNR data and association with interplanetary structures near Earth**|Franco Manini et.al.|[2311.08266](http://arxiv.org/abs/2311.08266)|null|
 |**2023-11-13**|**Sidekick compilation with xDSL**|Mathieu Fehr et.al.|[2311.07422](http://arxiv.org/abs/2311.07422)|null|
 |**2023-11-13**|**Unboxed data constructors -- or, how cpp decides a halting problem**|Nicolas Chataing et.al.|[2311.07369](http://arxiv.org/abs/2311.07369)|null|
 |**2023-11-13**|**IASCAR: Incremental Answer Set Counting by Anytime Refinement**|Johannes K. Fichte et.al.|[2311.07233](http://arxiv.org/abs/2311.07233)|null|
@@ -976,6 +978,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403](http://arxiv.org/abs/2311.08403)|null|
+|**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
+|**2023-11-14**|**Constant Query Local Decoding Against Deletions Is Impossible**|Meghal Gupta et.al.|[2311.08399](http://arxiv.org/abs/2311.08399)|null|
+|**2023-11-14**|**Iterative Network Pricing for Ridesharing Platforms**|Chenkai Yu et.al.|[2311.08392](http://arxiv.org/abs/2311.08392)|null|
+|**2023-11-14**|**A Material Lens on Coloniality in NLP**|William Held et.al.|[2311.08391](http://arxiv.org/abs/2311.08391)|null|
+|**2023-11-14**|**Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees**|Yifei Zhou et.al.|[2311.08384](http://arxiv.org/abs/2311.08384)|**[link](https://github.com/yifeizhou02/hnpg)**|
+|**2023-11-14**|**USLR: an open-source tool for unbiased and smooth longitudinal registration of brain MR**|Adrià Casamitjana et.al.|[2311.08371](http://arxiv.org/abs/2311.08371)|**[link](https://github.com/acasamitjana/uslr)**|
+|**2023-11-14**|**Arboricity-Dependent Algorithms for Edge Coloring**|Sayan Bhattacharya et.al.|[2311.08367](http://arxiv.org/abs/2311.08367)|null|
+|**2023-11-14**|**Plum: Prompt Learning using Metaheuristic**|Rui Pan et.al.|[2311.08364](http://arxiv.org/abs/2311.08364)|**[link](https://github.com/research4pan/plum)**|
+|**2023-11-14**|**Transformers can optimally learn regression mixture models**|Reese Pathak et.al.|[2311.08362](http://arxiv.org/abs/2311.08362)|null|
 |**2023-11-13**|**Realizability of Free Spaces of Curves**|Hugo A. Akitaya et.al.|[2311.07573](http://arxiv.org/abs/2311.07573)|null|
 |**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
 |**2023-11-13**|**Exploration via linearly perturbed loss minimisation**|David Janz et.al.|[2311.07565](http://arxiv.org/abs/2311.07565)|**[link](https://github.com/davidjanz/evill-code)**|
@@ -2411,6 +2423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal**|Max Asselmeier et.al.|[2311.08354](http://arxiv.org/abs/2311.08354)|null|
+|**2023-11-14**|**GT4Py: High Performance Stencils for Weather and Climate Applications using Python**|Enrique G. Paredes et.al.|[2311.08322](http://arxiv.org/abs/2311.08322)|null|
+|**2023-11-14**|**CV32RT: Enabling Fast Interrupt and Context Switching for RISC-V Microcontrollers**|Robert Balas et.al.|[2311.08320](http://arxiv.org/abs/2311.08320)|null|
+|**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307](http://arxiv.org/abs/2311.08307)|null|
+|**2023-11-14**|**Using Old Laboratory Equipment with Modern Web-of-Things Standards: a Smart Laboratory with LabThings Retro**|Samuel McDermott et.al.|[2311.08200](http://arxiv.org/abs/2311.08200)|null|
+|**2023-11-14**|**A High-Frequency Load-Store Queue with Speculative Allocations for High-Level Synthesis**|Robert Szafarczyk et.al.|[2311.08198](http://arxiv.org/abs/2311.08198)|null|
+|**2023-11-14**|**The Hyperdimensional Transform for Distributional Modelling, Regression and Classification**|Pieter Dewulf et.al.|[2311.08150](http://arxiv.org/abs/2311.08150)|null|
+|**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129](http://arxiv.org/abs/2311.08129)|null|
+|**2023-11-14**|**Lite it fly: An All-Deformable-Butterfly Network**|Rui Lin et.al.|[2311.08125](http://arxiv.org/abs/2311.08125)|null|
+|**2023-11-14**|**Evolutionary-enhanced quantum supervised learning model**|Anton Simen Albino et.al.|[2311.08081](http://arxiv.org/abs/2311.08081)|null|
 |**2023-11-13**|**Explicit Foundation Model Optimization with Self-Attentive Feed-Forward Neural Units**|Jake Ryland Williams et.al.|[2311.07510](http://arxiv.org/abs/2311.07510)|null|
 |**2023-11-13**|**Ara2: Exploring Single- and Multi-Core Vector Processing with an Efficient RVV1.0 Compliant Open-Source Processor**|Matteo Perotti et.al.|[2311.07493](http://arxiv.org/abs/2311.07493)|null|
 |**2023-11-13**|**Reducing Entanglement With Physically-Inspired Fermion-To-Qubit Mappings**|Teodor Parella-Dilmé et.al.|[2311.07409](http://arxiv.org/abs/2311.07409)|null|
@@ -3789,6 +3811,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Retrieve and Copy: Scaling ASR Personalization to Large Catalogs**|Sai Muralidhar Jayanthi et.al.|[2311.08402](http://arxiv.org/abs/2311.08402)|null|
+|**2023-11-14**|**Constant Query Local Decoding Against Deletions Is Impossible**|Meghal Gupta et.al.|[2311.08399](http://arxiv.org/abs/2311.08399)|null|
+|**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398](http://arxiv.org/abs/2311.08398)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
+|**2023-11-14**|**Superconformal Gravity And The Topology Of Diffeomorphism Groups**|Jay Cushing et.al.|[2311.08394](http://arxiv.org/abs/2311.08394)|null|
+|**2023-11-14**|**Iterative Network Pricing for Ridesharing Platforms**|Chenkai Yu et.al.|[2311.08392](http://arxiv.org/abs/2311.08392)|null|
+|**2023-11-14**|**Communication Efficiency of Summation over a Quantum Erasure MAC with Replicated Inputs**|Yuhang Yao et.al.|[2311.08386](http://arxiv.org/abs/2311.08386)|null|
+|**2023-11-14**|**ChOiRe: Characterizing and Predicting Human Opinions with Chain of Opinion Reasoning**|Xuan Long Do et.al.|[2311.08385](http://arxiv.org/abs/2311.08385)|null|
+|**2023-11-14**|**Choosing Outdated Information to Achieve Reliability in Age-Based Gossiping**|Priyanka Kaswan et.al.|[2311.08383](http://arxiv.org/abs/2311.08383)|null|
+|**2023-11-14**|**Learning to Filter Context for Retrieval-Augmented Generation**|Zhiruo Wang et.al.|[2311.08377](http://arxiv.org/abs/2311.08377)|**[link](https://github.com/zorazrw/filco)**|
+|**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**Fast Normalized Cross-Correlation for Template Matching with Rotations**|José María Almira et.al.|[2311.07561](http://arxiv.org/abs/2311.07561)|null|
 |**2023-11-13**|**Fast and Space-Efficient Parallel Algorithms for Influence Maximization**|Letong Wang et.al.|[2311.07554](http://arxiv.org/abs/2311.07554)|null|
@@ -5224,6 +5256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403](http://arxiv.org/abs/2311.08403)|null|
+|**2023-11-14**|**Iterative Network Pricing for Ridesharing Platforms**|Chenkai Yu et.al.|[2311.08392](http://arxiv.org/abs/2311.08392)|null|
+|**2023-11-14**|**A Material Lens on Coloniality in NLP**|William Held et.al.|[2311.08391](http://arxiv.org/abs/2311.08391)|null|
+|**2023-11-14**|**Choosing Outdated Information to Achieve Reliability in Age-Based Gossiping**|Priyanka Kaswan et.al.|[2311.08383](http://arxiv.org/abs/2311.08383)|null|
+|**2023-11-14**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
+|**2023-11-14**|**Speeding Up Optimization-based Motion Planning through Deep Learning**|Johannes Tenhumberg et.al.|[2311.08345](http://arxiv.org/abs/2311.08345)|null|
+|**2023-11-14**|**Causal Message Passing: A Method for Experiments with Unknown and General Network Interference**|Sadegh Shirani et.al.|[2311.08340](http://arxiv.org/abs/2311.08340)|null|
+|**2023-11-14**|**Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI**|Nick Bryan-Kinns et.al.|[2311.08336](http://arxiv.org/abs/2311.08336)|null|
+|**2023-11-14**|**Radio Galaxy Zoo: Leveraging latent space representations from variational autoencoder**|Sambatra Andrianomena et.al.|[2311.08331](http://arxiv.org/abs/2311.08331)|null|
+|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
 |**2023-11-13**|**Feature emergence via margin maximization: case studies in algebraic tasks**|Depen Morwani et.al.|[2311.07568](http://arxiv.org/abs/2311.07568)|null|
@@ -6659,6 +6701,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
+|**2023-11-14**|**Proposing a Physical Mechanism to Explain Various Observed Sources of QPOs by Simulating the Dynamics of Accretion Disks around the Black Holes**|Orhan Donmez et.al.|[2311.08388](http://arxiv.org/abs/2311.08388)|null|
+|**2023-11-14**|**Choosing Outdated Information to Achieve Reliability in Age-Based Gossiping**|Priyanka Kaswan et.al.|[2311.08383](http://arxiv.org/abs/2311.08383)|null|
+|**2023-11-14**|**Mott insulating negative thermal expansion perovskite TiF3**|Donal Sheets et.al.|[2311.08382](http://arxiv.org/abs/2311.08382)|null|
+|**2023-11-14**|**Automated detection of laser cooling schemes for ultracold molecules**|Anna Dawid et.al.|[2311.08381](http://arxiv.org/abs/2311.08381)|null|
+|**2023-11-14**|**Learning to Filter Context for Retrieval-Augmented Generation**|Zhiruo Wang et.al.|[2311.08377](http://arxiv.org/abs/2311.08377)|**[link](https://github.com/zorazrw/filco)**|
+|**2023-11-14**|**Proceedings 19th International Conference on Quantum Physics and Logic**|Stefano Gogioso et.al.|[2311.08375](http://arxiv.org/abs/2311.08375)|null|
+|**2023-11-14**|**Proceedings of the 18th International Workshop on the ACL2 Theorem Prover and Its Applications**|Alessandro Coglio et.al.|[2311.08373](http://arxiv.org/abs/2311.08373)|null|
+|**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
+|**2023-11-14**|**SimpleSafetyTests: a Test Suite for Identifying Critical Safety Risks in Large Language Models**|Bertie Vidgen et.al.|[2311.08370](http://arxiv.org/abs/2311.08370)|null|
 |**2023-11-13**|**The local moduli space of the Einstein-Yang-Mills system**|Severin Bunk et.al.|[2311.07572](http://arxiv.org/abs/2311.07572)|null|
 |**2023-11-13**|**Optimal Load Shedding for Public Safety Power Shutoffs**|Aniruddha Rajendra Rao et.al.|[2311.07569](http://arxiv.org/abs/2311.07569)|null|
 |**2023-11-13**|**Learning Control Policies of Hodgkin-Huxley Neuronal Dynamics**|Malvern Madondo et.al.|[2311.07563](http://arxiv.org/abs/2311.07563)|null|
