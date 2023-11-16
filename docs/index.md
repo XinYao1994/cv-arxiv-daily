@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2429,7 +2429,7 @@ layout: default
 |**2023-11-14**|**Polarization angle accuracy for future CMB experiments. The COSMOCal project and its prototype in the 1mm band**|A. Ritacco et.al.|[2311.08307](http://arxiv.org/abs/2311.08307)|null|
 |**2023-11-14**|**Using Old Laboratory Equipment with Modern Web-of-Things Standards: a Smart Laboratory with LabThings Retro**|Samuel McDermott et.al.|[2311.08200](http://arxiv.org/abs/2311.08200)|null|
 |**2023-11-14**|**A High-Frequency Load-Store Queue with Speculative Allocations for High-Level Synthesis**|Robert Szafarczyk et.al.|[2311.08198](http://arxiv.org/abs/2311.08198)|null|
-|**2023-11-14**|**The Hyperdimensional Transform for Distributional Modelling, Regression and Classification**|Pieter Dewulf et.al.|[2311.08150](http://arxiv.org/abs/2311.08150)|null|
+|**2023-11-14**|**The Hyperdimensional Transform for Distributional Modelling, Regression and Classification**|Pieter Dewulf et.al.|[2311.08150](http://arxiv.org/abs/2311.08150)|**[link](https://github.com/padwulf/chap6_transform_applications)**|
 |**2023-11-14**|**Learning based Deep Disentangling Light Field Reconstruction and Disparity Estimation Application**|Langqing Shi et.al.|[2311.08129](http://arxiv.org/abs/2311.08129)|null|
 |**2023-11-14**|**Lite it fly: An All-Deformable-Butterfly Network**|Rui Lin et.al.|[2311.08125](http://arxiv.org/abs/2311.08125)|null|
 |**2023-11-14**|**Evolutionary-enhanced quantum supervised learning model**|Anton Simen Albino et.al.|[2311.08081](http://arxiv.org/abs/2311.08081)|null|
@@ -5263,7 +5263,7 @@ layout: default
 |**2023-11-14**|**The Transient Nature of Emergent In-Context Learning in Transformers**|Aaditya K. Singh et.al.|[2311.08360](http://arxiv.org/abs/2311.08360)|null|
 |**2023-11-14**|**Speeding Up Optimization-based Motion Planning through Deep Learning**|Johannes Tenhumberg et.al.|[2311.08345](http://arxiv.org/abs/2311.08345)|null|
 |**2023-11-14**|**Causal Message Passing: A Method for Experiments with Unknown and General Network Interference**|Sadegh Shirani et.al.|[2311.08340](http://arxiv.org/abs/2311.08340)|null|
-|**2023-11-14**|**Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI**|Nick Bryan-Kinns et.al.|[2311.08336](http://arxiv.org/abs/2311.08336)|null|
+|**2023-11-14**|**Exploring Variational Auto-Encoder Architectures, Configurations, and Datasets for Generative Music Explainable AI**|Nick Bryan-Kinns et.al.|[2311.08336](http://arxiv.org/abs/2311.08336)|**[link](https://github.com/bbanar2/exploring_xai_in_genmus_via_lsr)**|
 |**2023-11-14**|**Radio Galaxy Zoo: Leveraging latent space representations from variational autoencoder**|Sambatra Andrianomena et.al.|[2311.08331](http://arxiv.org/abs/2311.08331)|null|
 |**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575](http://arxiv.org/abs/2311.07575)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
