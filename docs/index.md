@@ -97,6 +97,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Context Adaptive Cooperation**|Timothé Albouy et.al.|[2311.08776](http://arxiv.org/abs/2311.08776)|null|
+|**2023-11-15**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728](http://arxiv.org/abs/2311.08728)|null|
+|**2023-11-14**|**Exploration of Hyperledger Besu in Designing Private Blockchain-based Financial Distribution Systems**|Md. Raisul Hasan Shahrukh et.al.|[2311.08483](http://arxiv.org/abs/2311.08483)|null|
 |**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
 |**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
 |**2023-11-13**|**Advancements in Enhancing Resilience of Electrical Distribution Systems: A Review on Frameworks, Metrics, and Technological Innovations**|Divyanshi Dwivedi et.al.|[2311.07050](http://arxiv.org/abs/2311.07050)|null|
@@ -323,6 +326,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Constraints on the Cosmic Star Formation History via a new modeling of the SFG radio luminosity function**|Wenjie Wang et.al.|[2311.08975](http://arxiv.org/abs/2311.08975)|null|
+|**2023-11-15**|**DLAS: An Exploration and Assessment of the Deep Learning Acceleration Stack**|Perry Gibson et.al.|[2311.08909](http://arxiv.org/abs/2311.08909)|null|
+|**2023-11-15**|**sQueeze: Accelerated Quantum Pulse Schedules**|Lilian Hunt Alan Robertson et.al.|[2311.08742](http://arxiv.org/abs/2311.08742)|null|
+|**2023-11-14**|**Lecture notes on quantum computing**|Anton Frisk Kockum et.al.|[2311.08445](http://arxiv.org/abs/2311.08445)|null|
 |**2023-11-14**|**Kilometric type II radio emissions in Wind/WAVES TNR data and association with interplanetary structures near Earth**|Franco Manini et.al.|[2311.08266](http://arxiv.org/abs/2311.08266)|null|
 |**2023-11-13**|**Sidekick compilation with xDSL**|Mathieu Fehr et.al.|[2311.07422](http://arxiv.org/abs/2311.07422)|null|
 |**2023-11-13**|**Unboxed data constructors -- or, how cpp decides a halting problem**|Nicolas Chataing et.al.|[2311.07369](http://arxiv.org/abs/2311.07369)|null|
@@ -978,6 +985,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**An efficient and exact noncommutative quantum Gibbs sampler**|Chi-Fang Chen et.al.|[2311.09207](http://arxiv.org/abs/2311.09207)|null|
+|**2023-11-15**|**A Unified Approach to Learning Ising Models: Beyond Independence and Bounded Width**|Jason Gaitonde et.al.|[2311.09197](http://arxiv.org/abs/2311.09197)|null|
+|**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
+|**2023-11-15**|**On the Computation of the Gaussian Rate-Distortion-Perception Function**|Giuseppe Serra et.al.|[2311.09190](http://arxiv.org/abs/2311.09190)|null|
+|**2023-11-15**|**Unified incremental nonlinear controller for the transition control of a hybrid dual-axis tilting rotor quad-plane**|Alessandro Mancinelli et.al.|[2311.09185](http://arxiv.org/abs/2311.09185)|null|
+|**2023-11-15**|**Characterizing the efficacy of methods to subtract terrestrial transient noise near gravitational wave events and the effects on parameter estimation**|Sudarshan Ghonge et.al.|[2311.09159](http://arxiv.org/abs/2311.09159)|null|
+|**2023-11-15**|**Predicting risk/reward ratio in financial markets for asset management using machine learning**|Reza Yarbakhsh et.al.|[2311.09148](http://arxiv.org/abs/2311.09148)|null|
+|**2023-11-15**|**Prophet Inequalities Require Only a Constant Number of Samples**|Andrés Cristi et.al.|[2311.09141](http://arxiv.org/abs/2311.09141)|null|
+|**2023-11-15**|**Scale-free chaos in the 2D harmonically confined Vicsek model**|R. González-Albaladejo et.al.|[2311.09135](http://arxiv.org/abs/2311.09135)|null|
+|**2023-11-15**|**Scalable and Effective Generative Information Retrieval**|Hansi Zeng et.al.|[2311.09134](http://arxiv.org/abs/2311.09134)|**[link](https://github.com/hansizeng/ripor)**|
 |**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403](http://arxiv.org/abs/2311.08403)|null|
 |**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
 |**2023-11-14**|**Constant Query Local Decoding Against Deletions Is Impossible**|Meghal Gupta et.al.|[2311.08399](http://arxiv.org/abs/2311.08399)|null|
@@ -2423,6 +2440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**The International Large Detector (ILD) for a future electron-positron collider: Status and Plans**|Ulrich Einhaus et.al.|[2311.09181](http://arxiv.org/abs/2311.09181)|null|
+|**2023-11-15**|**Generalized Neighbor Search using Commodity Hardware Acceleration**|Durga Mandarapu et.al.|[2311.09168](http://arxiv.org/abs/2311.09168)|null|
+|**2023-11-15**|**DLAS: An Exploration and Assessment of the Deep Learning Acceleration Stack**|Perry Gibson et.al.|[2311.08909](http://arxiv.org/abs/2311.08909)|null|
+|**2023-11-15**|**Verification of a Rust Implementation of Knuth's Dancing Links using ACL2**|David S. Hardin et.al.|[2311.08862](http://arxiv.org/abs/2311.08862)|null|
+|**2023-11-15**|**AdVENTR: Autonomous Robot Navigation in Complex Outdoor Environments**|Kasun Weerakoon et.al.|[2311.08740](http://arxiv.org/abs/2311.08740)|null|
+|**2023-11-15**|**Massive Wireless Energy Transfer without Channel State Information via Imperfect Intelligent Reflecting Surfaces**|Cheng Luo et.al.|[2311.08720](http://arxiv.org/abs/2311.08720)|null|
+|**2023-11-15**|**Low Complexity High Speed Deep Neural Network Augmented Wireless Channel Estimation**|Syed Asrar ul haq et.al.|[2311.08689](http://arxiv.org/abs/2311.08689)|null|
+|**2023-11-15**|**High-Precision Fruit Localization Using Active Laser-Camera Scanning: Robust Laser Line Extraction for 2D-3D Transformation**|Pengyu Chu et.al.|[2311.08674](http://arxiv.org/abs/2311.08674)|null|
+|**2023-11-14**|**Carbon Responder: Coordinating Demand Response for the Datacenter Fleet**|Jiali Xing et.al.|[2311.08589](http://arxiv.org/abs/2311.08589)|null|
+|**2023-11-14**|**DREAMPlaceFPGA-MP: An Open-Source GPU-Accelerated Macro Placer for Modern FPGAs with Cascade Shapes and Region Constraints**|Zhili Xiong et.al.|[2311.08582](http://arxiv.org/abs/2311.08582)|null|
 |**2023-11-14**|**Hierarchical Experience-informed Navigation for Multi-modal Quadrupedal Rebar Grid Traversal**|Max Asselmeier et.al.|[2311.08354](http://arxiv.org/abs/2311.08354)|null|
 |**2023-11-14**|**GT4Py: High Performance Stencils for Weather and Climate Applications using Python**|Enrique G. Paredes et.al.|[2311.08322](http://arxiv.org/abs/2311.08322)|null|
 |**2023-11-14**|**CV32RT: Enabling Fast Interrupt and Context Switching for RISC-V Microcontrollers**|Robert Balas et.al.|[2311.08320](http://arxiv.org/abs/2311.08320)|null|
@@ -3811,6 +3838,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210](http://arxiv.org/abs/2311.09210)|null|
+|**2023-11-15**|**Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**|D. Vohl et.al.|[2311.09201](http://arxiv.org/abs/2311.09201)|null|
+|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|He Junqing et.al.|[2311.09198](http://arxiv.org/abs/2311.09198)|null|
+|**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
+|**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
+|**2023-11-15**|**Domain Aligned CLIP for Few-shot Classification**|Muhammad Waleed Gondal et.al.|[2311.09191](http://arxiv.org/abs/2311.09191)|null|
+|**2023-11-15**|**On the Computation of the Gaussian Rate-Distortion-Perception Function**|Giuseppe Serra et.al.|[2311.09190](http://arxiv.org/abs/2311.09190)|null|
+|**2023-11-15**|**PEARL: Personalizing Large Language Model Writing Assistants with Generation-Calibrated Retrievers**|Sheshera Mysore et.al.|[2311.09180](http://arxiv.org/abs/2311.09180)|null|
+|**2023-11-15**|**Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**|Minghan Li et.al.|[2311.09175](http://arxiv.org/abs/2311.09175)|null|
+|**2023-11-15**|**Design Theory for Societal Digital Transformation: The Case of Digital Global Health**|Jorn Braa et.al.|[2311.09173](http://arxiv.org/abs/2311.09173)|null|
 |**2023-11-14**|**Retrieve and Copy: Scaling ASR Personalization to Large Catalogs**|Sai Muralidhar Jayanthi et.al.|[2311.08402](http://arxiv.org/abs/2311.08402)|null|
 |**2023-11-14**|**Constant Query Local Decoding Against Deletions Is Impossible**|Meghal Gupta et.al.|[2311.08399](http://arxiv.org/abs/2311.08399)|null|
 |**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398](http://arxiv.org/abs/2311.08398)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
@@ -5256,6 +5293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Stability of topologically protected slow light against disorder**|Jonas F. Karcher et.al.|[2311.09220](http://arxiv.org/abs/2311.09220)|null|
+|**2023-11-15**|**Topology of Pulsar Profiles (ToPP). I. Graph theory method and classification of the EPN**|D. Vohl et.al.|[2311.09201](http://arxiv.org/abs/2311.09201)|null|
+|**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200](http://arxiv.org/abs/2311.09200)|null|
+|**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
+|**2023-11-15**|**On the Computation of the Gaussian Rate-Distortion-Perception Function**|Giuseppe Serra et.al.|[2311.09190](http://arxiv.org/abs/2311.09190)|null|
+|**2023-11-15**|**SiRA: Sparse Mixture of Low Rank Adaptation**|Yun Zhu et.al.|[2311.09179](http://arxiv.org/abs/2311.09179)|null|
+|**2023-11-15**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Dareen Hussein et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
+|**2023-11-15**|**Enhancing AmBC Systems with Deep Learning for Joint Channel Estimation and Signal Detection**|S. Zargari et.al.|[2311.09172](http://arxiv.org/abs/2311.09172)|null|
+|**2023-11-15**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162](http://arxiv.org/abs/2311.09162)|null|
+|**2023-11-15**|**Rate-induced tipping in complex high-dimensional ecological networks**|Shirin Panahi et.al.|[2311.09140](http://arxiv.org/abs/2311.09140)|null|
 |**2023-11-14**|**Instant3D: Instant Text-to-3D Generation**|Ming Li et.al.|[2311.08403](http://arxiv.org/abs/2311.08403)|null|
 |**2023-11-14**|**Iterative Network Pricing for Ridesharing Platforms**|Chenkai Yu et.al.|[2311.08392](http://arxiv.org/abs/2311.08392)|null|
 |**2023-11-14**|**A Material Lens on Coloniality in NLP**|William Held et.al.|[2311.08391](http://arxiv.org/abs/2311.08391)|null|
@@ -6701,6 +6748,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Stability of topologically protected slow light against disorder**|Jonas F. Karcher et.al.|[2311.09220](http://arxiv.org/abs/2311.09220)|null|
+|**2023-11-15**|**Massive quantum systems as interfaces of quantum mechanics and gravity**|Sougato Bose et.al.|[2311.09218](http://arxiv.org/abs/2311.09218)|null|
+|**2023-11-15**|**GRIM: GRaph-based Interactive narrative visualization for gaMes**|Jorge Leandro et.al.|[2311.09213](http://arxiv.org/abs/2311.09213)|null|
+|**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210](http://arxiv.org/abs/2311.09210)|null|
+|**2023-11-15**|**When Is Multilinguality a Curse? Language Modeling for 250 High- and Low-Resource Languages**|Tyler A. Chang et.al.|[2311.09205](http://arxiv.org/abs/2311.09205)|**[link](https://github.com/tylerachang/curse-of-multilinguality)**|
+|**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204](http://arxiv.org/abs/2311.09204)|null|
+|**2023-11-15**|**Non-archimedean topological monoids**|Michael Megrelishvili et.al.|[2311.09187](http://arxiv.org/abs/2311.09187)|null|
+|**2023-11-15**|**Unified incremental nonlinear controller for the transition control of a hybrid dual-axis tilting rotor quad-plane**|Alessandro Mancinelli et.al.|[2311.09185](http://arxiv.org/abs/2311.09185)|null|
+|**2023-11-15**|**Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization**|Yixin Liu et.al.|[2311.09184](http://arxiv.org/abs/2311.09184)|**[link](https://github.com/yale-nlp/instrusum)**|
+|**2023-11-15**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Dareen Hussein et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
 |**2023-11-14**|**Fine-tuning Language Models for Factuality**|Katherine Tian et.al.|[2311.08401](http://arxiv.org/abs/2311.08401)|null|
 |**2023-11-14**|**Proposing a Physical Mechanism to Explain Various Observed Sources of QPOs by Simulating the Dynamics of Accretion Disks around the Black Holes**|Orhan Donmez et.al.|[2311.08388](http://arxiv.org/abs/2311.08388)|null|
 |**2023-11-14**|**Choosing Outdated Information to Achieve Reliability in Age-Based Gossiping**|Priyanka Kaswan et.al.|[2311.08383](http://arxiv.org/abs/2311.08383)|null|
