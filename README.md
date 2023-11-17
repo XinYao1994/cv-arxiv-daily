@@ -114,7 +114,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-15**|**Context Adaptive Cooperation**|Timothé Albouy et.al.|[2311.08776](http://arxiv.org/abs/2311.08776)|null|
-|**2023-11-15**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728](http://arxiv.org/abs/2311.08728)|null|
+|**2023-11-16**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728](http://arxiv.org/abs/2311.08728)|null|
 |**2023-11-14**|**Exploration of Hyperledger Besu in Designing Private Blockchain-based Financial Distribution Systems**|Md. Raisul Hasan Shahrukh et.al.|[2311.08483](http://arxiv.org/abs/2311.08483)|null|
 |**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
 |**2023-11-13**|**Causality Diagrams using Hybrid Vector Clocks**|Ishaan Lagwankar et.al.|[2311.07535](http://arxiv.org/abs/2311.07535)|null|
@@ -6777,7 +6777,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-15**|**Stability of topologically protected slow light against disorder**|Jonas F. Karcher et.al.|[2311.09220](http://arxiv.org/abs/2311.09220)|null|
-|**2023-11-15**|**Massive quantum systems as interfaces of quantum mechanics and gravity**|Sougato Bose et.al.|[2311.09218](http://arxiv.org/abs/2311.09218)|null|
+|**2023-11-16**|**Massive quantum systems as interfaces of quantum mechanics and gravity**|Sougato Bose et.al.|[2311.09218](http://arxiv.org/abs/2311.09218)|null|
 |**2023-11-15**|**GRIM: GRaph-based Interactive narrative visualization for gaMes**|Jorge Leandro et.al.|[2311.09213](http://arxiv.org/abs/2311.09213)|null|
 |**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210](http://arxiv.org/abs/2311.09210)|null|
 |**2023-11-15**|**When Is Multilinguality a Curse? Language Modeling for 250 High- and Low-Resource Languages**|Tyler A. Chang et.al.|[2311.09205](http://arxiv.org/abs/2311.09205)|**[link](https://github.com/tylerachang/curse-of-multilinguality)**|
