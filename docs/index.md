@@ -97,6 +97,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
+|**2023-11-17**|**On Risk Evaluation and Control of Distributed Multi-Agent Systems**|Aray Almen et.al.|[2311.10287](http://arxiv.org/abs/2311.10287)|null|
 |**2023-11-15**|**Context Adaptive Cooperation**|Timothé Albouy et.al.|[2311.08776](http://arxiv.org/abs/2311.08776)|null|
 |**2023-11-16**|**Optimal Placement of Capacitor in Distribution System using Particle Swarm Optimization**|Izhar Ul Haq et.al.|[2311.08728](http://arxiv.org/abs/2311.08728)|null|
 |**2023-11-14**|**Exploration of Hyperledger Besu in Designing Private Blockchain-based Financial Distribution Systems**|Md. Raisul Hasan Shahrukh et.al.|[2311.08483](http://arxiv.org/abs/2311.08483)|null|
@@ -326,6 +328,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation**|Xiaoyang Chen et.al.|[2311.10696](http://arxiv.org/abs/2311.10696)|null|
+|**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
+|**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
+|**2023-11-17**|**An efficient quantum parallel repetition theorem and applications**|John Bostanci et.al.|[2311.10681](http://arxiv.org/abs/2311.10681)|null|
+|**2023-11-17**|**Secure Instruction and Data-Level Information Flow Tracking Model for RISC-V**|Geraldine Shirley Nicholas et.al.|[2311.10283](http://arxiv.org/abs/2311.10283)|null|
+|**2023-11-16**|**TAPA-CS: Enabling Scalable Accelerator Design on Distributed HBM-FPGAs**|Neha Prakriya et.al.|[2311.10189](http://arxiv.org/abs/2311.10189)|null|
+|**2023-11-16**|**The edges of galaxies in the Fornax Cluster: Fifty percent smaller and denser compared to the field**|Nushkia Chamba et.al.|[2311.10144](http://arxiv.org/abs/2311.10144)|null|
 |**2023-11-16**|**A characterization of efficiently compilable constraint languages**|Christoph Berkholz et.al.|[2311.10040](http://arxiv.org/abs/2311.10040)|null|
 |**2023-11-16**|**INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing**|Hanbin Wang et.al.|[2311.09868](http://arxiv.org/abs/2311.09868)|**[link](https://github.com/neuir/intervenor)**|
 |**2023-11-16**|**PELMS: Pre-training for Effective Low-Shot Multi-Document Summarization**|Joseph J. Peper et.al.|[2311.09836](http://arxiv.org/abs/2311.09836)|null|
@@ -991,6 +1000,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706](http://arxiv.org/abs/2311.10706)|null|
+|**2023-11-17**|**Deriving Algorithms for Triangular Tridiagonalization a (Skew-)Symmetric Matrix**|Robert van de Geijn et.al.|[2311.10700](http://arxiv.org/abs/2311.10700)|null|
+|**2023-11-17**|**A sliding window-based algorithm for faster transformation of time series into complex networks**|R. Carmona-Cabezas et.al.|[2311.10688](http://arxiv.org/abs/2311.10688)|null|
+|**2023-11-17**|**An efficient quantum parallel repetition theorem and applications**|John Bostanci et.al.|[2311.10681](http://arxiv.org/abs/2311.10681)|null|
+|**2023-11-17**|**Optimal Embedding Dimension for Sparse Subspace Embeddings**|Shabarish Chenakkod et.al.|[2311.10680](http://arxiv.org/abs/2311.10680)|null|
+|**2023-11-17**|**Optimal Path Planning for Aerial Load Transportation in Complex Environments using PSO-Improved Artificial Potential Fields**|Ali Akbar Rezaei Lori et.al.|[2311.10675](http://arxiv.org/abs/2311.10675)|null|
+|**2023-11-17**|**Target-based Distributionally Robust Minimum Spanning Tree Problem**|Yang Xu et.al.|[2311.10670](http://arxiv.org/abs/2311.10670)|null|
+|**2023-11-17**|**Simplified algorithm for the Worldvolume HMC and the Generalized-thimble HMC**|Masafumi Fukuma et.al.|[2311.10663](http://arxiv.org/abs/2311.10663)|null|
+|**2023-11-17**|**$k$ -Universality of Regular Languages**|Duncan Adamson et.al.|[2311.10658](http://arxiv.org/abs/2311.10658)|null|
+|**2023-11-17**|**A BRAIN study to tackle image analysis with artificial intelligence in the ALMA 2030 era**|Fabrizia Guglielmetti et.al.|[2311.10657](http://arxiv.org/abs/2311.10657)|null|
 |**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090](http://arxiv.org/abs/2311.10090)|**[link](https://github.com/flairox/jaxmarl)**|
 |**2023-11-16**|**A Computationally Efficient Sparsified Online Newton Method**|Fnu Devvrit et.al.|[2311.10085](http://arxiv.org/abs/2311.10085)|null|
 |**2023-11-16**|**Characterizing Tradeoffs in Language Model Decoding with Informational Interpretations**|Chung-Ching Chang et.al.|[2311.10083](http://arxiv.org/abs/2311.10083)|null|
@@ -2456,6 +2475,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
+|**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
+|**2023-11-17**|**QKD Entity Source Authentication: Defense-in-Depth for Post Quantum Cryptography**|John J. Prisco et.al.|[2311.10636](http://arxiv.org/abs/2311.10636)|null|
+|**2023-11-17**|**Simulating photonic devices with noisy optical elements**|Michele Vischi et.al.|[2311.10613](http://arxiv.org/abs/2311.10613)|null|
+|**2023-11-17**|**Assessing Quantum Computing Performance for Energy Optimization in a Prosumer Community**|Carlo Mastroianni et.al.|[2311.10594](http://arxiv.org/abs/2311.10594)|null|
+|**2023-11-17**|**LUNA-CIM: Lookup Table based Programmable Neural Processing in Memory**|Peyman Dehghanzadeh et.al.|[2311.10581](http://arxiv.org/abs/2311.10581)|null|
+|**2023-11-17**|**Archtree: on-the-fly tree-structured exploration for latency-aware pruning of deep neural networks**|Rémi Ouazan Reboul et.al.|[2311.10549](http://arxiv.org/abs/2311.10549)|null|
+|**2023-11-17**|**Mutual Coupling in RIS-Aided Communication: Experimental Validation and Performance Evaluation**|Pinjun Zheng et.al.|[2311.10544](http://arxiv.org/abs/2311.10544)|null|
+|**2023-11-17**|**A Tale of Unrealized Hope: Hardware Performance Counter Against Cache Attacks**|William Kosasih et.al.|[2311.10542](http://arxiv.org/abs/2311.10542)|null|
+|**2023-11-17**|**A Large-Scale Study on the Prevalence and Usage of TEE-based Features on Android**|Davide Bove et.al.|[2311.10511](http://arxiv.org/abs/2311.10511)|null|
 |**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090](http://arxiv.org/abs/2311.10090)|**[link](https://github.com/flairox/jaxmarl)**|
 |**2023-11-16**|**Linear-scaling local natural orbital CCSD(T) approach for open-shell systems: algorithm, benchmarks, and large-scale applications**|P. Bernát Szabó et.al.|[2311.10048](http://arxiv.org/abs/2311.10048)|null|
 |**2023-11-16**|**VertDetect: Fully End-to-End 3D Vertebral Instance Segmentation Model**|Geoff Klein et.al.|[2311.09958](http://arxiv.org/abs/2311.09958)|null|
@@ -3864,6 +3893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
+|**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707](http://arxiv.org/abs/2311.10707)|null|
+|**2023-11-17**|**SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing**|Soham Chitnis et.al.|[2311.10701](http://arxiv.org/abs/2311.10701)|null|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697](http://arxiv.org/abs/2311.10697)|null|
+|**2023-11-17**|**Polarimetric Geometric Modeling for mm-VLBI Observations of Black Holes**|Freek Roelofs et.al.|[2311.10695](http://arxiv.org/abs/2311.10695)|null|
+|**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen et.al.|[2311.10689](http://arxiv.org/abs/2311.10689)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678](http://arxiv.org/abs/2311.10678)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**Revisiting $ε$ Eridani with NEID: Identifying New Activity-Sensitive Lines in a Young K Dwarf Star**|Sarah Jiang et.al.|[2311.10677](http://arxiv.org/abs/2311.10677)|null|
+|**2023-11-17**|**Non-Zero Mean Quantum Wishart Distribution Of Random Quantum States**|Shrobona Bagchi et.al.|[2311.10672](http://arxiv.org/abs/2311.10672)|null|
+|**2023-11-17**|**Target-based Distributionally Robust Minimum Spanning Tree Problem**|Yang Xu et.al.|[2311.10670](http://arxiv.org/abs/2311.10670)|null|
 |**2023-11-16**|**Traffic Video Object Detection using Motion Prior**|Lihao Liu et.al.|[2311.10092](http://arxiv.org/abs/2311.10092)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089](http://arxiv.org/abs/2311.10089)|null|
 |**2023-11-16**|**Characterizing Tradeoffs in Language Model Decoding with Informational Interpretations**|Chung-Ching Chang et.al.|[2311.10083](http://arxiv.org/abs/2311.10083)|null|
@@ -5329,6 +5368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
+|**2023-11-17**|**Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders**|Marcel Marais et.al.|[2311.10699](http://arxiv.org/abs/2311.10699)|**[link](https://github.com/artefactory-uk/autoencoder-paper)**|
+|**2023-11-17**|**A sliding window-based algorithm for faster transformation of time series into complex networks**|R. Carmona-Cabezas et.al.|[2311.10688](http://arxiv.org/abs/2311.10688)|null|
+|**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
+|**2023-11-17**|**Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference**|Marvin Schmitt et.al.|[2311.10671](http://arxiv.org/abs/2311.10671)|null|
+|**2023-11-17**|**Target-based Distributionally Robust Minimum Spanning Tree Problem**|Yang Xu et.al.|[2311.10670](http://arxiv.org/abs/2311.10670)|null|
+|**2023-11-17**|**User Dynamics-Aware Edge Caching and Computing for Mobile Virtual Reality**|Mushu Li et.al.|[2311.10645](http://arxiv.org/abs/2311.10645)|null|
+|**2023-11-17**|**Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers**|Vukasin Bozic et.al.|[2311.10642](http://arxiv.org/abs/2311.10642)|null|
+|**2023-11-17**|**Multi-delay arterial spin-labeled perfusion estimation with biophysics simulation and deep learning**|Renjiu Hu et.al.|[2311.10640](http://arxiv.org/abs/2311.10640)|null|
+|**2023-11-17**|**Exploring the Potential for Detecting Rotational Instabilities in Binary Neutron Star Merger Remnants with Gravitational Wave Detectors**|Argyro Sasli et.al.|[2311.10626](http://arxiv.org/abs/2311.10626)|null|
 |**2023-11-16**|**A Computationally Efficient Sparsified Online Newton Method**|Fnu Devvrit et.al.|[2311.10085](http://arxiv.org/abs/2311.10085)|null|
 |**2023-11-16**|**Visual Environment Assessment for Safe Autonomous Quadrotor Landing**|Mattia Secchiero et.al.|[2311.10065](http://arxiv.org/abs/2311.10065)|null|
 |**2023-11-16**|**FENDL: A library for fusion research and applications**|G. Schnabel et.al.|[2311.10063](http://arxiv.org/abs/2311.10063)|null|
@@ -6794,6 +6843,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
+|**2023-11-17**|**Principles for single-pixel terahertz imaging based on the engineering of illuminating and collecting nonparaxial diffractive optics**|Sergej Orlov et.al.|[2311.10694](http://arxiv.org/abs/2311.10694)|null|
+|**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen et.al.|[2311.10689](http://arxiv.org/abs/2311.10689)|null|
+|**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
+|**2023-11-17**|**An efficient quantum parallel repetition theorem and applications**|John Bostanci et.al.|[2311.10681](http://arxiv.org/abs/2311.10681)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678](http://arxiv.org/abs/2311.10678)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**Optimal Path Planning for Aerial Load Transportation in Complex Environments using PSO-Improved Artificial Potential Fields**|Ali Akbar Rezaei Lori et.al.|[2311.10675](http://arxiv.org/abs/2311.10675)|null|
+|**2023-11-17**|**Entire curves generating all shapes of Nevanlinna currents**|Hao Wu et.al.|[2311.10667](http://arxiv.org/abs/2311.10667)|null|
+|**2023-11-17**|**Online Calibration of Deep Learning Sub-Models for Hybrid Numerical Modeling Systems**|Said Ouala et.al.|[2311.10665](http://arxiv.org/abs/2311.10665)|null|
+|**2023-11-17**|**Simplified algorithm for the Worldvolume HMC and the Generalized-thimble HMC**|Masafumi Fukuma et.al.|[2311.10663](http://arxiv.org/abs/2311.10663)|null|
 |**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090](http://arxiv.org/abs/2311.10090)|**[link](https://github.com/flairox/jaxmarl)**|
 |**2023-11-16**|**On valley asymmetry in a topological interaction for quasi-particles**|G. B. de Gracia et.al.|[2311.10073](http://arxiv.org/abs/2311.10073)|null|
 |**2023-11-16**|**Coupled-channel description of charmed heavy hadronic molecules within the meson-exchange model and its implication**|Lin Qiu et.al.|[2311.10067](http://arxiv.org/abs/2311.10067)|null|
