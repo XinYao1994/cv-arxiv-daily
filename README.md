@@ -113,6 +113,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
+|**2023-11-20**|**Secure Data Transmission over Insecure Radio Channel in Wireless of Things (WoT) Network**|Prokash Barman et.al.|[2311.11864](http://arxiv.org/abs/2311.11864)|null|
+|**2023-11-20**|**Crash-Stop Failures in Asynchronous Multiparty Session Types**|Adam D. Barwell et.al.|[2311.11851](http://arxiv.org/abs/2311.11851)|null|
+|**2023-11-20**|**Demonstrating Almost Linear Time Complexity of Bus Admittance Matrix-Based Distribution Network Power Flow: An Empirical Approach**|Matthew Deakin et.al.|[2311.11704](http://arxiv.org/abs/2311.11704)|null|
+|**2023-11-19**|**Assessment of Transmission-level Fault Impacts on 3-phase and 1-phase Distribution IBR Operation**|Qi Xiao et.al.|[2311.11339](http://arxiv.org/abs/2311.11339)|null|
 |**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
 |**2023-11-17**|**On Risk Evaluation and Control of Distributed Multi-Agent Systems**|Aray Almen et.al.|[2311.10287](http://arxiv.org/abs/2311.10287)|null|
 |**2023-11-15**|**Context Adaptive Cooperation**|Timothé Albouy et.al.|[2311.08776](http://arxiv.org/abs/2311.08776)|null|
@@ -346,6 +351,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Effects and Coeffects in Call-By-Push-Value (Extended Version)**|Cassia Torczon et.al.|[2311.11795](http://arxiv.org/abs/2311.11795)|null|
+|**2023-11-20**|**Chasing the break: Tracing the full evolution of a black hole X-ray binary jet with multi-wavelength spectral modeling**|Constanza Echiburú-Trujillo et.al.|[2311.11523](http://arxiv.org/abs/2311.11523)|null|
+|**2023-11-20**|**Portable, Efficient, and Practical Library-Level Choreographic Programming**|Shun Kashiwa et.al.|[2311.11472](http://arxiv.org/abs/2311.11472)|null|
+|**2023-11-19**|**PIMSAB: A Processing-In-Memory System with Spatially-Aware Communication and Bit-Serial-Aware Computation**|Aman Arora et.al.|[2311.11384](http://arxiv.org/abs/2311.11384)|null|
+|**2023-11-19**|**Algorithms for Gromov-Witten Invariants of Elliptic Curves**|Firoozeh Aga et.al.|[2311.11381](http://arxiv.org/abs/2311.11381)|null|
+|**2023-11-18**|**Radiology Report Generation Using Transformers Conditioned with Non-imaging Data**|Nurbanu Aksoy et.al.|[2311.11097](http://arxiv.org/abs/2311.11097)|null|
+|**2023-11-18**|**Demonstration of Maxwell Demon-assistant Einstein-Podolsky-Rosen Steering via Superconducting Quantum Processor**|Z. T. Wang et.al.|[2311.10955](http://arxiv.org/abs/2311.10955)|null|
 |**2023-11-17**|**Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation**|Xiaoyang Chen et.al.|[2311.10696](http://arxiv.org/abs/2311.10696)|null|
 |**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
 |**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
@@ -1020,6 +1032,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Rate-Independent Gradient Crystal Plasticity Theory -- Robust Algorithmic Formulations based on Incremental Energy Minimization**|Volker Fohrmeister et.al.|[2311.12026](http://arxiv.org/abs/2311.12026)|null|
+|**2023-11-20**|**LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning**|Han Guo et.al.|[2311.12023](http://arxiv.org/abs/2311.12023)|**[link](https://github.com/hanguo97/lq-lora)**|
+|**2023-11-20**|**An Empirical Study of Self-Admitted Technical Debt in Machine Learning Software**|Aaditya Bhatia et.al.|[2311.12019](http://arxiv.org/abs/2311.12019)|null|
+|**2023-11-20**|**Bayesian Semiparametric Estimation of Heterogeneous Effects in Matched Case-Control Studies with an Application to Alzheimer's Disease and Heat**|Jacob Englert et.al.|[2311.12016](http://arxiv.org/abs/2311.12016)|null|
+|**2023-11-20**|**Efficient Algorithms for All Port-Based Teleportation Protocols**|Adam Wills et.al.|[2311.12012](http://arxiv.org/abs/2311.12012)|null|
+|**2023-11-20**|**Steering Responsible AI: A Case for Algorithmic Pluralism**|Stefaan G. Verhulst et.al.|[2311.12010](http://arxiv.org/abs/2311.12010)|null|
+|**2023-11-20**|**Realization of quantum algorithms with qudits**|Evgeniy O. Kiktenko et.al.|[2311.12003](http://arxiv.org/abs/2311.12003)|null|
+|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
+|**2023-11-20**|**Adaptive Training Distributions with Scalable Online Bilevel Optimization**|David Grangier et.al.|[2311.11973](http://arxiv.org/abs/2311.11973)|null|
+|**2023-11-20**|**Provably Efficient CVaR RL in Low-rank MDPs**|Yulai Zhao et.al.|[2311.11965](http://arxiv.org/abs/2311.11965)|null|
 |**2023-11-17**|**Cactus Representations in Polylogarithmic Max-flow via Maximal Isolating Mincuts**|Zhongtian He et.al.|[2311.10706](http://arxiv.org/abs/2311.10706)|null|
 |**2023-11-17**|**Deriving Algorithms for Triangular Tridiagonalization a (Skew-)Symmetric Matrix**|Robert van de Geijn et.al.|[2311.10700](http://arxiv.org/abs/2311.10700)|null|
 |**2023-11-17**|**A sliding window-based algorithm for faster transformation of time series into complex networks**|R. Carmona-Cabezas et.al.|[2311.10688](http://arxiv.org/abs/2311.10688)|null|
@@ -2497,6 +2519,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**A Novel Secure NFC-based Approach for BMS Monitoring and Diagnostic Readout**|Fikret Basic et.al.|[2311.12006](http://arxiv.org/abs/2311.12006)|null|
+|**2023-11-20**|**Unbiased Random Number Generation using Injection-Locked Spin-Torque Nano-Oscillators**|Nhat-Tan Phan et.al.|[2311.11982](http://arxiv.org/abs/2311.11982)|null|
+|**2023-11-20**|**Generalization of Fitness Exercise Recognition from Doppler Measurements by Domain-adaption and Few-Shot Learning**|Biying Fu et.al.|[2311.11910](http://arxiv.org/abs/2311.11910)|null|
+|**2023-11-20**|**Efficient Neural Networks for Tiny Machine Learning: A Comprehensive Review**|Minh Tri Lê et.al.|[2311.11883](http://arxiv.org/abs/2311.11883)|null|
+|**2023-11-20**|**Efficient learning of Sparse Pauli Lindblad models for fully connected qubit topology**|Jose Este Jaloveckas et.al.|[2311.11639](http://arxiv.org/abs/2311.11639)|null|
+|**2023-11-19**|**LifeLearner: Hardware-Aware Meta Continual Learning System for Embedded Computing Platforms**|Young D. Kwon et.al.|[2311.11420](http://arxiv.org/abs/2311.11420)|null|
+|**2023-11-19**|**PIMSAB: A Processing-In-Memory System with Spatially-Aware Communication and Bit-Serial-Aware Computation**|Aman Arora et.al.|[2311.11384](http://arxiv.org/abs/2311.11384)|null|
+|**2023-11-19**|**RflyMAD: A Dataset for Multicopter Fault Detection and Health Assessment**|Xiangli Le et.al.|[2311.11340](http://arxiv.org/abs/2311.11340)|null|
+|**2023-11-19**|**Tensor networks for interpretable and efficient quantum-inspired machine learning**|Shi-Ju Ran et.al.|[2311.11258](http://arxiv.org/abs/2311.11258)|null|
+|**2023-11-19**|**HOUND: An Open-Source, Low-cost Research Platform for High-speed Off-road Underactuated Nonholonomic Driving**|Sidharth Talia et.al.|[2311.11199](http://arxiv.org/abs/2311.11199)|null|
 |**2023-11-17**|**TISCC: A Surface Code Compiler and Resource Estimator for Trapped-Ion Processors**|Tyler LeBlond et.al.|[2311.10687](http://arxiv.org/abs/2311.10687)|null|
 |**2023-11-17**|**Realistic Cost to Execute Practical Quantum Circuits using Direct Clifford+T Lattice Surgery Compilation**|Tyler LeBlond et.al.|[2311.10686](http://arxiv.org/abs/2311.10686)|null|
 |**2023-11-17**|**QKD Entity Source Authentication: Defense-in-Depth for Post Quantum Cryptography**|John J. Prisco et.al.|[2311.10636](http://arxiv.org/abs/2311.10636)|null|
@@ -3917,6 +3949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Topological Diagnosis of Strongly Correlated Electron Systems**|Chandan Setty et.al.|[2311.12031](http://arxiv.org/abs/2311.12031)|null|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028](http://arxiv.org/abs/2311.12028)|null|
+|**2023-11-20**|**PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction**|Peng Wang et.al.|[2311.12024](http://arxiv.org/abs/2311.12024)|null|
+|**2023-11-20**|**LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning**|Han Guo et.al.|[2311.12023](http://arxiv.org/abs/2311.12023)|**[link](https://github.com/hanguo97/lq-lora)**|
+|**2023-11-20**|**GPQA: A Graduate-Level Google-Proof Q&A Benchmark**|David Rein et.al.|[2311.12022](http://arxiv.org/abs/2311.12022)|**[link](https://github.com/idavidrein/gpqa)**|
+|**2023-11-20**|**Multimodal fission from self-consistent calculations**|Daniel Lay et.al.|[2311.12011](http://arxiv.org/abs/2311.12011)|null|
+|**2023-11-20**|**Risk-averse Batch Active Inverse Reward Design**|Panagiotis Liampas et.al.|[2311.12004](http://arxiv.org/abs/2311.12004)|**[link](https://github.com/pliam1105/RBAIRD)**|
+|**2023-11-20**|**Realization of quantum algorithms with qudits**|Evgeniy O. Kiktenko et.al.|[2311.12003](http://arxiv.org/abs/2311.12003)|null|
+|**2023-11-20**|**Multiwavelength properties of the low-redshift isolated galaxies with active nuclei modelled with CIGALE**|O. Kompaniiets et.al.|[2311.12000](http://arxiv.org/abs/2311.12000)|null|
+|**2023-11-20**|**H-COAL: Human Correction of AI-Generated Labels for Biomedical Named Entity Recognition**|Xiaojing Duan et.al.|[2311.11981](http://arxiv.org/abs/2311.11981)|null|
 |**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
 |**2023-11-17**|**Multimodal Representation Learning by Alternating Unimodal Adaptation**|Xiaohui Zhang et.al.|[2311.10707](http://arxiv.org/abs/2311.10707)|null|
 |**2023-11-17**|**SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing**|Soham Chitnis et.al.|[2311.10701](http://arxiv.org/abs/2311.10701)|null|
@@ -5394,6 +5436,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028](http://arxiv.org/abs/2311.12028)|null|
+|**2023-11-20**|**The allosteric lever: towards a principle of specific allosteric response**|Maximilian Vossel et.al.|[2311.12025](http://arxiv.org/abs/2311.12025)|null|
+|**2023-11-20**|**Multimodal fission from self-consistent calculations**|Daniel Lay et.al.|[2311.12011](http://arxiv.org/abs/2311.12011)|null|
+|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
+|**2023-11-20**|**Leveraging Previous Facial Action Units Knowledge for Emotion Recognition on Faces**|Pietro B. S. Masur et.al.|[2311.11980](http://arxiv.org/abs/2311.11980)|null|
+|**2023-11-20**|**Adaptive Training Distributions with Scalable Online Bilevel Optimization**|David Grangier et.al.|[2311.11973](http://arxiv.org/abs/2311.11973)|null|
+|**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961](http://arxiv.org/abs/2311.11961)|**[link](https://github.com/donghao51/nng-mix)**|
+|**2023-11-20**|**Extreme heterogeneity in the microrheology of lamellar surfactant gels analyzed with neural networks**|Owen Watts Moore et.al.|[2311.11941](http://arxiv.org/abs/2311.11941)|null|
+|**2023-11-20**|**Deep Calibration of Market Simulations using Neural Density Estimators and Embedding Networks**|Namid R. Stillman et.al.|[2311.11913](http://arxiv.org/abs/2311.11913)|null|
+|**2023-11-20**|**Certification of Distributional Individual Fairness**|Matthew Wicker et.al.|[2311.11911](http://arxiv.org/abs/2311.11911)|null|
 |**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
 |**2023-11-17**|**Using linear initialisation to improve speed of convergence and fully-trained error in Autoencoders**|Marcel Marais et.al.|[2311.10699](http://arxiv.org/abs/2311.10699)|**[link](https://github.com/artefactory-uk/autoencoder-paper)**|
 |**2023-11-17**|**A sliding window-based algorithm for faster transformation of time series into complex networks**|R. Carmona-Cabezas et.al.|[2311.10688](http://arxiv.org/abs/2311.10688)|null|
@@ -6871,6 +6923,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Topological Diagnosis of Strongly Correlated Electron Systems**|Chandan Setty et.al.|[2311.12031](http://arxiv.org/abs/2311.12031)|null|
+|**2023-11-20**|**An on-chip platform for multi-degree-of-freedom control of two-dimensional quantum and nonlinear materials**|Haoning Tang et.al.|[2311.12030](http://arxiv.org/abs/2311.12030)|null|
+|**2023-11-20**|**GPQA: A Graduate-Level Google-Proof Q&A Benchmark**|David Rein et.al.|[2311.12022](http://arxiv.org/abs/2311.12022)|**[link](https://github.com/idavidrein/gpqa)**|
+|**2023-11-20**|**Gravitomagnetic Clock Effect: Using GALILEO to explore General Relativity**|Jan Scheumann et.al.|[2311.12018](http://arxiv.org/abs/2311.12018)|null|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015](http://arxiv.org/abs/2311.12015)|null|
+|**2023-11-20**|**UV to near-IR observations of the DART-Dimorphos collision**|E. O. Ofek et.al.|[2311.12007](http://arxiv.org/abs/2311.12007)|null|
+|**2023-11-20**|**A Novel Secure NFC-based Approach for BMS Monitoring and Diagnostic Readout**|Fikret Basic et.al.|[2311.12006](http://arxiv.org/abs/2311.12006)|null|
+|**2023-11-20**|**Realization of quantum algorithms with qudits**|Evgeniy O. Kiktenko et.al.|[2311.12003](http://arxiv.org/abs/2311.12003)|null|
+|**2023-11-20**|**C^0-stability of topological entropy for Reeb flows in dimension 3**|Marcelo R. R. Alves et.al.|[2311.12001](http://arxiv.org/abs/2311.12001)|null|
+|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
 |**2023-11-17**|**Machine learning phase transitions: Connections to the Fisher information**|Julian Arnold et.al.|[2311.10710](http://arxiv.org/abs/2311.10710)|null|
 |**2023-11-17**|**Principles for single-pixel terahertz imaging based on the engineering of illuminating and collecting nonparaxial diffractive optics**|Sergej Orlov et.al.|[2311.10694](http://arxiv.org/abs/2311.10694)|null|
 |**2023-11-17**|**GhostVec: A New Threat to Speaker Privacy of End-to-End Speech Recognition System**|Xiaojiao Chen et.al.|[2311.10689](http://arxiv.org/abs/2311.10689)|null|
@@ -8348,6 +8410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
 |**2023-11-16**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775](http://arxiv.org/abs/2311.09775)|null|
 |**2023-11-12**|**MetaMix: Meta-state Precision Searcher for Mixed-precision Activation Quantization**|Han-Byul Kim et.al.|[2311.06798](http://arxiv.org/abs/2311.06798)|null|
 |**2023-11-09**|**MPGemmFI: A Fault Injection Technique for Mixed Precision GEMM in ML Applications**|Bo Fang et.al.|[2311.05782](http://arxiv.org/abs/2311.05782)|null|
