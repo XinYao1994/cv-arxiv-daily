@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2539,7 +2539,7 @@ layout: default
 |**2023-11-22**|**REDS: Resource-Efficient Deep Subnetworks for Dynamic Resource Constraints**|Francesco Corti et.al.|[2311.13349](http://arxiv.org/abs/2311.13349)|null|
 |**2023-11-22**|**Softmax Acceleration with Adaptive Numeric Format for both Training and Inference**|Tianhua Xia et.al.|[2311.13290](http://arxiv.org/abs/2311.13290)|null|
 |**2023-11-22**|**Modulation For Modulo: A Sampling-Efficient High-Dynamic Range ADC**|Satish Mulleti et.al.|[2311.13282](http://arxiv.org/abs/2311.13282)|null|
-|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|null|
+|**2023-11-22**|**Applications of Spiking Neural Networks in Visual Place Recognition**|Somayeh Hussaini et.al.|[2311.13186](http://arxiv.org/abs/2311.13186)|**[link](https://github.com/qvpr/vprsnn)**|
 |**2023-11-22**|**Differentiable Radio Frequency Ray Tracing for Millimeter-Wave Sensing**|Xingyu Chen et.al.|[2311.13182](http://arxiv.org/abs/2311.13182)|null|
 |**2023-11-21**|**Synaptic Sampling of Neural Networks**|James B. Aimone et.al.|[2311.13038](http://arxiv.org/abs/2311.13038)|null|
 |**2023-11-21**|**The T-Complexity Costs of Error Correction for Control Flow in Quantum Computation**|Charles Yuan et.al.|[2311.12772](http://arxiv.org/abs/2311.12772)|**[link](https://github.com/psg-mit/spire-artifact)**|
@@ -8495,7 +8495,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|null|
+|**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|**[link](https://github.com/mit-han-lab/torchsparse)**|
 |**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
 |**2023-11-16**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775](http://arxiv.org/abs/2311.09775)|null|
 |**2023-11-12**|**MetaMix: Meta-state Precision Searcher for Mixed-precision Activation Quantization**|Han-Byul Kim et.al.|[2311.06798](http://arxiv.org/abs/2311.06798)|null|
