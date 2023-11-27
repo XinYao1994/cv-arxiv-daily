@@ -97,11 +97,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Analyzing Cross-Phase Effects of Reactive Power Intervention on Distribution Voltage Control**|Dhaval Dalal et.al.|[2311.14553](http://arxiv.org/abs/2311.14553)|null|
+|**2023-11-24**|**Investigation on the Impact of Heat Waves on Distribution System Failures**|Andrea Mazza et.al.|[2311.14422](http://arxiv.org/abs/2311.14422)|null|
+|**2023-11-23**|**Dynamic Operating Envelopes Embedded Peer-to-Peer-to-Grid Energy Trading**|Zhisen Jiang et.al.|[2311.13832](http://arxiv.org/abs/2311.13832)|null|
+|**2023-11-23**|**Federated Learning Assisted Distributed Energy Optimization**|Yuhan Du et.al.|[2311.13785](http://arxiv.org/abs/2311.13785)|null|
 |**2023-11-22**|**High-Speed Voltage Control in Active Distribution Systems with Smart Inverter Coordination and Deep Reinforcement Learning**|Mohammad Golgol et.al.|[2311.13080](http://arxiv.org/abs/2311.13080)|null|
 |**2023-11-22**|**Creating Temporally Correlated High-Resolution Power Injection Profiles Using Physics-Aware GAN**|Hritik Gopal Shah et.al.|[2311.12166](http://arxiv.org/abs/2311.12166)|null|
 |**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
 |**2023-11-20**|**Secure Data Transmission over Insecure Radio Channel in Wireless of Things (WoT) Network**|Prokash Barman et.al.|[2311.11864](http://arxiv.org/abs/2311.11864)|null|
-|**2023-11-20**|**Crash-Stop Failures in Asynchronous Multiparty Session Types**|Adam D. Barwell et.al.|[2311.11851](http://arxiv.org/abs/2311.11851)|null|
+|**2023-11-24**|**Crash-Stop Failures in Asynchronous Multiparty Session Types**|Adam D. Barwell et.al.|[2311.11851](http://arxiv.org/abs/2311.11851)|null|
 |**2023-11-20**|**Demonstrating Almost Linear Time Complexity of Bus Admittance Matrix-Based Distribution Network Power Flow: An Empirical Approach**|Matthew Deakin et.al.|[2311.11704](http://arxiv.org/abs/2311.11704)|null|
 |**2023-11-19**|**Assessment of Transmission-level Fault Impacts on 3-phase and 1-phase Distribution IBR Operation**|Qi Xiao et.al.|[2311.11339](http://arxiv.org/abs/2311.11339)|null|
 |**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
@@ -335,6 +339,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources**|Tong Bao et.al.|[2311.14511](http://arxiv.org/abs/2311.14511)|null|
+|**2023-11-24**|**Petit programming language and compiler**|Raul Barbosa et.al.|[2311.14443](http://arxiv.org/abs/2311.14443)|null|
+|**2023-11-24**|**Constant-Time Wasmtime, for Real This Time: End-to-End Verified Zero-Overhead Constant-Time Programming for the Web and Beyond**|Garrett Gu et.al.|[2311.14246](http://arxiv.org/abs/2311.14246)|null|
+|**2023-11-23**|**Hybrid Circuit Mapping: Leveraging the Full Spectrum of Computational Capabilities of Neutral Atom Quantum Computers**|Ludwig Schmid et.al.|[2311.14164](http://arxiv.org/abs/2311.14164)|null|
+|**2023-11-22**|**Nova $^+$ : Generative Language Models for Binaries**|Nan Jiang et.al.|[2311.13721](http://arxiv.org/abs/2311.13721)|null|
+|**2023-11-22**|**Molly: A Verified Compiler for Cryptoprotocol Roles**|Daniel J. Dougherty et.al.|[2311.13692](http://arxiv.org/abs/2311.13692)|null|
 |**2023-11-22**|**ViStruct: Visual Structural Knowledge Extraction via Curriculum Guided Code-Vision Representation**|Yangyi Chen et.al.|[2311.13258](http://arxiv.org/abs/2311.13258)|**[link](https://github.com/yangyi-chen/vi-struct)**|
 |**2023-11-22**|**Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs**|Yonghui Wang et.al.|[2311.13194](http://arxiv.org/abs/2311.13194)|null|
 |**2023-11-22**|**Multimodal Large Language Models: A Survey**|Jiayang Wu et.al.|[2311.13165](http://arxiv.org/abs/2311.13165)|null|
@@ -1027,6 +1037,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670](http://arxiv.org/abs/2311.14670)|**[link](https://github.com/astro-informatics/s2fft)**|
+|**2023-11-24**|**Landau Singularities Revisited**|Claudia Fevola et.al.|[2311.14669](http://arxiv.org/abs/2311.14669)|null|
+|**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652](http://arxiv.org/abs/2311.14652)|null|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651](http://arxiv.org/abs/2311.14651)|null|
+|**2023-11-24**|**Calibrated Language Models Must Hallucinate**|Adam Tauman Kalai et.al.|[2311.14648](http://arxiv.org/abs/2311.14648)|null|
+|**2023-11-24**|**Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach**|Xinwei Zhang et.al.|[2311.14632](http://arxiv.org/abs/2311.14632)|null|
+|**2023-11-24**|**A new use of the Kurdyka-Lojasiewicz property to study asymptotic behaviours of some stochastic optimization algorithms in a non-convex differentiable framework**|Jean-Baptiste Fest et.al.|[2311.14627](http://arxiv.org/abs/2311.14627)|null|
+|**2023-11-24**|**Improving the Performance of Digitized Counterdiabatic Quantum Optimization via Algorithm-Oriented Qubit Mapping**|Yanjun Ji et.al.|[2311.14624](http://arxiv.org/abs/2311.14624)|null|
+|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595](http://arxiv.org/abs/2311.14595)|null|
+|**2023-11-24**|**MABFuzz: Multi-Armed Bandit Algorithms for Fuzzing Processors**|Vasudev Gohil et.al.|[2311.14594](http://arxiv.org/abs/2311.14594)|null|
 |**2023-11-22**|**Cramér-Rao Bounds for the Simultaneous Estimation of Power System Electromechanical Modes and Forced Oscillations**|Luke Dosiek et.al.|[2311.13598](http://arxiv.org/abs/2311.13598)|null|
 |**2023-11-22**|**Covariance alignment: from maximum likelihood estimation to Gromov-Wasserstein**|Yanjun Han et.al.|[2311.13595](http://arxiv.org/abs/2311.13595)|null|
 |**2023-11-22**|**Triangle-free $2$ -matchings**|Katarzyna Paluch et.al.|[2311.13590](http://arxiv.org/abs/2311.13590)|null|
@@ -2532,6 +2552,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670](http://arxiv.org/abs/2311.14670)|**[link](https://github.com/astro-informatics/s2fft)**|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651](http://arxiv.org/abs/2311.14651)|null|
+|**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
+|**2023-11-24**|**Improving the Performance of Digitized Counterdiabatic Quantum Optimization via Algorithm-Oriented Qubit Mapping**|Yanjun Ji et.al.|[2311.14624](http://arxiv.org/abs/2311.14624)|null|
+|**2023-11-24**|**MABFuzz: Multi-Armed Bandit Algorithms for Fuzzing Processors**|Vasudev Gohil et.al.|[2311.14594](http://arxiv.org/abs/2311.14594)|null|
+|**2023-11-24**|**SNN Architecture for Differential Time Encoding Using Decoupled Processing Time**|Daniel Windhager et.al.|[2311.14447](http://arxiv.org/abs/2311.14447)|null|
+|**2023-11-24**|**What you need to know about a learning robot: Identifying the enabling architecture of complex systems**|Helen Beierling et.al.|[2311.14431](http://arxiv.org/abs/2311.14431)|null|
+|**2023-11-24**|**Robot Learning in the Era of Foundation Models: A Survey**|Xuan Xiao et.al.|[2311.14379](http://arxiv.org/abs/2311.14379)|null|
+|**2023-11-24**|**Federated Transformed Learning for a Circular, Secure, and Tiny AI**|Weisi Guo et.al.|[2311.14371](http://arxiv.org/abs/2311.14371)|null|
+|**2023-11-24**|**Exploiting Active RIS in NOMA Networks with Hardware Impairments**|Xinwei Yue et.al.|[2311.14295](http://arxiv.org/abs/2311.14295)|null|
 |**2023-11-22**|**CompenHR: Efficient Full Compensation for High-resolution Projector**|Yuxi Wang et.al.|[2311.13409](http://arxiv.org/abs/2311.13409)|null|
 |**2023-11-22**|**SystemC Model of Power Side-Channel Attacks Against AI Accelerators: Superstition or not?**|Andrija Nešković et.al.|[2311.13387](http://arxiv.org/abs/2311.13387)|null|
 |**2023-11-22**|**Confidant: Customizing Transformer-based LLMs via Collaborative Edge Training**|Yuhao Chen et.al.|[2311.13381](http://arxiv.org/abs/2311.13381)|null|
@@ -3980,6 +4010,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671](http://arxiv.org/abs/2311.14671)|**[link](https://github.com/menglcool/segic)**|
+|**2023-11-24**|**Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation**|Paul Engstler et.al.|[2311.14665](http://arxiv.org/abs/2311.14665)|null|
+|**2023-11-24**|**A Sparse Factor Model for Clustering High-Dimensional Longitudinal Data**|Zihang Lu et.al.|[2311.14655](http://arxiv.org/abs/2311.14655)|null|
+|**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651](http://arxiv.org/abs/2311.14651)|null|
+|**2023-11-24**|**A General Framework for User-Guided Bayesian Optimization**|Carl Hvarfner et.al.|[2311.14645](http://arxiv.org/abs/2311.14645)|null|
+|**2023-11-24**|**Unsupervised high-throughput segmentation of cells and cell nuclei in quantitative phase images**|Julia Sistermanns et.al.|[2311.14639](http://arxiv.org/abs/2311.14639)|null|
+|**2023-11-24**|**One Strike, You're Out: Detecting Markush Structures in Low Signal-to-Noise Ratio Images**|Thomas Jurriaans et.al.|[2311.14633](http://arxiv.org/abs/2311.14633)|**[link](https://github.com/thomasjurriaans/markush-recognition-msc-thesis)**|
+|**2023-11-24**|**Received Signal and Channel Parameter Estimation in Molecular Communications**|O. Tansel Baydas et.al.|[2311.14621](http://arxiv.org/abs/2311.14621)|null|
+|**2023-11-24**|**Eliciting Honest Information From Authors Using Sequential Review**|Yichi Zhang et.al.|[2311.14619](http://arxiv.org/abs/2311.14619)|null|
+|**2023-11-24**|**An L-infinity structure for Legendrian contact homology**|Lenhard Ng et.al.|[2311.14614](http://arxiv.org/abs/2311.14614)|null|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|null|
 |**2023-11-22**|**Triangle-free $2$ -matchings**|Katarzyna Paluch et.al.|[2311.13590](http://arxiv.org/abs/2311.13590)|null|
 |**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584](http://arxiv.org/abs/2311.13584)|null|
@@ -5485,6 +5525,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Convergence Analysis for Learning Orthonormal Deep Linear Neural Networks**|Zhen Qin et.al.|[2311.14658](http://arxiv.org/abs/2311.14658)|null|
+|**2023-11-24**|**JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of Optimal LundNet Variables**|Mauricio A. Diaz et.al.|[2311.14654](http://arxiv.org/abs/2311.14654)|**[link](https://github.com/giorgiocerro/jetlov)**|
+|**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649](http://arxiv.org/abs/2311.14649)|null|
+|**2023-11-24**|**More is Better in Modern Machine Learning: when Infinite Overparameterization is Optimal and Overfitting is Obligatory**|James B. Simon et.al.|[2311.14646](http://arxiv.org/abs/2311.14646)|null|
+|**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
+|**2023-11-24**|**Received Signal and Channel Parameter Estimation in Molecular Communications**|O. Tansel Baydas et.al.|[2311.14621](http://arxiv.org/abs/2311.14621)|null|
+|**2023-11-24**|**Routing and Spectrum Allocation in Broadband Degenerate EPR-Pair Distribution**|Rohan Bali et.al.|[2311.14613](http://arxiv.org/abs/2311.14613)|null|
+|**2023-11-24**|**Analysis of the expected $L_2$ error of an over-parametrized deep neural network estimate learned by gradient descent without regularization**|Selina Drews et.al.|[2311.14609](http://arxiv.org/abs/2311.14609)|null|
+|**2023-11-24**|**A Metalearned Neural Circuit for Nonparametric Bayesian Inference**|Jake C. Snell et.al.|[2311.14601](http://arxiv.org/abs/2311.14601)|**[link](https://github.com/jakesnell/neural-circuits)**|
+|**2023-11-24**|**Cooperative Multi-Monostatic Sensing for Object Localization in 6G Networks**|Maximiliano Rivera Figueroa et.al.|[2311.14591](http://arxiv.org/abs/2311.14591)|null|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|null|
 |**2023-11-22**|**Adaptive Sampling for Deep Learning via Efficient Nonparametric Proxies**|Shabnam Daghaghi et.al.|[2311.13583](http://arxiv.org/abs/2311.13583)|null|
 |**2023-11-22**|**Nucleation phenomena and extreme vulnerability of spatial k-core systems**|Leyang Xue et.al.|[2311.13579](http://arxiv.org/abs/2311.13579)|null|
@@ -6990,6 +7040,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Feedback-Free Starbursts at Cosmic Dawn: Observable Predictions for JWST**|Zhaozhou Li et.al.|[2311.14662](http://arxiv.org/abs/2311.14662)|null|
+|**2023-11-24**|**Vanishing Mach Number Limit of Stochastic Compressible Flows**|Gui-Qiang G. Chen et.al.|[2311.14660](http://arxiv.org/abs/2311.14660)|null|
+|**2023-11-24**|**GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats**|Subhajit Sahu et.al.|[2311.14650](http://arxiv.org/abs/2311.14650)|**[link](https://github.com/puzzlef/graph-csr-openmp)**|
+|**2023-11-24**|**Calibrated Language Models Must Hallucinate**|Adam Tauman Kalai et.al.|[2311.14648](http://arxiv.org/abs/2311.14648)|null|
+|**2023-11-24**|**Continuous football player tracking from discrete broadcast data**|Matthew J. Penn et.al.|[2311.14642](http://arxiv.org/abs/2311.14642)|null|
+|**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
+|**2023-11-24**|**Emergent Topology in Many-Body Dissipative Quantum Chaos**|Antonio M. García-García et.al.|[2311.14640](http://arxiv.org/abs/2311.14640)|null|
+|**2023-11-24**|**Post Newtonian emission of gravitational waves from binary systems: a gauge theory perspective**|Francesco Fucito et.al.|[2311.14637](http://arxiv.org/abs/2311.14637)|null|
+|**2023-11-24**|**Automated Detection and Counting of Windows using UAV Imagery based Remote Sensing**|Dhruv Patel et.al.|[2311.14635](http://arxiv.org/abs/2311.14635)|null|
+|**2023-11-24**|**Time-reversal-like degeneracies distinguished by the anomalous Hall effect in a metallic kagome ice compound**|Kan Zhao et.al.|[2311.14626](http://arxiv.org/abs/2311.14626)|null|
 |**2023-11-22**|**Cramér-Rao Bounds for the Simultaneous Estimation of Power System Electromechanical Modes and Forced Oscillations**|Luke Dosiek et.al.|[2311.13598](http://arxiv.org/abs/2311.13598)|null|
 |**2023-11-22**|**Labeling Neural Representations with Inverse Recognition**|Kirill Bykov et.al.|[2311.13594](http://arxiv.org/abs/2311.13594)|null|
 |**2023-11-22**|**High-efficiency high-NA metalens designed by maximizing the efficiency limit**|Shiyu Li et.al.|[2311.13592](http://arxiv.org/abs/2311.13592)|null|
@@ -8495,6 +8555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**SySMOL: A Hardware-software Co-design Framework for Ultra-Low and Fine-Grained Mixed-Precision Neural Networks**|Cyrus Zhou et.al.|[2311.14114](http://arxiv.org/abs/2311.14114)|null|
 |**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|**[link](https://github.com/mit-han-lab/torchsparse)**|
 |**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
 |**2023-11-16**|**MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization**|Zeyu Zhu et.al.|[2311.09775](http://arxiv.org/abs/2311.09775)|null|
