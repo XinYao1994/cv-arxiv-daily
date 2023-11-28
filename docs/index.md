@@ -97,6 +97,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-26**|**Data-Driven Modelling for Harmonic Current Emission in Low-Voltage Grid Using MCReSANet with Interpretability Analysis**|Jieyu Yao et.al.|[2311.15420](http://arxiv.org/abs/2311.15420)|null|
+|**2023-11-26**|**Multi-Feeder Restoration using Multi-Microgrid Formation and Management**|Valliappan Muthukaruppan et.al.|[2311.15351](http://arxiv.org/abs/2311.15351)|null|
+|**2023-11-26**|**A Data-Driven Approach for High-Impedance Fault Localization in Distribution Systems**|Yuqi Zhou et.al.|[2311.15168](http://arxiv.org/abs/2311.15168)|null|
 |**2023-11-24**|**Analyzing Cross-Phase Effects of Reactive Power Intervention on Distribution Voltage Control**|Dhaval Dalal et.al.|[2311.14553](http://arxiv.org/abs/2311.14553)|null|
 |**2023-11-24**|**Investigation on the Impact of Heat Waves on Distribution System Failures**|Andrea Mazza et.al.|[2311.14422](http://arxiv.org/abs/2311.14422)|null|
 |**2023-11-23**|**Dynamic Operating Envelopes Embedded Peer-to-Peer-to-Grid Energy Trading**|Zhisen Jiang et.al.|[2311.13832](http://arxiv.org/abs/2311.13832)|null|
@@ -339,6 +342,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Decoding Logic Errors: A Comparative Study on Bug Detection by Students and Large Language Models**|Stephen MacNeil et.al.|[2311.16017](http://arxiv.org/abs/2311.16017)|null|
+|**2023-11-27**|**NN bundle method applied to cosmology: an improvement in computational times**|Augusto T. Chantada et.al.|[2311.15955](http://arxiv.org/abs/2311.15955)|null|
+|**2023-11-27**|**Italian Crossword Generator: Enhancing Education through Interactive Word Puzzles**|Kamyar Zeinalipour et.al.|[2311.15723](http://arxiv.org/abs/2311.15723)|null|
+|**2023-11-26**|**DCRA: A Distributed Chiplet-based Reconfigurable Architecture for Irregular Applications**|Marcelo Orenes-Vera et.al.|[2311.15443](http://arxiv.org/abs/2311.15443)|null|
+|**2023-11-26**|**BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images**|Zhanghao Chen et.al.|[2311.15328](http://arxiv.org/abs/2311.15328)|null|
+|**2023-11-26**|**UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**|Xun Liang et.al.|[2311.15296](http://arxiv.org/abs/2311.15296)|**[link](https://github.com/IAAR-Shanghai/UHGEval)**|
+|**2023-11-25**|**FPQA-C: A Compilation Framework for Field Programmable Qubit Array**|Hanrui Wang et.al.|[2311.15123](http://arxiv.org/abs/2311.15123)|null|
+|**2023-11-25**|**Exploring Causal Learning through Graph Neural Networks: An In-depth Review**|Simi Job et.al.|[2311.14994](http://arxiv.org/abs/2311.14994)|null|
 |**2023-11-24**|**A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources**|Tong Bao et.al.|[2311.14511](http://arxiv.org/abs/2311.14511)|null|
 |**2023-11-24**|**Petit programming language and compiler**|Raul Barbosa et.al.|[2311.14443](http://arxiv.org/abs/2311.14443)|null|
 |**2023-11-24**|**Constant-Time Wasmtime, for Real This Time: End-to-End Verified Zero-Overhead Constant-Time Programming for the Web and Beyond**|Garrett Gu et.al.|[2311.14246](http://arxiv.org/abs/2311.14246)|null|
@@ -1037,6 +1048,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Efficient high-resolution refinement in cryo-EM with stochastic gradient descent**|Bogdan Toader et.al.|[2311.16100](http://arxiv.org/abs/2311.16100)|null|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**XLB: Distributed Multi-GPU Lattice Boltzmann Simulation Framework for Differentiable Scientific Machine Learning**|Mohammadmehdi Ataei et.al.|[2311.16080](http://arxiv.org/abs/2311.16080)|**[link](https://github.com/autodesk/xlb)**|
+|**2023-11-27**|**Cutkosky representation and direct integration**|C. Vergu et.al.|[2311.16069](http://arxiv.org/abs/2311.16069)|null|
+|**2023-11-27**|**A Survey on Vulnerability of Federated Learning: A Learning Algorithm Perspective**|Xianghua Xie et.al.|[2311.16065](http://arxiv.org/abs/2311.16065)|**[link](https://github.com/rand2ai/awesome-vulnerability-of-federated-learning)**|
+|**2023-11-27**|**The Power of Adaptivity in Quantum Query Algorithms**|Uma Girish et.al.|[2311.16057](http://arxiv.org/abs/2311.16057)|null|
+|**2023-11-27**|**Evaluating the Impact of Personalized Value Alignment in Human-Robot Interaction: Insights into Trust and Team Performance Outcomes**|Shreyas Bhat et.al.|[2311.16051](http://arxiv.org/abs/2311.16051)|null|
+|**2023-11-27**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
+|**2023-11-27**|**RobustState: Boosting Fidelity of Quantum State Preparation via Noise-Aware Variational Training**|Hanrui Wang et.al.|[2311.16035](http://arxiv.org/abs/2311.16035)|null|
+|**2023-11-27**|**Scheduling and Communication Schemes for Decentralized Federated Learning**|Bahaa-Eldin Ali Abdelghany et.al.|[2311.16021](http://arxiv.org/abs/2311.16021)|null|
 |**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670](http://arxiv.org/abs/2311.14670)|**[link](https://github.com/astro-informatics/s2fft)**|
 |**2023-11-24**|**Landau Singularities Revisited**|Claudia Fevola et.al.|[2311.14669](http://arxiv.org/abs/2311.14669)|null|
 |**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652](http://arxiv.org/abs/2311.14652)|null|
@@ -2552,6 +2573,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098](http://arxiv.org/abs/2311.16098)|**[link](https://github.com/notmahi/dobb-e)**|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**RobustState: Boosting Fidelity of Quantum State Preparation via Noise-Aware Variational Training**|Hanrui Wang et.al.|[2311.16035](http://arxiv.org/abs/2311.16035)|null|
+|**2023-11-27**|**RIDE: Real-time Intrusion Detection via Explainable Machine Learning Implemented in a Memristor Hardware Architecture**|Jingdi Chen et.al.|[2311.16018](http://arxiv.org/abs/2311.16018)|null|
+|**2023-11-27**|**Microarchitectural Security of AWS Firecracker VMM for Serverless Cloud Platforms**|Zane Weissman et.al.|[2311.15999](http://arxiv.org/abs/2311.15999)|null|
+|**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914](http://arxiv.org/abs/2311.15914)|null|
+|**2023-11-27**|**Scale-Dropout: Estimating Uncertainty in Deep Neural Networks Using Stochastic Scale**|Soyed Tuhin Ahmed et.al.|[2311.15816](http://arxiv.org/abs/2311.15816)|null|
+|**2023-11-27**|**Tascade: Hardware Support for Atomic-free, Asynchronous and Efficient Reduction Trees**|Marcelo Orenes-Vera et.al.|[2311.15810](http://arxiv.org/abs/2311.15810)|null|
+|**2023-11-27**|**PIPE : Parallelized Inference Through Post-Training Quantization Ensembling of Residual Expansions**|Edouard Yvinec et.al.|[2311.15806](http://arxiv.org/abs/2311.15806)|null|
+|**2023-11-27**|**Modular Customizable ROS-Based Framework for Rapid Development of Social Robots**|Mahta Akhyani et.al.|[2311.15780](http://arxiv.org/abs/2311.15780)|null|
 |**2023-11-24**|**Differentiable and accelerated spherical harmonic and Wigner transforms**|Matthew A. Price et.al.|[2311.14670](http://arxiv.org/abs/2311.14670)|**[link](https://github.com/astro-informatics/s2fft)**|
 |**2023-11-24**|**History Filtering in Imperfect Information Games: Algorithms and Complexity**|Christopher Solinas et.al.|[2311.14651](http://arxiv.org/abs/2311.14651)|null|
 |**2023-11-24**|**Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing**|Jens E. Pedersen et.al.|[2311.14641](http://arxiv.org/abs/2311.14641)|**[link](https://github.com/neuromorphs/nir)**|
@@ -4010,6 +4041,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103](http://arxiv.org/abs/2311.16103)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101](http://arxiv.org/abs/2311.16101)|**[link](https://github.com/ucsc-vlaa/vllm-safety-benchmark)**|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
+|**2023-11-27**|**Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory**|Xiaochen Li et.al.|[2311.16062](http://arxiv.org/abs/2311.16062)|null|
+|**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060](http://arxiv.org/abs/2311.16060)|**[link](https://github.com/jeffery9707/diffslva)**|
+|**2023-11-27**|**Evaluating the Impact of Personalized Value Alignment in Human-Robot Interaction: Insights into Trust and Team Performance Outcomes**|Shreyas Bhat et.al.|[2311.16051](http://arxiv.org/abs/2311.16051)|null|
+|**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
+|**2023-11-27**|**OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving**|Wenzhao Zheng et.al.|[2311.16038](http://arxiv.org/abs/2311.16038)|**[link](https://github.com/wzzheng/occworld)**|
+|**2023-11-27**|**Deep Learning Voigt Profiles I. Single-Cloud Doublets**|Bryson Stemock et.al.|[2311.16029](http://arxiv.org/abs/2311.16029)|null|
 |**2023-11-24**|**SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation**|Lingchen Meng et.al.|[2311.14671](http://arxiv.org/abs/2311.14671)|**[link](https://github.com/menglcool/segic)**|
 |**2023-11-24**|**Understanding Self-Supervised Features for Learning Unsupervised Instance Segmentation**|Paul Engstler et.al.|[2311.14665](http://arxiv.org/abs/2311.14665)|null|
 |**2023-11-24**|**A Sparse Factor Model for Clustering High-Dimensional Longitudinal Data**|Zihang Lu et.al.|[2311.14655](http://arxiv.org/abs/2311.14655)|null|
@@ -5525,6 +5566,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093](http://arxiv.org/abs/2311.16093)|null|
+|**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091](http://arxiv.org/abs/2311.16091)|null|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**Regulation of Disturbance Magnitude for Locational Frequency Stability Using Machine Learning**|Alinane B. Kilembe Panagiotis N. Papadopoulos et.al.|[2311.16078](http://arxiv.org/abs/2311.16078)|null|
+|**2023-11-27**|**An analysis of localization transitions using non-parametric unsupervised learning**|Carlo Vanoni et.al.|[2311.16050](http://arxiv.org/abs/2311.16050)|null|
+|**2023-11-27**|**Observer study-based evaluation of TGAN architecture used to generate oncological PET images**|Roberto Fedrigo et.al.|[2311.16047](http://arxiv.org/abs/2311.16047)|null|
+|**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
+|**2023-11-27**|**Deep Learning Voigt Profiles I. Single-Cloud Doublets**|Bryson Stemock et.al.|[2311.16029](http://arxiv.org/abs/2311.16029)|null|
+|**2023-11-27**|**Change Point Detection for Random Objects using Distance Profiles**|Paromita Dubey et.al.|[2311.16025](http://arxiv.org/abs/2311.16025)|null|
+|**2023-11-27**|**Scheduling and Communication Schemes for Decentralized Federated Learning**|Bahaa-Eldin Ali Abdelghany et.al.|[2311.16021](http://arxiv.org/abs/2311.16021)|null|
 |**2023-11-24**|**Convergence Analysis for Learning Orthonormal Deep Linear Neural Networks**|Zhen Qin et.al.|[2311.14658](http://arxiv.org/abs/2311.14658)|null|
 |**2023-11-24**|**JetLOV: Enhancing Jet Tree Tagging through Neural Network Learning of Optimal LundNet Variables**|Mauricio A. Diaz et.al.|[2311.14654](http://arxiv.org/abs/2311.14654)|**[link](https://github.com/giorgiocerro/jetlov)**|
 |**2023-11-24**|**Learning in Deep Factor Graphs with Gaussian Belief Propagation**|Seth Nabarro et.al.|[2311.14649](http://arxiv.org/abs/2311.14649)|null|
@@ -7040,6 +7091,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103](http://arxiv.org/abs/2311.16103)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**On Bringing Robots Home**|Nur Muhammad Mahi Shafiullah et.al.|[2311.16098](http://arxiv.org/abs/2311.16098)|**[link](https://github.com/notmahi/dobb-e)**|
+|**2023-11-27**|**Three-dimensional $\mathbb{Z}$ topological insulators without reflection symmetry**|Alexander C. Tyner et.al.|[2311.16092](http://arxiv.org/abs/2311.16092)|null|
+|**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091](http://arxiv.org/abs/2311.16091)|null|
+|**2023-11-27**|**Transformer-QEC: Quantum Error Correction Code Decoding with Transferable Transformers**|Hanrui Wang et.al.|[2311.16082](http://arxiv.org/abs/2311.16082)|null|
+|**2023-11-27**|**XLB: Distributed Multi-GPU Lattice Boltzmann Simulation Framework for Differentiable Scientific Machine Learning**|Mohammadmehdi Ataei et.al.|[2311.16080](http://arxiv.org/abs/2311.16080)|**[link](https://github.com/autodesk/xlb)**|
+|**2023-11-27**|**Regulation of Disturbance Magnitude for Locational Frequency Stability Using Machine Learning**|Alinane B. Kilembe Panagiotis N. Papadopoulos et.al.|[2311.16078](http://arxiv.org/abs/2311.16078)|null|
+|**2023-11-27**|**Symmetry breaking in vanadium trihalides**|Luigi Camerano et.al.|[2311.16068](http://arxiv.org/abs/2311.16068)|null|
+|**2023-11-27**|**A Survey on Vulnerability of Federated Learning: A Learning Algorithm Perspective**|Xianghua Xie et.al.|[2311.16065](http://arxiv.org/abs/2311.16065)|**[link](https://github.com/rand2ai/awesome-vulnerability-of-federated-learning)**|
+|**2023-11-27**|**SPY: A Magnet System for a High-pressure Gaseous TPC Neutrino Detector**|Andrea Bersani et.al.|[2311.16063](http://arxiv.org/abs/2311.16063)|null|
 |**2023-11-24**|**Feedback-Free Starbursts at Cosmic Dawn: Observable Predictions for JWST**|Zhaozhou Li et.al.|[2311.14662](http://arxiv.org/abs/2311.14662)|null|
 |**2023-11-24**|**Vanishing Mach Number Limit of Stochastic Compressible Flows**|Gui-Qiang G. Chen et.al.|[2311.14660](http://arxiv.org/abs/2311.14660)|null|
 |**2023-11-24**|**GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats**|Subhajit Sahu et.al.|[2311.14650](http://arxiv.org/abs/2311.14650)|**[link](https://github.com/puzzlef/graph-csr-openmp)**|
