@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -103,7 +103,7 @@ layout: default
 |**2023-11-23**|**Federated Learning Assisted Distributed Energy Optimization**|Yuhan Du et.al.|[2311.13785](http://arxiv.org/abs/2311.13785)|null|
 |**2023-11-22**|**High-Speed Voltage Control in Active Distribution Systems with Smart Inverter Coordination and Deep Reinforcement Learning**|Mohammad Golgol et.al.|[2311.13080](http://arxiv.org/abs/2311.13080)|null|
 |**2023-11-22**|**Creating Temporally Correlated High-Resolution Power Injection Profiles Using Physics-Aware GAN**|Hritik Gopal Shah et.al.|[2311.12166](http://arxiv.org/abs/2311.12166)|null|
-|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|null|
+|**2023-11-20**|**Smart Energy Network Digital Twins: Findings from a UK-Based Demonstrator Project**|Matthew Deakin et.al.|[2311.11997](http://arxiv.org/abs/2311.11997)|**[link](https://github.com/deakinmt/dsse_send)**|
 |**2023-11-20**|**Secure Data Transmission over Insecure Radio Channel in Wireless of Things (WoT) Network**|Prokash Barman et.al.|[2311.11864](http://arxiv.org/abs/2311.11864)|null|
 |**2023-11-24**|**Crash-Stop Failures in Asynchronous Multiparty Session Types**|Adam D. Barwell et.al.|[2311.11851](http://arxiv.org/abs/2311.11851)|null|
 |**2023-11-20**|**Demonstrating Almost Linear Time Complexity of Bus Admittance Matrix-Based Distribution Network Power Flow: An Empirical Approach**|Matthew Deakin et.al.|[2311.11704](http://arxiv.org/abs/2311.11704)|null|
@@ -1045,7 +1045,7 @@ layout: default
 |**2023-11-24**|**Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach**|Xinwei Zhang et.al.|[2311.14632](http://arxiv.org/abs/2311.14632)|null|
 |**2023-11-24**|**A new use of the Kurdyka-Lojasiewicz property to study asymptotic behaviours of some stochastic optimization algorithms in a non-convex differentiable framework**|Jean-Baptiste Fest et.al.|[2311.14627](http://arxiv.org/abs/2311.14627)|null|
 |**2023-11-24**|**Improving the Performance of Digitized Counterdiabatic Quantum Optimization via Algorithm-Oriented Qubit Mapping**|Yanjun Ji et.al.|[2311.14624](http://arxiv.org/abs/2311.14624)|null|
-|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595](http://arxiv.org/abs/2311.14595)|null|
+|**2023-11-24**|**A Survey and Analysis of Evolutionary Operators for Permutations**|Vincent A. Cicirello et.al.|[2311.14595](http://arxiv.org/abs/2311.14595)|**[link](https://github.com/cicirello/permutation-crossover-landscape-analysis)**|
 |**2023-11-24**|**MABFuzz: Multi-Armed Bandit Algorithms for Fuzzing Processors**|Vasudev Gohil et.al.|[2311.14594](http://arxiv.org/abs/2311.14594)|null|
 |**2023-11-22**|**Cramér-Rao Bounds for the Simultaneous Estimation of Power System Electromechanical Modes and Forced Oscillations**|Luke Dosiek et.al.|[2311.13598](http://arxiv.org/abs/2311.13598)|null|
 |**2023-11-22**|**Covariance alignment: from maximum likelihood estimation to Gromov-Wasserstein**|Yanjun Han et.al.|[2311.13595](http://arxiv.org/abs/2311.13595)|null|
