@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -347,7 +347,7 @@ layout: default
 |**2023-11-27**|**Italian Crossword Generator: Enhancing Education through Interactive Word Puzzles**|Kamyar Zeinalipour et.al.|[2311.15723](http://arxiv.org/abs/2311.15723)|null|
 |**2023-11-26**|**DCRA: A Distributed Chiplet-based Reconfigurable Architecture for Irregular Applications**|Marcelo Orenes-Vera et.al.|[2311.15443](http://arxiv.org/abs/2311.15443)|null|
 |**2023-11-26**|**BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images**|Zhanghao Chen et.al.|[2311.15328](http://arxiv.org/abs/2311.15328)|null|
-|**2023-11-26**|**UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**|Xun Liang et.al.|[2311.15296](http://arxiv.org/abs/2311.15296)|**[link](https://github.com/IAAR-Shanghai/UHGEval)**|
+|**2023-11-26**|**UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**|Xun Liang et.al.|[2311.15296](http://arxiv.org/abs/2311.15296)|null|
 |**2023-11-25**|**FPQA-C: A Compilation Framework for Field Programmable Qubit Array**|Hanrui Wang et.al.|[2311.15123](http://arxiv.org/abs/2311.15123)|null|
 |**2023-11-25**|**Exploring Causal Learning through Graph Neural Networks: An In-depth Review**|Simi Job et.al.|[2311.14994](http://arxiv.org/abs/2311.14994)|null|
 |**2023-11-24**|**A Chandra Survey of Milky Way Globular Clusters -- IV. Periodic X-ray sources**|Tong Bao et.al.|[2311.14511](http://arxiv.org/abs/2311.14511)|null|
