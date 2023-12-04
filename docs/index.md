@@ -99,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
 |**2023-11-30**|**Sharing Experience Around Component Compositions**|Grégory Bourguin et.al.|[2311.18368](http://arxiv.org/abs/2311.18368)|null|
 |**2023-11-29**|**Asynchronous Merkle Trees**|Anoushk Kharangate et.al.|[2311.17441](http://arxiv.org/abs/2311.17441)|null|
 |**2023-11-28**|**Managing Vehicle Charging During Emergencies via Conservative Distribution System Modeling**|Alejandro D. Owen Aquino et.al.|[2311.16975](http://arxiv.org/abs/2311.16975)|null|
@@ -349,6 +350,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
+|**2023-12-01**|**Design Patterns for Machine Learning Based Systems with Human-in-the-Loop**|Jakob Smedegaard Andersen et.al.|[2312.00582](http://arxiv.org/abs/2312.00582)|null|
+|**2023-12-01**|**VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity**|S. VenkataKeerthy et.al.|[2312.00507](http://arxiv.org/abs/2312.00507)|null|
 |**2023-11-30**|**ArcMMLU: A Library and Information Science Benchmark for Large Language Models**|Shitou Zhang et.al.|[2311.18658](http://arxiv.org/abs/2311.18658)|**[link](https://github.com/stzhang-patrick/arcmmlu)**|
 |**2023-11-30**|**Applying an Evolutionary Algorithm to Minimize Teleportation Costs in Distributed Quantum Computing**|Leo Sünkel et.al.|[2311.18529](http://arxiv.org/abs/2311.18529)|null|
 |**2023-11-30**|**The Hubble Tension Survey: A Statistical Analysis of the 2012-2022 Measurements**|Bao Wang et.al.|[2311.18443](http://arxiv.org/abs/2311.18443)|null|
@@ -1076,6 +1080,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Dense Optical Tracking: Connecting the Dots**|Guillaume Le Moing et.al.|[2312.00786](http://arxiv.org/abs/2312.00786)|null|
+|**2023-12-01**|**The U.S. CMS HL-LHC R&D Strategic Plan**|Oliver Gutsche et.al.|[2312.00772](http://arxiv.org/abs/2312.00772)|null|
+|**2023-12-01**|**Random Forest for Dynamic Risk Prediction or Recurrent Events: A Pseudo-Observation Approach**|Abigail Loe et.al.|[2312.00770](http://arxiv.org/abs/2312.00770)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761](http://arxiv.org/abs/2312.00761)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Reduction from sparse LPN to LPN, Dual Attack 3.0**|Kévin Carrier et.al.|[2312.00747](http://arxiv.org/abs/2312.00747)|null|
+|**2023-12-01**|**Probing Off-diagonal Eigenstate Thermalization with Tensor Networks**|Maxine Luo et.al.|[2312.00736](http://arxiv.org/abs/2312.00736)|null|
+|**2023-12-01**|**Provable bounds for noise-free expectation values computed from noisy samples**|Samantha V. Barron et.al.|[2312.00733](http://arxiv.org/abs/2312.00733)|null|
+|**2023-12-01**|**Soft computing for the posterior of a new matrix t graphical network**|J. Pillay et.al.|[2312.00728](http://arxiv.org/abs/2312.00728)|null|
+|**2023-12-01**|**Safe Reinforcement Learning in Tensor Reproducing Kernel Hilbert Space**|Xiaoyuan Cheng et.al.|[2312.00727](http://arxiv.org/abs/2312.00727)|null|
 |**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839](http://arxiv.org/abs/2311.18839)|null|
 |**2023-11-30**|**VLA FRAMEx. I. Wideband Radio Properties of the AGN in NGC 4388**|Andrew J. Sargent et.al.|[2311.18833](http://arxiv.org/abs/2311.18833)|null|
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832](http://arxiv.org/abs/2311.18832)|**[link](https://github.com/shinying/dmp)**|
@@ -2631,6 +2645,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Exploiting Maximally Mixed States for Spectral Estimation by Time Evolution**|Kaelyn J. Ferris et.al.|[2312.00687](http://arxiv.org/abs/2312.00687)|null|
+|**2023-12-01**|**The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**|Tianyu Ding et.al.|[2312.00678](http://arxiv.org/abs/2312.00678)|**[link](https://github.com/tding1/efficient-llm-survey)**|
+|**2023-12-01**|**Initial Results From the First Field Expedition of UAPx to Study Unidentified Anomalous Phenomena**|M. Szydagis et.al.|[2312.00558](http://arxiv.org/abs/2312.00558)|null|
+|**2023-12-01**|**RIS-Based On-the-Air Semantic Communications -- a Diffractional Deep Neural Network Approach**|Shuyi Chen et.al.|[2312.00535](http://arxiv.org/abs/2312.00535)|null|
+|**2023-12-01**|**A Scale-out Decentralized Blockchain Ledger System for Web3.0**|Lide Xue et.al.|[2312.00281](http://arxiv.org/abs/2312.00281)|null|
+|**2023-12-01**|**Skipper: Improving the Reach and Fidelity of Quantum Annealers by Skipping Long Chains**|Ramin Ayanzadeh et.al.|[2312.00264](http://arxiv.org/abs/2312.00264)|null|
+|**2023-12-01**|**Quantum Multiple Kernel Learning in Financial Classification Tasks**|Shungo Miyabe et.al.|[2312.00260](http://arxiv.org/abs/2312.00260)|null|
+|**2023-11-30**|**DNS SLAM: Dense Neural Semantic-Informed SLAM**|Kunyi Li et.al.|[2312.00204](http://arxiv.org/abs/2312.00204)|null|
+|**2023-11-30**|**Subspace methods for electronic structure simulations on quantum computers**|Mario Motta et.al.|[2312.00178](http://arxiv.org/abs/2312.00178)|null|
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828](http://arxiv.org/abs/2311.18828)|null|
 |**2023-11-30**|**GPGPU Acceleration of Incoherent Scatter Radar Plasma Line Analysis**|Natalie Hilliard et.al.|[2311.18737](http://arxiv.org/abs/2311.18737)|null|
 |**2023-11-30**|**Quantum Simulation of an Open System: A Dissipative 1+1D Ising Model**|Erik Gustafson et.al.|[2311.18728](http://arxiv.org/abs/2311.18728)|null|
@@ -4129,6 +4153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
+|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774](http://arxiv.org/abs/2312.00774)|null|
+|**2023-12-01**|**Random Forest for Dynamic Risk Prediction or Recurrent Events: A Pseudo-Observation Approach**|Abigail Loe et.al.|[2312.00770](http://arxiv.org/abs/2312.00770)|null|
+|**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763](http://arxiv.org/abs/2312.00763)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761](http://arxiv.org/abs/2312.00761)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Three-Wave Mixing Quantum-Limited Kinetic Inductance Parametric Amplifier operating at 6 Tesla and near 1 Kelvin**|Simone Frasca et.al.|[2312.00748](http://arxiv.org/abs/2312.00748)|null|
+|**2023-12-01**|**Reduction from sparse LPN to LPN, Dual Attack 3.0**|Kévin Carrier et.al.|[2312.00747](http://arxiv.org/abs/2312.00747)|null|
+|**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746](http://arxiv.org/abs/2312.00746)|null|
 |**2023-11-30**|**Just Add $π$ ! Pose Induced Video Transformers for Understanding Activities of Daily Living**|Dominick Reilly et.al.|[2311.18840](http://arxiv.org/abs/2311.18840)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**MotionEditor: Editing Video Motion via Content-Aware Diffusion**|Shuyuan Tu et.al.|[2311.18830](http://arxiv.org/abs/2311.18830)|**[link](https://github.com/Francis-Rings/MotionEditor)**|
@@ -5684,6 +5718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
+|**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761](http://arxiv.org/abs/2312.00761)|null|
+|**2023-12-01**|**Giant microwave-optical Kerr nonlinearity via Rydberg excitons in cuprous oxide**|Jon D. Pritchett et.al.|[2312.00757](http://arxiv.org/abs/2312.00757)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Computing Networks Enabled Semantic Communications**|Zhijin Qin et.al.|[2312.00740](http://arxiv.org/abs/2312.00740)|null|
+|**2023-12-01**|**Adversarial Score Distillation: When score distillation meets GAN**|Min Wei et.al.|[2312.00739](http://arxiv.org/abs/2312.00739)|**[link](https://github.com/2y7c3/asd)**|
+|**2023-12-01**|**Probing Off-diagonal Eigenstate Thermalization with Tensor Networks**|Maxine Luo et.al.|[2312.00736](http://arxiv.org/abs/2312.00736)|null|
+|**2023-12-01**|**Automated Evaluation of Environmental Coupling for Advanced LIGO Gravitational Wave Detections**|Adrian Helmling-Cornell et.al.|[2312.00735](http://arxiv.org/abs/2312.00735)|null|
+|**2023-12-01**|**Resilience in Highways: Proposal of Roadway Redundancy Indicators and Application in Segments of the Brazilian Network**|André Borgato Morelli et.al.|[2312.00731](http://arxiv.org/abs/2312.00731)|null|
+|**2023-12-01**|**Soft computing for the posterior of a new matrix t graphical network**|J. Pillay et.al.|[2312.00728](http://arxiv.org/abs/2312.00728)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829](http://arxiv.org/abs/2311.18829)|null|
 |**2023-11-30**|**An Adaptive Framework for Generalizing Network Traffic Prediction towards Uncertain Environments**|Alexander Downey et.al.|[2311.18824](http://arxiv.org/abs/2311.18824)|null|
@@ -7239,6 +7283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
+|**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775](http://arxiv.org/abs/2312.00775)|null|
+|**2023-12-01**|**Exploring kinetically induced bound states in triangular lattices with ultracold atoms: spectroscopic approach**|Ivan Morera et.al.|[2312.00768](http://arxiv.org/abs/2312.00768)|null|
+|**2023-12-01**|**Molecular Dynamics Study of Electro-Osmotic Flow in a Nanochannel with Molybdenum Disulfide Walls**|S. M. Kazem Manzoorolajdad et.al.|[2312.00767](http://arxiv.org/abs/2312.00767)|null|
+|**2023-12-01**|**Automated Material Properties Extraction For Enhanced Beauty Product Discovery and Makeup Virtual Try-on**|Fatemeh Taheri Dezaki et.al.|[2312.00766](http://arxiv.org/abs/2312.00766)|null|
+|**2023-12-01**|**Explaining Knock-on Effects of Bias Mitigation**|Svetoslav Nizhnichenkov et.al.|[2312.00765](http://arxiv.org/abs/2312.00765)|null|
+|**2023-12-01**|**${L}^{\infty}$ -norm computation for linear time-invariant systems depending on parameter**|Alban Quadrat et.al.|[2312.00760](http://arxiv.org/abs/2312.00760)|null|
+|**2023-12-01**|**On absolutely friendly measures on $\mathbb{Q}_S^d$**|Shreyasi Datta et.al.|[2312.00758](http://arxiv.org/abs/2312.00758)|null|
+|**2023-12-01**|**Giant microwave-optical Kerr nonlinearity via Rydberg excitons in cuprous oxide**|Jon D. Pritchett et.al.|[2312.00757](http://arxiv.org/abs/2312.00757)|null|
+|**2023-12-01**|**Operadic categories and 2-Segal sets**|Philip Hackney et.al.|[2312.00756](http://arxiv.org/abs/2312.00756)|null|
 |**2023-11-30**|**Adversarial Attacks and Defenses for Wireless Signal Classifiers using CDI-aware GANs**|Sujata Sinha et.al.|[2311.18820](http://arxiv.org/abs/2311.18820)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-11-30**|**Supersonic Gravitational Collapse for Non-Isentropic Gaseous Stars**|Christopher Alexander et.al.|[2311.18795](http://arxiv.org/abs/2311.18795)|null|
