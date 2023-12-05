@@ -64,6 +64,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
@@ -115,6 +116,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Non-Intrusive Load Monitoring for Feeder-Level EV Charging Detection: Sliding Window-based Approaches to Offline and Online Detection**|Cameron Martin et.al.|[2312.01887](http://arxiv.org/abs/2312.01887)|null|
+|**2023-12-02**|**Scrappy: SeCure Rate Assuring Protocol with PrivacY**|Kosei Akama et.al.|[2312.00989](http://arxiv.org/abs/2312.00989)|null|
 |**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
 |**2023-11-30**|**Sharing Experience Around Component Compositions**|Grégory Bourguin et.al.|[2311.18368](http://arxiv.org/abs/2311.18368)|null|
 |**2023-11-29**|**Asynchronous Merkle Trees**|Anoushk Kharangate et.al.|[2311.17441](http://arxiv.org/abs/2311.17441)|null|
@@ -368,6 +371,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**A Linear-time Simulation of Deterministic $d$ -Limited Automata**|Alexander Rubtsov et.al.|[2312.01896](http://arxiv.org/abs/2312.01896)|null|
+|**2023-12-01**|**SimPLoID: Harnessing probabilistic logic programming for infectious disease epidemiology**|Felix Weitkämper et.al.|[2312.00934](http://arxiv.org/abs/2312.00934)|null|
 |**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|null|
 |**2023-12-01**|**Design Patterns for Machine Learning Based Systems with Human-in-the-Loop**|Jakob Smedegaard Andersen et.al.|[2312.00582](http://arxiv.org/abs/2312.00582)|null|
 |**2023-12-01**|**VEXIR2Vec: An Architecture-Neutral Embedding Framework for Binary Similarity**|S. VenkataKeerthy et.al.|[2312.00507](http://arxiv.org/abs/2312.00507)|null|
@@ -1100,6 +1105,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Guarding Barlow Twins Against Overfitting with Mixed Samples**|Wele Gedara Chaminda Bandara et.al.|[2312.02151](http://arxiv.org/abs/2312.02151)|**[link](https://github.com/wgcban/mix-bt)**|
+|**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132](http://arxiv.org/abs/2312.02132)|null|
+|**2023-12-04**|**Transitions of Solutions and Their Efficiency**|Gleb Polevoy et.al.|[2312.02114](http://arxiv.org/abs/2312.02114)|null|
+|**2023-12-04**|**A Framework for Self-Intersecting Surfaces (SOS): Symmetric Optimisation for Stability**|Christian Amend et.al.|[2312.02113](http://arxiv.org/abs/2312.02113)|null|
+|**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
+|**2023-12-04**|**Inapproximability of Maximum Diameter Clustering for Few Clusters**|Henry Fleischmann et.al.|[2312.02097](http://arxiv.org/abs/2312.02097)|null|
+|**2023-12-04**|**Robust Detrending of Spatially Correlated Systematics in Kepler Light Curves Using Low-Rank Methods**|Jamila Taaki et.al.|[2312.02092](http://arxiv.org/abs/2312.02092)|null|
+|**2023-12-04**|**Joint State and Input Estimation for Linear Dynamical Systems with Sparse Control**|Rupam Kalyan Chakraborty et.al.|[2312.02082](http://arxiv.org/abs/2312.02082)|null|
+|**2023-12-04**|**Fixed-point methods for long-term power control and beamforming design in large-scale MIMO**|Lorenzo Miretti et.al.|[2312.02080](http://arxiv.org/abs/2312.02080)|null|
+|**2023-12-04**|**Evaluating the Claims of "SAT Requires Exhaustive Search"**|Michael C. Chavrimootoo et.al.|[2312.02071](http://arxiv.org/abs/2312.02071)|null|
 |**2023-12-01**|**Dense Optical Tracking: Connecting the Dots**|Guillaume Le Moing et.al.|[2312.00786](http://arxiv.org/abs/2312.00786)|null|
 |**2023-12-01**|**The U.S. CMS HL-LHC R&D Strategic Plan**|Oliver Gutsche et.al.|[2312.00772](http://arxiv.org/abs/2312.00772)|null|
 |**2023-12-01**|**Random Forest for Dynamic Risk Prediction or Recurrent Events: A Pseudo-Observation Approach**|Abigail Loe et.al.|[2312.00770](http://arxiv.org/abs/2312.00770)|null|
@@ -2667,6 +2682,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**A Machine Learning Approach Towards SKILL Code Autocompletion**|Enrique Dehaerne et.al.|[2312.01921](http://arxiv.org/abs/2312.01921)|null|
+|**2023-12-04**|**SPECRUN: The Danger of Speculative Runahead Execution in Processors**|Chaoqun Shen et.al.|[2312.01832](http://arxiv.org/abs/2312.01832)|null|
+|**2023-12-04**|**On Gradient Boosted Decision Trees and Neural Rankers: A Case-Study on Short-Video Recommendations at ShareChat**|Olivier Jeunen et.al.|[2312.01760](http://arxiv.org/abs/2312.01760)|null|
+|**2023-12-04**|**JUNO: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping**|Zihan Liu et.al.|[2312.01712](http://arxiv.org/abs/2312.01712)|null|
+|**2023-12-04**|**Signed Binarization: Unlocking Efficiency Through Repetition-Sparsity Trade-Off**|Sachit Kuhar et.al.|[2312.01581](http://arxiv.org/abs/2312.01581)|null|
+|**2023-12-04**|**Building Ears for Robots: Machine Hearing in the Age of Autonomy**|Xuan Zhong et.al.|[2312.01554](http://arxiv.org/abs/2312.01554)|null|
+|**2023-12-03**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
+|**2023-12-03**|**Heisenberg machines with programmable spin-circuits**|Saleh Bunaiyan et.al.|[2312.01477](http://arxiv.org/abs/2312.01477)|null|
+|**2023-12-03**|**32-Bit RISC-V CPU Core on Logisim**|Siddesh D. Patil et.al.|[2312.01455](http://arxiv.org/abs/2312.01455)|**[link](https://github.com/siddharth23-8/32-bit-RISC-V-Cpu-Core)**|
+|**2023-12-03**|**Robust Resource Partitioning Approach for ARINC 653 RTOS**|Vitaly Cheptsov et.al.|[2312.01436](http://arxiv.org/abs/2312.01436)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
 |**2023-12-01**|**Exploiting Maximally Mixed States for Spectral Estimation by Time Evolution**|Kaelyn J. Ferris et.al.|[2312.00687](http://arxiv.org/abs/2312.00687)|null|
 |**2023-12-01**|**The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**|Tianyu Ding et.al.|[2312.00678](http://arxiv.org/abs/2312.00678)|**[link](https://github.com/tding1/efficient-llm-survey)**|
@@ -4177,6 +4202,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**|Anh-Quan Cao et.al.|[2312.02158](http://arxiv.org/abs/2312.02158)|null|
+|**2023-12-04**|**When it Rains, it Pours: Modeling Media Storms and the News Ecosystem**|Benjamin Litterer et.al.|[2312.02118](http://arxiv.org/abs/2312.02118)|null|
+|**2023-12-04**|**Distributed Optimization with Feasible Set Privacy**|Shreya Meel et.al.|[2312.02112](http://arxiv.org/abs/2312.02112)|null|
+|**2023-12-04**|**TriDeNT: Triple Deep Network Training for Privileged Knowledge Distillation in Histopathology**|Lucas Farndale et.al.|[2312.02111](http://arxiv.org/abs/2312.02111)|null|
+|**2023-12-04**|**Fourier Methods for Sufficient Dimension Reduction in Time Series**|S. Yaser Samadi et.al.|[2312.02110](http://arxiv.org/abs/2312.02110)|null|
+|**2023-12-04**|**On the Ziv-Merhav theorem beyond Markovianity II: A thermodynamic approach**|Nicholas Barnfield et.al.|[2312.02098](http://arxiv.org/abs/2312.02098)|null|
+|**2023-12-04**|**Cultural Differences in Students' Privacy Concerns in Learning Analytics across Germany, South Korea, Spain, Sweden, and the United States**|Olga Viberg et.al.|[2312.02093](http://arxiv.org/abs/2312.02093)|null|
+|**2023-12-04**|**Copula-based deviation measure of cointegrated financial assets**|Alexander Shulzhenko et.al.|[2312.02081](http://arxiv.org/abs/2312.02081)|null|
+|**2023-12-04**|**Fixed-point methods for long-term power control and beamforming design in large-scale MIMO**|Lorenzo Miretti et.al.|[2312.02080](http://arxiv.org/abs/2312.02080)|null|
+|**2023-12-04**|**Analysis of the general uncertainty propagation and calculation of the systematic uncertainty of the Neumann Equation of State for surface free energy determination**|Jonathan M. Schuster et.al.|[2312.02077](http://arxiv.org/abs/2312.02077)|null|
 |**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
 |**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
 |**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774](http://arxiv.org/abs/2312.00774)|null|
@@ -5744,6 +5779,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
+|**2023-12-04**|**Guarding Barlow Twins Against Overfitting with Mixed Samples**|Wele Gedara Chaminda Bandara et.al.|[2312.02151](http://arxiv.org/abs/2312.02151)|**[link](https://github.com/wgcban/mix-bt)**|
+|**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
+|**2023-12-04**|**Learning Polynomial Problems with $SL(2,\mathbb{R})$ Equivariance**|Hannah Lawrence et.al.|[2312.02146](http://arxiv.org/abs/2312.02146)|null|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139](http://arxiv.org/abs/2312.02139)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**|Liangxiao Hu et.al.|[2312.02134](http://arxiv.org/abs/2312.02134)|null|
+|**2023-12-04**|**When it Rains, it Pours: Modeling Media Storms and the News Ecosystem**|Benjamin Litterer et.al.|[2312.02118](http://arxiv.org/abs/2312.02118)|null|
+|**2023-12-04**|**Distributed Optimization with Feasible Set Privacy**|Shreya Meel et.al.|[2312.02112](http://arxiv.org/abs/2312.02112)|null|
+|**2023-12-04**|**TriDeNT: Triple Deep Network Training for Privileged Knowledge Distillation in Histopathology**|Lucas Farndale et.al.|[2312.02111](http://arxiv.org/abs/2312.02111)|null|
+|**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
 |**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
 |**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761](http://arxiv.org/abs/2312.00761)|null|
 |**2023-12-01**|**Giant microwave-optical Kerr nonlinearity via Rydberg excitons in cuprous oxide**|Jon D. Pritchett et.al.|[2312.00757](http://arxiv.org/abs/2312.00757)|null|
@@ -7311,6 +7356,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Aligning and Prompting Everything All at Once for Universal Visual Perception**|Yunhang Shen et.al.|[2312.02153](http://arxiv.org/abs/2312.02153)|**[link](https://github.com/shenyunhang/ape)**|
+|**2023-12-04**|**Learning Polynomial Problems with $SL(2,\mathbb{R})$ Equivariance**|Hannah Lawrence et.al.|[2312.02146](http://arxiv.org/abs/2312.02146)|null|
+|**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144](http://arxiv.org/abs/2312.02144)|null|
+|**2023-12-04**|**MMT/Binospec Spectroscopic Survey of Two $z\sim$ 0.8 Galaxy Clusters in the Eye of Horus Field**|Jiyun Di et.al.|[2312.02140](http://arxiv.org/abs/2312.02140)|null|
+|**2023-12-04**|**Fundamental Physics Opportunities with the Next-Generation Event Horizon Telescope**|Dimitry Ayzenberg et.al.|[2312.02130](http://arxiv.org/abs/2312.02130)|null|
+|**2023-12-04**|**Exact solutions of Cotton Gravity**|Roberto A Sussman et.al.|[2312.02115](http://arxiv.org/abs/2312.02115)|null|
+|**2023-12-04**|**A Framework for Self-Intersecting Surfaces (SOS): Symmetric Optimisation for Stability**|Christian Amend et.al.|[2312.02113](http://arxiv.org/abs/2312.02113)|null|
+|**2023-12-04**|**Authoring Worked Examples for Java Programming with Human-AI Collaboration**|Mohammad Hassany et.al.|[2312.02105](http://arxiv.org/abs/2312.02105)|null|
+|**2023-12-04**|**RidePy: A fast and modular framework for simulating ridepooling systems**|Felix Jung et.al.|[2312.02104](http://arxiv.org/abs/2312.02104)|null|
+|**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
 |**2023-12-01**|**Modeling False Data Injection Attacks on Integrated Electricity-Gas Systems**|Rong-Peng Liu et.al.|[2312.00781](http://arxiv.org/abs/2312.00781)|null|
 |**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775](http://arxiv.org/abs/2312.00775)|null|
 |**2023-12-01**|**Exploring kinetically induced bound states in triangular lattices with ultracold atoms: spectroscopic approach**|Ivan Morera et.al.|[2312.00768](http://arxiv.org/abs/2312.00768)|null|
