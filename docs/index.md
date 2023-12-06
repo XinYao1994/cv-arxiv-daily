@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2667,7 +2667,7 @@ layout: default
 |**2023-12-04**|**Signed Binarization: Unlocking Efficiency Through Repetition-Sparsity Trade-Off**|Sachit Kuhar et.al.|[2312.01581](http://arxiv.org/abs/2312.01581)|null|
 |**2023-12-04**|**Building Ears for Robots: Machine Hearing in the Age of Autonomy**|Xuan Zhong et.al.|[2312.01554](http://arxiv.org/abs/2312.01554)|null|
 |**2023-12-03**|**T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training**|Che Liu et.al.|[2312.01529](http://arxiv.org/abs/2312.01529)|null|
-|**2023-12-03**|**Heisenberg machines with programmable spin-circuits**|Saleh Bunaiyan et.al.|[2312.01477](http://arxiv.org/abs/2312.01477)|null|
+|**2023-12-03**|**Heisenberg machines with programmable spin-circuits**|Saleh Bunaiyan et.al.|[2312.01477](http://arxiv.org/abs/2312.01477)|**[link](https://github.com/OPUSLab/HeisenbergMachines)**|
 |**2023-12-03**|**32-Bit RISC-V CPU Core on Logisim**|Siddesh D. Patil et.al.|[2312.01455](http://arxiv.org/abs/2312.01455)|**[link](https://github.com/siddharth23-8/32-bit-RISC-V-Cpu-Core)**|
 |**2023-12-03**|**Robust Resource Partitioning Approach for ARINC 653 RTOS**|Vitaly Cheptsov et.al.|[2312.01436](http://arxiv.org/abs/2312.01436)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
