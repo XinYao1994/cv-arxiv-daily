@@ -116,6 +116,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Localized Load Reduction Market Development Considering Network Constraints**|Mohammad Panahazari et.al.|[2312.03089](http://arxiv.org/abs/2312.03089)|null|
+|**2023-12-05**|**A New Market-Based Framework for Increasing Responsive Loads In Distribution Systems**|Mohammad Panahazari et.al.|[2312.03084](http://arxiv.org/abs/2312.03084)|null|
 |**2023-12-04**|**Non-Intrusive Load Monitoring for Feeder-Level EV Charging Detection: Sliding Window-based Approaches to Offline and Online Detection**|Cameron Martin et.al.|[2312.01887](http://arxiv.org/abs/2312.01887)|null|
 |**2023-12-02**|**Scrappy: SeCure Rate Assuring Protocol with PrivacY**|Kosei Akama et.al.|[2312.00989](http://arxiv.org/abs/2312.00989)|null|
 |**2023-12-01**|**A Holistic Approach for Trustworthy Distributed Systems with WebAssembly and TEEs**|Jämes Ménétrey et.al.|[2312.00702](http://arxiv.org/abs/2312.00702)|**[link](https://github.com/jamesmenetrey/unine-opodis2023)**|
@@ -371,6 +373,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**An Irredundant Decomposition of Data Flow with Affine Dependences**|Corentin Ferry et.al.|[2312.03646](http://arxiv.org/abs/2312.03646)|null|
+|**2023-12-06**|**PS $^3$ : Precise Patch Presence Test based on Semantic Symbolic Signature**|Qi Zhan et.al.|[2312.03393](http://arxiv.org/abs/2312.03393)|**[link](https://github.com/Qi-Zhan/ps3)**|
+|**2023-12-06**|**Geometric Deep Learning Towards the Iterative Classification of Graph-Based Aircraft Thermal Management Systems**|Anthony Sirico Jr. et.al.|[2312.03270](http://arxiv.org/abs/2312.03270)|null|
+|**2023-12-06**|**Optimistic Global Function Merger**|Kyungwoo Lee et.al.|[2312.03214](http://arxiv.org/abs/2312.03214)|null|
+|**2023-12-05**|**Enhanced Breast Cancer Tumor Classification using MobileNetV2: A Detailed Exploration on Image Intensity, Error Mitigation, and Streamlit-driven Real-time Deployment**|Aaditya Surya et.al.|[2312.03020](http://arxiv.org/abs/2312.03020)|null|
+|**2023-12-05**|**Breast Ultrasound Report Generation using LangChain**|Jaeyoung Huh et.al.|[2312.03013](http://arxiv.org/abs/2312.03013)|null|
 |**2023-12-05**|**Leveraging Domain Adaptation and Data Augmentation to Improve Qur'anic IR in English and Arabic**|Vera Pavlova et.al.|[2312.02803](http://arxiv.org/abs/2312.02803)|null|
 |**2023-12-05**|**Merger Tree-based Halo/Galaxy Matching Between Cosmological Simulations with Different Resolutions: Galaxy-by-galaxy Resolution Study and the Machine Learning-based Correction**|Minyong Jung et.al.|[2312.02466](http://arxiv.org/abs/2312.02466)|null|
 |**2023-12-04**|**A Linear-time Simulation of Deterministic $d$ -Limited Automata**|Alexander Rubtsov et.al.|[2312.01896](http://arxiv.org/abs/2312.01896)|null|
@@ -1107,6 +1115,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Efficient Learning in Polyhedral Games via Best Response Oracles**|Darshan Chakrabarti et.al.|[2312.03696](http://arxiv.org/abs/2312.03696)|null|
+|**2023-12-06**|**Canonization of a random graph by two matrix-vector multiplications**|Oleg Verbitsky et.al.|[2312.03686](http://arxiv.org/abs/2312.03686)|null|
+|**2023-12-06**|**Testing Connectedness of Images**|Piotr Berman et.al.|[2312.03681](http://arxiv.org/abs/2312.03681)|null|
+|**2023-12-06**|**On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer**|Elie Aljalbout et.al.|[2312.03673](http://arxiv.org/abs/2312.03673)|null|
+|**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671](http://arxiv.org/abs/2312.03671)|null|
+|**2023-12-06**|**Towards small and accurate convolutional neural networks for acoustic biodiversity monitoring**|Serge Zaugg et.al.|[2312.03666](http://arxiv.org/abs/2312.03666)|null|
+|**2023-12-06**|**Efficient Inverse Design Optimization through Multi-fidelity Simulations, Machine Learning, and Search Space Reduction Strategies**|Luka Grbcic et.al.|[2312.03654](http://arxiv.org/abs/2312.03654)|null|
+|**2023-12-06**|**MICRACLE: Inverse Reinforcement and Curriculum Learning Model for Human-inspired Mobile Robot Navigation**|Nihal Gunukula et.al.|[2312.03651](http://arxiv.org/abs/2312.03651)|null|
+|**2023-12-06**|**Propagating moments in probabilistic graphical models for decision support systems**|Victoria Volodina et.al.|[2312.03643](http://arxiv.org/abs/2312.03643)|null|
+|**2023-12-06**|**Beyond discounted returns: Robust Markov decision processes with average and Blackwell optimality**|Julien Grand-Clement et.al.|[2312.03618](http://arxiv.org/abs/2312.03618)|null|
 |**2023-12-05**|**Fast particle-mesh code for Milgromian dynamics**|P. M. Visser et.al.|[2312.02968](http://arxiv.org/abs/2312.02968)|null|
 |**2023-12-05**|**Predicting Horizontal Gene Transfers with Perfect Transfer Networks**|Alitzel López Sánchez et.al.|[2312.02962](http://arxiv.org/abs/2312.02962)|null|
 |**2023-12-05**|**Detecting algorithmic bias in medical AI-models**|Jeffrey Smith et.al.|[2312.02959](http://arxiv.org/abs/2312.02959)|null|
@@ -2694,6 +2712,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Towards small and accurate convolutional neural networks for acoustic biodiversity monitoring**|Serge Zaugg et.al.|[2312.03666](http://arxiv.org/abs/2312.03666)|null|
+|**2023-12-06**|**MCAIMem: a Mixed SRAM and eDRAM Cell for Area and Energy-efficient on-chip AI Memory**|Duy-Thanh Nguyen et.al.|[2312.03559](http://arxiv.org/abs/2312.03559)|null|
+|**2023-12-06**|**Incorporating the algorithm for the boundary condition from FVM into the framework of Eulerian SPH**|Zhentong Wang et.al.|[2312.03542](http://arxiv.org/abs/2312.03542)|null|
+|**2023-12-06**|**Gravitational cell detection and tracking in fluorescence microscopy data**|Nikomidisz Eftimiu et.al.|[2312.03509](http://arxiv.org/abs/2312.03509)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
+|**2023-12-06**|**Beacon-enabled TDMA Ultraviolet Communication Network System Design and Realization**|Yuchen Pan et.al.|[2312.03376](http://arxiv.org/abs/2312.03376)|null|
+|**2023-12-06**|**A novel coupled-cluster singles and doubles implementation that combines the exploitation of point-group symmetry and Cholesky decomposition of the two-electron integrals**|Tommaso Nottoli et.al.|[2312.03375](http://arxiv.org/abs/2312.03375)|null|
+|**2023-12-06**|**Weathering Ongoing Uncertainty: Learning and Planning in a Time-Varying Partially Observable Environment**|Gokul Puthumanaillam et.al.|[2312.03263](http://arxiv.org/abs/2312.03263)|null|
+|**2023-12-06**|**Seamless monolithic three-dimensional integration of single-crystalline films by growth**|Ki Seok Kim et.al.|[2312.03206](http://arxiv.org/abs/2312.03206)|null|
+|**2023-12-05**|**LRMP: Layer Replication with Mixed Precision for Spatial In-memory DNN Accelerators**|Abinand Nallathambi et.al.|[2312.03146](http://arxiv.org/abs/2312.03146)|null|
 |**2023-12-05**|**PULSAR: Simultaneous Many-Row Activation for Reliable and High-Performance Computing in Off-the-Shelf DRAM Chips**|Ismail Emir Yuksel et.al.|[2312.02880](http://arxiv.org/abs/2312.02880)|null|
 |**2023-12-05**|**Exploring Error Bits for Memory Failure Prediction: An In-Depth Correlative Study**|Qiao Yu et.al.|[2312.02855](http://arxiv.org/abs/2312.02855)|null|
 |**2023-12-05**|**Causal flow preserving optimisation of quantum circuits in the ZX-calculus**|Calum Holker et.al.|[2312.02793](http://arxiv.org/abs/2312.02793)|null|
@@ -4224,6 +4252,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**PROMISE: A Framework for Model-Driven Stateful Prompt Orchestration**|Wenyuan Wu et.al.|[2312.03699](http://arxiv.org/abs/2312.03699)|null|
+|**2023-12-06**|**On the Role of Edge Dependency in Graph Generative Models**|Sudhanshu Chanpuriya et.al.|[2312.03691](http://arxiv.org/abs/2312.03691)|null|
+|**2023-12-06**|**Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling**|Yiwen Zheng et.al.|[2312.03690](http://arxiv.org/abs/2312.03690)|null|
+|**2023-12-06**|**Evaluating and Mitigating Discrimination in Language Model Decisions**|Alex Tamkin et.al.|[2312.03689](http://arxiv.org/abs/2312.03689)|null|
+|**2023-12-06**|**MatterGen: a generative model for inorganic materials design**|Claudio Zeni et.al.|[2312.03687](http://arxiv.org/abs/2312.03687)|null|
+|**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
+|**2023-12-06**|**Quantum Optics with Rydberg Superatoms**|Jan Kumlin et.al.|[2312.03649](http://arxiv.org/abs/2312.03649)|null|
+|**2023-12-06**|**An Irredundant Decomposition of Data Flow with Affine Dependences**|Corentin Ferry et.al.|[2312.03646](http://arxiv.org/abs/2312.03646)|null|
+|**2023-12-06**|**Fairness and Deception in Human Interactions with Artificial Agents**|Theodor Cimpeanu et.al.|[2312.03645](http://arxiv.org/abs/2312.03645)|null|
+|**2023-12-06**|**Propagating moments in probabilistic graphical models for decision support systems**|Victoria Volodina et.al.|[2312.03643](http://arxiv.org/abs/2312.03643)|null|
 |**2023-12-05**|**Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**|Xinyu Zhang et.al.|[2312.02969](http://arxiv.org/abs/2312.02969)|null|
 |**2023-12-05**|**Classification for everyone : Building geography agnostic models for fairer recognition**|Akshat Jindal et.al.|[2312.02957](http://arxiv.org/abs/2312.02957)|null|
 |**2023-12-05**|**Improving Constraints on Inflation with CMB Delensing**|Cynthia Trendafilova et.al.|[2312.02954](http://arxiv.org/abs/2312.02954)|null|
@@ -5811,6 +5849,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Intrinsic Harmonization for Illumination-Aware Compositing**|Chris Careaga et.al.|[2312.03698](http://arxiv.org/abs/2312.03698)|null|
+|**2023-12-06**|**On the Role of Edge Dependency in Graph Generative Models**|Sudhanshu Chanpuriya et.al.|[2312.03691](http://arxiv.org/abs/2312.03691)|null|
+|**2023-12-06**|**Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling**|Yiwen Zheng et.al.|[2312.03690](http://arxiv.org/abs/2312.03690)|null|
+|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682](http://arxiv.org/abs/2312.03682)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
+|**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671](http://arxiv.org/abs/2312.03671)|null|
+|**2023-12-06**|**Towards small and accurate convolutional neural networks for acoustic biodiversity monitoring**|Serge Zaugg et.al.|[2312.03666](http://arxiv.org/abs/2312.03666)|null|
+|**2023-12-06**|**MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment**|Ziyan Wang et.al.|[2312.03644](http://arxiv.org/abs/2312.03644)|null|
+|**2023-12-06**|**Propagating moments in probabilistic graphical models for decision support systems**|Victoria Volodina et.al.|[2312.03643](http://arxiv.org/abs/2312.03643)|null|
+|**2023-12-06**|**Training Neural Networks on RAW and HDR Images for Restoration Tasks**|Lei Luo et.al.|[2312.03640](http://arxiv.org/abs/2312.03640)|**[link](https://github.com/gfxdisp/colorvideovdp)**|
+|**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636](http://arxiv.org/abs/2312.03636)|null|
 |**2023-12-05**|**Predicting Horizontal Gene Transfers with Perfect Transfer Networks**|Alitzel López Sánchez et.al.|[2312.02962](http://arxiv.org/abs/2312.02962)|null|
 |**2023-12-05**|**Simple evolving random graphs**|P. L. Krapivsky et.al.|[2312.02952](http://arxiv.org/abs/2312.02952)|null|
 |**2023-12-05**|**Zero and extremely low metallicity rotating massive stars: evolution, explosion, and nucleosynthesis up to the heaviest nuclei**|Lorenzo Roberti et.al.|[2312.02942](http://arxiv.org/abs/2312.02942)|null|
@@ -7398,6 +7446,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**PROMISE: A Framework for Model-Driven Stateful Prompt Orchestration**|Wenyuan Wu et.al.|[2312.03699](http://arxiv.org/abs/2312.03699)|null|
+|**2023-12-06**|**Efficient Learning in Polyhedral Games via Best Response Oracles**|Darshan Chakrabarti et.al.|[2312.03696](http://arxiv.org/abs/2312.03696)|null|
+|**2023-12-06**|**The discrete nonlinear Schrödinger equation with linear gain and nonlinear loss: the infinite lattice with nonzero boundary conditions and its finite dimensional approximations**|Georgios Fotopoulos et.al.|[2312.03683](http://arxiv.org/abs/2312.03683)|null|
+|**2023-12-06**|**Periodic homogenization of a class of weakly coupled systems of linear PDEs**|Nikola Sandrić et.al.|[2312.03680](http://arxiv.org/abs/2312.03680)|null|
+|**2023-12-06**|**Single-ion optical autocorrelator**|M. I. Hussain et.al.|[2312.03679](http://arxiv.org/abs/2312.03679)|null|
+|**2023-12-06**|**Building a Digital Twin for British Cities**|Michael Batty et.al.|[2312.03674](http://arxiv.org/abs/2312.03674)|null|
+|**2023-12-06**|**Annihilating branching Brownian motion**|Daniel Ahlberg et.al.|[2312.03669](http://arxiv.org/abs/2312.03669)|null|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664](http://arxiv.org/abs/2312.03664)|null|
+|**2023-12-06**|**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**|Ming Nie et.al.|[2312.03661](http://arxiv.org/abs/2312.03661)|**[link](https://github.com/fudan-zvg/reason2drive)**|
+|**2023-12-06**|**Semiclassical states for the curl-curl problem**|Bartosz Bieganowski et.al.|[2312.03658](http://arxiv.org/abs/2312.03658)|null|
 |**2023-12-05**|**Feshbach hypothesis of high-Tc superconductivity in cuprates**|Lukas Homeier et.al.|[2312.02982](http://arxiv.org/abs/2312.02982)|null|
 |**2023-12-05**|**Floquet Chiral Quantum Walk in Quantum Computer**|Chan Bin Bark et.al.|[2312.02979](http://arxiv.org/abs/2312.02979)|null|
 |**2023-12-05**|**Dexterous Functional Grasping**|Ananye Agarwal et.al.|[2312.02975](http://arxiv.org/abs/2312.02975)|null|
@@ -8985,6 +9043,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**LRMP: Layer Replication with Mixed Precision for Spatial In-memory DNN Accelerators**|Abinand Nallathambi et.al.|[2312.03146](http://arxiv.org/abs/2312.03146)|null|
 |**2023-11-29**|**Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices**|Huancheng Chen et.al.|[2311.18129](http://arxiv.org/abs/2311.18129)|null|
 |**2023-11-23**|**SySMOL: A Hardware-software Co-design Framework for Ultra-Low and Fine-Grained Mixed-Precision Neural Networks**|Cyrus Zhou et.al.|[2311.14114](http://arxiv.org/abs/2311.14114)|null|
 |**2023-10-25**|**TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs**|Haotian Tang et.al.|[2311.12862](http://arxiv.org/abs/2311.12862)|**[link](https://github.com/mit-han-lab/torchsparse)**|
