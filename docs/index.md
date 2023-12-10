@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -357,7 +357,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511](http://arxiv.org/abs/2312.04511)|null|
+|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511](http://arxiv.org/abs/2312.04511)|**[link](https://github.com/squeezeailab/llmcompiler)**|
 |**2023-12-07**|**Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**|Chengshu Li et.al.|[2312.04474](http://arxiv.org/abs/2312.04474)|null|
 |**2023-12-07**|**Adaptive Recursive Query Optimization**|Anna Herlihy et.al.|[2312.04282](http://arxiv.org/abs/2312.04282)|null|
 |**2023-12-07**|**Restoring cosmological concordance with axion-like early dark energy and dark matter characterized by a constant equation of state?**|Yan-Hong Yao et.al.|[2312.04007](http://arxiv.org/abs/2312.04007)|null|
@@ -7466,7 +7466,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567](http://arxiv.org/abs/2312.04567)|null|
+|**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567](http://arxiv.org/abs/2312.04567)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-12-07**|**Glassy word problems: ultraslow relaxation, Hilbert space jamming, and computational complexity**|Shankar Balasubramanian et.al.|[2312.04562](http://arxiv.org/abs/2312.04562)|null|
 |**2023-12-07**|**Iterated invariance principle for random dynamical systems**|Davor Dragicevic et.al.|[2312.04550](http://arxiv.org/abs/2312.04550)|null|
 |**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549](http://arxiv.org/abs/2312.04549)|null|
