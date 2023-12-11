@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -362,7 +362,7 @@ layout: default
 |**2023-12-07**|**Adaptive Recursive Query Optimization**|Anna Herlihy et.al.|[2312.04282](http://arxiv.org/abs/2312.04282)|null|
 |**2023-12-07**|**Restoring cosmological concordance with axion-like early dark energy and dark matter characterized by a constant equation of state?**|Yan-Hong Yao et.al.|[2312.04007](http://arxiv.org/abs/2312.04007)|null|
 |**2023-12-06**|**Efficient Large Language Models: A Survey**|Zhongwei Wan et.al.|[2312.03863](http://arxiv.org/abs/2312.03863)|**[link](https://github.com/aiot-mlsys-lab/efficientllms)**|
-|**2023-12-06**|**Stop Hiding The Sharp Knives: The WebAssembly Linux Interface**|Arjun Ramesh et.al.|[2312.03858](http://arxiv.org/abs/2312.03858)|null|
+|**2023-12-06**|**Stop Hiding The Sharp Knives: The WebAssembly Linux Interface**|Arjun Ramesh et.al.|[2312.03858](http://arxiv.org/abs/2312.03858)|**[link](https://github.com/arjunr2/wali)**|
 |**2023-12-06**|**An Irredundant Decomposition of Data Flow with Affine Dependences**|Corentin Ferry et.al.|[2312.03646](http://arxiv.org/abs/2312.03646)|null|
 |**2023-12-06**|**PS $^3$ : Precise Patch Presence Test based on Semantic Symbolic Signature**|Qi Zhan et.al.|[2312.03393](http://arxiv.org/abs/2312.03393)|**[link](https://github.com/Qi-Zhan/ps3)**|
 |**2023-12-06**|**Geometric Deep Learning Towards the Iterative Classification of Graph-Based Aircraft Thermal Management Systems**|Anthony Sirico Jr. et.al.|[2312.03270](http://arxiv.org/abs/2312.03270)|null|
