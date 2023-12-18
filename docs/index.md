@@ -100,7 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-14**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
+|**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**Guarding the Grid: Enhancing Resilience in Automated Residential Demand Response Against False Data Injection Attacks**|Thusitha Dayaratne et.al.|[2312.08646](http://arxiv.org/abs/2312.08646)|null|
 |**2023-12-11**|**Implementing hosting capacity analysis in distribution networks: Practical considerations, advancements and future directions**|U. Singh et.al.|[2312.06582](http://arxiv.org/abs/2312.06582)|null|
 |**2023-12-12**|**Open Data-Driven Automation of Residential Distribution Grid Modeling with Minimal Data Requirements**|Moritz Weber et.al.|[2312.06552](http://arxiv.org/abs/2312.06552)|null|
@@ -364,6 +364,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**ACPO: AI-Enabled Compiler-Driven Program Optimization**|Amir H. Ashouri et.al.|[2312.09982](http://arxiv.org/abs/2312.09982)|null|
+|**2023-12-15**|**Four new eclipsing accreting ultracompact white dwarf binaries found with the Zwicky Transient Facility**|J. M. Khalil et.al.|[2312.09980](http://arxiv.org/abs/2312.09980)|null|
+|**2023-12-15**|**ExoMol line lists -- LVI: The SO line list, MARVEL analysis of experimental transition data and refinement of the spectroscopic model**|Ryan P. Brady et.al.|[2312.09732](http://arxiv.org/abs/2312.09732)|null|
+|**2023-12-15**|**Social, Legal, Ethical, Empathetic, and Cultural Rules: Compilation and Reasoning (Extended Version)**|Nicolas Troquard et.al.|[2312.09699](http://arxiv.org/abs/2312.09699)|null|
+|**2023-12-14**|**WaveCert: Formal Compiler Validation for Asynchronous Dataflow Programs**|Zhengyao Lin et.al.|[2312.09326](http://arxiv.org/abs/2312.09326)|null|
 |**2023-12-14**|**A Comprehensive Trusted Runtime for WebAssembly with Intel SGX**|Jämes Ménétrey et.al.|[2312.09087](http://arxiv.org/abs/2312.09087)|null|
 |**2023-12-14**|**Syntax Monads for the Working Formal Metatheorist**|Lawrence Dunn et.al.|[2312.08897](http://arxiv.org/abs/2312.08897)|null|
 |**2023-12-14**|**Universal algorithm for transforming Hamiltonian eigenvalues**|Tatsuki Odake et.al.|[2312.08848](http://arxiv.org/abs/2312.08848)|null|
@@ -1131,6 +1136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
+|**2023-12-15**|**One loop QCD corrections to $gg \to t\overline{t}H$ at $\mathcal{O}(ε^2)$**|Federico Buccioni et.al.|[2312.10015](http://arxiv.org/abs/2312.10015)|null|
+|**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009](http://arxiv.org/abs/2312.10009)|null|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**SAT-Based Algorithms for Regular Graph Pattern Matching**|Miguel Terra-Neves et.al.|[2312.09995](http://arxiv.org/abs/2312.09995)|null|
+|**2023-12-15**|**ACPO: AI-Enabled Compiler-Driven Program Optimization**|Amir H. Ashouri et.al.|[2312.09982](http://arxiv.org/abs/2312.09982)|null|
+|**2023-12-15**|**Small jet engine reservoir computing digital twin**|C. J. Wright et.al.|[2312.09978](http://arxiv.org/abs/2312.09978)|null|
+|**2023-12-15**|**The Next Generation Deep Extragalactic Exploratory Public Near-Infrared Slitless Survey Epoch 1 (NGDEEP-NISS1): Extra-Galactic Star-formation and Active Galactic Nuclei at 0.5 < z < 3.6**|Nor Pirzkal et.al.|[2312.09972](http://arxiv.org/abs/2312.09972)|null|
+|**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971](http://arxiv.org/abs/2312.09971)|null|
+|**2023-12-15**|**Human Perception-Inspired Grain Segmentation Refinement Using Conditional Random Fields**|Doruk Aksoy et.al.|[2312.09968](http://arxiv.org/abs/2312.09968)|**[link](https://github.com/dorukaksoy/hierarchicalcrf)**|
 |**2023-12-14**|**Speed limits of two-qubit gates with qudits**|Bora Basyildiz et.al.|[2312.09218](http://arxiv.org/abs/2312.09218)|null|
 |**2023-12-14**|**DIRECT: Deep Active Learning under Imbalance and Label Noise**|Shyam Nuggehalli et.al.|[2312.09196](http://arxiv.org/abs/2312.09196)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
@@ -2786,6 +2801,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971](http://arxiv.org/abs/2312.09971)|null|
+|**2023-12-15**|**Quantum Generative Adversarial Networks: Bridging Classical and Quantum Realms**|Sahil Nokhwal et.al.|[2312.09939](http://arxiv.org/abs/2312.09939)|null|
+|**2023-12-15**|**ChemTime: Rapid and Early Classification for Multivariate Time Series Classification of Chemical Sensors**|Alexander M. Moore et.al.|[2312.09871](http://arxiv.org/abs/2312.09871)|null|
+|**2023-12-15**|**Beyond Over-Protection: A Targeted Approach to Spectre Mitigation and Performance Optimization**|Tiziano Marinaro et.al.|[2312.09770](http://arxiv.org/abs/2312.09770)|null|
+|**2023-12-15**|**LiteVSR: Efficient Visual Speech Recognition by Learning from Speech Representations of Unlabeled Data**|Hendrik Laux et.al.|[2312.09727](http://arxiv.org/abs/2312.09727)|null|
+|**2023-12-15**|**Madtls: Fine-grained Middlebox-aware End-to-end Security for Industrial Communication**|Eric Wagner et.al.|[2312.09650](http://arxiv.org/abs/2312.09650)|null|
+|**2023-12-15**|**Full-Envelope Flight Control and a Transition Strategy for Compound eVTOL aircrafts**|Jean-Marie Kai et.al.|[2312.09629](http://arxiv.org/abs/2312.09629)|null|
+|**2023-12-15**|**A 1.6-mW Sparse Deep Learning Accelerator for Speech Separation**|Chih-Chyau Yang et.al.|[2312.09580](http://arxiv.org/abs/2312.09580)|null|
+|**2023-12-15**|**System Integration of Xilinx DPU and HDMI for Real-Time inference in PYNQ Environment with Image Enhancement**|Jonathan Sanderson et.al.|[2312.09506](http://arxiv.org/abs/2312.09506)|null|
+|**2023-12-14**|**Inter-Layer Scheduling Space Exploration for Multi-model Inference on Heterogeneous Chiplets**|Mohanad Odema et.al.|[2312.09401](http://arxiv.org/abs/2312.09401)|null|
 |**2023-12-14**|**DVQI: A Multi-task, Hardware-integrated Artificial Intelligence System for Automated Visual Inspection in Electronics Manufacturing**|Audrey Chung et.al.|[2312.09232](http://arxiv.org/abs/2312.09232)|null|
 |**2023-12-14**|**Efficient Online Learning of Contact Force Models for Connector Insertion**|Kevin Tracy et.al.|[2312.09190](http://arxiv.org/abs/2312.09190)|null|
 |**2023-12-14**|**Does provable absence of barren plateaus imply classical simulability? Or, why we need to rethink variational quantum computing**|M. Cerezo et.al.|[2312.09121](http://arxiv.org/abs/2312.09121)|null|
@@ -4381,6 +4406,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
+|**2023-12-15**|**Entanglement entropy of two disjoint intervals and spin structures in interacting chains in and out of equilibrium**|Vanja Marić et.al.|[2312.10028](http://arxiv.org/abs/2312.10028)|null|
+|**2023-12-15**|**Understanding Probe Behaviors through Variational Bounds of Mutual Information**|Kwanghee Choi et.al.|[2312.10019](http://arxiv.org/abs/2312.10019)|**[link](https://github.com/juice500ml/information_probing)**|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**The anomaly of the CMB power with the latest Planck data**|M. Billi et.al.|[2312.09989](http://arxiv.org/abs/2312.09989)|null|
+|**2023-12-15**|**On differences of perfect powers and prime powers**|Pedro-José Cazorla García et.al.|[2312.09985](http://arxiv.org/abs/2312.09985)|null|
+|**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971](http://arxiv.org/abs/2312.09971)|null|
+|**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966](http://arxiv.org/abs/2312.09966)|null|
+|**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
+|**2023-12-15**|**Collaboratively assessing urban alerts in ad hoc participatory sensing**|Fátima Castro-Jul et.al.|[2312.09957](http://arxiv.org/abs/2312.09957)|null|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243](http://arxiv.org/abs/2312.09243)|**[link](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238](http://arxiv.org/abs/2312.09238)|null|
 |**2023-12-14**|**Let's do the time-warp-attend: Learning topological invariants of dynamical systems**|Noa Moriel et.al.|[2312.09234](http://arxiv.org/abs/2312.09234)|**[link](https://github.com/nitzanlab/time-warp-attend)**|
@@ -6036,6 +6071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Energy Sustainability in Dense Radio Access Networks via High Altitude Platform Stations**|Maryam Salamatmoghadasi et.al.|[2312.10027](http://arxiv.org/abs/2312.10027)|null|
+|**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|null|
+|**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009](http://arxiv.org/abs/2312.10009)|null|
+|**2023-12-15**|**Symplectic Autoencoders for Model Reduction of Hamiltonian Systems**|Benedikt Brantner et.al.|[2312.10004](http://arxiv.org/abs/2312.10004)|null|
+|**2023-12-15**|**Modeling Unknown Stochastic Dynamical System via Autoencoder**|Zhongshu Xu et.al.|[2312.10001](http://arxiv.org/abs/2312.10001)|null|
+|**2023-12-15**|**Towards Architecture-Insensitive Untrained Network Priors for Accelerated MRI Reconstruction**|Yilin Liu et.al.|[2312.09988](http://arxiv.org/abs/2312.09988)|null|
+|**2023-12-15**|**Disorder-induced decoupling of attracting identical fermions: transfer matrix approach**|Lolita I. Knyazeva et.al.|[2312.09987](http://arxiv.org/abs/2312.09987)|null|
+|**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971](http://arxiv.org/abs/2312.09971)|null|
+|**2023-12-15**|**Human Perception-Inspired Grain Segmentation Refinement Using Conditional Random Fields**|Doruk Aksoy et.al.|[2312.09968](http://arxiv.org/abs/2312.09968)|**[link](https://github.com/dorukaksoy/hierarchicalcrf)**|
+|**2023-12-15**|**Risk-Aware Continuous Control with Neural Contextual Bandits**|Jose A. Ayala-Romero et.al.|[2312.09961](http://arxiv.org/abs/2312.09961)|null|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254](http://arxiv.org/abs/2312.09254)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
 |**2023-12-14**|**Absence of a direct metal to Mott insulator transition for disordered interacting fermions on the Cayley tree**|Ankita Chakrabarti et.al.|[2312.09247](http://arxiv.org/abs/2312.09247)|null|
@@ -7691,6 +7736,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Secular Dynamics of Compact Three-Planet Systems**|Qing Yang et.al.|[2312.10031](http://arxiv.org/abs/2312.10031)|null|
+|**2023-12-15**|**Entanglement entropy of two disjoint intervals and spin structures in interacting chains in and out of equilibrium**|Vanja Marić et.al.|[2312.10028](http://arxiv.org/abs/2312.10028)|null|
+|**2023-12-15**|**Energy Sustainability in Dense Radio Access Networks via High Altitude Platform Stations**|Maryam Salamatmoghadasi et.al.|[2312.10027](http://arxiv.org/abs/2312.10027)|null|
+|**2023-12-15**|**Wearable Coaxially-shielded Metamaterial for Magnetic Resonance Imaging**|Xia Zhu et.al.|[2312.10018](http://arxiv.org/abs/2312.10018)|null|
+|**2023-12-15**|**Reconstructing the metric in group field theory**|Steffen Gielen et.al.|[2312.10016](http://arxiv.org/abs/2312.10016)|null|
+|**2023-12-15**|**A potential missile guidance law based-on chaos**|Dhrubajyoti Mandal et.al.|[2312.10011](http://arxiv.org/abs/2312.10011)|null|
+|**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009](http://arxiv.org/abs/2312.10009)|null|
+|**2023-12-15**|**Symplectic Autoencoders for Model Reduction of Hamiltonian Systems**|Benedikt Brantner et.al.|[2312.10004](http://arxiv.org/abs/2312.10004)|null|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**Modeling Unknown Stochastic Dynamical System via Autoencoder**|Zhongshu Xu et.al.|[2312.10001](http://arxiv.org/abs/2312.10001)|null|
 |**2023-12-14**|**Bayesian Optimization for Robust State Preparation in Quantum Many-Body Systems**|Tizian Blatz et.al.|[2312.09253](http://arxiv.org/abs/2312.09253)|null|
 |**2023-12-14**|**Universal Coarsening in a Homogeneous Two-Dimensional Bose Gas**|Martin Gazo et.al.|[2312.09248](http://arxiv.org/abs/2312.09248)|null|
 |**2023-12-14**|**Absence of a direct metal to Mott insulator transition for disordered interacting fermions on the Cayley tree**|Ankita Chakrabarti et.al.|[2312.09247](http://arxiv.org/abs/2312.09247)|null|
@@ -9346,6 +9401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|null|
 |**2023-12-14**|**Design Space Exploration of Low-Bit Quantized Neural Networks for Visual Place Recognition**|Oliver Grainge et.al.|[2312.09028](http://arxiv.org/abs/2312.09028)|null|
 |**2023-12-05**|**LRMP: Layer Replication with Mixed Precision for Spatial In-memory DNN Accelerators**|Abinand Nallathambi et.al.|[2312.03146](http://arxiv.org/abs/2312.03146)|null|
 |**2023-11-29**|**Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices**|Huancheng Chen et.al.|[2311.18129](http://arxiv.org/abs/2311.18129)|null|
