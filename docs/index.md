@@ -100,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-16**|**Controlling Data Access Load in Distributed Systems**|Mehmet Aktas et.al.|[2312.10360](http://arxiv.org/abs/2312.10360)|null|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**Guarding the Grid: Enhancing Resilience in Automated Residential Demand Response Against False Data Injection Attacks**|Thusitha Dayaratne et.al.|[2312.08646](http://arxiv.org/abs/2312.08646)|null|
 |**2023-12-11**|**Implementing hosting capacity analysis in distribution networks: Practical considerations, advancements and future directions**|U. Singh et.al.|[2312.06582](http://arxiv.org/abs/2312.06582)|null|
@@ -364,6 +365,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Minimizing Photonic Cluster State Depth in Measurement-Based Quantum Computing**|Yingheng Li et.al.|[2312.10865](http://arxiv.org/abs/2312.10865)|null|
+|**2023-12-17**|**A Survey on Query-based API Recommendation**|Moshi Wei et.al.|[2312.10623](http://arxiv.org/abs/2312.10623)|null|
+|**2023-12-16**|**DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content**|Wentao Wang et.al.|[2312.10407](http://arxiv.org/abs/2312.10407)|**[link](https://github.com/rickwang28574/deepart)**|
 |**2023-12-15**|**ACPO: AI-Enabled Compiler-Driven Program Optimization**|Amir H. Ashouri et.al.|[2312.09982](http://arxiv.org/abs/2312.09982)|null|
 |**2023-12-15**|**Four new eclipsing accreting ultracompact white dwarf binaries found with the Zwicky Transient Facility**|J. M. Khalil et.al.|[2312.09980](http://arxiv.org/abs/2312.09980)|null|
 |**2023-12-15**|**ExoMol line lists -- LVI: The SO line list, MARVEL analysis of experimental transition data and refinement of the spectroscopic model**|Ryan P. Brady et.al.|[2312.09732](http://arxiv.org/abs/2312.09732)|null|
@@ -1136,6 +1140,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887](http://arxiv.org/abs/2312.10887)|null|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**Contextual Reinforcement Learning for Offshore Wind Farm Bidding**|David Cole et.al.|[2312.10884](http://arxiv.org/abs/2312.10884)|null|
+|**2023-12-18**|**Quantiles on global non-positive curvature spaces**|Ha-Young Shin et.al.|[2312.10870](http://arxiv.org/abs/2312.10870)|null|
+|**2023-12-18**|**Minimizing Photonic Cluster State Depth in Measurement-Based Quantum Computing**|Yingheng Li et.al.|[2312.10865](http://arxiv.org/abs/2312.10865)|null|
+|**2023-12-18**|**Disclosure Avoidance for the 2020 Census Demographic and Housing Characteristics File**|Ryan Cumings-Menon et.al.|[2312.10863](http://arxiv.org/abs/2312.10863)|null|
+|**2023-12-18**|**Variable Importance in High-Dimensional Settings Requires Grouping**|Ahmad Chamma et.al.|[2312.10858](http://arxiv.org/abs/2312.10858)|null|
+|**2023-12-18**|**Minimal Macro-Based Rewritings of Formal Languages: Theory and Applications in Ontology Engineering (and beyond)**|Christian Kindermann et.al.|[2312.10857](http://arxiv.org/abs/2312.10857)|null|
+|**2023-12-17**|**Global relaxation-based LP-Newton method for multiple hyperparameter selection in support vector classification with feature selection**|Qingna Li et.al.|[2312.10848](http://arxiv.org/abs/2312.10848)|null|
+|**2023-12-17**|**Compositional Inductive Invariant Based Verification of Neural Network Controlled Systems**|Yuhao Zhou et.al.|[2312.10842](http://arxiv.org/abs/2312.10842)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**One loop QCD corrections to $gg \to t\overline{t}H$ at $\mathcal{O}(ε^2)$**|Federico Buccioni et.al.|[2312.10015](http://arxiv.org/abs/2312.10015)|null|
 |**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009](http://arxiv.org/abs/2312.10009)|null|
@@ -2801,6 +2815,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Minimizing Photonic Cluster State Depth in Measurement-Based Quantum Computing**|Yingheng Li et.al.|[2312.10865](http://arxiv.org/abs/2312.10865)|null|
+|**2023-12-17**|**A Computationally Efficient Neural Video Compression Accelerator Based on a Sparse CNN-Transformer Hybrid Network**|Siyu Zhang et.al.|[2312.10716](http://arxiv.org/abs/2312.10716)|null|
+|**2023-12-17**|**Artificial intelligence optical hardware empowers high-resolution hyperspectral video understanding at 1.2 Tb/s**|Maksim Makarenko et.al.|[2312.10639](http://arxiv.org/abs/2312.10639)|null|
+|**2023-12-17**|**ESDMR-Net: A Lightweight Network With Expand-Squeeze and Dual Multiscale Residual Connections for Medical Image Segmentation**|Tariq M Khan et.al.|[2312.10585](http://arxiv.org/abs/2312.10585)|null|
+|**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561](http://arxiv.org/abs/2312.10561)|null|
+|**2023-12-16**|**Branch Prediction in Hardcaml for a RISC-V 32im CPU**|Alex Saveau et.al.|[2312.10426](http://arxiv.org/abs/2312.10426)|null|
+|**2023-12-16**|**Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs**|Aodong Chen et.al.|[2312.10351](http://arxiv.org/abs/2312.10351)|**[link](https://github.com/icloud-ecnu/opara)**|
+|**2023-12-16**|**In-Sensor Radio Frequency Computing for Energy-Efficient Intelligent Radar**|Yang Sui et.al.|[2312.10343](http://arxiv.org/abs/2312.10343)|null|
+|**2023-12-16**|**AEcroscoPy: A software-hardware framework empowering microscopy toward automated and autonomous experimentation**|Yongtao Liu et.al.|[2312.10281](http://arxiv.org/abs/2312.10281)|null|
+|**2023-12-15**|**VoCopilot: Voice-Activated Tracking of Everyday Interactions**|Sheen An Goh et.al.|[2312.10265](http://arxiv.org/abs/2312.10265)|null|
 |**2023-12-15**|**GreenLightningAI: An Efficient AI System with Decoupled Structural and Quantitative Knowledge**|Jose Duato et.al.|[2312.09971](http://arxiv.org/abs/2312.09971)|null|
 |**2023-12-15**|**Quantum Generative Adversarial Networks: Bridging Classical and Quantum Realms**|Sahil Nokhwal et.al.|[2312.09939](http://arxiv.org/abs/2312.09939)|null|
 |**2023-12-15**|**ChemTime: Rapid and Early Classification for Multivariate Time Series Classification of Chemical Sensors**|Alexander M. Moore et.al.|[2312.09871](http://arxiv.org/abs/2312.09871)|null|
@@ -4406,6 +4430,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Age-Threshold Slotted ALOHA for Optimizing Information Freshness in Mobile Networks**|Fangming Zhao et.al.|[2312.10888](http://arxiv.org/abs/2312.10888)|null|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877](http://arxiv.org/abs/2312.10877)|null|
+|**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|null|
+|**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
+|**2023-12-18**|**Neural Network Interatomic Potentials For Open Surface Nano-mechanics Applications**|Amirhossein D. Naghdi et.al.|[2312.10856](http://arxiv.org/abs/2312.10856)|null|
+|**2023-12-17**|**Comparing Shor and Steane Error Correction Using the Bacon-Shor Code**|Shilin Huang et.al.|[2312.10851](http://arxiv.org/abs/2312.10851)|null|
+|**2023-12-17**|**The Implementation of Arduino Microcontroller Boards in Science: A Bibliometric Analysis from 2008 to 2022**|Norbertus Krisnu Prabowo et.al.|[2312.10840](http://arxiv.org/abs/2312.10840)|null|
+|**2023-12-17**|**Validation of Rigorous Requirements Specifications and Document Automation with the ITLingo RSL Language**|Andre Rodrigues et.al.|[2312.10822](http://arxiv.org/abs/2312.10822)|null|
+|**2023-12-17**|**A mechanistic model of gossip, reputations, and cooperation**|Mari Kawakatsu et.al.|[2312.10821](http://arxiv.org/abs/2312.10821)|null|
 |**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
 |**2023-12-15**|**Entanglement entropy of two disjoint intervals and spin structures in interacting chains in and out of equilibrium**|Vanja Marić et.al.|[2312.10028](http://arxiv.org/abs/2312.10028)|null|
 |**2023-12-15**|**Understanding Probe Behaviors through Variational Bounds of Mutual Information**|Kwanghee Choi et.al.|[2312.10019](http://arxiv.org/abs/2312.10019)|**[link](https://github.com/juice500ml/information_probing)**|
@@ -6071,6 +6105,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Age-Threshold Slotted ALOHA for Optimizing Information Freshness in Mobile Networks**|Fangming Zhao et.al.|[2312.10888](http://arxiv.org/abs/2312.10888)|null|
+|**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|null|
+|**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
+|**2023-12-18**|**Variable Importance in High-Dimensional Settings Requires Grouping**|Ahmad Chamma et.al.|[2312.10858](http://arxiv.org/abs/2312.10858)|null|
+|**2023-12-18**|**Neural Network Interatomic Potentials For Open Surface Nano-mechanics Applications**|Amirhossein D. Naghdi et.al.|[2312.10856](http://arxiv.org/abs/2312.10856)|null|
+|**2023-12-18**|**The Right Losses for the Right Gains: Improving the Semantic Consistency of Deep Text-to-Image Generation with Distribution-Sensitive Losses**|Mahmoud Ahmed et.al.|[2312.10854](http://arxiv.org/abs/2312.10854)|null|
+|**2023-12-17**|**High-Fidelity Face Swapping with Style Blending**|Xinyu Yang et.al.|[2312.10843](http://arxiv.org/abs/2312.10843)|null|
+|**2023-12-17**|**Compositional Inductive Invariant Based Verification of Neural Network Controlled Systems**|Yuhao Zhou et.al.|[2312.10842](http://arxiv.org/abs/2312.10842)|null|
+|**2023-12-17**|**The Implementation of Arduino Microcontroller Boards in Science: A Bibliometric Analysis from 2008 to 2022**|Norbertus Krisnu Prabowo et.al.|[2312.10840](http://arxiv.org/abs/2312.10840)|null|
+|**2023-12-17**|**Revealing Networks: Understanding Effective Teacher Practices in AI-Supported Classrooms using Transmodal Ordered Network Analysis**|Conrad Borchers et.al.|[2312.10826](http://arxiv.org/abs/2312.10826)|**[link](https://github.com/ashiqwisc/lak24-teacher-practices)**|
 |**2023-12-15**|**Energy Sustainability in Dense Radio Access Networks via High Altitude Platform Stations**|Maryam Salamatmoghadasi et.al.|[2312.10027](http://arxiv.org/abs/2312.10027)|null|
 |**2023-12-15**|**Accelerating Neural Network Training: A Brief Review**|Sahil Nokhwal et.al.|[2312.10024](http://arxiv.org/abs/2312.10024)|**[link](https://github.com/sahilnokhwal/annt)**|
 |**2023-12-15**|**Testing a Neural Network for Anomaly Detection in the CMS Global Trigger Test Crate during Run 3**|Noah Zipper et.al.|[2312.10009](http://arxiv.org/abs/2312.10009)|null|
@@ -7736,6 +7780,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**The generating functions arise from the quotients of numerical semigroups**|Feihu Liu et.al.|[2312.10889](http://arxiv.org/abs/2312.10889)|null|
+|**2023-12-18**|**On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles**|Marcus Gozon et.al.|[2312.10887](http://arxiv.org/abs/2312.10887)|null|
+|**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
+|**2023-12-18**|**Contextual Reinforcement Learning for Offshore Wind Farm Bidding**|David Cole et.al.|[2312.10884](http://arxiv.org/abs/2312.10884)|null|
+|**2023-12-18**|**Stationary Navier--Stokes equations on the half spaces in the scaling critical framework**|Mikihiro Fujii et.al.|[2312.10882](http://arxiv.org/abs/2312.10882)|null|
+|**2023-12-18**|**Sharable Clothoid-based Continuous Motion Planning for Connected Automated Vehicles**|Sanghoon Oh et.al.|[2312.10880](http://arxiv.org/abs/2312.10880)|null|
+|**2023-12-18**|**Size dependent optical response in coupled systems of plasmons and {electron-hole} pairs in metallic nanostructures**|Masayuki Iio et.al.|[2312.10867](http://arxiv.org/abs/2312.10867)|null|
+|**2023-12-18**|**On-Device Recommender Systems: A Tutorial on The New-Generation Recommendation Paradigm**|Hongzhi Yin et.al.|[2312.10864](http://arxiv.org/abs/2312.10864)|null|
+|**2023-12-18**|**Disclosure Avoidance for the 2020 Census Demographic and Housing Characteristics File**|Ryan Cumings-Menon et.al.|[2312.10863](http://arxiv.org/abs/2312.10863)|null|
+|**2023-12-18**|**Cohomology and Homotopy of Lie triple systems**|Haobo Xia et.al.|[2312.10862](http://arxiv.org/abs/2312.10862)|null|
 |**2023-12-15**|**Secular Dynamics of Compact Three-Planet Systems**|Qing Yang et.al.|[2312.10031](http://arxiv.org/abs/2312.10031)|null|
 |**2023-12-15**|**Entanglement entropy of two disjoint intervals and spin structures in interacting chains in and out of equilibrium**|Vanja Marić et.al.|[2312.10028](http://arxiv.org/abs/2312.10028)|null|
 |**2023-12-15**|**Energy Sustainability in Dense Radio Access Networks via High Altitude Platform Stations**|Maryam Salamatmoghadasi et.al.|[2312.10027](http://arxiv.org/abs/2312.10027)|null|
