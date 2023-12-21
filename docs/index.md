@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -4475,7 +4475,7 @@ layout: default
 |**2023-12-19**|**SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation**|Feixiang Zhou et.al.|[2312.12347](http://arxiv.org/abs/2312.12347)|null|
 |**2023-12-19**|**On the Effectiveness of Retrieval, Alignment, and Replay in Manipulation**|Norman Di Palo et.al.|[2312.12345](http://arxiv.org/abs/2312.12345)|null|
 |**2023-12-19**|**Avoiding Data Contamination in Language Model Evaluation: Dynamic Test Construction with Latest Materials**|Yucheng Li et.al.|[2312.12343](http://arxiv.org/abs/2312.12343)|**[link](https://github.com/liyucheng09/latesteval)**|
-|**2023-12-19**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340](http://arxiv.org/abs/2312.12340)|null|
+|**2023-12-19**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340](http://arxiv.org/abs/2312.12340)|**[link](https://github.com/Ruiyuan-Zhang/CCS)**|
 |**2023-12-18**|**Age-Threshold Slotted ALOHA for Optimizing Information Freshness in Mobile Networks**|Fangming Zhao et.al.|[2312.10888](http://arxiv.org/abs/2312.10888)|null|
 |**2023-12-18**|**A novel diffusion recommendation algorithm based on multi-scale cnn and residual lstm**|Yong Niu et.al.|[2312.10885](http://arxiv.org/abs/2312.10885)|null|
 |**2023-12-18**|**Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**|Hui Fu et.al.|[2312.10877](http://arxiv.org/abs/2312.10877)|null|
