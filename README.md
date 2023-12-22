@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Towards Distributed Semi-speculative Adaptive Anisotropic Parallel Mesh Generation**|Kevin Garner et.al.|[2312.13433](http://arxiv.org/abs/2312.13433)|null|
 |**2023-12-18**|**ACCL+: an FPGA-Based Collective Engine for Distributed Applications**|Zhenhao He et.al.|[2312.11742](http://arxiv.org/abs/2312.11742)|null|
 |**2023-10-27**|**iRED: A disaggregated P4-AQM fully implemented in programmable data plane hardware**|Leandro C. de Almeida et.al.|[2310.18088](http://arxiv.org/abs/2310.18088)|null|
 |**2023-10-10**|**Ultima: Robust and Tail-Optimal AllReduce for Distributed Deep Learning in the Cloud**|Ertza Warraich et.al.|[2310.06993](http://arxiv.org/abs/2310.06993)|null|
@@ -389,6 +390,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling**|Akel Hashim et.al.|[2312.14139](http://arxiv.org/abs/2312.14139)|null|
+|**2023-12-21**|**Scalable Full-Stack Benchmarks for Quantum Computers**|Jordan Hines et.al.|[2312.14107](http://arxiv.org/abs/2312.14107)|null|
+|**2023-12-21**|**High-fidelity, multi-qubit generalized measurements with dynamic circuits**|Petr Ivashkov et.al.|[2312.14087](http://arxiv.org/abs/2312.14087)|null|
+|**2023-12-20**|**The Devil Is in the Command Line: Associating the Compiler Flags With the Binary and Build Metadata**|Gunnar Kudrjavets et.al.|[2312.13463](http://arxiv.org/abs/2312.13463)|null|
+|**2023-12-20**|**DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines**|Arnav Singhvi et.al.|[2312.13382](http://arxiv.org/abs/2312.13382)|**[link](https://github.com/stanfordnlp/dspy)**|
 |**2023-12-20**|**Experiences Building an MLIR-based SYCL Compiler**|Ettore Tiotto et.al.|[2312.13170](http://arxiv.org/abs/2312.13170)|null|
 |**2023-12-20**|**Automated MPI code generation for scalable finite-difference solvers**|George Bisbas et.al.|[2312.13094](http://arxiv.org/abs/2312.13094)|null|
 |**2023-12-20**|**Lampr: Boosting the Effectiveness of Language-Generic Program Reduction via Large Language Models**|Mengxiao Zhang et.al.|[2312.13064](http://arxiv.org/abs/2312.13064)|null|
@@ -1180,6 +1186,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Variational Quantum Multi-Objective Optimization**|Linus Ekstrom et.al.|[2312.14151](http://arxiv.org/abs/2312.14151)|null|
+|**2023-12-21**|**Quantum Algorithms for the Pathwise Lasso**|João F. Doriguello et.al.|[2312.14141](http://arxiv.org/abs/2312.14141)|null|
+|**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138](http://arxiv.org/abs/2312.14138)|**[link](https://github.com/qinying-liu/case)**|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-21**|**$p$ -adic algorithm for bivariate Gröbner bases**|Eric Schost et.al.|[2312.14116](http://arxiv.org/abs/2312.14116)|null|
+|**2023-12-21**|**Scalable Full-Stack Benchmarks for Quantum Computers**|Jordan Hines et.al.|[2312.14107](http://arxiv.org/abs/2312.14107)|null|
+|**2023-12-21**|**RetailSynth: Synthetic Data Generation for Retail AI Systems Evaluation**|Yu Xia et.al.|[2312.14095](http://arxiv.org/abs/2312.14095)|null|
+|**2023-12-21**|**Towards Cooperative VRUs: Optimal Positioning Sampling for Pedestrian Awareness Messages**|Jorge Martín-Pérez et.al.|[2312.14072](http://arxiv.org/abs/2312.14072)|null|
+|**2023-12-21**|**Bayesian optimized physics-informed neural network for estimating wave propagation velocities**|Mahindra Rautela et.al.|[2312.14064](http://arxiv.org/abs/2312.14064)|null|
+|**2023-12-21**|**Polynomial Time Convergence of the Iterative Evaluation of Datalogo Programs**|Sungjin Im et.al.|[2312.14063](http://arxiv.org/abs/2312.14063)|null|
 |**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
 |**2023-12-20**|**A refinement of the argument of local realism versus quantum mechanics by algorithmic randomness**|Kohtaro Tadaki et.al.|[2312.13246](http://arxiv.org/abs/2312.13246)|null|
 |**2023-12-20**|**Deterministic Ansätze for the Measurement-based Variational Quantum Eigensolver**|Anna Schroeder et.al.|[2312.13241](http://arxiv.org/abs/2312.13241)|null|
@@ -2877,6 +2893,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**High-fidelity, multi-qubit generalized measurements with dynamic circuits**|Petr Ivashkov et.al.|[2312.14087](http://arxiv.org/abs/2312.14087)|null|
+|**2023-12-21**|**Protection of Vulnerable Road Users using Hybrid Vehicular Networks**|Oscar Amador et.al.|[2312.14059](http://arxiv.org/abs/2312.14059)|null|
+|**2023-12-21**|**An event-driven link-level simulator for validation of AFDX and Ethernet avionics networks**|Pablo Vera-Soto et.al.|[2312.13969](http://arxiv.org/abs/2312.13969)|null|
+|**2023-12-21**|**Which options exist for NISQ-friendly linear response formulations?**|Karl Michael Ziems et.al.|[2312.13937](http://arxiv.org/abs/2312.13937)|null|
+|**2023-12-21**|**EnergiBridge: Empowering Software Sustainability through Cross-Platform Energy Measurement**|June Sallou et.al.|[2312.13897](http://arxiv.org/abs/2312.13897)|null|
+|**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
+|**2023-12-21**|**Arma: Byzantine Fault Tolerant consensus with Linear Scalability**|Yacov Manevich et.al.|[2312.13777](http://arxiv.org/abs/2312.13777)|null|
+|**2023-12-21**|**Cross-Layer Optimization for Fault-Tolerant Deep Learning**|Qing Zhang et.al.|[2312.13754](http://arxiv.org/abs/2312.13754)|null|
+|**2023-12-21**|**Modelling of Networked Measuring Systems -- From White-Box Models to Data Based Approaches**|Klaus-Dieter Sommer et.al.|[2312.13744](http://arxiv.org/abs/2312.13744)|null|
+|**2023-12-21**|**Adaptive variational low-rank dynamics for open quantum systems**|Luca Gravina et.al.|[2312.13676](http://arxiv.org/abs/2312.13676)|null|
 |**2023-12-20**|**Deterministic Ansätze for the Measurement-based Variational Quantum Eigensolver**|Anna Schroeder et.al.|[2312.13241](http://arxiv.org/abs/2312.13241)|null|
 |**2023-12-20**|**HeisenTrojans: They Are Not There Until They Are Triggered**|Akshita Reddy Mavurapu et.al.|[2312.13190](http://arxiv.org/abs/2312.13190)|null|
 |**2023-12-20**|**When Memory Mappings Attack: On the (Mis)use of the ARM Cortex-M FPB Unit**|Haoqi Shan et.al.|[2312.13189](http://arxiv.org/abs/2312.13189)|null|
@@ -4514,6 +4540,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|null|
+|**2023-12-21**|**Two-loop mixed QCD-electroweak amplitudes for $Z+$ jet production at the LHC: bosonic corrections**|Piotr Bargiela et.al.|[2312.14145](http://arxiv.org/abs/2312.14145)|null|
+|**2023-12-21**|**Simple and general bounds on quantum random access codes**|Máté Farkas et.al.|[2312.14142](http://arxiv.org/abs/2312.14142)|null|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-21**|**WellFactor: Patient Profiling using Integrative Embedding of Healthcare Data**|Dongjin Choi et.al.|[2312.14129](http://arxiv.org/abs/2312.14129)|null|
+|**2023-12-21**|**Entropic Open-set Active Learning**|Bardia Safaei et.al.|[2312.14126](http://arxiv.org/abs/2312.14126)|**[link](https://github.com/bardisafa/eoal)**|
+|**2023-12-21**|**A Smooth Horizon without a Smooth Horizon**|Vaibhav Burman et.al.|[2312.14108](http://arxiv.org/abs/2312.14108)|null|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7**|Norta Alex et.al.|[2312.14090](http://arxiv.org/abs/2312.14090)|null|
+|**2023-12-21**|**High-fidelity, multi-qubit generalized measurements with dynamic circuits**|Petr Ivashkov et.al.|[2312.14087](http://arxiv.org/abs/2312.14087)|null|
 |**2023-12-20**|**ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**|Zixiang Wei et.al.|[2312.13265](http://arxiv.org/abs/2312.13265)|null|
 |**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264](http://arxiv.org/abs/2312.13264)|null|
 |**2023-12-20**|**Astrometric Microlensing by Primordial Black Holes with The Roman Space Telescope**|James Fardeen et.al.|[2312.13249](http://arxiv.org/abs/2312.13249)|null|
@@ -6211,6 +6247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**DUSt3R: Geometric 3D Vision Made Easy**|Shuzhe Wang et.al.|[2312.14132](http://arxiv.org/abs/2312.14132)|null|
+|**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121](http://arxiv.org/abs/2312.14121)|null|
+|**2023-12-21**|**Axionic defects in the CMB: birefringence and gravitational waves**|Ricardo Z. Ferreira et.al.|[2312.14104](http://arxiv.org/abs/2312.14104)|null|
+|**2023-12-21**|**Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7**|Norta Alex et.al.|[2312.14090](http://arxiv.org/abs/2312.14090)|null|
+|**2023-12-21**|**Towards Cooperative VRUs: Optimal Positioning Sampling for Pedestrian Awareness Messages**|Jorge Martín-Pérez et.al.|[2312.14072](http://arxiv.org/abs/2312.14072)|null|
+|**2023-12-21**|**Bayesian optimized physics-informed neural network for estimating wave propagation velocities**|Mahindra Rautela et.al.|[2312.14064](http://arxiv.org/abs/2312.14064)|null|
+|**2023-12-21**|**Protection of Vulnerable Road Users using Hybrid Vehicular Networks**|Oscar Amador et.al.|[2312.14059](http://arxiv.org/abs/2312.14059)|null|
+|**2023-12-21**|**Machine learning and domain decomposition methods -- a survey**|Axel Klawonn et.al.|[2312.14050](http://arxiv.org/abs/2312.14050)|null|
+|**2023-12-21**|**Balancing Specialization and Adaptation in a Transforming Scientific Landscape**|Lucas Gautheron et.al.|[2312.14040](http://arxiv.org/abs/2312.14040)|null|
+|**2023-12-21**|**Neural Contextual Bandits for Personalized Recommendation**|Yikun Ban et.al.|[2312.14037](http://arxiv.org/abs/2312.14037)|null|
 |**2023-12-20**|**Deep Learning on 3D Neural Fields**|Pierluigi Zama Ramirez et.al.|[2312.13277](http://arxiv.org/abs/2312.13277)|null|
 |**2023-12-20**|**ClassLIE: Structure- and Illumination-Adaptive Classification for Low-Light Image Enhancement**|Zixiang Wei et.al.|[2312.13265](http://arxiv.org/abs/2312.13265)|null|
 |**2023-12-20**|**A note on regularised NTK dynamics with an application to PAC-Bayesian training**|Eugenio Clerico et.al.|[2312.13259](http://arxiv.org/abs/2312.13259)|null|
@@ -7908,6 +7954,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Formation of stripes in a mixed-dimensional cold-atom Fermi-Hubbard system**|Dominik Bourgund et.al.|[2312.14156](http://arxiv.org/abs/2312.14156)|null|
+|**2023-12-21**|**Entanglement Rényi Negativity of Interacting Fermions from Quantum Monte Carlo Simulations**|Fo-Hong Wang et.al.|[2312.14155](http://arxiv.org/abs/2312.14155)|null|
+|**2023-12-21**|**Variational Quantum Multi-Objective Optimization**|Linus Ekstrom et.al.|[2312.14151](http://arxiv.org/abs/2312.14151)|null|
+|**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150](http://arxiv.org/abs/2312.14150)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2023-12-21**|**Fundamental charges for dual-unitary circuits**|Tom Holden-Dye et.al.|[2312.14148](http://arxiv.org/abs/2312.14148)|null|
+|**2023-12-21**|**Simple and general bounds on quantum random access codes**|Máté Farkas et.al.|[2312.14142](http://arxiv.org/abs/2312.14142)|null|
+|**2023-12-21**|**Sub-dimensional magnetic polarons in the one-hole doped SU(3) $t$-$J$ model**|Henning Schlömer et.al.|[2312.14137](http://arxiv.org/abs/2312.14137)|null|
+|**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|null|
+|**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121](http://arxiv.org/abs/2312.14121)|null|
+|**2023-12-21**|**Quantum Dynamics Happens Only on Paper: QBism's Account of Decoherence**|John B. DeBrota et.al.|[2312.14112](http://arxiv.org/abs/2312.14112)|null|
 |**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286](http://arxiv.org/abs/2312.13286)|null|
 |**2023-12-20**|**Estimating Trotter Approximation Errors to Optimize Hamiltonian Partitioning for Lower Eigenvalue Errors**|Luis A. Martínez-Martínez et.al.|[2312.13282](http://arxiv.org/abs/2312.13282)|null|
 |**2023-12-20**|**Stretch with Stretch: Physical Therapy Exercise Games Led by a Mobile Manipulator**|Matthew Lamsey et.al.|[2312.13279](http://arxiv.org/abs/2312.13279)|null|
