@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -7933,7 +7933,7 @@ layout: default
 |**2023-12-21**|**Fundamental charges for dual-unitary circuits**|Tom Holden-Dye et.al.|[2312.14148](http://arxiv.org/abs/2312.14148)|null|
 |**2023-12-21**|**Simple and general bounds on quantum random access codes**|Máté Farkas et.al.|[2312.14142](http://arxiv.org/abs/2312.14142)|null|
 |**2023-12-21**|**Sub-dimensional magnetic polarons in the one-hole doped SU(3) $t$-$J$ model**|Henning Schlömer et.al.|[2312.14137](http://arxiv.org/abs/2312.14137)|null|
-|**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|null|
+|**2023-12-21**|**$\textit{V}^*$ : Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135](http://arxiv.org/abs/2312.14135)|**[link](https://github.com/penghao-wu/vstar)**|
 |**2023-12-21**|**Fast and Knowledge-Free Deep Learning for General Game Playing (Student Abstract)**|Michał Maras et.al.|[2312.14121](http://arxiv.org/abs/2312.14121)|null|
 |**2023-12-21**|**Quantum Dynamics Happens Only on Paper: QBism's Account of Decoherence**|John B. DeBrota et.al.|[2312.14112](http://arxiv.org/abs/2312.14112)|null|
 |**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286](http://arxiv.org/abs/2312.13286)|null|
