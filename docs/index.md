@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1183,9 +1183,9 @@ layout: default
 |**2023-12-26**|**On the Trajectories of SGD Without Replacement**|Pierfrancesco Beneventano et.al.|[2312.16143](http://arxiv.org/abs/2312.16143)|null|
 |**2023-12-26**|**The linear time encoding scheme fails to encode**|Yotam Dikstein et.al.|[2312.16125](http://arxiv.org/abs/2312.16125)|null|
 |**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[2312.16108](http://arxiv.org/abs/2312.16108)|**[link](https://github.com/OpenDriveLab/LaneSegNet)**|
-|**2023-12-26**|**Targeted materials discovery using Bayesian algorithm execution**|Sathya Chitturi et.al.|[2312.16078](http://arxiv.org/abs/2312.16078)|null|
+|**2023-12-26**|**Targeted materials discovery using Bayesian algorithm execution**|Sathya Chitturi et.al.|[2312.16078](http://arxiv.org/abs/2312.16078)|**[link](https://github.com/src47/materials-bax-gpflow)**|
 |**2023-12-26**|**Unsupervised Learning of Phylogenetic Trees via Split-Weight Embedding**|Yibo Kong et.al.|[2312.16074](http://arxiv.org/abs/2312.16074)|**[link](https://github.com/solislemuslab/phyloclustering.jl)**|
-|**2023-12-26**|**Noninvasive megapixel fluorescence microscopy through scattering layers by a virtual reflection-matrix**|Gil Weinberg et.al.|[2312.16065](http://arxiv.org/abs/2312.16065)|null|
+|**2023-12-26**|**Noninvasive megapixel fluorescence microscopy through scattering layers by a virtual reflection-matrix**|Gil Weinberg et.al.|[2312.16065](http://arxiv.org/abs/2312.16065)|**[link](https://github.com/Imaging-Lab-HUJI/Fluorescence-Computational-Imaging-Through-Scattering-Layers)**|
 |**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925](http://arxiv.org/abs/2312.14925)|null|
 |**2023-12-22**|**Training Convolutional Neural Networks with the Forward-Forward algorithm**|Riccardo Scodellaro et.al.|[2312.14924](http://arxiv.org/abs/2312.14924)|null|
 |**2023-12-22**|**Fast-NTK: Parameter-Efficient Unlearning for Large-Scale Models**|Guihong Li et.al.|[2312.14923](http://arxiv.org/abs/2312.14923)|null|
