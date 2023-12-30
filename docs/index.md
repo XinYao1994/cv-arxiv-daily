@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1182,7 +1182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources**|Rohan Deb et.al.|[2312.17229](http://arxiv.org/abs/2312.17229)|null|
 |**2023-12-28**|**Gradient-based Planning with World Models**|Jyothir S V et.al.|[2312.17227](http://arxiv.org/abs/2312.17227)|null|
 |**2023-12-28**|**Complexity-Theoretic Implications of Multicalibration**|Sílvia Casacuberta et.al.|[2312.17223](http://arxiv.org/abs/2312.17223)|null|
@@ -2917,11 +2917,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**Model-aware reinforcement learning for high-performance Bayesian experimental design in quantum metrology**|Federico Belliardo et.al.|[2312.16985](http://arxiv.org/abs/2312.16985)|null|
 |**2023-12-28**|**RLPlanner: Reinforcement Learning based Floorplanning for Chiplets with Fast Thermal Analysis**|Yuanyuan Duan et.al.|[2312.16895](http://arxiv.org/abs/2312.16895)|null|
 |**2023-12-28**|**Reconfigurable Intelligent Surfaces for 6G: Emerging Hardware Architectures, Applications, and Open Challenges**|Ertugrul Basar et.al.|[2312.16874](http://arxiv.org/abs/2312.16874)|null|
-|**2023-12-28**|**The Fourth International Verification of Neural Networks Competition (VNN-COMP 2023): Summary and Results**|Christopher Brix et.al.|[2312.16760](http://arxiv.org/abs/2312.16760)|null|
+|**2023-12-28**|**The Fourth International Verification of Neural Networks Competition (VNN-COMP 2023): Summary and Results**|Christopher Brix et.al.|[2312.16760](http://arxiv.org/abs/2312.16760)|**[link](https://github.com/stanleybak/vnncomp2023)**|
 |**2023-12-27**|**Evolutionary reduction of the laser noise impact on quantum gates**|Tam'si Ley et.al.|[2312.16709](http://arxiv.org/abs/2312.16709)|null|
 |**2023-12-27**|**Multi-channel Sensor Network Construction, Data Fusion and Challenges for Smart Home**|He Zhang et.al.|[2312.16697](http://arxiv.org/abs/2312.16697)|null|
 |**2023-12-27**|**Fault-Tolerant Vertical Federated Learning on Dynamic Networks**|Surojit Ganguli et.al.|[2312.16638](http://arxiv.org/abs/2312.16638)|null|
