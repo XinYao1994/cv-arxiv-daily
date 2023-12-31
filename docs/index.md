@@ -1182,6 +1182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248](http://arxiv.org/abs/2312.17248)|null|
 |**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources**|Rohan Deb et.al.|[2312.17229](http://arxiv.org/abs/2312.17229)|null|
 |**2023-12-28**|**Gradient-based Planning with World Models**|Jyothir S V et.al.|[2312.17227](http://arxiv.org/abs/2312.17227)|null|
