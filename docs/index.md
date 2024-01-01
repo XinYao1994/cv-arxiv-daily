@@ -542,7 +542,7 @@ layout: default
 |**2023-11-10**|**Synthesizing Bidirectional Temporal States of Knee Osteoarthritis Radiographs with Cycle-Consistent Generative Adversarial Neural Networks**|Fabi Prezja et.al.|[2311.05798](http://arxiv.org/abs/2311.05798)|null|
 |**2023-11-09**|**Evaluating a Sigmoid Dark Energy Model to Explain the Hubble Tension**|Sergio Torres-Arzayus et.al.|[2311.05510](http://arxiv.org/abs/2311.05510)|null|
 |**2023-11-09**|**A differentiable brain simulator bridging brain simulation and brain-inspired computing**|Chaoming Wang et.al.|[2311.05106](http://arxiv.org/abs/2311.05106)|null|
-|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|null|
+|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|**[link](https://github.com/shailja-thakur/autochip)**|
 |**2023-11-09**|**An Empirical Analysis of Just-in-Time Compilation in Modern Databases**|Miao Ma et.al.|[2311.04692](http://arxiv.org/abs/2311.04692)|null|
 |**2023-11-08**|**Learning Quantum Phase Estimation by Variational Quantum Circuits**|Chen-Yu Liu et.al.|[2311.04690](http://arxiv.org/abs/2311.04690)|**[link](https://github.com/abeeekoala/learnqpe)**|
 |**2023-11-09**|**Chrono DEM-Engine: A Discrete Element Method dual-GPU simulator with customizable contact forces and element shape**|Ruochun Zhang et.al.|[2311.04648](http://arxiv.org/abs/2311.04648)|**[link](https://github.com/projectchrono/dem-engine)**|
@@ -2938,7 +2938,7 @@ layout: default
 |**2023-12-26**|**FODT: Fast, Online, Distributed and Temporary Failure Recovery Approach for MEC**|Xin Yuan et.al.|[2312.15849](http://arxiv.org/abs/2312.15849)|null|
 |**2023-12-25**|**Astrocyte Regulated Neuromorphic CPG Control of Legged Robotic Locomotion**|Zhuangyu Han et.al.|[2312.15805](http://arxiv.org/abs/2312.15805)|null|
 |**2023-12-25**|**Dynamic MIMO Architecture Design for Near-Field Communications**|Zheng Zhang et.al.|[2312.15757](http://arxiv.org/abs/2312.15757)|null|
-|**2023-12-22**|**cuPDLP-C: A Strengthened Implementation of cuPDLP for Linear Programming by C language**|Haihao Lu et.al.|[2312.14832](http://arxiv.org/abs/2312.14832)|null|
+|**2023-12-22**|**cuPDLP-C: A Strengthened Implementation of cuPDLP for Linear Programming by C language**|Haihao Lu et.al.|[2312.14832](http://arxiv.org/abs/2312.14832)|**[link](https://github.com/copt-public/cupdlp-c)**|
 |**2023-12-22**|**AXI4MLIR: User-Driven Automatic Host Code Generation for Custom AXI-Based Accelerators**|Nicolas Bohm Agostini et.al.|[2312.14821](http://arxiv.org/abs/2312.14821)|null|
 |**2023-12-22**|**Siracusa: A 16 nm Heterogenous RISC-V SoC for Extended Reality with At-MRAM Neural Engine**|Arpan Suravi Prasad et.al.|[2312.14750](http://arxiv.org/abs/2312.14750)|null|
 |**2023-12-22**|**Estimation of electrostatic interaction energies on a trapped-ion quantum computer**|Pauline J. Ollitrault et.al.|[2312.14739](http://arxiv.org/abs/2312.14739)|null|
@@ -3245,7 +3245,7 @@ layout: default
 |**2023-11-09**|**ChatGPT and other Large Language Models for Cybersecurity of Smart Grid Applications**|Aydin Zaboli et.al.|[2311.05462](http://arxiv.org/abs/2311.05462)|null|
 |**2023-11-09**|**ESPORT: Electronic Sports Professionals Observations and Reflections on Training**|Andrzej Białecki et.al.|[2311.05424](http://arxiv.org/abs/2311.05424)|null|
 |**2023-11-09**|**Modeling and Control of Intrinsically Elasticity Coupled Soft-Rigid Robots**|Zach J. Patterson et.al.|[2311.05362](http://arxiv.org/abs/2311.05362)|null|
-|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|null|
+|**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|**[link](https://github.com/shailja-thakur/autochip)**|
 |**2023-11-08**|**Fusionize++: Improving Serverless Application Performance Using Dynamic Task Inlining and Infrastructure Optimization**|Trever Schirmer et.al.|[2311.04875](http://arxiv.org/abs/2311.04875)|null|
 |**2023-11-08**|**A Lightweight Architecture for Real-Time Neuronal-Spike Classification**|Muhammad Ali Siddiqi et.al.|[2311.04808](http://arxiv.org/abs/2311.04808)|null|
 |**2023-11-08**|**AutoWS: Automate Weights Streaming in Layer-wise Pipelined DNN Accelerators**|Zhewen Yu et.al.|[2311.04764](http://arxiv.org/abs/2311.04764)|null|
@@ -3369,7 +3369,7 @@ layout: default
 |**2023-10-23**|**Projected Stochastic Gradient Descent with Quantum Annealed Binary Gradients**|Maximilian Krahn et.al.|[2310.15128](http://arxiv.org/abs/2310.15128)|null|
 |**2023-10-23**|**System Characterization of a Human-Sized 3D Real-Time Magnetic Particle Imaging Scanner for Cerebral Applications**|Florian Thieben et.al.|[2310.15014](http://arxiv.org/abs/2310.15014)|null|
 |**2023-10-23**|**Check-Agnosia based Post-Processor for Message-Passing Decoding of Quantum LDPC Codes**|Julien du Crest et.al.|[2310.15000](http://arxiv.org/abs/2310.15000)|null|
-|**2023-10-23**|**Simple Hardware-Efficient PCFGs with Independent Left and Right Productions**|Wei Liu et.al.|[2310.14997](http://arxiv.org/abs/2310.14997)|null|
+|**2023-10-23**|**Simple Hardware-Efficient PCFGs with Independent Left and Right Productions**|Wei Liu et.al.|[2310.14997](http://arxiv.org/abs/2310.14997)|**[link](https://github.com/sustcsonglin/TN-PCFG)**|
 |**2023-10-23**|**Design and Implementation of an RSSI-Based Bluetooth Low Energy Indoor Localization System**|Silvano Cortesi et.al.|[2310.14704](http://arxiv.org/abs/2310.14704)|null|
 |**2023-10-23**|**Federated learning compression designed for lightweight communications**|Lucas Grativol Ribeiro et.al.|[2310.14693](http://arxiv.org/abs/2310.14693)|**[link](https://github.com/lgrativol/fl_exps)**|
 |**2023-10-23**|**Understanding Read Disturbance in High Bandwidth Memory: An Experimental Analysis of Real HBM2 DRAM Chips**|Ataberk Olgun et.al.|[2310.14665](http://arxiv.org/abs/2310.14665)|null|
@@ -3617,7 +3617,7 @@ layout: default
 |**2023-09-14**|**Stable iterative refinement algorithms for solving linear systems**|Chai Wah Wu et.al.|[2309.07865](http://arxiv.org/abs/2309.07865)|null|
 |**2023-09-14**|**SOT-MRAM-Enabled Probabilistic Binary Neural Networks for Noise-Tolerant and Fast Training**|Puyang Huang et.al.|[2309.07789](http://arxiv.org/abs/2309.07789)|null|
 |**2023-09-14**|**Frequency-adaptive control of a three-phase single-stage grid-connected photovoltaic system under grid voltage sags**|Alexis B. Rey-Boué et.al.|[2309.07669](http://arxiv.org/abs/2309.07669)|null|
-|**2023-09-14**|**Sync+Sync: A Covert Channel Built on fsync with Storage**|Qisheng Jiang et.al.|[2309.07657](http://arxiv.org/abs/2309.07657)|null|
+|**2023-09-14**|**Sync+Sync: A Covert Channel Built on fsync with Storage**|Qisheng Jiang et.al.|[2309.07657](http://arxiv.org/abs/2309.07657)|**[link](https://github.com/toast-lab/Sync-Sync)**|
 |**2023-09-14**|**Reconfigurable neural spiking in bias field-free spin Hall nano oscillator**|Sourabh Manna et.al.|[2309.07641](http://arxiv.org/abs/2309.07641)|null|
 |**2023-09-14**|**Stability Studies for Photovoltaic Integration using Power Hardware-in-the-Loop Experiments**|Christina N. Papadimitriou et.al.|[2309.07632](http://arxiv.org/abs/2309.07632)|null|
 |**2023-09-14**|**Asynchronous Integration of Real-Time Simulators for HIL-based Validation of Smart Grids**|Catalin Gavriluta et.al.|[2309.07625](http://arxiv.org/abs/2309.07625)|null|
@@ -4697,7 +4697,7 @@ layout: default
 |**2023-12-12**|**WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion**|Soyong Shin et.al.|[2312.07531](http://arxiv.org/abs/2312.07531)|null|
 |**2023-12-12**|**Search Optimization with Query Likelihood Boosting and Two-Level Approximate Search for Edge Devices**|Jianwei Zhang et.al.|[2312.07517](http://arxiv.org/abs/2312.07517)|null|
 |**2023-12-12**|**Quantum Anomalous Hall and Spin Hall Effects in Magnetic Graphene**|Talieh S. Ghiasi et.al.|[2312.07515](http://arxiv.org/abs/2312.07515)|null|
-|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|null|
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|**[link](https://github.com/alexduvalinho/geometric-gnns)**|
 |**2023-12-12**|**Multi-Branch Network for Imagery Emotion Prediction**|Quoc-Bao Ninh et.al.|[2312.07500](http://arxiv.org/abs/2312.07500)|**[link](https://github.com/baoninh2808/multi-branch-network-for-imagery-emotion-prediction)**|
 |**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488](http://arxiv.org/abs/2312.07488)|**[link](https://github.com/opendilab/lmdrive)**|
 |**2023-12-12**|**MinD-3D: Reconstruct High-quality 3D objects in Human Brain**|Jianxiong Gao et.al.|[2312.07485](http://arxiv.org/abs/2312.07485)|null|
@@ -5006,7 +5006,7 @@ layout: default
 |**2023-10-27**|**Social media battle for attention: opinion dynamics on competing networks**|Andrea Somazzi et.al.|[2310.18309](http://arxiv.org/abs/2310.18309)|null|
 |**2023-10-27**|**Supervised and Penalized Baseline Correction**|Erik Andries Ramin Nikzad-Langerodi et.al.|[2310.18306](http://arxiv.org/abs/2310.18306)|null|
 |**2023-10-27**|**Searching for the signature of a pair density wave in YBa $_2$Cu$_3$O$_{6.67}$ using high energy X-ray diffraction**|Elizabeth Blackburn et.al.|[2310.18302](http://arxiv.org/abs/2310.18302)|null|
-|**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|null|
+|**2023-10-27**|**Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**|Yu-Wei Chen et.al.|[2310.18293](http://arxiv.org/abs/2310.18293)|**[link](https://github.com/fordevoted/utilityir)**|
 |**2023-10-27**|**Addressing GAN Training Instabilities via Tunable Classification Losses**|Monica Welfert et.al.|[2310.18291](http://arxiv.org/abs/2310.18291)|null|
 |**2023-10-27**|**PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction**|Felipe A. Lopes et.al.|[2310.18268](http://arxiv.org/abs/2310.18268)|null|
 |**2023-10-27**|**MalFake: A Multimodal Fake News Identification for Malayalam using Recurrent Neural Networks and VGG-16**|Adhish S. Sujan et.al.|[2310.18263](http://arxiv.org/abs/2310.18263)|null|
@@ -6430,7 +6430,7 @@ layout: default
 |**2023-12-13**|**Preparing VVC for Streaming: A Fast Multi-Rate Encoding Approach**|Yiqun Liu et.al.|[2312.08330](http://arxiv.org/abs/2312.08330)|null|
 |**2023-12-12**|**Anatomically Constrained Implicit Face Models**|Prashanth Chandran et.al.|[2312.07538](http://arxiv.org/abs/2312.07538)|null|
 |**2023-12-12**|**NeuroHeed+: Improving Neuro-steered Speaker Extraction with Joint Auditory Attention Detection**|Zexu Pan et.al.|[2312.07513](http://arxiv.org/abs/2312.07513)|null|
-|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|null|
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|**[link](https://github.com/alexduvalinho/geometric-gnns)**|
 |**2023-12-12**|**NAC-TCN: Temporal Convolutional Networks with Causal Dilated Neighborhood Attention for Emotion Understanding**|Alexander Mehta et.al.|[2312.07507](http://arxiv.org/abs/2312.07507)|**[link](https://github.com/alexmehta/nac-tcn-tcns-with-causal-na)**|
 |**2023-12-12**|**Multi-Branch Network for Imagery Emotion Prediction**|Quoc-Bao Ninh et.al.|[2312.07500](http://arxiv.org/abs/2312.07500)|**[link](https://github.com/baoninh2808/multi-branch-network-for-imagery-emotion-prediction)**|
 |**2023-12-12**|**Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection**|Jiangning Zhang et.al.|[2312.07495](http://arxiv.org/abs/2312.07495)|**[link](https://github.com/zhangzjn/ader)**|
@@ -7148,7 +7148,7 @@ layout: default
 |**2023-08-30**|**Application of Zone Method based Machine Learning and Physics-Informed Neural Networks in Reheating Furnaces**|Ujjal Kr Dutta et.al.|[2308.16089](http://arxiv.org/abs/2308.16089)|null|
 |**2023-08-30**|**State Estimation over Broadcast and Multi-Access Channels in an Unreliable Regime**|Touraj Soleymani et.al.|[2308.16085](http://arxiv.org/abs/2308.16085)|null|
 |**2023-08-30**|**Learned Image Reasoning Prior Penetrates Deep Unfolding Network for Panchromatic and Multi-Spectral Image Fusion**|Man Zhou et.al.|[2308.16083](http://arxiv.org/abs/2308.16083)|null|
-|**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478](http://arxiv.org/abs/2308.15478)|null|
+|**2023-08-29**|**An Adaptive Tangent Feature Perspective of Neural Networks**|Daniel LeJeune et.al.|[2308.15478](http://arxiv.org/abs/2308.15478)|**[link](https://github.com/dlej/adaptive-feature-perspective)**|
 |**2023-08-29**|**Learning Modulated Transformation in GANs**|Ceyuan Yang et.al.|[2308.15472](http://arxiv.org/abs/2308.15472)|**[link](https://github.com/limbo0000/mtm)**|
 |**2023-08-29**|**Input margins can predict generalization too**|Coenraad Mouton et.al.|[2308.15466](http://arxiv.org/abs/2308.15466)|null|
 |**2023-08-29**|**A Comparative Study of Loss Functions: Traffic Predictions in Regular and Congestion Scenarios**|Yangxinyu Xie et.al.|[2308.15464](http://arxiv.org/abs/2308.15464)|**[link](https://github.com/xieyangxinyu/a-comparative-study-of-loss-functions-traffic-predictions-in-regular-and-congestion-scenarios)**|
@@ -8083,7 +8083,7 @@ layout: default
 |**2023-12-26**|**The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias**|Timo Spinde et.al.|[2312.16148](http://arxiv.org/abs/2312.16148)|**[link](https://github.com/media-bias-group/media-bias-taxonomy)**|
 |**2023-12-26**|**A Bayesian Framework of Deep Reinforcement Learning for Joint O-RAN/MEC Orchestration**|Fahri Wisnu Murti et.al.|[2312.16142](http://arxiv.org/abs/2312.16142)|null|
 |**2023-12-26**|**Interactive Shape Sonification for Breast Cancer Localization**|Laura Schütz et.al.|[2312.16129](http://arxiv.org/abs/2312.16129)|null|
-|**2023-12-22**|**Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems**|Leonardo Bettini et.al.|[2312.14927](http://arxiv.org/abs/2312.14927)|null|
+|**2023-12-22**|**Model Reduction to Spectral Submanifolds in Non-Smooth Dynamical Systems**|Leonardo Bettini et.al.|[2312.14927](http://arxiv.org/abs/2312.14927)|**[link](https://github.com/leonardobettini/nonsmoothssm)**|
 |**2023-12-22**|**Topological Green's function zeros in an exactly solved model and beyond**|Steffen Bollmann et.al.|[2312.14926](http://arxiv.org/abs/2312.14926)|null|
 |**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925](http://arxiv.org/abs/2312.14925)|null|
 |**2023-12-22**|**Virialized Profiles and Oscillations of Self-interacting Fuzzy Dark Matter Solitons**|Milos Indjin et.al.|[2312.14917](http://arxiv.org/abs/2312.14917)|null|
@@ -8167,7 +8167,7 @@ layout: default
 |**2023-12-12**|**Self-Healing Distributed Swarm Formation Control Using Image Moments**|C. Lin Liu et.al.|[2312.07523](http://arxiv.org/abs/2312.07523)|null|
 |**2023-12-12**|**Learning finitely correlated states: stability of the spectral reconstruction**|Marco Fanizza et.al.|[2312.07516](http://arxiv.org/abs/2312.07516)|null|
 |**2023-12-12**|**Integrated and Lightweight Design of Electro-hydraulic Ankle Prosthesis**|Yi Wei et.al.|[2312.07514](http://arxiv.org/abs/2312.07514)|null|
-|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|null|
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|**[link](https://github.com/alexduvalinho/geometric-gnns)**|
 |**2023-12-12**|**Fluctuation relations for a few observable currents at their own beat**|Alberto Garilli et.al.|[2312.07505](http://arxiv.org/abs/2312.07505)|null|
 |**2023-12-12**|**Scintillation of Ar/CF $_4$ mixtures: glass-THGEM characterization with 1% CF$_4$ at 1-1.5 bar**|P. Amedo et.al.|[2312.07503](http://arxiv.org/abs/2312.07503)|null|
 |**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488](http://arxiv.org/abs/2312.07488)|**[link](https://github.com/opendilab/lmdrive)**|
