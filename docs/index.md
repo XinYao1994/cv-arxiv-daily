@@ -105,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**An Asynchronous Scheme for Rollback Recovery in Message-Passing Concurrent Programming Languages**|Germán Vidal et.al.|[2401.00087](http://arxiv.org/abs/2401.00087)|null|
 |**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
 |**2023-12-26**|**A fully decentralized auditing approach for edge computing: A Game-Theoretic Perspective**|Zahra Seyedi et.al.|[2312.16007](http://arxiv.org/abs/2312.16007)|null|
 |**2023-12-19**|**The Hardness of Local Certification of Finite-State Dynamics**|Diego Maldonado et.al.|[2312.12278](http://arxiv.org/abs/2312.12278)|null|
@@ -376,6 +377,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**A Knowledge Compilation Map for Quantum Information**|Lieuwe Vinkhuijzen et.al.|[2401.01322](http://arxiv.org/abs/2401.01322)|null|
+|**2024-01-02**|**Profiling Programming Language Learning**|Will Crichton et.al.|[2401.01257](http://arxiv.org/abs/2401.01257)|null|
+|**2024-01-02**|**PTE: Axiomatic Semantics based Compiler Testing**|Guoliang Dong et.al.|[2401.01036](http://arxiv.org/abs/2401.01036)|null|
+|**2024-01-02**|**Quantum State Preparation Using an Exact CNOT Synthesis Formulation**|Hanyu Wang et.al.|[2401.01009](http://arxiv.org/abs/2401.01009)|null|
+|**2024-01-01**|**If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents**|Ke Yang et.al.|[2401.00812](http://arxiv.org/abs/2401.00812)|null|
+|**2024-01-01**|**Algorithms for Improving the Automatically Synthesized Instruction Set of an Extensible Processor**|Peter Sovietov et.al.|[2401.00772](http://arxiv.org/abs/2401.00772)|null|
+|**2023-12-31**|**Exploring the Effectiveness of Instruction Tuning in Biomedical Language Processing**|Omid Rohanian et.al.|[2401.00579](http://arxiv.org/abs/2401.00579)|null|
 |**2023-12-28**|**Fourier-transform spectroscopy and global deperturbation treatment of the $A^1Σ^+_u$ and $b^3Π_u$ states of K$_2$ in the entire bound energy range**|I. Klincare et.al.|[2312.17005](http://arxiv.org/abs/2312.17005)|null|
 |**2023-12-28**|**Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines**|Javier E. Pimás et.al.|[2312.16973](http://arxiv.org/abs/2312.16973)|null|
 |**2023-12-27**|**Vulnerability Scanners for Ethereum Smart Contracts: A Large-Scale Study**|Christoph Sendner et.al.|[2312.16533](http://arxiv.org/abs/2312.16533)|null|
@@ -1183,6 +1191,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Diagonal Gaussian Mixture Models and Higher Order Tensor Decompositions**|Bingni Guo et.al.|[2401.01337](http://arxiv.org/abs/2401.01337)|null|
+|**2024-01-02**|**Self-Supervised Millimeter Wave Indoor Localization using Tiny Neural Networks**|Anish Shastri et.al.|[2401.01329](http://arxiv.org/abs/2401.01329)|null|
+|**2024-01-02**|**A Knowledge Compilation Map for Quantum Information**|Lieuwe Vinkhuijzen et.al.|[2401.01322](http://arxiv.org/abs/2401.01322)|null|
+|**2024-01-02**|**Restart uncertainty relation for monitored quantum dynamics**|Ruoyu Yin et.al.|[2401.01307](http://arxiv.org/abs/2401.01307)|null|
+|**2024-01-02**|**Learning solutions to some toy constrained optimization problems in infinite dimensional Hilbert spaces**|Pinak Mandal et.al.|[2401.01306](http://arxiv.org/abs/2401.01306)|null|
+|**2024-01-02**|**On the uniqueness and computation of commuting extensions**|Pascal Koiran et.al.|[2401.01302](http://arxiv.org/abs/2401.01302)|null|
+|**2024-01-02**|**Efficient Sparse Least Absolute Deviation Regression with Differential Privacy**|Weidong Liu et.al.|[2401.01294](http://arxiv.org/abs/2401.01294)|null|
+|**2024-01-02**|**Solving Fokker-Planck equations using the zeros of Fokker-Planck operators and the Feynman-Kac formula**|Pinak Mandal et.al.|[2401.01292](http://arxiv.org/abs/2401.01292)|null|
+|**2024-01-02**|**Optimal Synthesis of Finite State Machines with Universal Gates using Evolutionary Algorithm**|Noor Ullah et.al.|[2401.01265](http://arxiv.org/abs/2401.01265)|null|
+|**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262](http://arxiv.org/abs/2401.01262)|null|
 |**2023-12-29**|**Contrastive learning through non-equilibrium memory**|Martin Falk et.al.|[2312.17723](http://arxiv.org/abs/2312.17723)|null|
 |**2023-12-29**|**Dependent Random Partitions by Shrinking Toward an Anchor**|David B. Dahl et.al.|[2312.17716](http://arxiv.org/abs/2312.17716)|null|
 |**2023-12-29**|**Principled Gradient-based Markov Chain Monte Carlo for Text Generation**|Li Du et.al.|[2312.17710](http://arxiv.org/abs/2312.17710)|null|
@@ -2929,6 +2947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**CXL and the Return of Scale-Up Database Engines**|Alberto Lerner et.al.|[2401.01150](http://arxiv.org/abs/2401.01150)|null|
+|**2024-01-02**|**Spiker+: a framework for the generation of efficient Spiking Neural Networks FPGA accelerators for inference at the edge**|Alessio Carpegna et.al.|[2401.01141](http://arxiv.org/abs/2401.01141)|null|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081](http://arxiv.org/abs/2401.01081)|null|
+|**2024-01-02**|**Towards Cognitive AI Systems: a Survey and Prospective on Neuro-Symbolic AI**|Zishen Wan et.al.|[2401.01040](http://arxiv.org/abs/2401.01040)|null|
+|**2024-01-01**|**Data Augmentation Techniques for Cross-Domain WiFi CSI-based Human Activity Recognition**|Julian Strohmayer et.al.|[2401.00964](http://arxiv.org/abs/2401.00964)|null|
+|**2024-01-01**|**Quantum control in artificial neurons with superconductor-ionic memory inserted in the feedback**|Osama M. Nayfeh et.al.|[2401.00958](http://arxiv.org/abs/2401.00958)|null|
+|**2024-01-01**|**Algorithms for Improving the Automatically Synthesized Instruction Set of an Extensible Processor**|Peter Sovietov et.al.|[2401.00772](http://arxiv.org/abs/2401.00772)|null|
+|**2023-12-31**|**Real-Time FJ/MAC PDE Solvers via Tensorized, Back-Propagation-Free Optical PINN Training**|Yequan Zhao et.al.|[2401.00413](http://arxiv.org/abs/2401.00413)|null|
+|**2023-12-31**|**Low-cost Geometry-based Eye Gaze Detection using Facial Landmarks Generated through Deep Learning**|Esther Enhui Ye et.al.|[2401.00406](http://arxiv.org/abs/2401.00406)|null|
+|**2023-12-30**|**Laboratory Experiments of Model-based Reinforcement Learning for Adaptive Optics Control**|Jalo Nousiainen et.al.|[2401.00242](http://arxiv.org/abs/2401.00242)|null|
 |**2023-12-29**|**Empowering high-dimensional quantum computing by traversing the dual bosonic ladder**|Long B. Nguyen et.al.|[2312.17741](http://arxiv.org/abs/2312.17741)|null|
 |**2023-12-29**|**Latent Idiom Recognition for a Minimalist Functional Array Language using Equality Saturation**|Jonathan Van der Cruysse et.al.|[2312.17682](http://arxiv.org/abs/2312.17682)|null|
 |**2023-12-29**|**b-it-bots RoboCup@Work Team Description Paper 2023**|Kevin Patel et.al.|[2312.17643](http://arxiv.org/abs/2312.17643)|null|
@@ -4614,6 +4642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**TREC iKAT 2023: The Interactive Knowledge Assistance Track Overview**|Mohammad Aliannejadi et.al.|[2401.01330](http://arxiv.org/abs/2401.01330)|null|
+|**2024-01-02**|**Self-Supervised Millimeter Wave Indoor Localization using Tiny Neural Networks**|Anish Shastri et.al.|[2401.01329](http://arxiv.org/abs/2401.01329)|null|
+|**2024-01-02**|**An Autoregressive Text-to-Graph Framework for Joint Entity and Relation Extraction**|Zaratiana Urchade et.al.|[2401.01326](http://arxiv.org/abs/2401.01326)|null|
+|**2024-01-02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325](http://arxiv.org/abs/2401.01325)|null|
+|**2024-01-02**|**A Knowledge Compilation Map for Quantum Information**|Lieuwe Vinkhuijzen et.al.|[2401.01322](http://arxiv.org/abs/2401.01322)|null|
+|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-02**|**Application of the Cartier Operator in Coding Theory**|Vahid Nourozi et.al.|[2401.01305](http://arxiv.org/abs/2401.01305)|null|
+|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304](http://arxiv.org/abs/2401.01304)|null|
+|**2024-01-02**|**Efficient Sparse Least Absolute Deviation Regression with Differential Privacy**|Weidong Liu et.al.|[2401.01294](http://arxiv.org/abs/2401.01294)|null|
+|**2024-01-02**|**Solving Fokker-Planck equations using the zeros of Fokker-Planck operators and the Feynman-Kac formula**|Pinak Mandal et.al.|[2401.01292](http://arxiv.org/abs/2401.01292)|null|
 |**2023-12-29**|**K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries**|Kanak Raj et.al.|[2312.17748](http://arxiv.org/abs/2312.17748)|null|
 |**2023-12-29**|**Empowering high-dimensional quantum computing by traversing the dual bosonic ladder**|Long B. Nguyen et.al.|[2312.17741](http://arxiv.org/abs/2312.17741)|null|
 |**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
@@ -6359,6 +6397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Self-Supervised Millimeter Wave Indoor Localization using Tiny Neural Networks**|Anish Shastri et.al.|[2401.01329](http://arxiv.org/abs/2401.01329)|null|
+|**2024-01-02**|**Procrustean entanglement concentration in quantum-classical networking**|Hsuan-Hao Lu et.al.|[2401.01311](http://arxiv.org/abs/2401.01311)|null|
+|**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304](http://arxiv.org/abs/2401.01304)|null|
+|**2024-01-02**|**Solving Fokker-Planck equations using the zeros of Fokker-Planck operators and the Feynman-Kac formula**|Pinak Mandal et.al.|[2401.01292](http://arxiv.org/abs/2401.01292)|null|
+|**2024-01-02**|**Physics-informed Generalizable Wireless Channel Modeling with Segmentation and Deep Learning: Fundamentals, Methodologies, and Challenges**|Ethan Zhu et.al.|[2401.01288](http://arxiv.org/abs/2401.01288)|null|
+|**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
+|**2024-01-02**|**Optimal Rates of Kernel Ridge Regression under Source Condition in Large Dimensions**|Haobo Zhang et.al.|[2401.01270](http://arxiv.org/abs/2401.01270)|null|
+|**2024-01-02**|**Do Concept Bottleneck Models Obey Locality?**|Naveen Raman et.al.|[2401.01259](http://arxiv.org/abs/2401.01259)|null|
+|**2024-01-02**|**Towards Model-Free LQR Control over Rate-Limited Channels**|Aritra Mitra et.al.|[2401.01258](http://arxiv.org/abs/2401.01258)|null|
+|**2024-01-02**|**Deplatforming Norm-Violating Influencers on Social Media Reduces Overall Online Attention Toward Them**|Manoel Horta Ribeiro et.al.|[2401.01253](http://arxiv.org/abs/2401.01253)|null|
 |**2023-12-29**|**Universality classes for purification in nonunitary quantum processes**|Andrea De Luca et.al.|[2312.17744](http://arxiv.org/abs/2312.17744)|null|
 |**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
 |**2023-12-29**|**Phases of 2d massless QCD with qubit regularization**|Hanqing Liu et.al.|[2312.17734](http://arxiv.org/abs/2312.17734)|null|
@@ -8104,6 +8152,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Metastability of stratified magnetohydrostatic equilibria and their relaxation**|David N. Hosking et.al.|[2401.01336](http://arxiv.org/abs/2401.01336)|null|
+|**2024-01-02**|**Hyperfine-enhanced gyroscope based on solid-state spins**|Guoqing Wang et.al.|[2401.01334](http://arxiv.org/abs/2401.01334)|null|
+|**2024-01-02**|**Emulated nuclear spin gyroscope with $^{15}$ NV centers in diamond**|Guoqing Wang et.al.|[2401.01333](http://arxiv.org/abs/2401.01333)|null|
+|**2024-01-02**|**The $r$ -matrix structure of Hitchin systems via loop group uniformization**|Raschid Abedin et.al.|[2401.01327](http://arxiv.org/abs/2401.01327)|null|
+|**2024-01-02**|**Mixed QCD-EW corrections to $W$ -pair production at electron-positron colliders**|Zhe Li et.al.|[2401.01323](http://arxiv.org/abs/2401.01323)|null|
+|**2024-01-02**|**On the evolution of a twisted thin accretion disc in eccentric inclined supermassive binary black holes**|P. B. Ivanov et.al.|[2401.01317](http://arxiv.org/abs/2401.01317)|null|
+|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312](http://arxiv.org/abs/2401.01312)|null|
+|**2024-01-02**|**What is the effective size of a parity-time symmetric dimer?**|Li Ge et.al.|[2401.01309](http://arxiv.org/abs/2401.01309)|null|
+|**2024-01-02**|**Restart uncertainty relation for monitored quantum dynamics**|Ruoyu Yin et.al.|[2401.01307](http://arxiv.org/abs/2401.01307)|null|
 |**2023-12-29**|**Universality classes for purification in nonunitary quantum processes**|Andrea De Luca et.al.|[2312.17744](http://arxiv.org/abs/2312.17744)|null|
 |**2023-12-29**|**Empowering high-dimensional quantum computing by traversing the dual bosonic ladder**|Long B. Nguyen et.al.|[2312.17741](http://arxiv.org/abs/2312.17741)|null|
 |**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
