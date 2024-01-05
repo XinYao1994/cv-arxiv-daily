@@ -107,6 +107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Modernizing IRAF to Support Gemini Data Reduction**|Michael Fitzpatrick et.al.|[2401.01982](http://arxiv.org/abs/2401.01982)|null|
 |**2024-01-03**|**Energy Sharing among Resources within Electrical Distribution Systems: A Systematic Review**|G Hari Krishna et.al.|[2401.01597](http://arxiv.org/abs/2401.01597)|null|
 |**2023-12-29**|**An Asynchronous Scheme for Rollback Recovery in Message-Passing Concurrent Programming Languages**|Germán Vidal et.al.|[2401.00087](http://arxiv.org/abs/2401.00087)|null|
 |**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
@@ -380,6 +381,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Lightweight Fish Classification Model for Sustainable Marine Management: Indonesian Case**|Febrian Kurniawan et.al.|[2401.02278](http://arxiv.org/abs/2401.02278)|null|
+|**2024-01-04**|**Gravitational lensing from clusters of galaxies to test Disformal Couplings Theories**|Saboura Zamani et.al.|[2401.02221](http://arxiv.org/abs/2401.02221)|null|
 |**2024-01-02**|**A Knowledge Compilation Map for Quantum Information**|Lieuwe Vinkhuijzen et.al.|[2401.01322](http://arxiv.org/abs/2401.01322)|null|
 |**2024-01-02**|**Profiling Programming Language Learning**|Will Crichton et.al.|[2401.01257](http://arxiv.org/abs/2401.01257)|null|
 |**2024-01-02**|**PTE: Axiomatic Semantics based Compiler Testing**|Guoliang Dong et.al.|[2401.01036](http://arxiv.org/abs/2401.01036)|null|
@@ -1195,6 +1198,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395](http://arxiv.org/abs/2401.02395)|null|
+|**2024-01-04**|**Faster optimal univariate microgaggregation**|Felix I. Stamm et.al.|[2401.02381](http://arxiv.org/abs/2401.02381)|null|
+|**2024-01-04**|**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**|Peter Carragher et.al.|[2401.02379](http://arxiv.org/abs/2401.02379)|null|
+|**2024-01-04**|**Matrix product state ansatz for the variational quantum solution of the Heisenberg model on Kagome geometries**|Younes Javanmard et.al.|[2401.02355](http://arxiv.org/abs/2401.02355)|null|
+|**2024-01-04**|**Multi-Source Domain Adaptation with Transformer-based Feature Generation for Subject-Independent EEG-based Emotion Recognition**|Shadi Sartipi et.al.|[2401.02344](http://arxiv.org/abs/2401.02344)|null|
+|**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326](http://arxiv.org/abs/2401.02326)|**[link](https://github.com/xypu98/cwsam)**|
+|**2024-01-04**|**Properties of Voids and Void Galaxies in the TNG300 Simulation**|Olivia Curtis et.al.|[2401.02322](http://arxiv.org/abs/2401.02322)|null|
+|**2024-01-04**|**Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches**|George Alestas et.al.|[2401.02314](http://arxiv.org/abs/2401.02314)|null|
+|**2024-01-04**|**A Generalized Variable Projection Algorithm for Least Squares Problems in Atmospheric Remote Sensing**|Adelina Bärligea et.al.|[2401.02301](http://arxiv.org/abs/2401.02301)|null|
+|**2024-01-04**|**Robust Physics Informed Neural Networks**|Marcin Łoś et.al.|[2401.02300](http://arxiv.org/abs/2401.02300)|null|
 |**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869](http://arxiv.org/abs/2401.01869)|null|
 |**2024-01-03**|**Optimal cross-learning for contextual bandits with unknown context distributions**|Jon Schneider et.al.|[2401.01857](http://arxiv.org/abs/2401.01857)|null|
 |**2024-01-03**|**The expected value of sample information calculations for external validation of risk prediction models**|Mohsen Sadatsafavi et.al.|[2401.01849](http://arxiv.org/abs/2401.01849)|null|
@@ -2961,6 +2974,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Evasive Hardware Trojan through Adversarial Power Trace**|Behnam Omidi et.al.|[2401.02342](http://arxiv.org/abs/2401.02342)|null|
+|**2024-01-04**|**Introduction and Status of Fermilab's ACORN Project**|D. Finstrom et.al.|[2401.02291](http://arxiv.org/abs/2401.02291)|null|
+|**2024-01-04**|**Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices**|Tristan Maxson et.al.|[2401.02284](http://arxiv.org/abs/2401.02284)|null|
+|**2024-01-04**|**Lightweight Fish Classification Model for Sustainable Marine Management: Indonesian Case**|Febrian Kurniawan et.al.|[2401.02278](http://arxiv.org/abs/2401.02278)|null|
+|**2024-01-04**|**Proven Distributed Memory Parallelization of Particle Methods**|Johannes Pahlke et.al.|[2401.02180](http://arxiv.org/abs/2401.02180)|null|
+|**2024-01-04**|**Windows on the Universe: Establishing the Infrastructure for a Collaborative Multi-messenger Ecosystem**|The 2023 Windows on the Universe Workshop White Paper Working Group et.al.|[2401.02063](http://arxiv.org/abs/2401.02063)|null|
+|**2024-01-04**|**Decentralized Multi-Task Online Convex Optimization Under Random Link Failures**|Wenjing Yan et.al.|[2401.02011](http://arxiv.org/abs/2401.02011)|null|
+|**2024-01-03**|**Mean-Field Assisted Deep Boltzmann Learning with Probabilistic Computers**|Shuvro Chowdhury et.al.|[2401.01996](http://arxiv.org/abs/2401.01996)|null|
+|**2024-01-03**|**Modernizing IRAF to Support Gemini Data Reduction**|Michael Fitzpatrick et.al.|[2401.01982](http://arxiv.org/abs/2401.01982)|null|
 |**2024-01-03**|**The Power of Training: How Different Neural Network Setups Influence the Energy Demand**|Daniel Geißler et.al.|[2401.01851](http://arxiv.org/abs/2401.01851)|null|
 |**2024-01-03**|**Data-Driven Power Modeling and Monitoring via Hardware Performance Counters Tracking**|Sergio Mazzola et.al.|[2401.01826](http://arxiv.org/abs/2401.01826)|null|
 |**2024-01-03**|**Profiling the carbon footprint of performance bugs**|Iztok Fister Jr. et.al.|[2401.01782](http://arxiv.org/abs/2401.01782)|null|
@@ -4663,6 +4685,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
+|**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
+|**2024-01-04**|**Real-Time 2D Temperature Field Prediction in Metal Additive Manufacturing Using Physics-Informed Neural Networks**|Pouyan Sajadi et.al.|[2401.02403](http://arxiv.org/abs/2401.02403)|null|
+|**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395](http://arxiv.org/abs/2401.02395)|null|
+|**2024-01-04**|**ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning**|Fanqing Meng et.al.|[2401.02384](http://arxiv.org/abs/2401.02384)|null|
+|**2024-01-04**|**Byzantine-Resilient Gradient Coding through Local Gradient Computations**|Christoph Hofmeister et.al.|[2401.02380](http://arxiv.org/abs/2401.02380)|null|
+|**2024-01-04**|**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**|Peter Carragher et.al.|[2401.02379](http://arxiv.org/abs/2401.02379)|null|
+|**2024-01-04**|**Opinion formation in the world trade network**|Célestin Coquidé et.al.|[2401.02378](http://arxiv.org/abs/2401.02378)|null|
+|**2024-01-04**|**Towards the determination of the 3-dimensional structure of the proton using lattice QCD simulations**|Constantia Alexandrou et.al.|[2401.02365](http://arxiv.org/abs/2401.02365)|null|
+|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363](http://arxiv.org/abs/2401.02363)|null|
 |**2024-01-03**|**Architectural Design for Secure Smart Contract Development**|Myles Lewis et.al.|[2401.01891](http://arxiv.org/abs/2401.01891)|null|
 |**2024-01-03**|**Bridging Relativistic Jets from Black Hole Scales to Long-Term Electromagnetic Radiation Distances: An Investigation Utilizing a Moving-Mesh General Relativistic Hydrodynamics Code with HLLC Riemann Solver**|Xiaoyi Xie et.al.|[2401.01889](http://arxiv.org/abs/2401.01889)|null|
 |**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883](http://arxiv.org/abs/2401.01883)|null|
@@ -6428,6 +6460,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
+|**2024-01-04**|**A network-level transport model of tau progression in the Alzheimer's brain**|Veronica Tora et.al.|[2401.02407](http://arxiv.org/abs/2401.02407)|null|
+|**2024-01-04**|**Real-Time 2D Temperature Field Prediction in Metal Additive Manufacturing Using Physics-Informed Neural Networks**|Pouyan Sajadi et.al.|[2401.02403](http://arxiv.org/abs/2401.02403)|null|
+|**2024-01-04**|**Generating synthetic data for neural operators**|Erisa Hasani et.al.|[2401.02398](http://arxiv.org/abs/2401.02398)|null|
+|**2024-01-04**|**Analyzing Misinformation Claims During the 2022 Brazilian General Election on WhatsApp, Twitter, and Kwai**|Scott A. Hale et.al.|[2401.02395](http://arxiv.org/abs/2401.02395)|null|
+|**2024-01-04**|**Image denoising and model-independent parameterization for improving IVIM MRI**|Caleb Sample et.al.|[2401.02394](http://arxiv.org/abs/2401.02394)|null|
+|**2024-01-04**|**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**|Peter Carragher et.al.|[2401.02379](http://arxiv.org/abs/2401.02379)|null|
+|**2024-01-04**|**Opinion formation in the world trade network**|Célestin Coquidé et.al.|[2401.02378](http://arxiv.org/abs/2401.02378)|null|
+|**2024-01-04**|**Integration of physics-informed operator learning and finite element method for parametric learning of partial differential equations**|Shahed Rezaei et.al.|[2401.02363](http://arxiv.org/abs/2401.02363)|null|
 |**2024-01-03**|**Architectural Design for Secure Smart Contract Development**|Myles Lewis et.al.|[2401.01891](http://arxiv.org/abs/2401.01891)|null|
 |**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883](http://arxiv.org/abs/2401.01883)|null|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
@@ -8193,6 +8235,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Task Oriented Dialogue as a Catalyst for Self-Supervised Automatic Speech Recognition**|David M. Chan et.al.|[2401.02417](http://arxiv.org/abs/2401.02417)|null|
+|**2024-01-04**|**Proposal for Majorana Modes without a Magnetic Field in a semiconductor-superconductor sandwich structures**|Huan-Kuang Wu et.al.|[2401.02408](http://arxiv.org/abs/2401.02408)|null|
+|**2024-01-04**|**Multi-segmented non-isothermal compositional liquid gas well model for geothermal processes**|Daniel Castanon Quiroz et.al.|[2401.02406](http://arxiv.org/abs/2401.02406)|null|
+|**2024-01-04**|**Sono\textcolor{red}{neutrino}escence: Neutrinos from Ringing Bubble of Sonoluminescence**|Rajesh Karmakar et.al.|[2401.02405](http://arxiv.org/abs/2401.02405)|null|
+|**2024-01-04**|**Probabilistic Trajectory Design Via Approximate Gaussian Mixture Steering**|William Fife et.al.|[2401.02396](http://arxiv.org/abs/2401.02396)|null|
+|**2024-01-04**|**Bright Supernova Precursors by Outbursts from Massive Stars with Compact Object Companions**|Daichi Tsuna et.al.|[2401.02389](http://arxiv.org/abs/2401.02389)|null|
+|**2024-01-04**|**Approximation of multipartite quantum states: revised version with new applications**|M. E. Shirokov et.al.|[2401.02388](http://arxiv.org/abs/2401.02388)|null|
+|**2024-01-04**|**Direction of Arrival Estimation Using Microphone Array Processing for Moving Humanoid Robots**|Vladimir Tourbabin et.al.|[2401.02386](http://arxiv.org/abs/2401.02386)|null|
+|**2024-01-04**|**Hilbert modular forms and Galois representations**|Ajith Nair et.al.|[2401.02382](http://arxiv.org/abs/2401.02382)|null|
+|**2024-01-04**|**Machine Learning in Robotic Ultrasound Imaging: Challenges and Perspectives**|Yuan Bi et.al.|[2401.02376](http://arxiv.org/abs/2401.02376)|null|
 |**2024-01-03**|**Architectural Design for Secure Smart Contract Development**|Myles Lewis et.al.|[2401.01891](http://arxiv.org/abs/2401.01891)|null|
 |**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
 |**2024-01-03**|**Calderon-Zygmund theory for strongly coupled linear system of nonlocal equations with Holder-regular coefficient**|Tadele Mengesha et.al.|[2401.01886](http://arxiv.org/abs/2401.01886)|null|
