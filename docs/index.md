@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -383,14 +383,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-08**|**TextMachina: Seamless Generation of Machine-Generated Text Datasets**|Areg Mikael Sarvazyan et.al.|[2401.03946](http://arxiv.org/abs/2401.03946)|null|
+|**2024-01-08**|**TextMachina: Seamless Generation of Machine-Generated Text Datasets**|Areg Mikael Sarvazyan et.al.|[2401.03946](http://arxiv.org/abs/2401.03946)|**[link](https://github.com/genaios/textmachina)**|
 |**2024-01-08**|**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA**|Shulin Zeng et.al.|[2401.03868](http://arxiv.org/abs/2401.03868)|null|
 |**2024-01-08**|**Context-Aware Coupler Reconfiguration for Tunable Coupler-Based Superconducting Quantum Computers**|Leanghok Hour et.al.|[2401.03817](http://arxiv.org/abs/2401.03817)|null|
 |**2024-01-06**|**The Effects of COVID-19 and the Russia-Ukraine War on Inward Foreign Direct Investment**|MS Hosen et.al.|[2401.03096](http://arxiv.org/abs/2401.03096)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
 |**2024-01-08**|**The Dark Energy Survey: Cosmology Results With ~1500 New High-redshift Type Ia Supernovae Using The Full 5-year Dataset**|DES Collaboration et.al.|[2401.02929](http://arxiv.org/abs/2401.02929)|null|
 |**2024-01-05**|**Searching for Bumps in the Cosmological Road: Do Type Ia Supernovae with Early Excesses Have Biased Hubble Residuals?**|Christine Ye et.al.|[2401.02926](http://arxiv.org/abs/2401.02926)|null|
-|**2024-01-05**|**Preliminary report: Initial evaluation of StdPar implementations on AMD GPUs for HPC**|Wei-Chen Lin et.al.|[2401.02680](http://arxiv.org/abs/2401.02680)|null|
+|**2024-01-05**|**Preliminary report: Initial evaluation of StdPar implementations on AMD GPUs for HPC**|Wei-Chen Lin et.al.|[2401.02680](http://arxiv.org/abs/2401.02680)|**[link](https://github.com/uob-hpc/utpx)**|
 |**2024-01-04**|**Correct and Compositional Hardware Generators**|Rachit Nigam et.al.|[2401.02570](http://arxiv.org/abs/2401.02570)|null|
 |**2024-01-04**|**TitanCFI: Toward Enforcing Control-Flow Integrity in the Root-of-Trust**|Emanuele Parisi et.al.|[2401.02567](http://arxiv.org/abs/2401.02567)|null|
 |**2024-01-04**|**Code Generation for a Variety of Accelerators for a Graph DSL**|Ashwina Kumar et.al.|[2401.02472](http://arxiv.org/abs/2401.02472)|null|
@@ -3012,7 +3012,7 @@ layout: default
 |**2024-01-08**|**A Practical Beamforming Design for Active RIS-assisted MU-MISO Systems**|Yun Yang et.al.|[2401.03873](http://arxiv.org/abs/2401.03873)|null|
 |**2024-01-08**|**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA**|Shulin Zeng et.al.|[2401.03868](http://arxiv.org/abs/2401.03868)|null|
 |**2024-01-08**|**Limitations of Data-Driven Spectral Reconstruction -- An Optics-Aware Analysis**|Qiang Fu et.al.|[2401.03835](http://arxiv.org/abs/2401.03835)|null|
-|**2024-01-08**|**A foundation for exact binarized morphological neural networks**|Theodore Aouad et.al.|[2401.03830](http://arxiv.org/abs/2401.03830)|null|
+|**2024-01-08**|**A foundation for exact binarized morphological neural networks**|Theodore Aouad et.al.|[2401.03830](http://arxiv.org/abs/2401.03830)|**[link](https://github.com/TheodoreAouad/LBQNN2023)**|
 |**2024-01-08**|**Context-Aware Coupler Reconfiguration for Tunable Coupler-Based Superconducting Quantum Computers**|Leanghok Hour et.al.|[2401.03817](http://arxiv.org/abs/2401.03817)|null|
 |**2024-01-08**|**Mixed Precision FGMRES-Based Iterative Refinement for Weighted Least Squares**|Erin Carson et.al.|[2401.03755](http://arxiv.org/abs/2401.03755)|null|
 |**2024-01-07**|**Gate--Level Statistical Timing Analysis: Exact Solutions, Approximations and Algorithms**|Dmytro Mishagli et.al.|[2401.03588](http://arxiv.org/abs/2401.03588)|null|
