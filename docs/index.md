@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -110,7 +110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|null|
+|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|**[link](https://github.com/yjhmitweb/exflow)**|
 |**2024-01-14**|**Structured Acyclic Nets**|Mohammed Alahmadi et.al.|[2401.07308](http://arxiv.org/abs/2401.07308)|null|
 |**2024-01-09**|**EV-EcoSim: A grid-aware co-simulation platform for the design and optimization of electric vehicle charging infrastructure**|Emmanuel Balogun et.al.|[2401.04705](http://arxiv.org/abs/2401.04705)|null|
 |**2024-01-06**|**Secure Synthesis of Distributed Cryptographic Applications (Technical Report)**|Coşku Acay et.al.|[2401.04131](http://arxiv.org/abs/2401.04131)|null|
@@ -3097,7 +3097,7 @@ layout: default
 |**2024-01-16**|**Control-free and efficient silicon photonic neural networks via hardware-aware training and pruning**|Tengji Xu et.al.|[2401.08180](http://arxiv.org/abs/2401.08180)|null|
 |**2024-01-16**|**DeMM: A Decoupled Matrix Multiplication Engine Supporting Relaxed Structured Sparsity**|Christodoulos Peltekis et.al.|[2401.08179](http://arxiv.org/abs/2401.08179)|null|
 |**2024-01-16**|**Octopus: A Fair Packet Delivery Service**|Junzhi Gong et.al.|[2401.08126](http://arxiv.org/abs/2401.08126)|null|
-|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|null|
+|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|**[link](https://github.com/austin-thetrueshinobi/is-win-research)**|
 |**2024-01-16**|**A Survey of Resource-efficient LLM and Multimodal Foundation Models**|Mengwei Xu et.al.|[2401.08092](http://arxiv.org/abs/2401.08092)|**[link](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)**|
 |**2024-01-12**|**Real-time MPC with Control Barrier Functions for Autonomous Driving using Safety Enhanced Collocation**|Jean Pierre Allamaa et.al.|[2401.06648](http://arxiv.org/abs/2401.06648)|null|
 |**2024-01-12**|**Utilizing Layout Effects for Analog Logic Locking**|Muayad J. Aljafar et.al.|[2401.06508](http://arxiv.org/abs/2401.06508)|null|
@@ -4865,7 +4865,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-16**|**Herd Behaviour in Public Goods Games**|María Pereda et.al.|[2401.08428](http://arxiv.org/abs/2401.08428)|null|
+|**2024-01-16**|**Herd Behaviour in Public Goods Games**|María Pereda et.al.|[2401.08428](http://arxiv.org/abs/2401.08428)|**[link](https://github.com/mpereda/herding_in_pgg)**|
 |**2024-01-16**|**Using Counterfactuals to Improve Causal Inferences from Visualizations**|David Borland et.al.|[2401.08411](http://arxiv.org/abs/2401.08411)|null|
 |**2024-01-16**|**A Comprehensive Taxonomy of Cellular Automata**|Michiel Rollier et.al.|[2401.08408](http://arxiv.org/abs/2401.08408)|null|
 |**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
@@ -10400,7 +10400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|null|
+|**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|**[link](https://github.com/austin-thetrueshinobi/is-win-research)**|
 |**2024-01-12**|**H-CMRH: a novel inner product free hybrid Krylov method for large-scale inverse problems**|Ariana N. Brown et.al.|[2401.06918](http://arxiv.org/abs/2401.06918)|null|
 |**2024-01-09**|**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs**|Shulin Zeng et.al.|[2401.03868](http://arxiv.org/abs/2401.03868)|null|
 |**2024-01-08**|**Mixed Precision FGMRES-Based Iterative Refinement for Weighted Least Squares**|Erin Carson et.al.|[2401.03755](http://arxiv.org/abs/2401.03755)|null|
