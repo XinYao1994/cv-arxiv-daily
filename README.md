@@ -67,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
@@ -409,13 +410,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Quantum State Obfuscation from Classical Oracles**|James Bartusek et.al.|[2401.10200](http://arxiv.org/abs/2401.10200)|null|
+|**2024-01-18**|**Source Code Clone Detection Using Unsupervised Similarity Measures**|Jorge Martinez-Gil et.al.|[2401.09885](http://arxiv.org/abs/2401.09885)|**[link](https://github.com/jorge-martinez-gil/codesim)**|
+|**2024-01-18**|**Exploring the hardness of the ionising radiation with the infrared softness diagram. I. Similar effective temperature scales for starbursts and (ultra)luminous infrared galaxies**|Enrique Pérez-Montero et.al.|[2401.09765](http://arxiv.org/abs/2401.09765)|null|
 |**2024-01-17**|**3D Scene Geometry Estimation from 360 $^\circ$ Imagery: A Survey**|Thiago Lopes Trugillo da Silveira et.al.|[2401.09252](http://arxiv.org/abs/2401.09252)|null|
 |**2024-01-17**|**Deeper quantum circuits via pseudo-twirling coherent errors mitigation in non-Clifford gates**|Jader dos Santos et.al.|[2401.09040](http://arxiv.org/abs/2401.09040)|null|
 |**2024-01-17**|**AntiPhishStack: LSTM-based Stacked Generalization Model for Optimized Phishing URLs Detection**|Saba Aslam et.al.|[2401.08947](http://arxiv.org/abs/2401.08947)|null|
 |**2024-01-16**|**Exploring the radio-loudness of SDSS quasars with spectral stacking**|M. I. Arnaudova et.al.|[2401.08774](http://arxiv.org/abs/2401.08774)|null|
 |**2024-01-16**|**Understanding User Experience in Large Language Model Interactions**|Jiayin Wang et.al.|[2401.08329](http://arxiv.org/abs/2401.08329)|null|
 |**2024-01-16**|**RichWasm: Bringing Safe, Fine-Grained, Shared-Memory Interoperability Down to WebAssembly**|Zoe Paraskevopoulou et.al.|[2401.08287](http://arxiv.org/abs/2401.08287)|null|
-|**2024-01-16**|**IsamasRed: A Public Dataset Tracking Reddit Discussions on Israel-Hamas Conflict**|Kai Chen et.al.|[2401.08202](http://arxiv.org/abs/2401.08202)|null|
+|**2024-01-16**|**IsamasRed: A Public Dataset Tracking Reddit Discussions on Israel-Hamas Conflict**|Kai Chen et.al.|[2401.08202](http://arxiv.org/abs/2401.08202)|**[link](https://github.com/kaichen23/israel-hamas)**|
 |**2024-01-16**|**A Reproducibility Study of Goldilocks: Just-Right Tuning of BERT for TAR**|Xinyu Mao et.al.|[2401.08104](http://arxiv.org/abs/2401.08104)|**[link](https://github.com/ielab/goldilocks-reproduce)**|
 |**2024-01-16**|**A Machine Learning made Catalog of FR II Radio Galaxies from the FIRST Survey**|Bao-Qiang Lao et.al.|[2401.08048](http://arxiv.org/abs/2401.08048)|null|
 |**2024-01-15**|**PATSMA: Parameter Auto-tuning for Shared Memory Algorithms**|Joao B. Fernandes et.al.|[2401.07861](http://arxiv.org/abs/2401.07861)|null|
@@ -1269,6 +1273,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231](http://arxiv.org/abs/2401.10231)|null|
+|**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
+|**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
+|**2024-01-18**|**Synchronization and Control of Chaotic Spur Gear System Using Type-II Fuzzy Controller Optimized via Whale Optimization Algorithm**|Farnaz Rezay Morsagh et.al.|[2401.10209](http://arxiv.org/abs/2401.10209)|null|
+|**2024-01-18**|**Eclectic Rule Extraction for Explainability of Deep Neural Network based Intrusion Detection Systems**|Jesse Ables et.al.|[2401.10207](http://arxiv.org/abs/2401.10207)|null|
+|**2024-01-18**|**Maximal-Capacity Discrete Memoryless Channel Identification**|Maximilian Egger et.al.|[2401.10204](http://arxiv.org/abs/2401.10204)|null|
+|**2024-01-18**|**New-generation Maximum Entropy Method (ngMEM): a Lagrangian-based algorithm for dynamic reconstruction of interferometric data**|A. Mus et.al.|[2401.10177](http://arxiv.org/abs/2401.10177)|null|
+|**2024-01-18**|**An Exploration to the Correlation Structure and Clustering of Macroeconomic Variables (MEV)**|Garvit Arora et.al.|[2401.10162](http://arxiv.org/abs/2401.10162)|null|
+|**2024-01-18**|**Model Compression Techniques in Biometrics Applications: A Survey**|Eduarda Caldeira et.al.|[2401.10139](http://arxiv.org/abs/2401.10139)|**[link](https://github.com/eduardacaldeira/compression_bias_survey)**|
+|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|null|
 |**2024-01-17**|**LionHeart: A Layer-based Mapping Framework for Heterogeneous Systems with Analog In-Memory Computing Tiles**|Corey Lammie et.al.|[2401.09420](http://arxiv.org/abs/2401.09420)|null|
 |**2024-01-17**|**Randomized Kaczmarz with geometrically smoothed momentum**|Seth J. Alderman et.al.|[2401.09415](http://arxiv.org/abs/2401.09415)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
@@ -3127,6 +3141,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**A Novel Noise-Aware Classical Optimizer for Variational Quantum Algorithms**|Jeffrey Larson et.al.|[2401.10121](http://arxiv.org/abs/2401.10121)|null|
+|**2024-01-18**|**Analyzing and Improving Hardware Modeling of Accel-Sim**|Rodrigo Huerta et.al.|[2401.10082](http://arxiv.org/abs/2401.10082)|null|
+|**2024-01-18**|**GPU Acceleration of a Conjugate Exponential Model for Cancer Tissue Heterogeneity**|Anik Chaudhuri et.al.|[2401.10068](http://arxiv.org/abs/2401.10068)|null|
+|**2024-01-18**|**BlockAMC: Scalable In-Memory Analog Matrix Computing for Solving Linear Systems**|Lunshuai Pan et.al.|[2401.10042](http://arxiv.org/abs/2401.10042)|null|
+|**2024-01-18**|**Performance Evaluation of a Full-Duplex UWA System in Lake Experiments**|Lu Shen et.al.|[2401.09951](http://arxiv.org/abs/2401.09951)|null|
+|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890](http://arxiv.org/abs/2401.09890)|null|
+|**2024-01-18**|**Improving the Accuracy of Analog-Based In-Memory Computing Accelerators Post-Training**|Corey Lammie et.al.|[2401.09859](http://arxiv.org/abs/2401.09859)|null|
+|**2024-01-18**|**A Survey on Energy Consumption and Environmental Impact of Video Streaming**|Samira Afzal et.al.|[2401.09854](http://arxiv.org/abs/2401.09854)|null|
+|**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
+|**2024-01-18**|**Data-Driven Characterization of Latent Dynamics on Quantum Testbeds**|Sohail Reddy et.al.|[2401.09822](http://arxiv.org/abs/2401.09822)|null|
 |**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/vim)**|
 |**2024-01-17**|**Élivágar: Efficient Quantum Circuit Search for Classification**|Sashwat Anagolum et.al.|[2401.09393](http://arxiv.org/abs/2401.09393)|null|
 |**2024-01-17**|**Synthesizing Hardware-Software Leakage Contracts for RISC-V Open-Source Processors**|Gideon Mohr et.al.|[2401.09383](http://arxiv.org/abs/2401.09383)|null|
@@ -4915,6 +4939,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225](http://arxiv.org/abs/2401.10225)|null|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|null|
+|**2024-01-18**|**Maximal-Capacity Discrete Memoryless Channel Identification**|Maximilian Egger et.al.|[2401.10204](http://arxiv.org/abs/2401.10204)|null|
+|**2024-01-18**|**Functional Conditional Gaussian Graphical Models**|Rita Fici et.al.|[2401.10196](http://arxiv.org/abs/2401.10196)|null|
+|**2024-01-18**|**Comparing Traditional and LLM-based Search for Image Geolocation**|Albatool Wazzan et.al.|[2401.10184](http://arxiv.org/abs/2401.10184)|null|
+|**2024-01-18**|**Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security**|Alec Wilson et.al.|[2401.10149](http://arxiv.org/abs/2401.10149)|null|
+|**2024-01-18**|**Strong decay of correlations for Gibbs states in any dimension**|Andreas Bluhm et.al.|[2401.10147](http://arxiv.org/abs/2401.10147)|null|
+|**2024-01-18**|**Resource Theory of Non-Revivals with Applications to Quantum Many-Body Scars**|Roy J. Garcia et.al.|[2401.10142](http://arxiv.org/abs/2401.10142)|null|
+|**2024-01-18**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
+|**2024-01-18**|**Interplay between Sensing and Communication in Cell-Free Massive MIMO with URLLC Users**|Zinat Behdad et.al.|[2401.10133](http://arxiv.org/abs/2401.10133)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
 |**2024-01-17**|**Weakly-Private Information Retrieval From MDS-Coded Distributed Storage**|Asbjørn O. Orvedal et.al.|[2401.09412](http://arxiv.org/abs/2401.09412)|null|
 |**2024-01-17**|**Through the Looking-Glass: Transparency Implications and Challenges in Enterprise AI Knowledge Systems**|Karina Cortiñas-Lorenzo et.al.|[2401.09410](http://arxiv.org/abs/2401.09410)|null|
@@ -6772,6 +6806,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
+|**2024-01-18**|**Free energy in spin glass models with conventional order**|Hong-Bin Chen et.al.|[2401.10223](http://arxiv.org/abs/2401.10223)|null|
+|**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
+|**2024-01-18**|**Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products**|Shengjie Luo et.al.|[2401.10216](http://arxiv.org/abs/2401.10216)|**[link](https://github.com/lsj2408/gaunt-tensor-product)**|
+|**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
+|**2024-01-18**|**Eclectic Rule Extraction for Explainability of Deep Neural Network based Intrusion Detection Systems**|Jesse Ables et.al.|[2401.10207](http://arxiv.org/abs/2401.10207)|null|
+|**2024-01-18**|**tinyVAST: R package with an expressive interface to specify lagged and simultaneous effects in multivariate spatio-temporal models**|James T. Thorson et.al.|[2401.10193](http://arxiv.org/abs/2401.10193)|null|
+|**2024-01-18**|**A Kaczmarz-inspired approach to accelerate the optimization of neural network wavefunctions**|Gil Goldshlager et.al.|[2401.10190](http://arxiv.org/abs/2401.10190)|null|
+|**2024-01-18**|**Neural Echos: Depthwise Convolutional Filters Replicate Biological Receptive Fields**|Zahra Babaiee et.al.|[2401.10178](http://arxiv.org/abs/2401.10178)|null|
+|**2024-01-18**|**VMamba: Visual State Space Model**|Yue Liu et.al.|[2401.10166](http://arxiv.org/abs/2401.10166)|**[link](https://github.com/mzeromiko/vmamba)**|
 |**2024-01-17**|**Yielding and plasticity in amorphous solids**|Ludovic Berthier et.al.|[2401.09385](http://arxiv.org/abs/2401.09385)|null|
 |**2024-01-17**|**Diverse Part Synthesis for 3D Shape Creation**|Yanran Guan et.al.|[2401.09384](http://arxiv.org/abs/2401.09384)|null|
 |**2024-01-17**|**Modelling clusters in network time series with an application to presidential elections in the USA**|Guy Nason et.al.|[2401.09381](http://arxiv.org/abs/2401.09381)|null|
@@ -8629,6 +8673,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
+|**2024-01-18**|**Free energy in spin glass models with conventional order**|Hong-Bin Chen et.al.|[2401.10223](http://arxiv.org/abs/2401.10223)|null|
+|**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
+|**2024-01-18**|**Synchronization and Control of Chaotic Spur Gear System Using Type-II Fuzzy Controller Optimized via Whale Optimization Algorithm**|Farnaz Rezay Morsagh et.al.|[2401.10209](http://arxiv.org/abs/2401.10209)|null|
+|**2024-01-18**|**Eclectic Rule Extraction for Explainability of Deep Neural Network based Intrusion Detection Systems**|Jesse Ables et.al.|[2401.10207](http://arxiv.org/abs/2401.10207)|null|
+|**2024-01-18**|**Perfect pulsed inline twin-beam squeezers**|Martin Houde et.al.|[2401.10197](http://arxiv.org/abs/2401.10197)|null|
+|**2024-01-18**|**Impact of Flexible and Bidirectional Charging in Medium- and Heavy-Duty Trucks on California's Decarbonization Pathway**|Osten Anderson et.al.|[2401.10194](http://arxiv.org/abs/2401.10194)|null|
+|**2024-01-18**|**A Kaczmarz-inspired approach to accelerate the optimization of neural network wavefunctions**|Gil Goldshlager et.al.|[2401.10190](http://arxiv.org/abs/2401.10190)|null|
+|**2024-01-18**|**Chem-FINESE: Validating Fine-Grained Few-shot Entity Extraction through Text Reconstruction**|Qingyun Wang et.al.|[2401.10189](http://arxiv.org/abs/2401.10189)|**[link](https://github.com/EagleW/Chem-FINESE)**|
+|**2024-01-18**|**Equilibrium Multiplicity: A Systematic Approach using Homotopies, with an Application to Chicago**|Amine C-L. Ouazad et.al.|[2401.10181](http://arxiv.org/abs/2401.10181)|null|
 |**2024-01-17**|**Where is the spin liquid in maple-leaf quantum magnet?**|Pratyay Ghosh et.al.|[2401.09422](http://arxiv.org/abs/2401.09422)|null|
 |**2024-01-17**|**LionHeart: A Layer-based Mapping Framework for Heterogeneous Systems with Analog In-Memory Computing Tiles**|Corey Lammie et.al.|[2401.09420](http://arxiv.org/abs/2401.09420)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
