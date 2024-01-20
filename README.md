@@ -3146,7 +3146,7 @@
 |**2024-01-18**|**GPU Acceleration of a Conjugate Exponential Model for Cancer Tissue Heterogeneity**|Anik Chaudhuri et.al.|[2401.10068](http://arxiv.org/abs/2401.10068)|null|
 |**2024-01-18**|**BlockAMC: Scalable In-Memory Analog Matrix Computing for Solving Linear Systems**|Lunshuai Pan et.al.|[2401.10042](http://arxiv.org/abs/2401.10042)|null|
 |**2024-01-18**|**Performance Evaluation of a Full-Duplex UWA System in Lake Experiments**|Lu Shen et.al.|[2401.09951](http://arxiv.org/abs/2401.09951)|null|
-|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890](http://arxiv.org/abs/2401.09890)|null|
+|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890](http://arxiv.org/abs/2401.09890)|**[link](https://github.com/kachris/survey_HA_LLM)**|
 |**2024-01-18**|**Improving the Accuracy of Analog-Based In-Memory Computing Accelerators Post-Training**|Corey Lammie et.al.|[2401.09859](http://arxiv.org/abs/2401.09859)|null|
 |**2024-01-18**|**A Survey on Energy Consumption and Environmental Impact of Video Streaming**|Samira Afzal et.al.|[2401.09854](http://arxiv.org/abs/2401.09854)|null|
 |**2024-01-18**|**Rational Materials Design for In Operando Electropolymerization of Evolvable Organic Electrochemical Transistors**|J. Y. Gerasimov et.al.|[2401.09835](http://arxiv.org/abs/2401.09835)|null|
