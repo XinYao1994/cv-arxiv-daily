@@ -1262,7 +1262,7 @@ layout: default
 |**2024-01-18**|**New-generation Maximum Entropy Method (ngMEM): a Lagrangian-based algorithm for dynamic reconstruction of interferometric data**|A. Mus et.al.|[2401.10177](http://arxiv.org/abs/2401.10177)|null|
 |**2024-01-18**|**An Exploration to the Correlation Structure and Clustering of Macroeconomic Variables (MEV)**|Garvit Arora et.al.|[2401.10162](http://arxiv.org/abs/2401.10162)|null|
 |**2024-01-18**|**Model Compression Techniques in Biometrics Applications: A Survey**|Eduarda Caldeira et.al.|[2401.10139](http://arxiv.org/abs/2401.10139)|**[link](https://github.com/eduardacaldeira/compression_bias_survey)**|
-|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|null|
+|**2024-01-18**|**Universal adjointation of isometry operations using transformation of quantum supermaps**|Satoshi Yoshida et.al.|[2401.10137](http://arxiv.org/abs/2401.10137)|**[link](https://github.com/sy3104/isometry_adjointation)**|
 |**2024-01-17**|**LionHeart: A Layer-based Mapping Framework for Heterogeneous Systems with Analog In-Memory Computing Tiles**|Corey Lammie et.al.|[2401.09420](http://arxiv.org/abs/2401.09420)|null|
 |**2024-01-17**|**Randomized Kaczmarz with geometrically smoothed momentum**|Seth J. Alderman et.al.|[2401.09415](http://arxiv.org/abs/2401.09415)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
