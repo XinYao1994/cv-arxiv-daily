@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -4916,7 +4916,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225](http://arxiv.org/abs/2401.10225)|null|
-|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|null|
+|**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-18**|**Maximal-Capacity Discrete Memoryless Channel Identification**|Maximilian Egger et.al.|[2401.10204](http://arxiv.org/abs/2401.10204)|null|
 |**2024-01-18**|**Functional Conditional Gaussian Graphical Models**|Rita Fici et.al.|[2401.10196](http://arxiv.org/abs/2401.10196)|null|
 |**2024-01-18**|**Comparing Traditional and LLM-based Search for Image Geolocation**|Albatool Wazzan et.al.|[2401.10184](http://arxiv.org/abs/2401.10184)|null|
