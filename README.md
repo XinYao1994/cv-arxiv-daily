@@ -410,8 +410,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Cppless: Productive and Performant Serverless Programming in C++**|Lukas Möller et.al.|[2401.10834](http://arxiv.org/abs/2401.10834)|null|
+|**2024-01-19**|**FinLLMs: A Framework for Financial Reasoning Dataset Generation with Large Language Models**|Ziqiang Yuan et.al.|[2401.10744](http://arxiv.org/abs/2401.10744)|null|
+|**2024-01-19**|**Navigating Expertise in Configurable Software Systems through the Maze of Variability**|Karolina Milano et.al.|[2401.10699](http://arxiv.org/abs/2401.10699)|null|
+|**2024-01-19**|**AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference**|Xuanlei Zhao et.al.|[2401.10652](http://arxiv.org/abs/2401.10652)|null|
+|**2024-01-18**|**The Session Abstract Machine (Extended Version)**|Luís Caires et.al.|[2401.10409](http://arxiv.org/abs/2401.10409)|null|
 |**2024-01-18**|**Quantum State Obfuscation from Classical Oracles**|James Bartusek et.al.|[2401.10200](http://arxiv.org/abs/2401.10200)|null|
-|**2024-01-18**|**Source Code Clone Detection Using Unsupervised Similarity Measures**|Jorge Martinez-Gil et.al.|[2401.09885](http://arxiv.org/abs/2401.09885)|**[link](https://github.com/jorge-martinez-gil/codesim)**|
+|**2024-01-19**|**Source Code Clone Detection Using Unsupervised Similarity Measures**|Jorge Martinez-Gil et.al.|[2401.09885](http://arxiv.org/abs/2401.09885)|**[link](https://github.com/jorge-martinez-gil/codesim)**|
 |**2024-01-18**|**Exploring the hardness of the ionising radiation with the infrared softness diagram. I. Similar effective temperature scales for starbursts and (ultra)luminous infrared galaxies**|Enrique Pérez-Montero et.al.|[2401.09765](http://arxiv.org/abs/2401.09765)|null|
 |**2024-01-17**|**3D Scene Geometry Estimation from 360 $^\circ$ Imagery: A Survey**|Thiago Lopes Trugillo da Silveira et.al.|[2401.09252](http://arxiv.org/abs/2401.09252)|null|
 |**2024-01-17**|**Deeper quantum circuits via pseudo-twirling coherent errors mitigation in non-Clifford gates**|Jader dos Santos et.al.|[2401.09040](http://arxiv.org/abs/2401.09040)|null|
@@ -1273,6 +1278,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Identifying synergies between VLBI and STIX imaging**|Hendrik Müller et.al.|[2401.10875](http://arxiv.org/abs/2401.10875)|null|
+|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
+|**2024-01-19**|**Cactus Representation of Minimum Cuts: Derandomize and Speed up**|Zhongtian He et.al.|[2401.10856](http://arxiv.org/abs/2401.10856)|null|
+|**2024-01-19**|**Distributed Genetic Algorithm for Feature Selection**|Michael Potter et.al.|[2401.10846](http://arxiv.org/abs/2401.10846)|null|
+|**2024-01-19**|**Using LLMs to discover emerging coded antisemitic hate-speech emergence in extremist social media**|Dhanush Kikkisetti et.al.|[2401.10841](http://arxiv.org/abs/2401.10841)|null|
+|**2024-01-19**|**Understanding Video Transformers via Universal Concept Discovery**|Matthew Kowal et.al.|[2401.10831](http://arxiv.org/abs/2401.10831)|null|
+|**2024-01-19**|**A survey on recent advances in named entity recognition**|Imed Keraghel et.al.|[2401.10825](http://arxiv.org/abs/2401.10825)|null|
+|**2024-01-19**|**Reconfigurable Intelligent Surface (RIS)-Assisted Entanglement Distribution in FSO Quantum Networks**|Mahdi Chehimi et.al.|[2401.10823](http://arxiv.org/abs/2401.10823)|null|
+|**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816](http://arxiv.org/abs/2401.10816)|null|
+|**2024-01-19**|**Inverse Primitive Path Analysis**|Carsten Svaneborg et.al.|[2401.10813](http://arxiv.org/abs/2401.10813)|null|
 |**2024-01-18**|**Polarization Leakage and the IXPE PSF**|Jack T. Dinsmore et.al.|[2401.10231](http://arxiv.org/abs/2401.10231)|null|
 |**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
 |**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
@@ -3141,6 +3156,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Software Resource Disaggregation for HPC with Serverless Computing**|Marcin Copik et.al.|[2401.10852](http://arxiv.org/abs/2401.10852)|null|
+|**2024-01-19**|**NN-VVC: Versatile Video Coding boosted by self-supervisedly learned image coding for machines**|Jukka I. Ahonen et.al.|[2401.10761](http://arxiv.org/abs/2401.10761)|null|
+|**2024-01-19**|**BoolGebra: Attributed Graph-learning for Boolean Algebraic Manipulation**|Yingjie Li et.al.|[2401.10753](http://arxiv.org/abs/2401.10753)|null|
+|**2024-01-19**|**G.O.G: A Versatile Gripper-On-Gripper Design for Bimanual Cloth Manipulation with a Single Robotic Arm**|Dongmyoung Lee et.al.|[2401.10702](http://arxiv.org/abs/2401.10702)|null|
+|**2024-01-19**|**Unraveling codes: fast, robust, beyond-bound error correction for DRAM**|Mike Hamburg et.al.|[2401.10688](http://arxiv.org/abs/2401.10688)|null|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
+|**2024-01-19**|**PTPsec: Securing the Precision Time Protocol Against Time Delay Attacks Using Cyclic Path Asymmetry Analysis**|Andreas Finkenzeller et.al.|[2401.10664](http://arxiv.org/abs/2401.10664)|null|
+|**2024-01-19**|**Quantum Computing Enhanced Service Ecosystem for Simulation in Manufacturing**|Wolfgang Maass et.al.|[2401.10623](http://arxiv.org/abs/2401.10623)|null|
+|**2024-01-19**|**Digital-Analog Quantum Computing and Algorithms**|Ana Martin et.al.|[2401.10622](http://arxiv.org/abs/2401.10622)|null|
+|**2024-01-19**|**Area and Power Efficient FFT/IFFT Processor for FALCON Post-Quantum Cryptography**|Ghada Alsuhli et.al.|[2401.10591](http://arxiv.org/abs/2401.10591)|null|
 |**2024-01-18**|**A Novel Noise-Aware Classical Optimizer for Variational Quantum Algorithms**|Jeffrey Larson et.al.|[2401.10121](http://arxiv.org/abs/2401.10121)|null|
 |**2024-01-18**|**Analyzing and Improving Hardware Modeling of Accel-Sim**|Rodrigo Huerta et.al.|[2401.10082](http://arxiv.org/abs/2401.10082)|null|
 |**2024-01-18**|**GPU Acceleration of a Conjugate Exponential Model for Cancer Tissue Heterogeneity**|Anik Chaudhuri et.al.|[2401.10068](http://arxiv.org/abs/2401.10068)|null|
@@ -4939,6 +4964,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891](http://arxiv.org/abs/2401.10891)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|null|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
+|**2024-01-19**|**Accuracy Analysis of Physics-Informed Neural Networks for Approximating the Critical SQG Equation**|Elie Abdo et.al.|[2401.10879](http://arxiv.org/abs/2401.10879)|null|
+|**2024-01-19**|**Spectral signatures of non-trivial topology in a superconducting circuit**|L. Peyruchat et.al.|[2401.10876](http://arxiv.org/abs/2401.10876)|null|
+|**2024-01-19**|**An AI-Resilient Text Rendering Technique for Reading and Skimming Documents**|Ziwei Gu et.al.|[2401.10873](http://arxiv.org/abs/2401.10873)|null|
+|**2024-01-19**|**An Experimental Study of Decentralized Matching**|Federico Echenique et.al.|[2401.10872](http://arxiv.org/abs/2401.10872)|null|
+|**2024-01-19**|**Learning Optimal Dynamic Treatment Regimes from Longitudinal Data**|Nicholas T. Williams et.al.|[2401.10867](http://arxiv.org/abs/2401.10867)|null|
+|**2024-01-19**|**The California-Kepler Survey. XI. A Survey of Chromospheric Activity Through the Lens of Precise Stellar Properties**|Howard Isaacson et.al.|[2401.10864](http://arxiv.org/abs/2401.10864)|null|
+|**2024-01-19**|**Novel community data in ecology -- properties and prospects**|Florian Hartig et.al.|[2401.10860](http://arxiv.org/abs/2401.10860)|null|
 |**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225](http://arxiv.org/abs/2401.10225)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-18**|**Maximal-Capacity Discrete Memoryless Channel Identification**|Maximilian Egger et.al.|[2401.10204](http://arxiv.org/abs/2401.10204)|null|
@@ -6806,6 +6841,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|null|
+|**2024-01-19**|**Accuracy Analysis of Physics-Informed Neural Networks for Approximating the Critical SQG Equation**|Elie Abdo et.al.|[2401.10879](http://arxiv.org/abs/2401.10879)|null|
+|**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857](http://arxiv.org/abs/2401.10857)|null|
+|**2024-01-19**|**Exploring the role of structure in a time constrained decision task**|Naomi Chaix-Eichel et.al.|[2401.10849](http://arxiv.org/abs/2401.10849)|null|
+|**2024-01-19**|**Reconfigurable Intelligent Surface (RIS)-Assisted Entanglement Distribution in FSO Quantum Networks**|Mahdi Chehimi et.al.|[2401.10823](http://arxiv.org/abs/2401.10823)|null|
+|**2024-01-19**|**Optimisation in Neurosymbolic Learning Systems**|Emile van Krieken et.al.|[2401.10819](http://arxiv.org/abs/2401.10819)|null|
+|**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
+|**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816](http://arxiv.org/abs/2401.10816)|null|
+|**2024-01-19**|**Neglected Hessian component explains mysteries in Sharpness regularization**|Yann N. Dauphin et.al.|[2401.10809](http://arxiv.org/abs/2401.10809)|null|
+|**2024-01-19**|**DeepRLI: A Multi-objective Framework for Universal Protein--Ligand Interaction Prediction**|Haoyu Lin et.al.|[2401.10806](http://arxiv.org/abs/2401.10806)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-18**|**Free energy in spin glass models with conventional order**|Hong-Bin Chen et.al.|[2401.10223](http://arxiv.org/abs/2401.10223)|null|
 |**2024-01-18**|**Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions**|Namitha Padmanabhan et.al.|[2401.10217](http://arxiv.org/abs/2401.10217)|null|
@@ -8673,6 +8718,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Non-Analytic Magnetic Response and Intrinsic Ferromagnetic Clusters in a Dirac Spin Liquid Candidate**|B. S. Shivaram et.al.|[2401.10888](http://arxiv.org/abs/2401.10888)|null|
+|**2024-01-19**|**Efficient selection of gravitationally lensed OH megamasers with MeerKAT and the Square Kilometre Array**|Charissa Button et.al.|[2401.10887](http://arxiv.org/abs/2401.10887)|null|
+|**2024-01-19**|**Solitary-wave solutions of the fractional nonlinear Schrödinger equation. I. Existence and numerical generation**|A. Durán et.al.|[2401.10884](http://arxiv.org/abs/2401.10884)|null|
+|**2024-01-19**|**Classifying affine structures with focus-focus singularities**|Xiudi Tang et.al.|[2401.10881](http://arxiv.org/abs/2401.10881)|null|
+|**2024-01-19**|**A novel model for direct numerical simulation of suspension dynamics with arbitrarily shaped convex particles**|J. E. Marquardt et.al.|[2401.10878](http://arxiv.org/abs/2401.10878)|null|
+|**2024-01-19**|**The Cadaver in the Machine: The Social Practices of Measurement and Validation in Motion Capture Technology**|Emma Harvey et.al.|[2401.10877](http://arxiv.org/abs/2401.10877)|null|
+|**2024-01-19**|**Spectral signatures of non-trivial topology in a superconducting circuit**|L. Peyruchat et.al.|[2401.10876](http://arxiv.org/abs/2401.10876)|null|
+|**2024-01-19**|**Photodissociation spectra of single trapped CaOH+ molecular ions**|Zhenlin Wu et.al.|[2401.10854](http://arxiv.org/abs/2401.10854)|null|
+|**2024-01-19**|**Software Resource Disaggregation for HPC with Serverless Computing**|Marcin Copik et.al.|[2401.10852](http://arxiv.org/abs/2401.10852)|null|
+|**2024-01-19**|**Advancements in eHealth Data Analytics through Natural Language Processing and Deep Learning**|Elena-Simona Apostol et.al.|[2401.10850](http://arxiv.org/abs/2401.10850)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
 |**2024-01-18**|**Free energy in spin glass models with conventional order**|Hong-Bin Chen et.al.|[2401.10223](http://arxiv.org/abs/2401.10223)|null|
 |**2024-01-18**|**Tailoring Semantic Communication at Network Edge: A Novel Approach Using Dynamic Knowledge Distillation**|Abdullatif Albaseer et.al.|[2401.10214](http://arxiv.org/abs/2401.10214)|null|
