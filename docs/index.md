@@ -111,6 +111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Learning Recovery Strategies for Dynamic Self-healing in Reactive Systems**|Mateo Sanabria et.al.|[2401.12405](http://arxiv.org/abs/2401.12405)|null|
 |**2024-01-22**|**Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning**|Jiyuan Shen et.al.|[2401.11968](http://arxiv.org/abs/2401.11968)|null|
 |**2024-01-20**|**Sharing Energy in Wide Area: A Two-Layer Energy Sharing Scheme for Massive Prosumers**|Yifan Su et.al.|[2401.11090](http://arxiv.org/abs/2401.11090)|null|
 |**2024-01-17**|**Swing: Short-cutting Rings for Higher Bandwidth Allreduce**|Daniele De Sensi et.al.|[2401.09356](http://arxiv.org/abs/2401.09356)|null|
@@ -394,6 +395,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Optimal compilation of parametrised quantum circuits**|John van de Wetering et.al.|[2401.12877](http://arxiv.org/abs/2401.12877)|null|
+|**2024-01-23**|**Full-Stack Optimization for CAM-Only DNN Inference**|João Paulo C. de Lima et.al.|[2401.12630](http://arxiv.org/abs/2401.12630)|null|
+|**2024-01-23**|**Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method**|Leanghok Hour et.al.|[2401.12495](http://arxiv.org/abs/2401.12495)|null|
+|**2024-01-23**|**Reinforcement Learning for Graph Coloring: Understanding the Power and Limits of Non-Label Invariant Representations**|Chase Cummins et.al.|[2401.12470](http://arxiv.org/abs/2401.12470)|null|
+|**2024-01-23**|**CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators**|Songyun Qu et.al.|[2401.12428](http://arxiv.org/abs/2401.12428)|null|
+|**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203](http://arxiv.org/abs/2401.12203)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
 |**2024-01-22**|**An Irredundant and Compressed Data Layout to Optimize Bandwidth Utilization of FPGA Accelerators**|Corentin Ferry et.al.|[2401.12071](http://arxiv.org/abs/2401.12071)|null|
 |**2024-01-22**|**On the uniqueness of compiling graphs under the parity transformation**|Florian Dreier et.al.|[2401.11980](http://arxiv.org/abs/2401.11980)|null|
@@ -1269,6 +1276,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
+|**2024-01-23**|**SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**|Hanxue Gu et.al.|[2401.12974](http://arxiv.org/abs/2401.12974)|null|
+|**2024-01-23**|**In-Context Language Learning: Arhitectures and Algorithms**|Ekin Akyürek et.al.|[2401.12973](http://arxiv.org/abs/2401.12973)|null|
+|**2024-01-23**|**The classical limit of Quantum Max-Cut**|Vir B. Bulchandani et.al.|[2401.12968](http://arxiv.org/abs/2401.12968)|null|
+|**2024-01-23**|**Workspace Optimization Techniques to Improve Prediction of Human Motion During Human-Robot Collaboration**|Yi-Shiuan Tung et.al.|[2401.12965](http://arxiv.org/abs/2401.12965)|null|
+|**2024-01-23**|**Minimizing the Age of Two Heterogeneous Sources With Packet Drops Via Cyclic Schedulers**|Sahan Liyanaarachchi et.al.|[2401.12962](http://arxiv.org/abs/2401.12962)|null|
+|**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
+|**2024-01-23**|**To answer a question of Professor Georges Rhin**|V. Flammang et.al.|[2401.12951](http://arxiv.org/abs/2401.12951)|null|
+|**2024-01-23**|**Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion**|Dylan Zhang et.al.|[2401.12947](http://arxiv.org/abs/2401.12947)|null|
+|**2024-01-23**|**Coverage Axis++: Efficient Inner Point Selection for 3D Shape Skeletonization**|Zimeng Wang et.al.|[2401.12946](http://arxiv.org/abs/2401.12946)|null|
 |**2024-01-22**|**Mitigating Covariate Shift in Misspecified Regression with Applications to Reinforcement Learning**|Philip Amortila et.al.|[2401.12216](http://arxiv.org/abs/2401.12216)|null|
 |**2024-01-22**|**Improving Convergence of Generalised Rosenbluth Sampling for Branched Polymer Models by Uniform Sampling**|Tom Roberts et.al.|[2401.12201](http://arxiv.org/abs/2401.12201)|null|
 |**2024-01-22**|**LONEStar: The Lunar Flashlight Optical Navigation Experiment**|Michael Krause et.al.|[2401.12198](http://arxiv.org/abs/2401.12198)|null|
@@ -3155,6 +3172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Self-induced light emission in solid-state memristors replicates neuronal biophotons**|K. Malchow et.al.|[2401.12867](http://arxiv.org/abs/2401.12867)|null|
+|**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863](http://arxiv.org/abs/2401.12863)|null|
+|**2024-01-23**|**Multilingual and Fully Non-Autoregressive ASR with Large Language Model Fusion: A Comprehensive Study**|W. Ronny Huang et.al.|[2401.12789](http://arxiv.org/abs/2401.12789)|null|
+|**2024-01-23**|**Shift-ConvNets: Small Convolutional Kernel with Large Kernel Effects**|Dachong Li et.al.|[2401.12736](http://arxiv.org/abs/2401.12736)|**[link](https://github.com/lidc54/shift-wiseconv)**|
+|**2024-01-23**|**Full-Stack Optimization for CAM-Only DNN Inference**|João Paulo C. de Lima et.al.|[2401.12630](http://arxiv.org/abs/2401.12630)|null|
+|**2024-01-23**|**Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method**|Leanghok Hour et.al.|[2401.12495](http://arxiv.org/abs/2401.12495)|null|
+|**2024-01-23**|**CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators**|Songyun Qu et.al.|[2401.12428](http://arxiv.org/abs/2401.12428)|null|
+|**2024-01-23**|**Enhancing Reliability of Neural Networks at the Edge: Inverted Normalization with Stochastic Affine Transformations**|Soyed Tuhin Ahmed et.al.|[2401.12416](http://arxiv.org/abs/2401.12416)|null|
+|**2024-01-22**|**Hybrid Quantum Repeaters with Ensemble-based Quantum Memories and Single-spin Photon Transducers**|Fenglei Gu et.al.|[2401.12395](http://arxiv.org/abs/2401.12395)|null|
+|**2024-01-22**|**ACS: Concurrent Kernel Execution on Irregular, Input-Dependent Computational Graphs**|Sankeerth Durvasula et.al.|[2401.12377](http://arxiv.org/abs/2401.12377)|null|
 |**2024-01-22**|**Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization**|Animesh Basak Chowdhury et.al.|[2401.12205](http://arxiv.org/abs/2401.12205)|null|
 |**2024-01-22**|**Programmable EM Sensor Array for Golden-Model Free Run-time Trojan Detection and Localization**|Hanqiu Wang et.al.|[2401.12193](http://arxiv.org/abs/2401.12193)|null|
 |**2024-01-22**|**Trainability of a quantum-classical machine in the NISQ era**|Tarun Dutta et.al.|[2401.12089](http://arxiv.org/abs/2401.12089)|null|
@@ -4971,6 +4998,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**On the Efficacy of Text-Based Input Modalities for Action Anticipation**|Apoorva Beedu et.al.|[2401.12972](http://arxiv.org/abs/2401.12972)|null|
+|**2024-01-23**|**Minimizing the Age of Two Heterogeneous Sources With Packet Drops Via Cyclic Schedulers**|Sahan Liyanaarachchi et.al.|[2401.12962](http://arxiv.org/abs/2401.12962)|null|
+|**2024-01-23**|**Multicultural Name Recognition For Previously Unseen Names**|Alexandra Loessberg-Zahl et.al.|[2401.12941](http://arxiv.org/abs/2401.12941)|null|
+|**2024-01-23**|**Segmentation of tibiofemoral joint tissues from knee MRI using MtRA-Unet and incorporating shape information: Data from the Osteoarthritis Initiative**|Akshay Daydar et.al.|[2401.12932](http://arxiv.org/abs/2401.12932)|null|
+|**2024-01-23**|**pyAKI - An Open Source Solution to Automated KDIGO classification**|Christian Porschen et.al.|[2401.12930](http://arxiv.org/abs/2401.12930)|null|
+|**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
+|**2024-01-23**|**Emergent Communication Protocol Learning for Task Offloading in Industrial Internet of Things**|Salwa Mostafa et.al.|[2401.12914](http://arxiv.org/abs/2401.12914)|null|
+|**2024-01-23**|**Searches for Compact Binary Coalescence Events Using Neural Networks in LIGO/Virgo Third Observation Period**|Alexis Menéndez-Vázquez et.al.|[2401.12912](http://arxiv.org/abs/2401.12912)|null|
+|**2024-01-23**|**Unbounded quantum advantage in communication complexity measured by distinguishability**|Satyaki Manna et.al.|[2401.12903](http://arxiv.org/abs/2401.12903)|null|
 |**2024-01-22**|**Genericity Through Stratification**|Victor Arrial et.al.|[2401.12212](http://arxiv.org/abs/2401.12212)|null|
 |**2024-01-22**|**Rate-Distortion-Perception Tradeoff Based on the Conditional-Distribution Perception Measure**|Sadaf Salehkalaibar et.al.|[2401.12207](http://arxiv.org/abs/2401.12207)|null|
 |**2024-01-22**|**Unsupervised Machine Learning for the Classification of Astrophysical X-ray Sources**|Víctor Samuel Pérez-Díaz et.al.|[2401.12203](http://arxiv.org/abs/2401.12203)|**[link](https://github.com/samuelperezdi/umlcaxs)**|
@@ -6856,6 +6893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI**|Hanxue Gu et.al.|[2401.12974](http://arxiv.org/abs/2401.12974)|null|
+|**2024-01-23**|**The classical limit of Quantum Max-Cut**|Vir B. Bulchandani et.al.|[2401.12968](http://arxiv.org/abs/2401.12968)|null|
+|**2024-01-23**|**Minimizing the Age of Two Heterogeneous Sources With Packet Drops Via Cyclic Schedulers**|Sahan Liyanaarachchi et.al.|[2401.12962](http://arxiv.org/abs/2401.12962)|null|
+|**2024-01-23**|**Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network**|Hanchen Li et.al.|[2401.12961](http://arxiv.org/abs/2401.12961)|null|
+|**2024-01-23**|**Bayesian Semi-structured Subspace Inference**|Daniel Dold et.al.|[2401.12950](http://arxiv.org/abs/2401.12950)|null|
+|**2024-01-23**|**Nonlinear dynamics in neuromorphic photonic networks: physical simulation in Verilog-A**|Hugh Morison et.al.|[2401.12942](http://arxiv.org/abs/2401.12942)|null|
+|**2024-01-23**|**Neural deformation fields for template-based reconstruction of cortical surfaces from MRI**|Fabian Bongratz et.al.|[2401.12938](http://arxiv.org/abs/2401.12938)|null|
+|**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
+|**2024-01-23**|**Deep multitask neural networks for solving some stochastic optimal control problems**|Christian Yeo et.al.|[2401.12923](http://arxiv.org/abs/2401.12923)|null|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
 |**2024-01-22**|**Off-stoichiometric effect on magnetic and electron transport properties of Fe $_2$VAl$_{1.35}$ in respect to Ni$_2$ VAl; Comparative study**|Andrzej Ślebarski et.al.|[2401.12218](http://arxiv.org/abs/2401.12218)|null|
 |**2024-01-22**|**Quality-Aware Hydraulic Control in Drinking Water Networks via Controllability Proxies**|Salma M. Elsherif et.al.|[2401.12214](http://arxiv.org/abs/2401.12214)|null|
 |**2024-01-22**|**Active Inference Demonstrated with Artificial Spin Ice**|R. L. Stamps et.al.|[2401.12211](http://arxiv.org/abs/2401.12211)|null|
@@ -8741,6 +8788,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**The classical limit of Quantum Max-Cut**|Vir B. Bulchandani et.al.|[2401.12968](http://arxiv.org/abs/2401.12968)|null|
+|**2024-01-23**|**Measure transport with kernel mean embeddings**|L. Wang et.al.|[2401.12967](http://arxiv.org/abs/2401.12967)|null|
+|**2024-01-23**|**AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**|Michael Ahn et.al.|[2401.12963](http://arxiv.org/abs/2401.12963)|null|
+|**2024-01-23**|**Minimizing the Age of Two Heterogeneous Sources With Packet Drops Via Cyclic Schedulers**|Sahan Liyanaarachchi et.al.|[2401.12962](http://arxiv.org/abs/2401.12962)|null|
+|**2024-01-23**|**Symmetry Duality: Exploring Exotic Oscillators And Dissipative Dynamics Through The Glass Of Newton-Hooke**|Sayan Kumar Pal et.al.|[2401.12957](http://arxiv.org/abs/2401.12957)|null|
+|**2024-01-23**|**Exponential perturbative expansions and coordinate transformations**|Ana Arnal et.al.|[2401.12955](http://arxiv.org/abs/2401.12955)|null|
+|**2024-01-23**|**The role of environment and AGN feedback in quenching local galaxies: Comparing cosmological hydrodynamical simulations to the SDSS**|Paul H. Goubert et.al.|[2401.12953](http://arxiv.org/abs/2401.12953)|null|
+|**2024-01-23**|**Observation of topologically protected compact edge states in flux-dressed graphene photonic lattices**|Gabriel Cáceres-Aravena et.al.|[2401.12949](http://arxiv.org/abs/2401.12949)|null|
+|**2024-01-23**|**On Simplified 3D Finite Element Simulations of Three-core Armored Power Cables**|Juan Carlos del-Pino-López et.al.|[2401.12943](http://arxiv.org/abs/2401.12943)|null|
+|**2024-01-23**|**Nonlinear dynamics in neuromorphic photonic networks: physical simulation in Verilog-A**|Hugh Morison et.al.|[2401.12942](http://arxiv.org/abs/2401.12942)|null|
 |**2024-01-22**|**Off-stoichiometric effect on magnetic and electron transport properties of Fe $_2$VAl$_{1.35}$ in respect to Ni$_2$ VAl; Comparative study**|Andrzej Ślebarski et.al.|[2401.12218](http://arxiv.org/abs/2401.12218)|null|
 |**2024-01-22**|**Quality-Aware Hydraulic Control in Drinking Water Networks via Controllability Proxies**|Salma M. Elsherif et.al.|[2401.12214](http://arxiv.org/abs/2401.12214)|null|
 |**2024-01-22**|**Identifying gap-closings in open non-Hermitian systems by Biorthogonal Polarization**|Ipsita Mandal et.al.|[2401.12213](http://arxiv.org/abs/2401.12213)|null|
@@ -10626,6 +10683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
 |**2024-01-20**|**LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation**|Navin Ranjan et.al.|[2401.11243](http://arxiv.org/abs/2401.11243)|null|
 |**2024-01-16**|**Hardware Acceleration for Real-Time Wildfire Detection Onboard Drone Networks**|Austin Briley et.al.|[2401.08105](http://arxiv.org/abs/2401.08105)|**[link](https://github.com/austin-thetrueshinobi/is-win-research)**|
 |**2024-01-12**|**H-CMRH: a novel inner product free hybrid Krylov method for large-scale inverse problems**|Ariana N. Brown et.al.|[2401.06918](http://arxiv.org/abs/2401.06918)|null|
