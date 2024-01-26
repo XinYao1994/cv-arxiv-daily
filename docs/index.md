@@ -397,6 +397,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**ZS4C: Zero-Shot Synthesis of Compilable Code for Incomplete Code Snippets using ChatGPT**|Azmain Kabir et.al.|[2401.14279](http://arxiv.org/abs/2401.14279)|null|
+|**2024-01-25**|**Magnetic fields of protoplanetary disks**|Sergey A. Khaibrakhmanov et.al.|[2401.14180](http://arxiv.org/abs/2401.14180)|null|
+|**2024-01-25**|**Developing a High-Performance Process Mining Library with Java and Python Bindings in Rust**|Aaron Küsters et.al.|[2401.14149](http://arxiv.org/abs/2401.14149)|null|
+|**2024-01-25**|**Ta'keed: The First Generative Fact-Checking System for Arabic Claims**|Saud Althabiti et.al.|[2401.14067](http://arxiv.org/abs/2401.14067)|null|
+|**2024-01-24**|**Tweets to Citations: Unveiling the Impact of Social Media Influencers on AI Research Visibility**|Iain Xie Weissburg et.al.|[2401.13782](http://arxiv.org/abs/2401.13782)|null|
 |**2024-01-24**|**Employing polyhedral methods to optimize stencils on FPGAs with stencil-specific caches, data reuse, and wide data bursts**|Florian Mayer et.al.|[2401.13645](http://arxiv.org/abs/2401.13645)|null|
 |**2024-01-24**|**Visualization of rank-citation curves for fast detection of h-index anomalies in university metrics**|Serhii Nazarovets et.al.|[2401.13490](http://arxiv.org/abs/2401.13490)|null|
 |**2024-01-24**|**Lessons Learned Migrating CUDA to SYCL: A HEP Case Study with ROOT RDataFrame**|Jolly Chen et.al.|[2401.13310](http://arxiv.org/abs/2401.13310)|null|
@@ -1282,6 +1287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**O(1) Insertion for Random Walk d-ary Cuckoo Hashing up to the Load Threshold**|Tolson Bell et.al.|[2401.14394](http://arxiv.org/abs/2401.14394)|null|
+|**2024-01-25**|**Higher order approximation of option prices in Barndorff-Nielsen and Shephard models**|Álvaro Guinea Juliá et.al.|[2401.14390](http://arxiv.org/abs/2401.14390)|null|
+|**2024-01-25**|**Smooth Ranking SVM via Cutting-Plane Method**|Erhan Can Ozcan et.al.|[2401.14388](http://arxiv.org/abs/2401.14388)|**[link](https://github.com/erhancanozcan/smoothrankingsvm)**|
+|**2024-01-25**|**A Sum-of-Squares Hierarchy in the Absence of Pointwise Proofs I: Energy Certificates**|J. S. Sandhu et.al.|[2401.14383](http://arxiv.org/abs/2401.14383)|null|
+|**2024-01-25**|**An Orthogonal Polynomial Kernel-Based Machine Learning Model for Differential-Algebraic Equations**|Tayebeh Taheri et.al.|[2401.14382](http://arxiv.org/abs/2401.14382)|null|
+|**2024-01-25**|**Minimum Covariance Determinant: Spectral Embedding and Subset Size Determination**|Qiang Heng et.al.|[2401.14359](http://arxiv.org/abs/2401.14359)|null|
+|**2024-01-25**|**Efficient Construction of Long Orientable Sequences**|Daniel Gabric et.al.|[2401.14341](http://arxiv.org/abs/2401.14341)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339](http://arxiv.org/abs/2401.14339)|null|
+|**2024-01-25**|**SunBlock: Cloudless Protection for IoT Systems**|Vadim Safronov et.al.|[2401.14332](http://arxiv.org/abs/2401.14332)|null|
 |**2024-01-24**|**Algebraic methods for solving recognition problems with non-crossing classes**|Anvar Kabulov et.al.|[2401.13666](http://arxiv.org/abs/2401.13666)|null|
 |**2024-01-24**|**Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach**|Yuling Yan et.al.|[2401.13665](http://arxiv.org/abs/2401.13665)|null|
 |**2024-01-24**|**The Definitive Guide to Policy Gradients in Deep Reinforcement Learning: Theory, Algorithms and Implementations**|Matthias Lehmann et.al.|[2401.13662](http://arxiv.org/abs/2401.13662)|**[link](https://github.com/matt00n/policygradientsjax)**|
@@ -3188,6 +3203,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Adaptive Mobile Manipulation for Articulated Objects In the Open World**|Haoyu Xiong et.al.|[2401.14403](http://arxiv.org/abs/2401.14403)|null|
+|**2024-01-25**|**Inconsistency Masks: Removing the Uncertainty from Input-Pseudo-Label Pairs**|Michael R. H. Vorndran et.al.|[2401.14387](http://arxiv.org/abs/2401.14387)|**[link](https://github.com/michaelvorndran/inconsistencymasks)**|
+|**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339](http://arxiv.org/abs/2401.14339)|null|
+|**2024-01-25**|**SunBlock: Cloudless Protection for IoT Systems**|Vadim Safronov et.al.|[2401.14332](http://arxiv.org/abs/2401.14332)|null|
+|**2024-01-25**|**AST-2: Single and bi-layered 2-D acoustic soft tactile skin**|Vishnu Rajendran et.al.|[2401.14292](http://arxiv.org/abs/2401.14292)|null|
+|**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
+|**2024-01-25**|**Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels**|Ka Hei Martin Kwok et.al.|[2401.14221](http://arxiv.org/abs/2401.14221)|null|
+|**2024-01-25**|**Efficient stripe artefact removal by a variational method: application to light-sheet microscopy, FIB-SEM and remote sensing images**|Niklas Rottmayer et.al.|[2401.14220](http://arxiv.org/abs/2401.14220)|null|
+|**2024-01-25**|**InfiniteEn: A Multi-Source Energy Harvesting System with Load Monitoring Module for Batteryless Internet of Things**|Priyesh Pappinisseri Puluckul et.al.|[2401.14216](http://arxiv.org/abs/2401.14216)|null|
+|**2024-01-25**|**Vivim: a Video Vision Mamba for Medical Video Object Segmentation**|Yijun Yang et.al.|[2401.14168](http://arxiv.org/abs/2401.14168)|null|
 |**2024-01-24**|**Employing polyhedral methods to optimize stencils on FPGAs with stencil-specific caches, data reuse, and wide data bursts**|Florian Mayer et.al.|[2401.13645](http://arxiv.org/abs/2401.13645)|null|
 |**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
 |**2024-01-24**|**Deep Learning Based Adaptive Joint mmWave Beam Alignment**|Daniel Tandler et.al.|[2401.13587](http://arxiv.org/abs/2401.13587)|null|
@@ -5024,6 +5049,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Entropic Quantum Central Limit Theorem and Quantum Inverse Sumset Theorem**|Kaifeng Bu et.al.|[2401.14385](http://arxiv.org/abs/2401.14385)|null|
+|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|null|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**Genie: Achieving Human Parity in Content-Grounded Datasets Generation**|Asaf Yehudai et.al.|[2401.14367](http://arxiv.org/abs/2401.14367)|null|
+|**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352](http://arxiv.org/abs/2401.14352)|null|
+|**2024-01-25**|**Evolving higher-order synergies reveals a trade-off between stability and information integration capacity in complex systems**|Thomas F. Varley et.al.|[2401.14347](http://arxiv.org/abs/2401.14347)|null|
+|**2024-01-25**|**Efficient Construction of Long Orientable Sequences**|Daniel Gabric et.al.|[2401.14341](http://arxiv.org/abs/2401.14341)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**SunBlock: Cloudless Protection for IoT Systems**|Vadim Safronov et.al.|[2401.14332](http://arxiv.org/abs/2401.14332)|null|
+|**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[2401.14325](http://arxiv.org/abs/2401.14325)|null|
 |**2024-01-24**|**Site-selective preparation and multi-state readout of molecules in optical tweezers**|Lewis R. B. Picard et.al.|[2401.13659](http://arxiv.org/abs/2401.13659)|null|
 |**2024-01-24**|**Navigating Multidimensional Ideologies with Reddit's Political Compass: Economic Conflict and Social Affinity**|Ernesto Colacrai et.al.|[2401.13656](http://arxiv.org/abs/2401.13656)|null|
 |**2024-01-24**|**HetDAPAC: Distributed Attribute-Based Private Access Control with Heterogeneous Attributes**|Shreya Meel et.al.|[2401.13653](http://arxiv.org/abs/2401.13653)|null|
@@ -6929,6 +6964,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
+|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|null|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**Anomalous localization in spin-chain with tilted interactions**|Arindam Mallick et.al.|[2401.14369](http://arxiv.org/abs/2401.14369)|null|
+|**2024-01-25**|**Spectral Gaps of 2D and 3D Many-body Quantum Systems in the Thermodynamic Limit**|Illya V. Lukin et.al.|[2401.14368](http://arxiv.org/abs/2401.14368)|null|
+|**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352](http://arxiv.org/abs/2401.14352)|null|
+|**2024-01-25**|**5G Network Security Practices: An Overview and Survey**|Fatema Bannat Wala et.al.|[2401.14350](http://arxiv.org/abs/2401.14350)|null|
+|**2024-01-25**|**Evolving higher-order synergies reveals a trade-off between stability and information integration capacity in complex systems**|Thomas F. Varley et.al.|[2401.14347](http://arxiv.org/abs/2401.14347)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**Quantum Variational Algorithms for the Allocation of Resources in a Cloud/Edge Architecture**|Carlo Mastroianni et.al.|[2401.14339](http://arxiv.org/abs/2401.14339)|null|
 |**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657](http://arxiv.org/abs/2401.13657)|null|
 |**2024-01-24**|**Navigating Multidimensional Ideologies with Reddit's Political Compass: Economic Conflict and Social Affinity**|Ernesto Colacrai et.al.|[2401.13656](http://arxiv.org/abs/2401.13656)|null|
 |**2024-01-24**|**HetDAPAC: Distributed Attribute-Based Private Access Control with Heterogeneous Attributes**|Shreya Meel et.al.|[2401.13653](http://arxiv.org/abs/2401.13653)|null|
@@ -8834,6 +8879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Adaptive Mobile Manipulation for Articulated Objects In the Open World**|Haoyu Xiong et.al.|[2401.14403](http://arxiv.org/abs/2401.14403)|null|
+|**2024-01-25**|**Ultrashort-period WD binaries are not undergoing strong tidal heating**|Peter Scherbak et.al.|[2401.14397](http://arxiv.org/abs/2401.14397)|null|
+|**2024-01-25**|**Entanglement entropy and deconfined criticality: emergent SO(5) symmetry and proper lattice bipartition**|Jonathan D'Emidio et.al.|[2401.14396](http://arxiv.org/abs/2401.14396)|null|
+|**2024-01-25**|**Clustering-based spatial interpolation of parametric post-processing models**|Sándor Baran et.al.|[2401.14393](http://arxiv.org/abs/2401.14393)|null|
+|**2024-01-25**|**Weakening of magnetic braking in cataclysmic variables explains the dearth of period bouncers**|Arnab Sarkar et.al.|[2401.14389](http://arxiv.org/abs/2401.14389)|null|
+|**2024-01-25**|**Entropic Quantum Central Limit Theorem and Quantum Inverse Sumset Theorem**|Kaifeng Bu et.al.|[2401.14385](http://arxiv.org/abs/2401.14385)|null|
+|**2024-01-25**|**An Orthogonal Polynomial Kernel-Based Machine Learning Model for Differential-Algebraic Equations**|Tayebeh Taheri et.al.|[2401.14382](http://arxiv.org/abs/2401.14382)|null|
+|**2024-01-25**|**Bonding Grammars**|Tikhon Pshenitsyn et.al.|[2401.14377](http://arxiv.org/abs/2401.14377)|null|
+|**2024-01-25**|**Electrotaxis of self-propelling artificial swimmers in microchannels**|Carola M. Buness et.al.|[2401.14376](http://arxiv.org/abs/2401.14376)|null|
+|**2024-01-25**|**Spatially Resolved Conductivity of Rectangular Interconnects considering Surface Scattering -- Part II: Circuit-Compatible Modeling**|Xinkang Chen et.al.|[2401.14374](http://arxiv.org/abs/2401.14374)|null|
 |**2024-01-24**|**Artificial Precision Timing Array: bridging the decihertz gravitational-wave sensitivity gap with clock satellites**|Lucas M. B. Alves et.al.|[2401.13668](http://arxiv.org/abs/2401.13668)|null|
 |**2024-01-24**|**Quantum sensing: Beyond the classical limits of precision**|Luiz Davidovich et.al.|[2401.13658](http://arxiv.org/abs/2401.13658)|null|
 |**2024-01-24**|**Inadequacy of common stochastic neural networks for reliable clinical decision support**|Adrian Lindenmeyer et.al.|[2401.13657](http://arxiv.org/abs/2401.13657)|null|
@@ -10739,6 +10794,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Speeding up Fermionic Lattice Calculations with Photonic Accelerated Inverters**|Felipe Attanasio et.al.|[2401.14200](http://arxiv.org/abs/2401.14200)|null|
+|**2024-01-24**|**Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers**|Wei Tao et.al.|[2401.13714](http://arxiv.org/abs/2401.13714)|null|
 |**2024-01-24**|**Finite-Precision Arithmetic Transceiver for Massive MIMO Systems**|Yiming Fang et.al.|[2401.13442](http://arxiv.org/abs/2401.13442)|null|
 |**2024-01-22**|**Scaling Up Quantization-Aware Neural Architecture Search for Efficient Deep Learning on the Edge**|Yao Lu et.al.|[2401.12350](http://arxiv.org/abs/2401.12350)|null|
 |**2024-01-20**|**LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation**|Navin Ranjan et.al.|[2401.11243](http://arxiv.org/abs/2401.11243)|null|
