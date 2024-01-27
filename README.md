@@ -3234,7 +3234,7 @@
 |**2024-01-25**|**Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels**|Ka Hei Martin Kwok et.al.|[2401.14221](http://arxiv.org/abs/2401.14221)|null|
 |**2024-01-25**|**Efficient stripe artefact removal by a variational method: application to light-sheet microscopy, FIB-SEM and remote sensing images**|Niklas Rottmayer et.al.|[2401.14220](http://arxiv.org/abs/2401.14220)|null|
 |**2024-01-25**|**InfiniteEn: A Multi-Source Energy Harvesting System with Load Monitoring Module for Batteryless Internet of Things**|Priyesh Pappinisseri Puluckul et.al.|[2401.14216](http://arxiv.org/abs/2401.14216)|null|
-|**2024-01-25**|**Vivim: a Video Vision Mamba for Medical Video Object Segmentation**|Yijun Yang et.al.|[2401.14168](http://arxiv.org/abs/2401.14168)|null|
+|**2024-01-25**|**Vivim: a Video Vision Mamba for Medical Video Object Segmentation**|Yijun Yang et.al.|[2401.14168](http://arxiv.org/abs/2401.14168)|**[link](https://github.com/scott-yjyang/vivim)**|
 |**2024-01-24**|**Employing polyhedral methods to optimize stencils on FPGAs with stencil-specific caches, data reuse, and wide data bursts**|Florian Mayer et.al.|[2401.13645](http://arxiv.org/abs/2401.13645)|null|
 |**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
 |**2024-01-24**|**Deep Learning Based Adaptive Joint mmWave Beam Alignment**|Daniel Tandler et.al.|[2401.13587](http://arxiv.org/abs/2401.13587)|null|
