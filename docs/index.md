@@ -399,7 +399,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-25**|**ZS4C: Zero-Shot Synthesis of Compilable Code for Incomplete Code Snippets using ChatGPT**|Azmain Kabir et.al.|[2401.14279](http://arxiv.org/abs/2401.14279)|null|
 |**2024-01-25**|**Magnetic fields of protoplanetary disks**|Sergey A. Khaibrakhmanov et.al.|[2401.14180](http://arxiv.org/abs/2401.14180)|null|
-|**2024-01-25**|**Developing a High-Performance Process Mining Library with Java and Python Bindings in Rust**|Aaron Küsters et.al.|[2401.14149](http://arxiv.org/abs/2401.14149)|null|
+|**2024-01-25**|**Developing a High-Performance Process Mining Library with Java and Python Bindings in Rust**|Aaron Küsters et.al.|[2401.14149](http://arxiv.org/abs/2401.14149)|**[link](https://github.com/aarkue/rust-bridge-process-mining)**|
 |**2024-01-25**|**Ta'keed: The First Generative Fact-Checking System for Arabic Claims**|Saud Althabiti et.al.|[2401.14067](http://arxiv.org/abs/2401.14067)|null|
 |**2024-01-24**|**Tweets to Citations: Unveiling the Impact of Social Media Influencers on AI Research Visibility**|Iain Xie Weissburg et.al.|[2401.13782](http://arxiv.org/abs/2401.13782)|null|
 |**2024-01-24**|**Employing polyhedral methods to optimize stencils on FPGAs with stencil-specific caches, data reuse, and wide data bursts**|Florian Mayer et.al.|[2401.13645](http://arxiv.org/abs/2401.13645)|null|
@@ -5050,8 +5050,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-25**|**Entropic Quantum Central Limit Theorem and Quantum Inverse Sumset Theorem**|Kaifeng Bu et.al.|[2401.14385](http://arxiv.org/abs/2401.14385)|null|
-|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|null|
-|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|**[link](https://github.com/etsoukanara/graphtempo-structure)**|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|**[link](https://github.com/evantwout/pinn-global-dust)**|
 |**2024-01-25**|**Genie: Achieving Human Parity in Content-Grounded Datasets Generation**|Asaf Yehudai et.al.|[2401.14367](http://arxiv.org/abs/2401.14367)|null|
 |**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352](http://arxiv.org/abs/2401.14352)|null|
 |**2024-01-25**|**Evolving higher-order synergies reveals a trade-off between stability and information integration capacity in complex systems**|Thomas F. Varley et.al.|[2401.14347](http://arxiv.org/abs/2401.14347)|null|
@@ -6965,8 +6965,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
-|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|null|
-|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|null|
+|**2024-01-25**|**The GraphTempo Framework for Exploring the Evolution of a Graph through Pattern Aggregation**|Evangelia Tsoukanara et.al.|[2401.14375](http://arxiv.org/abs/2401.14375)|**[link](https://github.com/etsoukanara/graphtempo-structure)**|
+|**2024-01-25**|**Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks**|Constanza A. Molina Catricheo et.al.|[2401.14372](http://arxiv.org/abs/2401.14372)|**[link](https://github.com/evantwout/pinn-global-dust)**|
 |**2024-01-25**|**Anomalous localization in spin-chain with tilted interactions**|Arindam Mallick et.al.|[2401.14369](http://arxiv.org/abs/2401.14369)|null|
 |**2024-01-25**|**Spectral Gaps of 2D and 3D Many-body Quantum Systems in the Thermodynamic Limit**|Illya V. Lukin et.al.|[2401.14368](http://arxiv.org/abs/2401.14368)|null|
 |**2024-01-25**|**Skyline-based exploration of temporal property graphs**|Evangelia Tsoukanara et.al.|[2401.14352](http://arxiv.org/abs/2401.14352)|null|
