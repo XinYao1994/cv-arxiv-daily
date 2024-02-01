@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -7084,7 +7084,7 @@ layout: default
 |**2024-01-30**|**Semantic Forwarding for Next Generation Relay Networks**|Enes Arda et.al.|[2401.17247](http://arxiv.org/abs/2401.17247)|null|
 |**2024-01-30**|**Inf-Sup neural networks for high-dimensional elliptic PDE problems**|Xiaokai Huo et.al.|[2401.17233](http://arxiv.org/abs/2401.17233)|null|
 |**2024-01-30**|**Evolvable Agents, a Fine Grained Approach for Distributed Evolutionary Computing: Walking towards the Peer-to-Peer Computing Frontiers**|Juan Luis Jiménez Laredo et.al.|[2401.17224](http://arxiv.org/abs/2401.17224)|null|
-|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|null|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|**[link](https://github.com/fudannlplab/mousi)**|
 |**2024-01-30**|**Optimal quantum teleportation of collaboration**|Arkaprabha Ghosal et.al.|[2401.17201](http://arxiv.org/abs/2401.17201)|null|
 |**2024-01-30**|**Multi-Camera Asynchronous Ball Localization and Trajectory Prediction with Factor Graphs and Human Poses**|Qingyu Xiao et.al.|[2401.17185](http://arxiv.org/abs/2401.17185)|null|
 |**2024-01-30**|**GraphViz2Vec: A Structure-aware Feature Generation Model to Improve Classification in GNNs**|Shraban Kumar Chatterjee et.al.|[2401.17178](http://arxiv.org/abs/2401.17178)|null|
