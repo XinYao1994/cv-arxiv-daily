@@ -1325,7 +1325,7 @@ layout: default
 |**2024-02-01**|**Early Time Classification with Accumulated Accuracy Gap Control**|Liran Ringel et.al.|[2402.00857](http://arxiv.org/abs/2402.00857)|**[link](https://github.com/liranringel/etc)**|
 |**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
 |**2024-02-01**|**Score-based Causal Representation Learning: Linear and General Transformations**|Burak Varıcı et.al.|[2402.00849](http://arxiv.org/abs/2402.00849)|null|
-|**2024-02-01**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847](http://arxiv.org/abs/2402.00847)|null|
+|**2024-02-01**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847](http://arxiv.org/abs/2402.00847)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2024-02-01**|**Computing scattering resonances of rough obstacles**|Frank Rösler et.al.|[2402.00846](http://arxiv.org/abs/2402.00846)|null|
 |**2024-02-01**|**Scattering wave packets of hadrons in gauge theories: Preparation on a quantum computer**|Zohreh Davoudi et.al.|[2402.00840](http://arxiv.org/abs/2402.00840)|null|
 |**2024-02-01**|**Approximating maximum-size properly colored forests**|Yuhang Bai et.al.|[2402.00834](http://arxiv.org/abs/2402.00834)|null|
@@ -3289,7 +3289,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-01**|**Signal Quality Auditing for Time-series Data**|Chufan Gao et.al.|[2402.00803](http://arxiv.org/abs/2402.00803)|null|
-|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786](http://arxiv.org/abs/2402.00786)|null|
+|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786](http://arxiv.org/abs/2402.00786)|**[link](https://github.com/coderpat/croissant-llm-training)**|
 |**2024-02-01**|**Benchmarking Multipartite Entanglement Generation with Graph States**|René Zander et.al.|[2402.00766](http://arxiv.org/abs/2402.00766)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
 |**2024-02-01**|**On Modular Algorithms and Butterfly Operations in Number Theoretic Transform**|Yanze Yang et.al.|[2402.00675](http://arxiv.org/abs/2402.00675)|null|
