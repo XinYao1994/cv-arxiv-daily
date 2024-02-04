@@ -427,7 +427,7 @@
 |**2024-02-01**|**A census of genus 6 curves over $\mathbb{F}_2$**|Yongyuan Huang et.al.|[2402.00716](http://arxiv.org/abs/2402.00716)|null|
 |**2024-02-01**|**Metric Multiview Geometry -- a Catalogue in Low Dimensions**|Timothy Duff et.al.|[2402.00648](http://arxiv.org/abs/2402.00648)|null|
 |**2024-02-01**|**Resource Bounds for Quantum Circuit Mapping via Quantum Circuit Complexity**|Matthew Steinberg et.al.|[2402.00478](http://arxiv.org/abs/2402.00478)|null|
-|**2024-01-31**|**Erie: A Declarative Grammar for Data Sonification**|Hyeok Kim et.al.|[2402.00156](http://arxiv.org/abs/2402.00156)|null|
+|**2024-01-31**|**Erie: A Declarative Grammar for Data Sonification**|Hyeok Kim et.al.|[2402.00156](http://arxiv.org/abs/2402.00156)|**[link](https://github.com/see-mike-out/erie-web)**|
 |**2024-01-31**|**GODMAX: Modeling gas thermodynamics and matter distribution using JAX**|Shivam Pandey et.al.|[2401.18072](http://arxiv.org/abs/2401.18072)|null|
 |**2024-01-31**|**Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning**|Arnau Pastor et.al.|[2401.17976](http://arxiv.org/abs/2401.17976)|null|
 |**2024-01-30**|**Decapodes: A Diagrammatic Tool for Representing, Composing, and Computing Spatialized Partial Differential Equations**|Luke Morris et.al.|[2401.17432](http://arxiv.org/abs/2401.17432)|null|
@@ -3315,7 +3315,7 @@
 |**2024-02-01**|**Benchmarking Multipartite Entanglement Generation with Graph States**|René Zander et.al.|[2402.00766](http://arxiv.org/abs/2402.00766)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
 |**2024-02-01**|**On Modular Algorithms and Butterfly Operations in Number Theoretic Transform**|Yanze Yang et.al.|[2402.00675](http://arxiv.org/abs/2402.00675)|null|
-|**2024-02-01**|**Uncertainty-Aware Guidance for Target Tracking subject to Intermittent Measurements using Motion Model Learning**|Andres Pulido et.al.|[2402.00671](http://arxiv.org/abs/2402.00671)|null|
+|**2024-02-01**|**Uncertainty-Aware Guidance for Target Tracking subject to Intermittent Measurements using Motion Model Learning**|Andres Pulido et.al.|[2402.00671](http://arxiv.org/abs/2402.00671)|**[link](https://github.com/andrespulido8/info-driven-guidance)**|
 |**2024-02-01**|**Improving the Representativeness of Simulation Intervals for the Cache Memory System**|Nicolas Bueno et.al.|[2402.00649](http://arxiv.org/abs/2402.00649)|null|
 |**2024-02-01**|**Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization**|Zhanhong Tan et.al.|[2402.00629](http://arxiv.org/abs/2402.00629)|null|
 |**2024-02-01**|**A Low-Cost Multi-Band Waveform Security Framework in Resource-Constrained Communications**|Tongyang Xu et.al.|[2402.00535](http://arxiv.org/abs/2402.00535)|null|
@@ -5213,7 +5213,7 @@
 |**2024-02-01**|**Data Augmentation Scheme for Raman Spectra with Highly Correlated Annotations**|Christoph Lange et.al.|[2402.00851](http://arxiv.org/abs/2402.00851)|null|
 |**2024-02-01**|**When to Preempt in a Status Update System?**|Subhankar Banerjee et.al.|[2402.00845](http://arxiv.org/abs/2402.00845)|null|
 |**2024-02-01**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection System**|Kiymet Kaya et.al.|[2402.00839](http://arxiv.org/abs/2402.00839)|null|
-|**2024-02-01**|**Unveiling nonequilibrium from multifilar events**|Pedro E. Harunari et.al.|[2402.00837](http://arxiv.org/abs/2402.00837)|null|
+|**2024-02-01**|**Unveiling nonequilibrium from multifilar events**|Pedro E. Harunari et.al.|[2402.00837](http://arxiv.org/abs/2402.00837)|**[link](https://github.com/pedroharunari/multifilarevents)**|
 |**2024-02-01**|**Linear optics and the problem of Bell-like state discrimination**|Jatin Ghai et.al.|[2402.00832](http://arxiv.org/abs/2402.00832)|null|
 |**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
 |**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823](http://arxiv.org/abs/2402.00823)|null|
@@ -9146,7 +9146,7 @@
 |**2024-02-01**|**Two-stroke thermal machine using spin squeezing operation**|Carlos H. S. Vieira et.al.|[2402.00852](http://arxiv.org/abs/2402.00852)|null|
 |**2024-02-01**|**When to Preempt in a Status Update System?**|Subhankar Banerjee et.al.|[2402.00845](http://arxiv.org/abs/2402.00845)|null|
 |**2024-02-01**|**X-CBA: Explainability Aided CatBoosted Anomal-E for Intrusion Detection System**|Kiymet Kaya et.al.|[2402.00839](http://arxiv.org/abs/2402.00839)|null|
-|**2024-02-01**|**Unveiling nonequilibrium from multifilar events**|Pedro E. Harunari et.al.|[2402.00837](http://arxiv.org/abs/2402.00837)|null|
+|**2024-02-01**|**Unveiling nonequilibrium from multifilar events**|Pedro E. Harunari et.al.|[2402.00837](http://arxiv.org/abs/2402.00837)|**[link](https://github.com/pedroharunari/multifilarevents)**|
 |**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
 |**2024-02-01**|**Examining the Influence of Digital Phantom Models in Virtual Imaging Trials for Tomographic Breast Imaging**|Amar Kavuri et.al.|[2402.00812](http://arxiv.org/abs/2402.00812)|null|
 |**2024-02-01**|**Exploring the Dynamics between Cobot's Production Rhythm, Locus of Control and Emotional State in a Collaborative Assembly Scenario**|Marta Mondellini et.al.|[2402.00808](http://arxiv.org/abs/2402.00808)|null|
