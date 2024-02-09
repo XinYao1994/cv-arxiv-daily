@@ -114,6 +114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Multi-Network Constrained Operational Optimization in Community Integrated Energy Systems: A Safe Reinforcement Learning Approach**|Ze Hu et.al.|[2402.05412](http://arxiv.org/abs/2402.05412)|null|
+|**2024-02-07**|**SplitSim: Large-Scale Simulations for Evaluating Network Systems Research**|Hejing Li et.al.|[2402.05312](http://arxiv.org/abs/2402.05312)|null|
 |**2024-02-06**|**Reconfigurable Power Converters with Increased Utilization for Unbalanced Power Distribution System Applications**|Matthew Deakin et.al.|[2402.03978](http://arxiv.org/abs/2402.03978)|null|
 |**2024-02-05**|**Reverse Engineering and Security Evaluation of Commercial Tags for RFID-Based IoT Applications**|Tiago M. Fernández-Caramés et.al.|[2402.03591](http://arxiv.org/abs/2402.03591)|null|
 |**2024-02-05**|**LLM Multi-Agent Systems: Challenges and Open Problems**|Shanshan Han et.al.|[2402.03578](http://arxiv.org/abs/2402.03578)|null|
@@ -416,6 +418,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Investigating White-Box Attacks for On-Device Models**|Mingyi Zhou et.al.|[2402.05493](http://arxiv.org/abs/2402.05493)|**[link](https://github.com/zhoumingyi/reom)**|
+|**2024-02-07**|**IRFuzzer: Specialized Fuzzing for LLVM Backend Code Generation**|Yuyang Rong et.al.|[2402.05256](http://arxiv.org/abs/2402.05256)|null|
+|**2024-02-07**|**Search for Brown Dwarfs in IC 1396 with Subaru HSC: Interpreting the Impact of Environmental Factors on Sub-stellar Population**|Saumya Gupta et.al.|[2402.05207](http://arxiv.org/abs/2402.05207)|null|
 |**2024-02-07**|**A catalogue of dual-field interferometric binary calibrators**|M. Nowak et.al.|[2402.05019](http://arxiv.org/abs/2402.05019)|null|
 |**2024-02-07**|**Quantum Tensor Product Decomposition from Choi State Tomography**|Refik Mansuroglu et.al.|[2402.05018](http://arxiv.org/abs/2402.05018)|null|
 |**2024-02-07**|**Detecting Generated Native Ads in Conversational Search**|Sebastian Schmidt et.al.|[2402.04889](http://arxiv.org/abs/2402.04889)|null|
@@ -1357,6 +1362,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Mean field control of droplet dynamics with high order finite element computations**|Guosheng Fu et.al.|[2402.05923](http://arxiv.org/abs/2402.05923)|null|
+|**2024-02-08**|**On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**|Roberto San Millán-Castillo et.al.|[2402.05921](http://arxiv.org/abs/2402.05921)|null|
+|**2024-02-08**|**Triangular phase-shift detector for drone precise vertical landing RF systems**|Víctor Araña-Pulido et.al.|[2402.05914](http://arxiv.org/abs/2402.05914)|null|
+|**2024-02-08**|**Evaluation of the Real-time El Niño Forecasts by the Climate Network Approach between 2011 and Present**|A. Bunde et.al.|[2402.05911](http://arxiv.org/abs/2402.05911)|null|
+|**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
+|**2024-02-08**|**ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation**|Aimee Guo et.al.|[2402.05902](http://arxiv.org/abs/2402.05902)|null|
+|**2024-02-08**|**Prior-Dependent Allocations for Bayesian Fixed-Budget Best-Arm Identification in Structured Bandits**|Nicolas Nguyen et.al.|[2402.05878](http://arxiv.org/abs/2402.05878)|null|
+|**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876](http://arxiv.org/abs/2402.05876)|null|
+|**2024-02-08**|**Complexity of graph-state preparation by Clifford circuits**|Soh Kumabe et.al.|[2402.05874](http://arxiv.org/abs/2402.05874)|null|
+|**2024-02-08**|**You've Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction**|Parker Ewen et.al.|[2402.05872](http://arxiv.org/abs/2402.05872)|null|
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
 |**2024-02-07**|**A topological algorithm for the Fourier transform of Stokes data at infinity**|Jean Douçot et.al.|[2402.05108](http://arxiv.org/abs/2402.05108)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
@@ -3363,6 +3378,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**You've Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction**|Parker Ewen et.al.|[2402.05872](http://arxiv.org/abs/2402.05872)|null|
+|**2024-02-08**|**RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization**|Zhikai Li et.al.|[2402.05628](http://arxiv.org/abs/2402.05628)|null|
+|**2024-02-08**|**Reconsidering the performance of DEVS modeling and simulation environments using the DEVStone benchmark**|José L. Risco-Martín et.al.|[2402.05483](http://arxiv.org/abs/2402.05483)|null|
+|**2024-02-08**|**Engineering End-to-End Remote Labs using IoT-based Retrofitting**|K. S. Viswanadh et.al.|[2402.05466](http://arxiv.org/abs/2402.05466)|null|
+|**2024-02-08**|**Accurate LoRA-Finetuning Quantization of LLMs via Information Retention**|Haotong Qin et.al.|[2402.05445](http://arxiv.org/abs/2402.05445)|**[link](https://github.com/htqin/ir-qlora)**|
+|**2024-02-08**|**Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes**|Lucio Dery et.al.|[2402.05406](http://arxiv.org/abs/2402.05406)|**[link](https://github.com/ldery/bonsai)**|
+|**2024-02-08**|**CURE: Simulation-Augmented Auto-Tuning in Robotics**|Md Abir Hossen et.al.|[2402.05399](http://arxiv.org/abs/2402.05399)|null|
+|**2024-02-08**|**Learning to Control Emulated Muscles in Real Robots: Towards Exploiting Bio-Inspired Actuator Morphology**|Pierre Schumacher et.al.|[2402.05371](http://arxiv.org/abs/2402.05371)|null|
+|**2024-02-08**|**Domain-Agnostic Hardware Fingerprinting-Based Device Identifier for Zero-Trust IoT Security**|Abdurrahman Elmaghbub et.al.|[2402.05332](http://arxiv.org/abs/2402.05332)|null|
+|**2024-02-07**|**SplitSim: Large-Scale Simulations for Evaluating Network Systems Research**|Hejing Li et.al.|[2402.05312](http://arxiv.org/abs/2402.05312)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
 |**2024-02-07**|**Arbitrary Scale Super-Resolution Assisted Lunar Crater Detection in Satellite Images**|Atal Tewari et.al.|[2402.05068](http://arxiv.org/abs/2402.05068)|null|
 |**2024-02-07**|**Sticky Fingers: Resilience of Satellite Fingerprinting against Jamming Attacks**|Joshua Smailes et.al.|[2402.05042](http://arxiv.org/abs/2402.05042)|null|
@@ -5299,6 +5324,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934](http://arxiv.org/abs/2402.05934)|**[link](https://github.com/dani3lwinter/cohop)**|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930](http://arxiv.org/abs/2402.05930)|null|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929](http://arxiv.org/abs/2402.05929)|null|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|null|
+|**2024-02-08**|**On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**|Roberto San Millán-Castillo et.al.|[2402.05921](http://arxiv.org/abs/2402.05921)|null|
+|**2024-02-08**|**GenEFT: Understanding Statics and Dynamics of Model Generalization via Effective Theory**|David D. Baek et.al.|[2402.05916](http://arxiv.org/abs/2402.05916)|null|
+|**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|null|
+|**2024-02-08**|**Combining Voting and Abstract Argumentation to Understand Online Discussions**|Michael Bernreiter et.al.|[2402.05895](http://arxiv.org/abs/2402.05895)|null|
+|**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889](http://arxiv.org/abs/2402.05889)|null|
+|**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888](http://arxiv.org/abs/2402.05888)|null|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
 |**2024-02-07**|**Convergence of spatial branching processes to $α$ -stable CSBPs: Genealogy of semi-pushed fronts**|Félix Foutel-Rodier et.al.|[2402.05096](http://arxiv.org/abs/2402.05096)|null|
 |**2024-02-07**|**Hyperspectral acquisition with ScanImage at the single pixel level: Application to time domain coherent Raman imaging**|Samuel Metais et.al.|[2402.05086](http://arxiv.org/abs/2402.05086)|null|
@@ -7304,6 +7339,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934](http://arxiv.org/abs/2402.05934)|**[link](https://github.com/dani3lwinter/cohop)**|
+|**2024-02-08**|**On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**|Roberto San Millán-Castillo et.al.|[2402.05921](http://arxiv.org/abs/2402.05921)|null|
+|**2024-02-08**|**Collaborative Control for Geometry-Conditioned PBR Image Generation**|Shimon Vainer et.al.|[2402.05919](http://arxiv.org/abs/2402.05919)|null|
+|**2024-02-08**|**Consensus-driven Deviated Pursuit for Guaranteed Simultaneous Interception of Moving Targets**|Abhinav Sinha et.al.|[2402.05918](http://arxiv.org/abs/2402.05918)|null|
+|**2024-02-08**|**GenEFT: Understanding Statics and Dynamics of Model Generalization via Effective Theory**|David D. Baek et.al.|[2402.05916](http://arxiv.org/abs/2402.05916)|null|
+|**2024-02-08**|**Evaluation of the Real-time El Niño Forecasts by the Climate Network Approach between 2011 and Present**|A. Bunde et.al.|[2402.05911](http://arxiv.org/abs/2402.05911)|null|
+|**2024-02-08**|**Background independent tensor networks**|Chris Akers et.al.|[2402.05910](http://arxiv.org/abs/2402.05910)|null|
+|**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
+|**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|null|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**Measurements and Analysis of Temporal and Spatial Variability of WiFi Exposure Levels in the 2.4 GHz Frequency Band**|Marta Fernandez et.al.|[2402.05083](http://arxiv.org/abs/2402.05083)|null|
@@ -9309,6 +9354,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929](http://arxiv.org/abs/2402.05929)|null|
+|**2024-02-08**|**On the Use of Decision Tree Regression for Predicting Vibration Frequency Response of Handheld Probes**|Roberto San Millán-Castillo et.al.|[2402.05921](http://arxiv.org/abs/2402.05921)|null|
+|**2024-02-08**|**Consensus-driven Deviated Pursuit for Guaranteed Simultaneous Interception of Moving Targets**|Abhinav Sinha et.al.|[2402.05918](http://arxiv.org/abs/2402.05918)|null|
+|**2024-02-08**|**Triangular phase-shift detector for drone precise vertical landing RF systems**|Víctor Araña-Pulido et.al.|[2402.05914](http://arxiv.org/abs/2402.05914)|null|
+|**2024-02-08**|**A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**|Wahab Khawaja et.al.|[2402.05909](http://arxiv.org/abs/2402.05909)|null|
+|**2024-02-08**|**Transition dynamics in the $Λ_{s}$ CDM model: Implications for bound cosmic structures**|Evangelos A. Paraskevas et.al.|[2402.05908](http://arxiv.org/abs/2402.05908)|null|
+|**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
+|**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|null|
+|**2024-02-08**|**Dielectric and refractive index measurements for the systems 1-pentanol + octane, or + dibutyl ether or for dibutyl ether + octane at different temperatures**|Víctor Alonso et.al.|[2402.05899](http://arxiv.org/abs/2402.05899)|null|
+|**2024-02-08**|**Probing the small scale structure of the Inter-Galactic Medium with ESPRESSO: spectroscopy of the lensed QSO UM673**|Stefano Cristiani et.al.|[2402.05896](http://arxiv.org/abs/2402.05896)|null|
 |**2024-02-07**|**Vortex spin liquid with neutral Fermi surface and fractional quantum spin Hall effect at odd integer filling of moiré Chern band**|Ya-Hui Zhang et.al.|[2402.05112](http://arxiv.org/abs/2402.05112)|null|
 |**2024-02-07**|**A topological algorithm for the Fourier transform of Stokes data at infinity**|Jean Douçot et.al.|[2402.05108](http://arxiv.org/abs/2402.05108)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
