@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
 |**2024-02-07**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in Next-gen Networks**|Akshita Abrol et.al.|[2402.04515](http://arxiv.org/abs/2402.04515)|null|
 |**2024-02-06**|**Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression**|Xiaoxin Su et.al.|[2402.03815](http://arxiv.org/abs/2402.03815)|null|
 |**2024-01-11**|**HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis**|Shiwei Zhang et.al.|[2401.05965](http://arxiv.org/abs/2401.05965)|**[link](https://github.com/alibaba/hap)**|
@@ -130,6 +131,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Logical Synchrony Networks: A formal model for deterministic distribution**|Logan Kenwright et.al.|[2402.07433](http://arxiv.org/abs/2402.07433)|null|
+|**2024-02-12**|**Netload Range Cost Curves for a Transmission-Aware Distribution System Planning under DER Growth Uncertainty**|Samuel Cordova et.al.|[2402.07428](http://arxiv.org/abs/2402.07428)|null|
+|**2024-02-08**|**Fostering the integration of European Open Data into Data Spaces through High-Quality Metadata**|Javier Conde et.al.|[2402.06693](http://arxiv.org/abs/2402.06693)|null|
 |**2024-02-07**|**Blockchain-enabled Clustered and Scalable Federated Learning (BCS-FL) Framework in UAV Networks**|Sana Hafeez et.al.|[2402.05973](http://arxiv.org/abs/2402.05973)|null|
 |**2024-02-08**|**Multi-Network Constrained Operational Optimization in Community Integrated Energy Systems: A Safe Reinforcement Learning Approach**|Ze Hu et.al.|[2402.05412](http://arxiv.org/abs/2402.05412)|null|
 |**2024-02-07**|**SplitSim: Large-Scale Simulations for Evaluating Network Systems Research**|Hejing Li et.al.|[2402.05312](http://arxiv.org/abs/2402.05312)|null|
@@ -437,6 +441,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865](http://arxiv.org/abs/2402.07865)|null|
+|**2024-02-12**|**Fortran... ok, and what's next?**|Vincent Magnin et.al.|[2402.07520](http://arxiv.org/abs/2402.07520)|null|
+|**2024-02-08**|**Neural Models for Source Code Synthesis and Completion**|Mitodru Niyogi et.al.|[2402.06690](http://arxiv.org/abs/2402.06690)|null|
 |**2024-02-09**|**TIC: Translate-Infer-Compile for accurate 'text to plan' using LLMs and logical intermediate representations**|Sudhir Agarwal et.al.|[2402.06608](http://arxiv.org/abs/2402.06608)|null|
 |**2024-02-09**|**pSTL-Bench: A Micro-Benchmark Suite for Assessing Scalability of C++ Parallel STL Implementations**|Ruben Laso et.al.|[2402.06384](http://arxiv.org/abs/2402.06384)|null|
 |**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
@@ -1387,6 +1394,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
+|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884](http://arxiv.org/abs/2402.07884)|null|
+|**2024-02-12**|**Using Graph Theory for Improving Machine Learning-based Detection of Cyber Attacks**|Giacomo Zonneveld et.al.|[2402.07878](http://arxiv.org/abs/2402.07878)|null|
+|**2024-02-12**|**Factorizating the Brauer monoid in polynomial time**|Daniele Marchei et.al.|[2402.07874](http://arxiv.org/abs/2402.07874)|null|
+|**2024-02-12**|**Nesting Particle Filters for Experimental Design in Dynamical Systems**|Sahel Iqbal et.al.|[2402.07868](http://arxiv.org/abs/2402.07868)|null|
+|**2024-02-12**|**An approximation algorithm for Maximum DiCut vs. Cut**|Tamio-Vesa Nakajima et.al.|[2402.07863](http://arxiv.org/abs/2402.07863)|null|
+|**2024-02-12**|**On the Detection of Reviewer-Author Collusion Rings From Paper Bidding**|Steven Jecmen et.al.|[2402.07860](http://arxiv.org/abs/2402.07860)|null|
+|**2024-02-12**|**A New Algorithm for Computing the Frobenius Number**|Abbas Taheri et.al.|[2402.07853](http://arxiv.org/abs/2402.07853)|null|
+|**2024-02-12**|**The Complexity of Algebraic Algorithms for LWE**|Matthias Johann Steiner et.al.|[2402.07852](http://arxiv.org/abs/2402.07852)|null|
+|**2024-02-12**|**Encoding Majorana codes**|Maryam Mudassar et.al.|[2402.07829](http://arxiv.org/abs/2402.07829)|null|
 |**2024-02-09**|**Computing Optimal Commitments to Strategies and Outcome-Conditional Utility Transfers**|Nathaniel Sauerberg et.al.|[2402.06626](http://arxiv.org/abs/2402.06626)|null|
 |**2024-02-09**|**A two-stage algorithm in evolutionary product unit neural networks for classification**|Antonio J. Tallón-Ballesteros et.al.|[2402.06622](http://arxiv.org/abs/2402.06622)|null|
 |**2024-02-09**|**Equi-affine minimal-degree moving frames for polynomial curves**|Hoon Hong et.al.|[2402.06610](http://arxiv.org/abs/2402.06610)|null|
@@ -3415,6 +3432,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**IR-Aware ECO Timing Optimization Using Reinforcement Learning**|Vidya A. Chhabria et.al.|[2402.07781](http://arxiv.org/abs/2402.07781)|null|
+|**2024-02-12**|**LFOC+: A Fair OS-level Cache-Clustering Policy for Commodity Multicore Systems**|Juan Carlos Saez et.al.|[2402.07693](http://arxiv.org/abs/2402.07693)|null|
+|**2024-02-12**|**A Lattice-Reduction Aided Vector Perturbation Precoder Relying on Quantum Annealing**|Samuel Winter et.al.|[2402.07643](http://arxiv.org/abs/2402.07643)|null|
+|**2024-02-12**|**Variational post-selection for ground states and thermal states simulation**|Shi-Xin Zhang et.al.|[2402.07605](http://arxiv.org/abs/2402.07605)|null|
+|**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[2402.07602](http://arxiv.org/abs/2402.07602)|null|
+|**2024-02-12**|**LFOC: A Lightweight Fairness-Oriented Cache Clustering Policy for Commodity Multicores**|Adrián García-García et.al.|[2402.07578](http://arxiv.org/abs/2402.07578)|null|
+|**2024-02-12**|**A Precision-Optimized Fixed-Point Near-Memory Digital Processing Unit for Analog In-Memory Computing**|Elena Ferro et.al.|[2402.07549](http://arxiv.org/abs/2402.07549)|null|
+|**2024-02-12**|**TransAxx: Efficient Transformers with Approximate Computing**|Dimitrios Danopoulos et.al.|[2402.07545](http://arxiv.org/abs/2402.07545)|null|
+|**2024-02-12**|**TeMPO: Efficient Time-Multiplexed Dynamic Photonic Tensor Core for Edge AI with Compact Slow-Light Electro-Optic Modulator**|Meng Zhang et.al.|[2402.07393](http://arxiv.org/abs/2402.07393)|null|
+|**2024-02-11**|**On-Premises Superconducting Quantum Computer for Education and Research**|Jami Rönkkö et.al.|[2402.07315](http://arxiv.org/abs/2402.07315)|null|
 |**2024-02-09**|**PocketWATCH: Design and operation of a multi-use test bed for water Cherenkov detector components in pure and gadolinium loaded water**|Matthew Thiesse et.al.|[2402.06565](http://arxiv.org/abs/2402.06565)|null|
 |**2024-02-09**|**Many-body computing on Field Programmable Gate Arrays**|Songtai Lv et.al.|[2402.06415](http://arxiv.org/abs/2402.06415)|null|
 |**2024-02-09**|**pSTL-Bench: A Micro-Benchmark Suite for Assessing Scalability of C++ Parallel STL Implementations**|Ruben Laso et.al.|[2402.06384](http://arxiv.org/abs/2402.06384)|null|
@@ -5373,6 +5400,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Label-Efficient Model Selection for Text Generation**|Shir Ashury-Tahan et.al.|[2402.07891](http://arxiv.org/abs/2402.07891)|null|
+|**2024-02-12**|**Hybrid acousto-optical swing-up preparation of exciton and biexciton states in a quantum dot**|Mateusz Kuniej et.al.|[2402.07887](http://arxiv.org/abs/2402.07887)|null|
+|**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877](http://arxiv.org/abs/2402.07877)|null|
+|**2024-02-12**|**Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States**|Noam Razin et.al.|[2402.07875](http://arxiv.org/abs/2402.07875)|**[link](https://github.com/noamrazin/imp_bias_control)**|
+|**2024-02-12**|**Nesting Particle Filters for Experimental Design in Dynamical Systems**|Sahel Iqbal et.al.|[2402.07868](http://arxiv.org/abs/2402.07868)|null|
+|**2024-02-12**|**On the Detection of Reviewer-Author Collusion Rings From Paper Bidding**|Steven Jecmen et.al.|[2402.07860](http://arxiv.org/abs/2402.07860)|null|
+|**2024-02-12**|**Multiscale Neuroimaging Features for the Identification of Medication Class and Non-Responders in Mood Disorder Treatment**|Bradley T. Baker et.al.|[2402.07858](http://arxiv.org/abs/2402.07858)|null|
+|**2024-02-12**|**The Complexity of Algebraic Algorithms for LWE**|Matthias Johann Steiner et.al.|[2402.07852](http://arxiv.org/abs/2402.07852)|null|
+|**2024-02-12**|**Triply Periodic Helical Weaves**|Duston Wetzel et.al.|[2402.07849](http://arxiv.org/abs/2402.07849)|null|
+|**2024-02-12**|**An Investigation into Using Unsupervised Metrics to Optimise GNNs for Node Clustering**|William Leeney et.al.|[2402.07845](http://arxiv.org/abs/2402.07845)|null|
 |**2024-02-09**|**FaBERT: Pre-training BERT on Persian Blogs**|Mostafa Masumi et.al.|[2402.06617](http://arxiv.org/abs/2402.06617)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 |**2024-02-09**|**TIC: Translate-Infer-Compile for accurate 'text to plan' using LLMs and logical intermediate representations**|Sudhir Agarwal et.al.|[2402.06608](http://arxiv.org/abs/2402.06608)|null|
@@ -7400,6 +7437,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**A systematic investigation of learnability from single child linguistic input**|Yulu Qin et.al.|[2402.07899](http://arxiv.org/abs/2402.07899)|null|
+|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884](http://arxiv.org/abs/2402.07884)|null|
+|**2024-02-12**|**Using Graph Theory for Improving Machine Learning-based Detection of Cyber Attacks**|Giacomo Zonneveld et.al.|[2402.07878](http://arxiv.org/abs/2402.07878)|null|
+|**2024-02-12**|**Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States**|Noam Razin et.al.|[2402.07875](http://arxiv.org/abs/2402.07875)|**[link](https://github.com/noamrazin/imp_bias_control)**|
+|**2024-02-12**|**Virtual Channel Purification**|Zhenhuan Liu et.al.|[2402.07866](http://arxiv.org/abs/2402.07866)|null|
+|**2024-02-12**|**On the Detection of Reviewer-Author Collusion Rings From Paper Bidding**|Steven Jecmen et.al.|[2402.07860](http://arxiv.org/abs/2402.07860)|null|
+|**2024-02-12**|**Multiscale Neuroimaging Features for the Identification of Medication Class and Non-Responders in Mood Disorder Treatment**|Bradley T. Baker et.al.|[2402.07858](http://arxiv.org/abs/2402.07858)|null|
+|**2024-02-12**|**Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NCEP-NWP forecasts**|Apoorva Narula et.al.|[2402.07851](http://arxiv.org/abs/2402.07851)|null|
+|**2024-02-12**|**An Investigation into Using Unsupervised Metrics to Optimise GNNs for Node Clustering**|William Leeney et.al.|[2402.07845](http://arxiv.org/abs/2402.07845)|null|
+|**2024-02-12**|**Towards Meta-Pruning via Optimal Transport**|Alexander Theus et.al.|[2402.07839](http://arxiv.org/abs/2402.07839)|**[link](https://github.com/alexandertheus/intra-fusion)**|
 |**2024-02-09**|**A two-stage algorithm in evolutionary product unit neural networks for classification**|Antonio J. Tallón-Ballesteros et.al.|[2402.06622](http://arxiv.org/abs/2402.06622)|null|
 |**2024-02-09**|**Bakry-Émery-Ricci curvature: An alternative network geometry measure in the expanding toolbox of graph Ricci curvatures**|Madhumita Mondal et.al.|[2402.06616](http://arxiv.org/abs/2402.06616)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
@@ -9427,6 +9474,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Wavefront Randomization Improves Deconvolution**|Amit Kohli et.al.|[2402.07900](http://arxiv.org/abs/2402.07900)|null|
+|**2024-02-12**|**CHIME/FRB Outriggers: KKO Station System and Commissioning Results**|Adam E. Lanman et.al.|[2402.07898](http://arxiv.org/abs/2402.07898)|null|
+|**2024-02-12**|**MODIPHY: Multimodal Obscured Detection for IoT using PHantom Convolution-Enabled Faster YOLO**|Shubhabrata Mukherjee et.al.|[2402.07894](http://arxiv.org/abs/2402.07894)|null|
+|**2024-02-12**|**The TESS-Keck Survey XXI: 13 New Planets and Homogeneous Properties for 21 Subgiant Systems**|Ashley Chontos et.al.|[2402.07893](http://arxiv.org/abs/2402.07893)|null|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
+|**2024-02-12**|**Hybrid acousto-optical swing-up preparation of exciton and biexciton states in a quantum dot**|Mateusz Kuniej et.al.|[2402.07887](http://arxiv.org/abs/2402.07887)|null|
+|**2024-02-12**|**Stellar flares**|Adam F. Kowalski et.al.|[2402.07885](http://arxiv.org/abs/2402.07885)|null|
+|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884](http://arxiv.org/abs/2402.07884)|null|
+|**2024-02-12**|**Equivalence of cost concentration and gradient vanishing for quantum circuits: an elementary proof in the Riemannian formulation**|Qiang Miao et.al.|[2402.07883](http://arxiv.org/abs/2402.07883)|null|
+|**2024-02-12**|**Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States**|Noam Razin et.al.|[2402.07875](http://arxiv.org/abs/2402.07875)|**[link](https://github.com/noamrazin/imp_bias_control)**|
 |**2024-02-09**|**Feedback Loops With Language Models Drive In-Context Reward Hacking**|Alexander Pan et.al.|[2402.06627](http://arxiv.org/abs/2402.06627)|null|
 |**2024-02-09**|**Understanding the Effects of Iterative Prompting on Truthfulness**|Satyapriya Krishna et.al.|[2402.06625](http://arxiv.org/abs/2402.06625)|null|
 |**2024-02-09**|**Empirically Exploring How Novices Write Software Models in Alloy**|Ana Jovanovic et.al.|[2402.06624](http://arxiv.org/abs/2402.06624)|null|
