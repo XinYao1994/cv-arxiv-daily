@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -430,7 +430,7 @@ layout: default
 |**2024-02-12**|**Enhancing Programming Error Messages in Real Time with Generative AI**|Bailey Kimmel et.al.|[2402.08072](http://arxiv.org/abs/2402.08072)|null|
 |**2024-02-12**|**HPIC: The Habitable Worlds Observatory Preliminary Input Catalog**|Noah Tuchow et.al.|[2402.08038](http://arxiv.org/abs/2402.08038)|null|
 |**2024-02-12**|**Enhancing Amharic-LLaMA: Integrating Task Specific and Generative Datasets**|Israel Abebe Azime et.al.|[2402.08015](http://arxiv.org/abs/2402.08015)|null|
-|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865](http://arxiv.org/abs/2402.07865)|null|
+|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865](http://arxiv.org/abs/2402.07865)|**[link](https://github.com/tri-ml/vlm-evaluation)**|
 |**2024-02-12**|**Fortran... ok, and what's next?**|Vincent Magnin et.al.|[2402.07520](http://arxiv.org/abs/2402.07520)|null|
 |**2024-02-08**|**Neural Models for Source Code Synthesis and Completion**|Mitodru Niyogi et.al.|[2402.06690](http://arxiv.org/abs/2402.06690)|null|
 |**2024-02-09**|**TIC: Translate-Infer-Compile for accurate 'text to plan' using LLMs and logical intermediate representations**|Sudhir Agarwal et.al.|[2402.06608](http://arxiv.org/abs/2402.06608)|null|
@@ -1386,7 +1386,7 @@ layout: default
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
 |**2024-02-13**|**On reduced expressions for core double cosets**|Ben Elias et.al.|[2402.08673](http://arxiv.org/abs/2402.08673)|null|
 |**2024-02-13**|**Multidimensional Blockchain Fees are (Essentially) Optimal**|Guillermo Angeris et.al.|[2402.08661](http://arxiv.org/abs/2402.08661)|null|
-|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|null|
+|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|**[link](https://github.com/Avichaurasia/Brain-Models)**|
 |**2024-02-13**|**Learned Image Compression with Text Quality Enhancement**|Chih-Yu Lai et.al.|[2402.08643](http://arxiv.org/abs/2402.08643)|null|
 |**2024-02-13**|**Clustering of primordial black holes from quantum diffusion during inflation**|Chiara Animali et.al.|[2402.08642](http://arxiv.org/abs/2402.08642)|null|
 |**2024-02-13**|**Strategizing against No-Regret Learners in First-Price Auctions**|Aviad Rubinstein et.al.|[2402.08637](http://arxiv.org/abs/2402.08637)|null|
@@ -5404,7 +5404,7 @@ layout: default
 |**2024-02-13**|**Graph Mamba: Towards Learning on Graphs with State Space Models**|Ali Behrouz et.al.|[2402.08678](http://arxiv.org/abs/2402.08678)|**[link](https://github.com/graphmamba/gmn)**|
 |**2024-02-13**|**A Convergence Analysis of Approximate Message Passing with Non-Separable Functions and Applications to Multi-Class Classification**|Burak Çakmak et.al.|[2402.08676](http://arxiv.org/abs/2402.08676)|null|
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
-|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|null|
+|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|**[link](https://github.com/Avichaurasia/Brain-Models)**|
 |**2024-02-13**|**Assessing the Privacy Risk of Cross-Platform Identity Linkage using Eye Movement Biometrics**|Samantha Aziz et.al.|[2402.08655](http://arxiv.org/abs/2402.08655)|null|
 |**2024-02-13**|**Strategizing against No-Regret Learners in First-Price Auctions**|Aviad Rubinstein et.al.|[2402.08637](http://arxiv.org/abs/2402.08637)|null|
 |**2024-02-13**|**A Generalized Approach to Online Convex Optimization**|Mohammad Pedramfar et.al.|[2402.08621](http://arxiv.org/abs/2402.08621)|null|
@@ -9496,7 +9496,7 @@ layout: default
 |**2024-02-13**|**Soliton gas of the integrable Boussinesq equation and its generalised hydrodynamics**|Thibault Bonnemain et.al.|[2402.08669](http://arxiv.org/abs/2402.08669)|null|
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
 |**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
-|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|null|
+|**2024-02-13**|**NeuroBench: An Open-Source Benchmark Framework for the Standardization of Methodology in Brainwave-based Authentication Research**|Avinash Kumar Chaurasia et.al.|[2402.08656](http://arxiv.org/abs/2402.08656)|**[link](https://github.com/Avichaurasia/Brain-Models)**|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653](http://arxiv.org/abs/2402.08653)|null|
 |**2024-02-13**|**Sharing Spectrum and Services in the 7-24 GHz Upper Midband**|Paolo Testolina et.al.|[2402.08649](http://arxiv.org/abs/2402.08649)|null|
 |**2024-02-13**|**The formation of the magnetic symbiotic star FN Sgr**|Diogo Belloni et.al.|[2402.08647](http://arxiv.org/abs/2402.08647)|null|
