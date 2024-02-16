@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|null|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
 |**2024-02-07**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in Next-gen Networks**|Akshita Abrol et.al.|[2402.04515](http://arxiv.org/abs/2402.04515)|null|
 |**2024-02-06**|**Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression**|Xiaoxin Su et.al.|[2402.03815](http://arxiv.org/abs/2402.03815)|null|
@@ -427,6 +428,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Quantum Backtracking in Qrisp Applied to Sudoku Problems**|Raphael Seidel et.al.|[2402.10060](http://arxiv.org/abs/2402.10060)|null|
+|**2024-02-15**|**On Computing Plans with Uniform Action Costs**|Alberto Pozanco et.al.|[2402.09877](http://arxiv.org/abs/2402.09877)|null|
+|**2024-02-15**|**Linear Depth QFT over IBM Heavy-hex Architecture**|Xiangyu Gao et.al.|[2402.09705](http://arxiv.org/abs/2402.09705)|null|
+|**2024-02-15**|**HOACS: Homomorphic Obfuscation Assisted Concealing of Secrets to Thwart Trojan Attacks in COTS Processor**|Tanvir Hossain et.al.|[2402.09701](http://arxiv.org/abs/2402.09701)|null|
 |**2024-02-14**|**Nonparametric identification and efficient estimation of causal effects with instrumental variables**|Alexander W. Levis et.al.|[2402.09332](http://arxiv.org/abs/2402.09332)|null|
 |**2024-02-14**|**Development of a gyrokinetic-MHD energetic particle simulation code Part I: MHD version**|P. Y. Jiang et.al.|[2402.09324](http://arxiv.org/abs/2402.09324)|null|
 |**2024-02-14**|**Three Decades of Activations: A Comprehensive Survey of 400 Activation Functions for Neural Networks**|Vladimír Kunc et.al.|[2402.09092](http://arxiv.org/abs/2402.09092)|null|
@@ -1391,6 +1396,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Trainability Barriers in Low-Depth QAOA Landscapes**|Joel Rajakumar et.al.|[2402.10188](http://arxiv.org/abs/2402.10188)|null|
+|**2024-02-15**|**Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations**|Jingqi Li et.al.|[2402.10182](http://arxiv.org/abs/2402.10182)|null|
+|**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
+|**2024-02-15**|**Fast interpolation and multiplication of unbalanced polynomials**|Pascal Giorgi et.al.|[2402.10139](http://arxiv.org/abs/2402.10139)|null|
+|**2024-02-15**|**Zero-Shot Reasoning: Personalized Content Generation Without the Cold Start Problem**|Davor Hafnar et.al.|[2402.10133](http://arxiv.org/abs/2402.10133)|null|
+|**2024-02-15**|**Quantum option pricing via the Karhunen-Loève expansion**|Anupam Prakash et.al.|[2402.10132](http://arxiv.org/abs/2402.10132)|null|
+|**2024-02-15**|**Exchangeability, prediction and predictive modeling in Bayesian statistics**|Sandra Fortini et.al.|[2402.10126](http://arxiv.org/abs/2402.10126)|null|
+|**2024-02-15**|**Physics-Informed Neural Network Policy Iteration: Algorithms, Convergence, and Verification**|Yiming Meng et.al.|[2402.10119](http://arxiv.org/abs/2402.10119)|null|
+|**2024-02-15**|**Adaptive Federated Learning in Heterogeneous Wireless Networks with Independent Sampling**|Jiaxiang Geng et.al.|[2402.10097](http://arxiv.org/abs/2402.10097)|null|
+|**2024-02-15**|**Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection**|Wenhao Zhuang et.al.|[2402.10071](http://arxiv.org/abs/2402.10071)|null|
 |**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404](http://arxiv.org/abs/2402.09404)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
 |**2024-02-14**|**Auditing Private Prediction**|Karan Chadha et.al.|[2402.09403](http://arxiv.org/abs/2402.09403)|null|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401](http://arxiv.org/abs/2402.09401)|null|
@@ -3447,6 +3462,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Trainability Barriers in Low-Depth QAOA Landscapes**|Joel Rajakumar et.al.|[2402.10188](http://arxiv.org/abs/2402.10188)|null|
+|**2024-02-15**|**Reusing Softmax Hardware Unit for GELU Computation in Transformers**|Christodoulos Peltekis et.al.|[2402.10118](http://arxiv.org/abs/2402.10118)|null|
+|**2024-02-15**|**On the Domain Generalizability of RF Fingerprints Through Multifractal Dimension Representation**|Benjamin Johnson et.al.|[2402.10044](http://arxiv.org/abs/2402.10044)|null|
+|**2024-02-15**|**Predictive Linear Online Tracking for Unknown Targets**|Anastasios Tsiamis et.al.|[2402.10036](http://arxiv.org/abs/2402.10036)|null|
+|**2024-02-15**|**Walsh-domain Neural Network for Power Amplifier Behavioral Modelling and Digital Predistortion**|Cel Thys et.al.|[2402.09964](http://arxiv.org/abs/2402.09964)|null|
+|**2024-02-15**|**Predicting the Energy Demand of a Hardware Video Decoder with Unknown Design Using Software Profiling**|Matthias Kränzler et.al.|[2402.09926](http://arxiv.org/abs/2402.09926)|null|
+|**2024-02-15**|**JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing**|Maik Ender et.al.|[2402.09845](http://arxiv.org/abs/2402.09845)|null|
+|**2024-02-15**|**R4: rapid reproducible robotics research open hardware control system**|Chris Waltham et.al.|[2402.09833](http://arxiv.org/abs/2402.09833)|null|
+|**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792](http://arxiv.org/abs/2402.09792)|null|
+|**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780](http://arxiv.org/abs/2402.09780)|null|
 |**2024-02-14**|**Introduction to Physically Unclonable Fuctions: Properties and Applications**|M. Garcia-Bosque et.al.|[2402.09386](http://arxiv.org/abs/2402.09386)|null|
 |**2024-02-14**|**Zero-energy Devices for 6G: Technical Enablers at a Glance**|Onel López et.al.|[2402.09244](http://arxiv.org/abs/2402.09244)|null|
 |**2024-02-14**|**Multi-Hierarchical Surrogate Learning for Structural Dynamics of Automotive Crashworthiness Using Graph Convolutional Neural Networks**|Jonas Kneifl et.al.|[2402.09234](http://arxiv.org/abs/2402.09234)|null|
@@ -5431,6 +5456,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**BitDelta: Your Fine-Tune May Only Be Worth One Bit**|James Liu et.al.|[2402.10193](http://arxiv.org/abs/2402.10193)|**[link](https://github.com/FasterDecoding/BitDelta)**|
+|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
+|**2024-02-15**|**Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations**|Jingqi Li et.al.|[2402.10182](http://arxiv.org/abs/2402.10182)|null|
+|**2024-02-15**|**Guiding light with surface exciton-polaritons in atomically thin superlattices**|Sara A. Elrafei et.al.|[2402.10180](http://arxiv.org/abs/2402.10180)|null|
+|**2024-02-15**|**Approaching the absorption limit with monolayer semiconductor superlattices**|Sara A. Elrafei et.al.|[2402.10179](http://arxiv.org/abs/2402.10179)|null|
+|**2024-02-15**|**Universal Quantum Computing with Field-Mediated Unruh--DeWitt Qubits**|Eric Aspling et.al.|[2402.10173](http://arxiv.org/abs/2402.10173)|null|
+|**2024-02-15**|**Data Engineering for Scaling Language Models to 128K Context**|Yao Fu et.al.|[2402.10171](http://arxiv.org/abs/2402.10171)|**[link](https://github.com/franxyao/long-context-data-engineering)**|
+|**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
+|**2024-02-15**|**Hidden Traveling Waves bind Working Memory Variables in Recurrent Neural Networks**|Arjun Karuvally et.al.|[2402.10163](http://arxiv.org/abs/2402.10163)|null|
+|**2024-02-15**|**Robotic Exploration using Generalized Behavioral Entropy**|Aamodh Suresh et.al.|[2402.10161](http://arxiv.org/abs/2402.10161)|null|
 |**2024-02-14**|**Chronology of our Galaxy from Gaia Colour-Magnitude Diagram-fitting (ChronoGal). I. The formation and evolution of the thin disk from the Gaia Catalogue of Nearby Stars**|C. Gallart et.al.|[2402.09399](http://arxiv.org/abs/2402.09399)|null|
 |**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398](http://arxiv.org/abs/2402.09398)|null|
 |**2024-02-14**|**A superstatistical measure of distance from canonical equilibrium**|Sergio Davis et.al.|[2402.09393](http://arxiv.org/abs/2402.09393)|null|
@@ -7486,6 +7521,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202](http://arxiv.org/abs/2402.10202)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
+|**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
+|**2024-02-15**|**Accuracy of discrete- and continuous-time mean-field theories for epidemic processes on complex networks**|Diogo H. Silva et.al.|[2402.10166](http://arxiv.org/abs/2402.10166)|null|
+|**2024-02-15**|**Random features and polynomial rules**|Fabián Aguirre-López et.al.|[2402.10164](http://arxiv.org/abs/2402.10164)|null|
+|**2024-02-15**|**Hidden Traveling Waves bind Working Memory Variables in Recurrent Neural Networks**|Arjun Karuvally et.al.|[2402.10163](http://arxiv.org/abs/2402.10163)|null|
+|**2024-02-15**|**InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization**|Zhengyang Hu et.al.|[2402.10158](http://arxiv.org/abs/2402.10158)|null|
 |**2024-02-14**|**From Architectures to Applications: A Review of Neural Quantum States**|Hannah Lange et.al.|[2402.09402](http://arxiv.org/abs/2402.09402)|null|
 |**2024-02-14**|**LL-GABR: Energy Efficient Live Video Streaming Using Reinforcement Learning**|Adithya Raman et.al.|[2402.09392](http://arxiv.org/abs/2402.09392)|null|
 |**2024-02-14**|**Safe Distributed Control of Multi-Robot Systems with Communication Delays**|Luca Ballotta et.al.|[2402.09382](http://arxiv.org/abs/2402.09382)|null|
@@ -9541,6 +9586,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
+|**2024-02-15**|**On Gibbs measures for almost additive potentials**|Yuki Yayama et.al.|[2402.10199](http://arxiv.org/abs/2402.10199)|null|
+|**2024-02-15**|**A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents**|Lingbo Mo et.al.|[2402.10196](http://arxiv.org/abs/2402.10196)|**[link](https://github.com/osu-nlp-group/agentattack)**|
+|**2024-02-15**|**Simple Tilings of Nilpotent Lie Groups**|Kyle Hansen et.al.|[2402.10194](http://arxiv.org/abs/2402.10194)|null|
+|**2024-02-15**|**Extremal black hole formation as a critical phenomenon**|Christoph Kehle et.al.|[2402.10190](http://arxiv.org/abs/2402.10190)|null|
+|**2024-02-15**|**The QCD phase diagram and Beam Energy Scan physics: a theory overview**|Lipei Du et.al.|[2402.10183](http://arxiv.org/abs/2402.10183)|null|
+|**2024-02-15**|**Intent Demonstration in General-Sum Dynamic Games via Iterative Linear-Quadratic Approximations**|Jingqi Li et.al.|[2402.10182](http://arxiv.org/abs/2402.10182)|null|
+|**2024-02-15**|**TDAG: A Multi-Agent Framework based on Dynamic Task Decomposition and Agent Generation**|Yaoxiang Wang et.al.|[2402.10178](http://arxiv.org/abs/2402.10178)|null|
+|**2024-02-15**|**OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models**|Ali AhmadiTeshnizi et.al.|[2402.10172](http://arxiv.org/abs/2402.10172)|null|
+|**2024-02-15**|**Curves of growth for transiting exocomets: Application to Fe II lines in the Beta Pictoris system**|T. Vrignaud et.al.|[2402.10169](http://arxiv.org/abs/2402.10169)|null|
 |**2024-02-14**|**From Architectures to Applications: A Review of Neural Quantum States**|Hannah Lange et.al.|[2402.09402](http://arxiv.org/abs/2402.09402)|null|
 |**2024-02-14**|**A superstatistical measure of distance from canonical equilibrium**|Sergio Davis et.al.|[2402.09393](http://arxiv.org/abs/2402.09393)|null|
 |**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
@@ -11596,7 +11651,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-07**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902](http://arxiv.org/abs/2402.04902)|null|
+|**2024-02-15**|**QUICK: Quantization-aware Interleaving and Conflict-free Kernel for efficient LLM inference**|Taesu Kim et.al.|[2402.10076](http://arxiv.org/abs/2402.10076)|**[link](https://github.com/squeezebits/quick)**|
+|**2024-02-15**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902](http://arxiv.org/abs/2402.04902)|null|
 |**2024-02-02**|**HW-SW Optimization of DNNs for Privacy-preserving People Counting on Low-resolution Infrared Arrays**|Matteo Risso et.al.|[2402.01226](http://arxiv.org/abs/2402.01226)|null|
 |**2024-01-31**|**Avoiding breakdown in incomplete factorizations in low precision arithmetic**|Jennifer Scott et.al.|[2401.17957](http://arxiv.org/abs/2401.17957)|null|
 |**2024-01-30**|**CLAIRE: Scalable GPU-Accelerated Algorithms for Diffeomorphic Image Registration in 3D**|Andreas Mang et.al.|[2401.17493](http://arxiv.org/abs/2401.17493)|null|
