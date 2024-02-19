@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3468,7 +3468,7 @@ layout: default
 |**2024-02-15**|**Predictive Linear Online Tracking for Unknown Targets**|Anastasios Tsiamis et.al.|[2402.10036](http://arxiv.org/abs/2402.10036)|null|
 |**2024-02-15**|**Walsh-domain Neural Network for Power Amplifier Behavioral Modelling and Digital Predistortion**|Cel Thys et.al.|[2402.09964](http://arxiv.org/abs/2402.09964)|null|
 |**2024-02-15**|**Predicting the Energy Demand of a Hardware Video Decoder with Unknown Design Using Software Profiling**|Matthias Kränzler et.al.|[2402.09926](http://arxiv.org/abs/2402.09926)|null|
-|**2024-02-15**|**JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing**|Maik Ender et.al.|[2402.09845](http://arxiv.org/abs/2402.09845)|null|
+|**2024-02-15**|**JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing**|Maik Ender et.al.|[2402.09845](http://arxiv.org/abs/2402.09845)|**[link](https://github.com/emsec/confuzz)**|
 |**2024-02-15**|**R4: rapid reproducible robotics research open hardware control system**|Chris Waltham et.al.|[2402.09833](http://arxiv.org/abs/2402.09833)|null|
 |**2024-02-15**|**System-level Impact of Non-Ideal Program-Time of Charge Trap Flash (CTF) on Deep Neural Network**|S. Shrivastava et.al.|[2402.09792](http://arxiv.org/abs/2402.09792)|null|
 |**2024-02-15**|**TinyCL: An Efficient Hardware Architecture for Continual Learning on Autonomous Systems**|Eugenio Ressa et.al.|[2402.09780](http://arxiv.org/abs/2402.09780)|null|
@@ -7524,7 +7524,7 @@ layout: default
 |**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
 |**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
 |**2024-02-15**|**Bridging Associative Memory and Probabilistic Modeling**|Rylan Schaeffer et.al.|[2402.10202](http://arxiv.org/abs/2402.10202)|null|
-|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|null|
+|**2024-02-15**|**Euclid preparation. Measuring detailed galaxy morphologies for Euclid with Machine Learning**|Euclid Collaboration et.al.|[2402.10187](http://arxiv.org/abs/2402.10187)|**[link](https://github.com/baussel/zooboteuclid)**|
 |**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
 |**2024-02-15**|**DeepSRGM -- Sequence Classification and Ranking in Indian Classical Music with Deep Learning**|Sathwik Tejaswi Madhusudhan et.al.|[2402.10168](http://arxiv.org/abs/2402.10168)|null|
 |**2024-02-15**|**Accuracy of discrete- and continuous-time mean-field theories for epidemic processes on complex networks**|Diogo H. Silva et.al.|[2402.10166](http://arxiv.org/abs/2402.10166)|null|
