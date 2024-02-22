@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -435,7 +435,7 @@ layout: default
 |**2024-02-20**|**Scalable Pattern Matching in Computation Graphs**|Luca Mondada et.al.|[2402.13065](http://arxiv.org/abs/2402.13065)|null|
 |**2024-02-20**|**SAT-based Exact Modulo Scheduling Mapping for Resource-Constrained CGRAs**|Cristian Tirelli et.al.|[2402.12834](http://arxiv.org/abs/2402.12834)|null|
 |**2024-02-19**|**The (R)Evolution of Multimodal Large Language Models: A Survey**|Davide Caffagni et.al.|[2402.12451](http://arxiv.org/abs/2402.12451)|null|
-|**2024-02-19**|**GalaPy, the highly optimised C++/Python spectral modelling tool for galaxies - I - Library presentation and photometric fitting**|Tommaso Ronconi et.al.|[2402.12427](http://arxiv.org/abs/2402.12427)|null|
+|**2024-02-19**|**GalaPy, the highly optimised C++/Python spectral modelling tool for galaxies -- I. Library presentation and photometric fitting**|Tommaso Ronconi et.al.|[2402.12427](http://arxiv.org/abs/2402.12427)|null|
 |**2024-02-19**|**NASA Exoplanet Exploration Program (ExEP) Mission Star List for the Habitable Worlds Observatory (2023)**|Eric Mamajek et.al.|[2402.12414](http://arxiv.org/abs/2402.12414)|null|
 |**2024-02-19**|**Quantum Computing with Hermitian Gates**|Ben Zindorf et.al.|[2402.12356](http://arxiv.org/abs/2402.12356)|null|
 |**2024-02-19**|**ARKS: Active Retrieval in Knowledge Soup for Code Generation**|Hongjin Su et.al.|[2402.12317](http://arxiv.org/abs/2402.12317)|null|
