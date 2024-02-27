@@ -140,7 +140,7 @@
 |**2024-02-22**|**A Monolithic Cybersecurity Architecture for Power Electronic Systems**|Kirti Gupta et.al.|[2402.13617](http://arxiv.org/abs/2402.13617)|null|
 |**2024-02-22**|**Delay-Aware Semantic Sampling in Power Electronic Systems**|Kirti Gupta et.al.|[2402.13586](http://arxiv.org/abs/2402.13586)|null|
 |**2024-02-20**|**DistriFS: A Platform and User Agnostic Approach to File Distribution**|Julian Boesch et.al.|[2402.13387](http://arxiv.org/abs/2402.13387)|null|
-|**2024-02-16**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802](http://arxiv.org/abs/2402.10802)|null|
+|**2024-02-26**|**TimeSeriesBench: An Industrial-Grade Benchmark for Time Series Anomaly Detection Models**|Haotian Si et.al.|[2402.10802](http://arxiv.org/abs/2402.10802)|null|
 |**2024-02-16**|**Continuous-variable quantum key distribution over 28.6 km fiber with an integrated silicon photonic receiver chip**|Yiming Bian et.al.|[2402.10411](http://arxiv.org/abs/2402.10411)|null|
 |**2024-02-14**|**Distributed Secret Securing in Discrete-Event Systems**|Shoma Matsui et.al.|[2402.08878](http://arxiv.org/abs/2402.08878)|null|
 |**2024-02-13**|**Byzantine fault-tolerant distributed set intersection with redundancy**|Shuo Liu et.al.|[2402.08809](http://arxiv.org/abs/2402.08809)|null|
@@ -454,6 +454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
 |**2024-02-23**|**Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection**|Chenyu Li et.al.|[2402.15335](http://arxiv.org/abs/2402.15335)|null|
 |**2024-02-23**|**Large Multimodal Agents: A Survey**|Junlin Xie et.al.|[2402.15116](http://arxiv.org/abs/2402.15116)|null|
 |**2024-02-23**|**AttributionBench: How Hard is Automatic Attribution Evaluation?**|Yifei Li et.al.|[2402.15089](http://arxiv.org/abs/2402.15089)|**[link](https://github.com/osu-nlp-group/attributionbench)**|
@@ -1454,6 +1455,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
+|**2024-02-26**|**An efficient multimode vectorial nonlinear propagation solver beyond the weak guidance approximation**|Pierre Béjot et.al.|[2402.16492](http://arxiv.org/abs/2402.16492)|null|
+|**2024-02-26**|**Efficient Quantum Lattice Gas Automata**|Antonio David Bastida Zamora et.al.|[2402.16488](http://arxiv.org/abs/2402.16488)|null|
+|**2024-02-26**|**A fast implementation of the good-suffix array for the Boyer-Moore string matching algorithm**|Thierry Lecroq et.al.|[2402.16469](http://arxiv.org/abs/2402.16469)|null|
+|**2024-02-26**|**Exploratory Landscape Analysis for Mixed-Variable Problems**|Raphael Patrick Prager et.al.|[2402.16467](http://arxiv.org/abs/2402.16467)|null|
+|**2024-02-26**|**Parameterized and approximation algorithms for coverings points with segments in the plane**|Katarzyna Kowalska et.al.|[2402.16466](http://arxiv.org/abs/2402.16466)|null|
+|**2024-02-26**|**Learning to Schedule Online Tasks with Bandit Feedback**|Yongxin Xu et.al.|[2402.16463](http://arxiv.org/abs/2402.16463)|null|
+|**2024-02-26**|**Enabling Communication and Control Co-Design in 6G Networks**|Onur Ayan et.al.|[2402.16462](http://arxiv.org/abs/2402.16462)|null|
+|**2024-02-26**|**Performance Comparison of Surrogate-Assisted Evolutionary Algorithms on Computational Fluid Dynamics Problems**|Jakub Kudela et.al.|[2402.16455](http://arxiv.org/abs/2402.16455)|null|
+|**2024-02-26**|**Intelligent Reflecting Surfaces and Next Generation Wireless Systems**|Yashuai Cao et.al.|[2402.16453](http://arxiv.org/abs/2402.16453)|null|
 |**2024-02-23**|**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition**|Chun-Hsiao Yeh et.al.|[2402.15504](http://arxiv.org/abs/2402.15504)|**[link](https://github.com/louisYen/Gen4Gen)**|
 |**2024-02-23**|**On the Complexity of Community-aware Network Sparsification**|Emanuel Herrendorf et.al.|[2402.15494](http://arxiv.org/abs/2402.15494)|null|
 |**2024-02-23**|**Graph Partitioning With Limited Moves**|Majid Behbahani et.al.|[2402.15485](http://arxiv.org/abs/2402.15485)|null|
@@ -3582,6 +3593,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384](http://arxiv.org/abs/2402.16384)|null|
+|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|null|
+|**2024-02-26**|**Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems**|Yiwei Li et.al.|[2402.16343](http://arxiv.org/abs/2402.16343)|null|
+|**2024-02-26**|**Sampling Problems on a Quantum Computer**|Maximilian Balthasar Mansky et.al.|[2402.16341](http://arxiv.org/abs/2402.16341)|null|
+|**2024-02-26**|**Equational Bit-Vector Solving via Strong Gröbner Bases**|Jiaxin Song et.al.|[2402.16314](http://arxiv.org/abs/2402.16314)|null|
+|**2024-02-25**|**Combining Machine Learning with Computational Fluid Dynamics using OpenFOAM and SmartSim**|Tomislav Maric et.al.|[2402.16196](http://arxiv.org/abs/2402.16196)|null|
+|**2024-02-25**|**Shaving Weights with Occam's Razor: Bayesian Sparsification for Neural Networks Using the Marginal Likelihood**|Rayen Dhahri et.al.|[2402.15978](http://arxiv.org/abs/2402.15978)|null|
+|**2024-02-25**|**Efficient Online Learning for Networks of Two-Compartment Spiking Neurons**|Yujia Yin et.al.|[2402.15969](http://arxiv.org/abs/2402.15969)|null|
+|**2024-02-24**|**Progressive-Proximity Bit-Flipping for Decoding Surface Codes**|Michele Pacenti et.al.|[2402.15924](http://arxiv.org/abs/2402.15924)|null|
+|**2024-02-24**|**A New Secure Memory System for Efficient Data Protection and Access Pattern Obfuscation**|Haoran Geng et.al.|[2402.15824](http://arxiv.org/abs/2402.15824)|null|
 |**2024-02-23**|**I see an IC: A Mixed-Methods Approach to Study Human Problem-Solving Processes in Hardware Reverse Engineering**|René Walendy et.al.|[2402.15452](http://arxiv.org/abs/2402.15452)|null|
 |**2024-02-23**|**Prime+Retouch: When Cache is Locked and Leaked**|Jaehyuk Lee et.al.|[2402.15425](http://arxiv.org/abs/2402.15425)|null|
 |**2024-02-23**|**Low-Weight High-Distance Error Correcting Fermionic Encodings**|Fedor Simkovic IV et.al.|[2402.15386](http://arxiv.org/abs/2402.15386)|null|
@@ -5636,6 +5657,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508](http://arxiv.org/abs/2402.16508)|**[link](https://github.com/fantabulous-j/class)**|
+|**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
+|**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
+|**2024-02-26**|**Order $p$ quantum Wasserstein distances from couplings**|Emily Beatty et.al.|[2402.16477](http://arxiv.org/abs/2402.16477)|null|
+|**2024-02-26**|**Spin Effect induced Momentum Spiral and Asymmetry Degree in Pair Production**|Li-Na Hu et.al.|[2402.16476](http://arxiv.org/abs/2402.16476)|null|
+|**2024-02-26**|**Covert Communication Over Additive-Noise Channels**|Cécile Bouette et.al.|[2402.16475](http://arxiv.org/abs/2402.16475)|null|
+|**2024-02-26**|**DCVSMNet: Double Cost Volume Stereo Matching Network**|Mahmoud Tahmasebi et.al.|[2402.16473](http://arxiv.org/abs/2402.16473)|**[link](https://github.com/m2219/dcvsmnet)**|
+|**2024-02-26**|**Integrated Sensing and Communications with Affine Frequency Division Multiplexing**|Ali Bemani et.al.|[2402.16468](http://arxiv.org/abs/2402.16468)|null|
+|**2024-02-26**|**RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering**|Zihan Zhang et.al.|[2402.16457](http://arxiv.org/abs/2402.16457)|null|
+|**2024-02-26**|**Autonomous Integration of TSN-unaware Applications with QoS Requirements in TSN Networks**|Moritz Fluechter et.al.|[2402.16454](http://arxiv.org/abs/2402.16454)|null|
 |**2024-02-23**|**Simulated Charge Stability in a MOSFET Linear Quantum Dot Array**|Zach D. Merino et.al.|[2402.15499](http://arxiv.org/abs/2402.15499)|null|
 |**2024-02-23**|**Using CPI in Loss Given Default Forecasting Models for Commercial Real Estate Portfolio**|Ying Wu et.al.|[2402.15498](http://arxiv.org/abs/2402.15498)|null|
 |**2024-02-23**|**On the Complexity of Community-aware Network Sparsification**|Emanuel Herrendorf et.al.|[2402.15494](http://arxiv.org/abs/2402.15494)|null|
@@ -7763,6 +7794,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
+|**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
+|**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[2402.16479](http://arxiv.org/abs/2402.16479)|null|
+|**2024-02-26**|**DCVSMNet: Double Cost Volume Stereo Matching Network**|Mahmoud Tahmasebi et.al.|[2402.16473](http://arxiv.org/abs/2402.16473)|**[link](https://github.com/m2219/dcvsmnet)**|
+|**2024-02-26**|**Strong coupling yields abrupt synchronization transitions in coupled oscillators**|Jorge L. Ocampo-Espindola et.al.|[2402.16471](http://arxiv.org/abs/2402.16471)|null|
+|**2024-02-26**|**Training Classical Neural Networks by Quantum Machine Learning**|Chen-Yu Liu et.al.|[2402.16465](http://arxiv.org/abs/2402.16465)|null|
+|**2024-02-26**|**Enabling Communication and Control Co-Design in 6G Networks**|Onur Ayan et.al.|[2402.16462](http://arxiv.org/abs/2402.16462)|null|
+|**2024-02-26**|**Autonomous Integration of TSN-unaware Applications with QoS Requirements in TSN Networks**|Moritz Fluechter et.al.|[2402.16454](http://arxiv.org/abs/2402.16454)|null|
+|**2024-02-26**|**WetLinks: a Large-Scale Longitudinal Starlink Dataset with Contiguous Weather Data**|Dominic Laniewski et.al.|[2402.16448](http://arxiv.org/abs/2402.16448)|null|
+|**2024-02-26**|**Indoor Localization of Smartphones Thanks to Zero-Energy-Devices Beacons**|Shanglin Yang et.al.|[2402.16446](http://arxiv.org/abs/2402.16446)|null|
 |**2024-02-23**|**Tensor network simulations for non-orientable surfaces**|Haruki Shimizu et.al.|[2402.15507](http://arxiv.org/abs/2402.15507)|null|
 |**2024-02-23**|**On the Complexity of Community-aware Network Sparsification**|Emanuel Herrendorf et.al.|[2402.15494](http://arxiv.org/abs/2402.15494)|null|
 |**2024-02-23**|**A Comprehensive Survey of Convolutions in Deep Learning: Applications, Challenges, and Future Trends**|Abolfazl Younesi et.al.|[2402.15490](http://arxiv.org/abs/2402.15490)|null|
@@ -9890,6 +9931,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Periodically driven thermodynamic systems under vanishingly small viscous drives**|Shakul Awasthi et.al.|[2402.16512](http://arxiv.org/abs/2402.16512)|null|
+|**2024-02-26**|**Ergodicity in planar slow-fast systems through slow relation functions**|Renato Huzak et.al.|[2402.16511](http://arxiv.org/abs/2402.16511)|null|
+|**2024-02-26**|**Scaling and flow profiles in magnetically confined liquid-in-liquid channels**|Arvind Arun Dev et.al.|[2402.16510](http://arxiv.org/abs/2402.16510)|null|
+|**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508](http://arxiv.org/abs/2402.16508)|**[link](https://github.com/fantabulous-j/class)**|
+|**2024-02-26**|**Results of the follow-up of ANTARES neutrino alerts**|A. Albert et.al.|[2402.16498](http://arxiv.org/abs/2402.16498)|null|
+|**2024-02-26**|**Multiple Boundary Peak Solution for Critical Elliptic System with Neumann Boundary**|Yuxia Guo et.al.|[2402.16489](http://arxiv.org/abs/2402.16489)|null|
+|**2024-02-26**|**Using Spherical Harmonics to solve the Boltzmann equation: an operator based approach**|Nils W. Schween et.al.|[2402.16483](http://arxiv.org/abs/2402.16483)|null|
+|**2024-02-26**|**Particle Motion in Hamiltonian Formalism**|Yannis Papaphilippou et.al.|[2402.16474](http://arxiv.org/abs/2402.16474)|null|
+|**2024-02-26**|**Strong coupling yields abrupt synchronization transitions in coupled oscillators**|Jorge L. Ocampo-Espindola et.al.|[2402.16471](http://arxiv.org/abs/2402.16471)|null|
+|**2024-02-26**|**Unveiling Vulnerability of Self-Attention**|Khai Jiet Liong et.al.|[2402.16470](http://arxiv.org/abs/2402.16470)|null|
 |**2024-02-23**|**The α-element enrichment of gas in distant galaxies**|Anna Velichko et.al.|[2402.15508](http://arxiv.org/abs/2402.15508)|null|
 |**2024-02-23**|**Tensor network simulations for non-orientable surfaces**|Haruki Shimizu et.al.|[2402.15507](http://arxiv.org/abs/2402.15507)|null|
 |**2024-02-23**|**Perturbative criteria for the ergodicity of interacting dissipative quantum lattice systems**|Lorenzo Bertini et.al.|[2402.15488](http://arxiv.org/abs/2402.15488)|null|
