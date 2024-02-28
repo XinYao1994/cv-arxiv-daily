@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -436,6 +436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Enhancement of 3D Camera Synthetic Training Data with Noise Models**|Katarína Osvaldová et.al.|[2402.16514](http://arxiv.org/abs/2402.16514)|null|
 |**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
 |**2024-02-23**|**Low-Rank Representations Meets Deep Unfolding: A Generalized and Interpretable Network for Hyperspectral Anomaly Detection**|Chenyu Li et.al.|[2402.15335](http://arxiv.org/abs/2402.15335)|null|
 |**2024-02-23**|**Large Multimodal Agents: A Survey**|Junlin Xie et.al.|[2402.15116](http://arxiv.org/abs/2402.15116)|null|
@@ -1435,6 +1436,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Q-FOX Learning: Breaking Tradition in Reinforcement Learning**|Mahmood Alqaseer et.al.|[2402.16562](http://arxiv.org/abs/2402.16562)|null|
+|**2024-02-26**|**A randomized algorithm for simultaneously diagonalizing symmetric matrices by congruence**|Haoze He et.al.|[2402.16557](http://arxiv.org/abs/2402.16557)|null|
+|**2024-02-26**|**Delayed-feedback oscillators replicate the dynamics of multiplex networks: wavefront propagation and stochastic resonance**|Anna Zakharova et.al.|[2402.16551](http://arxiv.org/abs/2402.16551)|null|
+|**2024-02-26**|**Integer Programming Using A Single Atom**|Kapil Goswami et.al.|[2402.16541](http://arxiv.org/abs/2402.16541)|null|
+|**2024-02-26**|**PDRs4All VII. The 3.3 $μ$ m aromatic infrared band as a tracer of physical properties of the ISM in galaxies**|Ilane Schroetter et.al.|[2402.16535](http://arxiv.org/abs/2402.16535)|null|
+|**2024-02-26**|**Fast, Fair and Truthful Distributed Stable Matching for Common Preferences**|Juho Hirvonen et.al.|[2402.16532](http://arxiv.org/abs/2402.16532)|null|
+|**2024-02-26**|**Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning**|Matteo Caldana et.al.|[2402.16517](http://arxiv.org/abs/2402.16517)|null|
+|**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
 |**2024-02-26**|**An efficient multimode vectorial nonlinear propagation solver beyond the weak guidance approximation**|Pierre Béjot et.al.|[2402.16492](http://arxiv.org/abs/2402.16492)|null|
 |**2024-02-26**|**Efficient Quantum Lattice Gas Automata**|Antonio David Bastida Zamora et.al.|[2402.16488](http://arxiv.org/abs/2402.16488)|null|
@@ -3572,7 +3581,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-26**|**Scalable Superconductor Neuron with Ternary Synaptic Connections for Ultra-Fast SNN Hardware**|Mustafa Altay Karamuftuoglu et.al.|[2402.16384](http://arxiv.org/abs/2402.16384)|null|
-|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|null|
+|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|**[link](https://github.com/hahnyuan/llm-viewer)**|
 |**2024-02-26**|**Trimma: Trimming Metadata Storage and Latency for Hybrid Memory Systems**|Yiwei Li et.al.|[2402.16343](http://arxiv.org/abs/2402.16343)|null|
 |**2024-02-26**|**Sampling Problems on a Quantum Computer**|Maximilian Balthasar Mansky et.al.|[2402.16341](http://arxiv.org/abs/2402.16341)|null|
 |**2024-02-26**|**Equational Bit-Vector Solving via Strong Gröbner Bases**|Jiaxin Song et.al.|[2402.16314](http://arxiv.org/abs/2402.16314)|null|
@@ -5633,6 +5642,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**A brief tutorial on information theory**|Tarek Tohme et.al.|[2402.16556](http://arxiv.org/abs/2402.16556)|null|
+|**2024-02-26**|**Label Learning Method Based on Tensor Projection**|Jing Li et.al.|[2402.16544](http://arxiv.org/abs/2402.16544)|null|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
+|**2024-02-26**|**Visualization of frequency structures in gravitational wave signals**|Chad Henshaw et.al.|[2402.16533](http://arxiv.org/abs/2402.16533)|null|
+|**2024-02-26**|**Room Temperature Microsecond Coherence of Silicon Dangling Bonds**|J. Möser et.al.|[2402.16523](http://arxiv.org/abs/2402.16523)|null|
+|**2024-02-26**|**Rearrangement of orbitals in KAgF3 due to Kugel-Khomskii mechanism: a Neutron diffraction and Density Functional Theory study**|Kacper Koteras et.al.|[2402.16518](http://arxiv.org/abs/2402.16518)|null|
+|**2024-02-26**|**Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning**|Matteo Caldana et.al.|[2402.16517](http://arxiv.org/abs/2402.16517)|null|
 |**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508](http://arxiv.org/abs/2402.16508)|**[link](https://github.com/fantabulous-j/class)**|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
 |**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
@@ -7768,6 +7784,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Open Your Ears to Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization**|Kajetan Enge et.al.|[2402.16558](http://arxiv.org/abs/2402.16558)|null|
+|**2024-02-26**|**A brief tutorial on information theory**|Tarek Tohme et.al.|[2402.16556](http://arxiv.org/abs/2402.16556)|null|
+|**2024-02-26**|**Delayed-feedback oscillators replicate the dynamics of multiplex networks: wavefront propagation and stochastic resonance**|Anna Zakharova et.al.|[2402.16551](http://arxiv.org/abs/2402.16551)|null|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
+|**2024-02-26**|**Discovering Artificial Viscosity Models for Discontinuous Galerkin Approximation of Conservation Laws using Physics-Informed Machine Learning**|Matteo Caldana et.al.|[2402.16517](http://arxiv.org/abs/2402.16517)|null|
+|**2024-02-26**|**Generative Pretrained Hierarchical Transformer for Time Series Forecasting**|Zhiding Liu et.al.|[2402.16516](http://arxiv.org/abs/2402.16516)|null|
+|**2024-02-26**|**Enhancement of 3D Camera Synthetic Training Data with Noise Models**|Katarína Osvaldová et.al.|[2402.16514](http://arxiv.org/abs/2402.16514)|null|
+|**2024-02-26**|**Photonic Neural Network Fabricated on Thin Film Lithium Niobate for High-Fidelity and Power-Efficient Matrix Computation**|Yong Zheng et.al.|[2402.16513](http://arxiv.org/abs/2402.16513)|null|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
 |**2024-02-26**|**Cluster Counting Algorithm for Drift Chamber using LSTM and DGCNN**|Zhefei Tian et.al.|[2402.16493](http://arxiv.org/abs/2402.16493)|null|
 |**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[2402.16479](http://arxiv.org/abs/2402.16479)|null|
@@ -9903,6 +9927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Open Your Ears to Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization**|Kajetan Enge et.al.|[2402.16558](http://arxiv.org/abs/2402.16558)|null|
+|**2024-02-26**|**Boundary-induced transitions in Möbius quenches of holographic BCFT**|Alice Bernamonti et.al.|[2402.16555](http://arxiv.org/abs/2402.16555)|null|
+|**2024-02-26**|**Delayed-feedback oscillators replicate the dynamics of multiplex networks: wavefront propagation and stochastic resonance**|Anna Zakharova et.al.|[2402.16551](http://arxiv.org/abs/2402.16551)|null|
+|**2024-02-26**|**Point collocation with mollified piecewise polynomial approximants for high-order partial differential equations**|Dewangga Alfarisy et.al.|[2402.16548](http://arxiv.org/abs/2402.16548)|null|
+|**2024-02-26**|**Beyond Accuracy: An Empirical Study on Unit Testing in Open-source Deep Learning Projects**|Han Wang et.al.|[2402.16546](http://arxiv.org/abs/2402.16546)|null|
+|**2024-02-26**|**Model-based deep reinforcement learning for accelerated learning from flow simulations**|Andre Weiner et.al.|[2402.16543](http://arxiv.org/abs/2402.16543)|**[link](https://github.com/janisgeise/mb_drl_for_accelerated_learning_from_cfd)**|
+|**2024-02-26**|**RoboGrind: Intuitive and Interactive Surface Treatment with Industrial Robots**|Benjamin Alt et.al.|[2402.16542](http://arxiv.org/abs/2402.16542)|null|
+|**2024-02-26**|**Integer Programming Using A Single Atom**|Kapil Goswami et.al.|[2402.16541](http://arxiv.org/abs/2402.16541)|null|
+|**2024-02-26**|**Quasi Directed Jonsson Operations Imply Bounded Width (For fo-expansions of symmetric binary cores with free amalgamation)**|Michal Wrona et.al.|[2402.16540](http://arxiv.org/abs/2402.16540)|null|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-26**|**Periodically driven thermodynamic systems under vanishingly small viscous drives**|Shakul Awasthi et.al.|[2402.16512](http://arxiv.org/abs/2402.16512)|null|
 |**2024-02-26**|**Ergodicity in planar slow-fast systems through slow relation functions**|Renato Huzak et.al.|[2402.16511](http://arxiv.org/abs/2402.16511)|null|
 |**2024-02-26**|**Scaling and flow profiles in magnetically confined liquid-in-liquid channels**|Arvind Arun Dev et.al.|[2402.16510](http://arxiv.org/abs/2402.16510)|null|
