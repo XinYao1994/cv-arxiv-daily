@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
@@ -451,6 +452,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**IRCoder: Intermediate Representations Make Language Models Robust Multilingual Code Generators**|Indraneil Paul et.al.|[2403.03894](http://arxiv.org/abs/2403.03894)|**[link](https://github.com/UKPLab/arxiv2024-IRCoder)**|
+|**2024-03-06**|**The Emerging Stellar Complex in Mon R2: Membership and Optical Variability Classification**|Sally D. Jiang et.al.|[2403.03843](http://arxiv.org/abs/2403.03843)|null|
+|**2024-03-06**|**UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources**|Hyeonguk Bahk et.al.|[2403.03818](http://arxiv.org/abs/2403.03818)|null|
 |**2024-03-04**|**Dr Wenowdis: Specializing dynamic language C extensions using type information**|Maxwell Bernstein et.al.|[2403.02420](http://arxiv.org/abs/2403.02420)|null|
 |**2024-03-04**|**Arrays in Practice: An Empirical Study of Array Access Patterns on the JVM**|Beatrice Åkerblom et.al.|[2403.02416](http://arxiv.org/abs/2403.02416)|null|
 |**2024-03-04**|**nimCSO: A Nim package for Compositional Space Optimization**|Adam M. Krajewski et.al.|[2403.02340](http://arxiv.org/abs/2403.02340)|null|
@@ -1494,6 +1498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942](http://arxiv.org/abs/2403.03942)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
+|**2024-03-06**|**Permutation Symmetry Restoration in Disordered Materials**|Varda F. Hagh et.al.|[2403.03926](http://arxiv.org/abs/2403.03926)|null|
+|**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
+|**2024-03-06**|**Black-Box $k$-to-$1$ -PCA Reductions: Theory and Applications**|Arun Jambulapati et.al.|[2403.03905](http://arxiv.org/abs/2403.03905)|null|
+|**2024-03-06**|**Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment**|Nils Baumgartner et.al.|[2403.03903](http://arxiv.org/abs/2403.03903)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**Electrical Load Forecasting Model Using Hybrid LSTM Neural Networks with Online Correction**|Nan Lu et.al.|[2403.03898](http://arxiv.org/abs/2403.03898)|null|
+|**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896](http://arxiv.org/abs/2403.03896)|null|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
 |**2024-03-05**|**LC-Tsalis-INF: Generalized Best-of-Both-Worlds Linear Contextual Bandits**|Masahiro Kato et.al.|[2403.03219](http://arxiv.org/abs/2403.03219)|null|
 |**2024-03-05**|**On the computation of lattice sums without translational invariance**|Andreas A. Buchheit et.al.|[2403.03213](http://arxiv.org/abs/2403.03213)|null|
 |**2024-03-05**|**Finding Super-spreaders in Network Cascades**|Elchanan Mossel et.al.|[2403.03205](http://arxiv.org/abs/2403.03205)|null|
@@ -3688,6 +3702,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775](http://arxiv.org/abs/2403.03775)|null|
+|**2024-03-06**|**A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network**|Ruichen Ma et.al.|[2403.03739](http://arxiv.org/abs/2403.03739)|**[link](https://github.com/ruichen0424/ab-bnn)**|
+|**2024-03-06**|**Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies**|Felix Brakel et.al.|[2403.03699](http://arxiv.org/abs/2403.03699)|null|
+|**2024-03-06**|**3D Object Visibility Prediction in Autonomous Driving**|Chuanyu Luo et.al.|[2403.03681](http://arxiv.org/abs/2403.03681)|null|
+|**2024-03-06**|**Spatially Selective Reconfigurable Intelligent Surfaces Through Element Permutation**|Fredrik Rusek et.al.|[2403.03629](http://arxiv.org/abs/2403.03629)|null|
+|**2024-03-06**|**CAMASim: A Comprehensive Simulation Framework for Content-Addressable Memory based Accelerators**|Mengyuan Li et.al.|[2403.03442](http://arxiv.org/abs/2403.03442)|null|
+|**2024-03-05**|**F $^3$ Loc: Fusion and Filtering for Floorplan Localization**|Changan Chen et.al.|[2403.03370](http://arxiv.org/abs/2403.03370)|null|
+|**2024-03-05**|**Quantum Dynamical Emulation**|Jacob M. Leamer et.al.|[2403.03350](http://arxiv.org/abs/2403.03350)|null|
 |**2024-03-05**|**Operator Learning Renormalization Group**|Xiu-Zhe Luo et.al.|[2403.03199](http://arxiv.org/abs/2403.03199)|**[link](https://github.com/Roger-luo/teal)**|
 |**2024-03-05**|**Bounding speedup of quantum-enhanced Markov chain Monte Carlo**|Alev Orfi et.al.|[2403.03087](http://arxiv.org/abs/2403.03087)|null|
 |**2024-03-05**|**Demonstrating efficient and robust bosonic state reconstruction via optimized excitation counting**|Tanjung Krisnanda et.al.|[2403.03080](http://arxiv.org/abs/2403.03080)|null|
@@ -5800,6 +5823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956](http://arxiv.org/abs/2403.03956)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**Understanding Stabilizer Codes Under Local Decoherence Through a General Statistical Mechanics Mapping**|Anasuya Lyons et.al.|[2403.03955](http://arxiv.org/abs/2403.03955)|null|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Can Audio Reveal Music Performance Difficulty? Insights from the Piano Syllabus Dataset**|Pedro Ramoneda et.al.|[2403.03947](http://arxiv.org/abs/2403.03947)|null|
+|**2024-03-06**|**Subgroups arising from connected components in the Morse boundary**|Annette Karrer et.al.|[2403.03939](http://arxiv.org/abs/2403.03939)|null|
+|**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
+|**2024-03-06**|**A Categorical Treatment of Open Linear Systems**|Dario Stein et.al.|[2403.03934](http://arxiv.org/abs/2403.03934)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**FaaF: Facts as a Function for the evaluation of RAG systems**|Vasileios Katranidis et.al.|[2403.03888](http://arxiv.org/abs/2403.03888)|null|
+|**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
 |**2024-03-05**|**How much information can be extracted from galaxy clustering at the field level?**|Nhat-Minh Nguyen et.al.|[2403.03220](http://arxiv.org/abs/2403.03220)|null|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
@@ -7992,6 +8025,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Decoupling the electronic gap from the spin Chern number in disordered higher-order topological insulators**|Alexander C. Tyner et.al.|[2403.03957](http://arxiv.org/abs/2403.03957)|null|
+|**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950](http://arxiv.org/abs/2403.03950)|null|
+|**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
+|**2024-03-06**|**MR.RGM: An R Package for Fitting Bayesian Multivariate Bidirectional Mendelian Randomization Networks**|Bitan Sarkar et.al.|[2403.03944](http://arxiv.org/abs/2403.03944)|null|
+|**2024-03-06**|**Multipolar opinion evolution in biased networks**|Luka Baković et.al.|[2403.03913](http://arxiv.org/abs/2403.03913)|null|
+|**2024-03-06**|**Electrical Load Forecasting Model Using Hybrid LSTM Neural Networks with Online Correction**|Nan Lu et.al.|[2403.03898](http://arxiv.org/abs/2403.03898)|null|
+|**2024-03-06**|**Self and Mixed Supervision to Improve Training Labels for Multi-Class Medical Image Segmentation**|Jianfei Liu et.al.|[2403.03882](http://arxiv.org/abs/2403.03882)|null|
+|**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880](http://arxiv.org/abs/2403.03880)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
+|**2024-03-06**|**A Survey on Adversarial Contention Resolution**|Ioana Banicescu et.al.|[2403.03876](http://arxiv.org/abs/2403.03876)|null|
+|**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871](http://arxiv.org/abs/2403.03871)|null|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221](http://arxiv.org/abs/2403.03221)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
@@ -10185,6 +10228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Decoupling the electronic gap from the spin Chern number in disordered higher-order topological insulators**|Alexander C. Tyner et.al.|[2403.03957](http://arxiv.org/abs/2403.03957)|null|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956](http://arxiv.org/abs/2403.03956)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**Investigating the Collective Nature of Cavity Modified Chemical Kinetics under Vibrational Strong Coupling**|Lachlan P. Lindoy et.al.|[2403.03951](http://arxiv.org/abs/2403.03951)|null|
+|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949](http://arxiv.org/abs/2403.03949)|null|
+|**2024-03-06**|**MR.RGM: An R Package for Fitting Bayesian Multivariate Bidirectional Mendelian Randomization Networks**|Bitan Sarkar et.al.|[2403.03944](http://arxiv.org/abs/2403.03944)|null|
+|**2024-03-06**|**Non-resonant conditions for the Klein-Gordon equation on the circle**|Roberto Feola et.al.|[2403.03936](http://arxiv.org/abs/2403.03936)|null|
+|**2024-03-06**|**A Categorical Treatment of Open Linear Systems**|Dario Stein et.al.|[2403.03934](http://arxiv.org/abs/2403.03934)|null|
+|**2024-03-06**|**Permutation Symmetry Restoration in Disordered Materials**|Varda F. Hagh et.al.|[2403.03926](http://arxiv.org/abs/2403.03926)|null|
+|**2024-03-06**|**Risk-Sensitive Mean Field Games with Common Noise: A Theoretical Study with Applications to Interbank Markets**|Xin Yue Ren et.al.|[2403.03915](http://arxiv.org/abs/2403.03915)|null|
+|**2024-03-06**|**Effect of Uncorrelated On-site Scalar Potential, and Mass Disorder on Transport of Two-Dimensional Dirac Fermions**|Arman Duha et.al.|[2403.03914](http://arxiv.org/abs/2403.03914)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217](http://arxiv.org/abs/2403.03217)|null|
 |**2024-03-05**|**Out of Time Order Correlation of the Hubbard Model with Random Local Disorder**|Chakradhar Rangi et.al.|[2403.03214](http://arxiv.org/abs/2403.03214)|null|
 |**2024-03-05**|**On the computation of lattice sums without translational invariance**|Andreas A. Buchheit et.al.|[2403.03213](http://arxiv.org/abs/2403.03213)|null|
