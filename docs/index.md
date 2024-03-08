@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.07
+## Updated on 2024.03.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1504,7 +1504,7 @@ layout: default
 |**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-06**|**Black-Box $k$-to-$1$ -PCA Reductions: Theory and Applications**|Arun Jambulapati et.al.|[2403.03905](http://arxiv.org/abs/2403.03905)|null|
 |**2024-03-06**|**Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment**|Nils Baumgartner et.al.|[2403.03903](http://arxiv.org/abs/2403.03903)|null|
-|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|**[link](https://github.com/chengkai-liu/mamba4rec)**|
 |**2024-03-06**|**Electrical Load Forecasting Model Using Hybrid LSTM Neural Networks with Online Correction**|Nan Lu et.al.|[2403.03898](http://arxiv.org/abs/2403.03898)|null|
 |**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896](http://arxiv.org/abs/2403.03896)|null|
 |**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
@@ -3702,7 +3702,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|**[link](https://github.com/chengkai-liu/mamba4rec)**|
 |**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775](http://arxiv.org/abs/2403.03775)|null|
 |**2024-03-06**|**A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network**|Ruichen Ma et.al.|[2403.03739](http://arxiv.org/abs/2403.03739)|**[link](https://github.com/ruichen0424/ab-bnn)**|
 |**2024-03-06**|**Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies**|Felix Brakel et.al.|[2403.03699](http://arxiv.org/abs/2403.03699)|null|
@@ -5830,7 +5830,7 @@ layout: default
 |**2024-03-06**|**Subgroups arising from connected components in the Morse boundary**|Annette Karrer et.al.|[2403.03939](http://arxiv.org/abs/2403.03939)|null|
 |**2024-03-06**|**GUIDE: Guidance-based Incremental Learning with Diffusion Models**|Bartosz Cywiński et.al.|[2403.03938](http://arxiv.org/abs/2403.03938)|null|
 |**2024-03-06**|**A Categorical Treatment of Open Linear Systems**|Dario Stein et.al.|[2403.03934](http://arxiv.org/abs/2403.03934)|null|
-|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|null|
+|**2024-03-06**|**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**|Chengkai Liu et.al.|[2403.03900](http://arxiv.org/abs/2403.03900)|**[link](https://github.com/chengkai-liu/mamba4rec)**|
 |**2024-03-06**|**FaaF: Facts as a Function for the evaluation of RAG systems**|Vasileios Katranidis et.al.|[2403.03888](http://arxiv.org/abs/2403.03888)|null|
 |**2024-03-06**|**Latent Dataset Distillation with Diffusion Models**|Brian B. Moser et.al.|[2403.03881](http://arxiv.org/abs/2403.03881)|null|
 |**2024-03-05**|**How much information can be extracted from galaxy clustering at the field level?**|Nhat-Minh Nguyen et.al.|[2403.03220](http://arxiv.org/abs/2403.03220)|null|
