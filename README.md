@@ -477,7 +477,7 @@
 |**2024-03-06**|**UPCluster-SZ: The Updated Catalog of Galaxy Clusters from the List of Planck Sunyaev-Zeldovich Sources**|Hyeonguk Bahk et.al.|[2403.03818](http://arxiv.org/abs/2403.03818)|null|
 |**2024-03-04**|**Dr Wenowdis: Specializing dynamic language C extensions using type information**|Maxwell Bernstein et.al.|[2403.02420](http://arxiv.org/abs/2403.02420)|null|
 |**2024-03-04**|**Arrays in Practice: An Empirical Study of Array Access Patterns on the JVM**|Beatrice Åkerblom et.al.|[2403.02416](http://arxiv.org/abs/2403.02416)|null|
-|**2024-03-04**|**nimCSO: A Nim package for Compositional Space Optimization**|Adam M. Krajewski et.al.|[2403.02340](http://arxiv.org/abs/2403.02340)|null|
+|**2024-03-04**|**nimCSO: A Nim package for Compositional Space Optimization**|Adam M. Krajewski et.al.|[2403.02340](http://arxiv.org/abs/2403.02340)|**[link](https://github.com/amkrajewski/nimcso)**|
 |**2024-03-04**|**CODE-ACCORD: A Corpus of Building Regulatory Data for Rule Generation towards Automatic Compliance Checking**|Hansi Hettiarachchi et.al.|[2403.02231](http://arxiv.org/abs/2403.02231)|**[link](https://github.com/accord-project/code-accord)**|
 |**2024-03-04**|**REAL-Colon: A dataset for developing real-world AI applications in colonoscopy**|Carlo Biffi et.al.|[2403.02163](http://arxiv.org/abs/2403.02163)|**[link](https://github.com/cosmoimd/real-colon-dataset)**|
 |**2024-03-04**|**LiveRec: Prototyping Probes by Framing Debug Protocols**|Jean-Baptiste Döderlein et.al.|[2403.02161](http://arxiv.org/abs/2403.02161)|null|
@@ -3737,9 +3737,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-07**|**Photonic probabilistic machine learning using quantum vacuum noise**|Seou Choi et.al.|[2403.04731](http://arxiv.org/abs/2403.04731)|null|
-|**2024-03-07**|**Parendi: Thousand-Way Parallel RTL Simulation**|Mahyar Emami et.al.|[2403.04714](http://arxiv.org/abs/2403.04714)|null|
+|**2024-03-07**|**Parendi: Thousand-Way Parallel RTL Simulation**|Mahyar Emami et.al.|[2403.04714](http://arxiv.org/abs/2403.04714)|**[link](https://github.com/epfl-vlsc/parendi)**|
 |**2024-03-07**|**Exploring the Design Space of Optical See-through AR Head-Mounted Displays to Support First Responders in the Field**|Kexin Zhang et.al.|[2403.04660](http://arxiv.org/abs/2403.04660)|null|
-|**2024-03-07**|**Virtuoso: An Open-Source, Comprehensive and Modular Simulation Framework for Virtual Memory Research**|Konstantinos Kanellopoulos et.al.|[2403.04635](http://arxiv.org/abs/2403.04635)|null|
+|**2024-03-07**|**Virtuoso: An Open-Source, Comprehensive and Modular Simulation Framework for Virtual Memory Research**|Konstantinos Kanellopoulos et.al.|[2403.04635](http://arxiv.org/abs/2403.04635)|**[link](https://github.com/cmu-safari/virtuoso)**|
 |**2024-03-07**|**Learning Agility Adaptation for Flight in Clutter**|Guangyu Zhao et.al.|[2403.04586](http://arxiv.org/abs/2403.04586)|null|
 |**2024-03-07**|**Reducing self-supervised learning complexity improves weakly-supervised classification performance in computational pathology**|Tim Lenz et.al.|[2403.04558](http://arxiv.org/abs/2403.04558)|null|
 |**2024-03-07**|**PUMA: Efficient and Low-Cost Memory Allocation and Alignment Support for Processing-Using-Memory Architectures**|Geraldo F. Oliveira et.al.|[2403.04539](http://arxiv.org/abs/2403.04539)|null|
@@ -5871,11 +5871,11 @@
 |---|---|---|---|---|
 |**2024-03-07**|**Robust teleportation of a surface code and cascade of topological quantum phase transitions**|Finn Eckstein et.al.|[2403.04767](http://arxiv.org/abs/2403.04767)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
-|**2024-03-07**|**Preliminary Guidelines For Combining Data Integration and Visual Data Analysis**|Adam Coscia et.al.|[2403.04757](http://arxiv.org/abs/2403.04757)|null|
+|**2024-03-07**|**Preliminary Guidelines For Combining Data Integration and Visual Data Analysis**|Adam Coscia et.al.|[2403.04757](http://arxiv.org/abs/2403.04757)|**[link](https://github.com/adamcoscia/integration-guidelines-va)**|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**Noise-mitigated randomized measurements and self-calibrating shadow estimation**|E. Onorati et.al.|[2403.04751](http://arxiv.org/abs/2403.04751)|null|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
-|**2024-03-07**|**Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|null|
+|**2024-03-07**|**Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|**[link](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism)**|
 |**2024-03-07**|**Benchmarking News Recommendation in the Era of Green AI**|Qijiong Liu et.al.|[2403.04736](http://arxiv.org/abs/2403.04736)|null|
 |**2024-03-07**|**Testing an entropy estimator related to the dynamical state of galaxy clusters**|J. M. Zúniga et.al.|[2403.04723](http://arxiv.org/abs/2403.04723)|null|
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
@@ -8087,7 +8087,7 @@
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755](http://arxiv.org/abs/2403.04755)|null|
 |**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747](http://arxiv.org/abs/2403.04747)|null|
-|**2024-03-07**|**Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|null|
+|**2024-03-07**|**Speech Emotion Recognition Via CNN-Transforemr and Multidimensional Attention Mechanism**|Xiaoyu Tang et.al.|[2403.04743](http://arxiv.org/abs/2403.04743)|**[link](https://github.com/scnu-rislab/cnn-transforemr-and-multidimensional-attention-mechanism)**|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724](http://arxiv.org/abs/2403.04724)|null|
 |**2024-03-07**|**QRtree -- Decision Tree dialect specification of QRscript**|Stefano Scanzio et.al.|[2403.04716](http://arxiv.org/abs/2403.04716)|null|
 |**2024-03-07**|**QRscript specification**|Stefano Scanzio et.al.|[2403.04708](http://arxiv.org/abs/2403.04708)|null|
@@ -10300,7 +10300,7 @@
 |---|---|---|---|---|
 |**2024-03-07**|**Robust teleportation of a surface code and cascade of topological quantum phase transitions**|Finn Eckstein et.al.|[2403.04767](http://arxiv.org/abs/2403.04767)|null|
 |**2024-03-07**|**Lifelong Intelligence Beyond the Edge using Hyperdimensional Computing**|Xiaofan Yu et.al.|[2403.04759](http://arxiv.org/abs/2403.04759)|**[link](https://github.com/orienfish/lifehd)**|
-|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|null|
+|**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|**[link](https://github.com/adamcoscia/knowledgevis)**|
 |**2024-03-07**|**Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall of Shapley Values**|Meng Qi et.al.|[2403.04753](http://arxiv.org/abs/2403.04753)|null|
 |**2024-03-07**|**Noise-mitigated randomized measurements and self-calibrating shadow estimation**|E. Onorati et.al.|[2403.04751](http://arxiv.org/abs/2403.04751)|null|
 |**2024-03-07**|**Iyer-Wald ambiguities and gauge covariance of Entropy current in Higher derivative theories of gravity**|Alokananda Kar et.al.|[2403.04749](http://arxiv.org/abs/2403.04749)|null|
