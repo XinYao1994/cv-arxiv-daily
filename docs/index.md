@@ -10278,6 +10278,7 @@ layout: default
 |**2024-03-07**|**Iyer-Wald ambiguities and gauge covariance of Entropy current in Higher derivative theories of gravity**|Alokananda Kar et.al.|[2403.04749](http://arxiv.org/abs/2403.04749)|null|
 |**2024-03-07**|**A Stabilizing NMPC Strategy for a Class of Nonholonomic Systems with Drift**|Huu Thien Nguyen et.al.|[2403.04748](http://arxiv.org/abs/2403.04748)|null|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
+|**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[2403.04745](http://arxiv.org/abs/2403.04745)|null|
 |**2024-03-07**|**Bayesian Inference of Time-Varying Origin-Destination Matrices from Boarding/Alighting Counts for Transit Services**|Xiaoxu Chen et.al.|[2403.04742](http://arxiv.org/abs/2403.04742)|null|
 |**2024-03-07**|**Control Theorems for Hilbert Modular Varieties**|Arshay Sheth et.al.|[2403.04738](http://arxiv.org/abs/2403.04738)|null|
 |**2024-03-06**|**Decoupling the electronic gap from the spin Chern number in disordered higher-order topological insulators**|Alexander C. Tyner et.al.|[2403.03957](http://arxiv.org/abs/2403.03957)|null|
