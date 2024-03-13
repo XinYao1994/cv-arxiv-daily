@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
 |**2024-02-09**|**ForestColl: Efficient Collective Communications on Heterogeneous Network Fabrics**|Liangyu Zhao et.al.|[2402.06787](http://arxiv.org/abs/2402.06787)|null|
 |**2024-02-07**|**A Deep Reinforcement Learning Approach for Adaptive Traffic Routing in Next-gen Networks**|Akshita Abrol et.al.|[2402.04515](http://arxiv.org/abs/2402.04515)|null|
@@ -137,6 +138,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Improving Fairness in Photovoltaic Curtailments via Daily Topology Reconfiguration for Voltage Control in Power Distribution Networks**|Rahul K. Gupta et.al.|[2403.07853](http://arxiv.org/abs/2403.07853)|null|
 |**2024-03-09**|**Invariant Properties of Linear-Iterative Distributed Averaging Algorithms and Application to Error Detection**|Christoforos N. Hadjicostis et.al.|[2403.06007](http://arxiv.org/abs/2403.06007)|null|
 |**2024-03-09**|**Efficient Fault Detection and Categorization in Electrical Distribution Systems Using Hessian Locally Linear Embedding on Measurement Data**|Victor Sam Moses Babu K. et.al.|[2403.05995](http://arxiv.org/abs/2403.05995)|null|
 |**2024-03-09**|**Fault Classification in Electrical Distribution Systems using Grassmann Manifold**|Victor Sam Moses Babu K. et.al.|[2403.05991](http://arxiv.org/abs/2403.05991)|null|
@@ -479,6 +481,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872](http://arxiv.org/abs/2403.07872)|null|
+|**2024-03-12**|**Quotients of M-convex sets and M-convex functions**|Marie-Charlotte Brandenburg et.al.|[2403.07751](http://arxiv.org/abs/2403.07751)|null|
+|**2024-03-12**|**Rotational Evolution of Classical T Tauri Stars: Models and Observations**|Javier Serna et.al.|[2403.07505](http://arxiv.org/abs/2403.07505)|null|
+|**2024-03-11**|**Simulating Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.07197](http://arxiv.org/abs/2403.07197)|null|
+|**2024-03-11**|**Cold Quasar Investigation: Comparing Star Formation Rates to Black Hole Growth**|Sasha Mintz et.al.|[2403.07196](http://arxiv.org/abs/2403.07196)|null|
+|**2024-03-11**|**CuentosIE: can a chatbot about "tales with a message" help to teach emotional intelligence?**|Antonio Ferrández et.al.|[2403.07193](http://arxiv.org/abs/2403.07193)|null|
 |**2024-03-11**|**Suppressing Correlated Noise in Quantum Computers via Context-Aware Compiling**|Alireza Seif et.al.|[2403.06852](http://arxiv.org/abs/2403.06852)|null|
 |**2024-03-11**|**Towards Fixed-Point Formats Determination for Faust Programs**|Agathe Herrou et.al.|[2403.06527](http://arxiv.org/abs/2403.06527)|null|
 |**2024-03-11**|**Automatic Generation of Python Programs Using Context-Free Grammars**|Kamel Yamani et.al.|[2403.06503](http://arxiv.org/abs/2403.06503)|**[link](https://github.com/marwanair/tinypy-generator)**|
@@ -1541,6 +1549,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Online Digital Twin-Empowered Content Resale Mechanism in Age of Information-Aware Edge Caching Networks**|Yuhan Yi et.al.|[2403.07868](http://arxiv.org/abs/2403.07868)|null|
+|**2024-03-12**|**The Virtues of Laziness: Multi-Query Kinodynamic Motion Planning with Lazy Methods**|Anuj Pasricha et.al.|[2403.07867](http://arxiv.org/abs/2403.07867)|null|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
+|**2024-03-12**|**Low coordinate degree algorithms I: Universality of computational thresholds for hypothesis testing**|Dmitriy Kunisky et.al.|[2403.07862](http://arxiv.org/abs/2403.07862)|null|
+|**2024-03-12**|**Accelerating Biclique Counting on GPU**|Linshan Qiu et.al.|[2403.07858](http://arxiv.org/abs/2403.07858)|null|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857](http://arxiv.org/abs/2403.07857)|null|
+|**2024-03-12**|**Distilling the Knowledge in Data Pruning**|Emanuel Ben-Baruch et.al.|[2403.07854](http://arxiv.org/abs/2403.07854)|null|
+|**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849](http://arxiv.org/abs/2403.07849)|null|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**Syncopated Dynamical Decoupling for Suppressing Crosstalk in Quantum Circuits**|Bram Evert et.al.|[2403.07836](http://arxiv.org/abs/2403.07836)|null|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
 |**2024-03-11**|**A representation-learning game for classes of prediction tasks**|Neria Uzan et.al.|[2403.06971](http://arxiv.org/abs/2403.06971)|null|
 |**2024-03-11**|**Accurate Crystal Structure Prediction of New 2D Hybrid Organic Inorganic Perovskites**|Nima Karimitari et.al.|[2403.06955](http://arxiv.org/abs/2403.06955)|null|
@@ -3777,6 +3795,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**SIDE-real: Truncated marginal neural ratio estimation for Supernova Ia Dust Extinction with real data**|Konstantin Karchev et.al.|[2403.07871](http://arxiv.org/abs/2403.07871)|null|
+|**2024-03-12**|**Syncopated Dynamical Decoupling for Suppressing Crosstalk in Quantum Circuits**|Bram Evert et.al.|[2403.07836](http://arxiv.org/abs/2403.07836)|null|
+|**2024-03-12**|**Augmenting Interpolation-Based Model Checking with Auxiliary Invariants (Extended Version)**|Dirk Beyer et.al.|[2403.07821](http://arxiv.org/abs/2403.07821)|null|
+|**2024-03-12**|**Performance Analysis of Matrix Multiplication for Deep Learning on the Edge**|Cristian Ramírez et.al.|[2403.07731](http://arxiv.org/abs/2403.07731)|null|
+|**2024-03-12**|**Enhancing Physical Layer Security in Dual-Function Radar-Communication Systems with Hybrid Beamforming Architecture**|Lingyun Xu et.al.|[2403.07655](http://arxiv.org/abs/2403.07655)|null|
+|**2024-03-12**|**Characterization of Large Language Model Development in the Datacenter**|Qinghao Hu et.al.|[2403.07648](http://arxiv.org/abs/2403.07648)|**[link](https://github.com/internlm/acmetrace)**|
+|**2024-03-12**|**A Framework for Controlling Multiple Industrial Robots using Mobile Applications**|Daniela Alvarado et.al.|[2403.07639](http://arxiv.org/abs/2403.07639)|null|
+|**2024-03-12**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|null|
+|**2024-03-12**|**One for All and All for One: GNN-based Control-Flow Attestation for Embedded Devices**|Marco Chilese et.al.|[2403.07465](http://arxiv.org/abs/2403.07465)|null|
+|**2024-03-12**|**Compressed-sensing Lindbladian quantum tomography with trapped ions**|Dmitrii Dobrynin et.al.|[2403.07462](http://arxiv.org/abs/2403.07462)|null|
 |**2024-03-11**|**Quadruped-Frog: Rapid Online Optimization of Continuous Quadruped Jumping**|Guillaume Bellegarda et.al.|[2403.06954](http://arxiv.org/abs/2403.06954)|null|
 |**2024-03-11**|**TCAM-SSD: A Framework for Search-Based Computing in Solid-State Drives**|Ryan Wong et.al.|[2403.06938](http://arxiv.org/abs/2403.06938)|null|
 |**2024-03-11**|**Optimizing sDTW for AMD GPUs**|Daniel Latta-Lin et.al.|[2403.06931](http://arxiv.org/abs/2403.06931)|null|
@@ -5930,6 +5958,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
+|**2024-03-12**|**Online Digital Twin-Empowered Content Resale Mechanism in Age of Information-Aware Edge Caching Networks**|Yuhan Yi et.al.|[2403.07868](http://arxiv.org/abs/2403.07868)|null|
+|**2024-03-12**|**Robustness of a state with Ising topological order against local projective measurements**|Sanjeev Kumar et.al.|[2403.07866](http://arxiv.org/abs/2403.07866)|null|
+|**2024-03-12**|**Low coordinate degree algorithms I: Universality of computational thresholds for hypothesis testing**|Dmitriy Kunisky et.al.|[2403.07862](http://arxiv.org/abs/2403.07862)|null|
+|**2024-03-12**|**Laser-written waveguide-integrated coherent spins in diamond**|Yanzhao Guo et.al.|[2403.07850](http://arxiv.org/abs/2403.07850)|null|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832](http://arxiv.org/abs/2403.07832)|null|
+|**2024-03-12**|**Parity questions in critical planar Brownian loop-soups (or "where did the free planar bosons go?")**|Matthis Lehmkuehler et.al.|[2403.07830](http://arxiv.org/abs/2403.07830)|null|
+|**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825](http://arxiv.org/abs/2403.07825)|null|
+|**2024-03-12**|**Fusing Climate Data Products using a Spatially Varying Autoencoder**|Jacob A. Johnson et.al.|[2403.07822](http://arxiv.org/abs/2403.07822)|null|
 |**2024-03-11**|**Attention Prompt Tuning: Parameter-efficient Adaptation of Pre-trained Models for Spatiotemporal Modeling**|Wele Gedara Chaminda Bandara et.al.|[2403.06978](http://arxiv.org/abs/2403.06978)|**[link](https://github.com/wgcban/apt)**|
 |**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
 |**2024-03-11**|**Memory-based Adapters for Online 3D Scene Perception**|Xiuwei Xu et.al.|[2403.06974](http://arxiv.org/abs/2403.06974)|null|
@@ -8164,6 +8202,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**SIDE-real: Truncated marginal neural ratio estimation for Supernova Ia Dust Extinction with real data**|Konstantin Karchev et.al.|[2403.07871](http://arxiv.org/abs/2403.07871)|null|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
+|**2024-03-12**|**Online Digital Twin-Empowered Content Resale Mechanism in Age of Information-Aware Edge Caching Networks**|Yuhan Yi et.al.|[2403.07868](http://arxiv.org/abs/2403.07868)|null|
+|**2024-03-12**|**Synthesis of epitaxial magnetic pyrochlore heterojunctions**|Mikhail Kareev et.al.|[2403.07861](http://arxiv.org/abs/2403.07861)|null|
+|**2024-03-12**|**Distilling the Knowledge in Data Pruning**|Emanuel Ben-Baruch et.al.|[2403.07854](http://arxiv.org/abs/2403.07854)|null|
+|**2024-03-12**|**Improving Fairness in Photovoltaic Curtailments via Daily Topology Reconfiguration for Voltage Control in Power Distribution Networks**|Rahul K. Gupta et.al.|[2403.07853](http://arxiv.org/abs/2403.07853)|null|
+|**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849](http://arxiv.org/abs/2403.07849)|null|
+|**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845](http://arxiv.org/abs/2403.07845)|**[link](https://github.com/sfalmo/HyperDFT)**|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**From Files to Streams: Revisiting Web History and Exploring Potentials for Future Prospects**|Lucas Vogel et.al.|[2403.07828](http://arxiv.org/abs/2403.07828)|null|
 |**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979](http://arxiv.org/abs/2403.06979)|null|
 |**2024-03-11**|**VideoMamba: State Space Model for Efficient Video Understanding**|Kunchang Li et.al.|[2403.06977](http://arxiv.org/abs/2403.06977)|**[link](https://github.com/opengvlab/videomamba)**|
 |**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
@@ -10399,6 +10447,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Stability of Anomalous Hall Crystals in multilayer rhombohedral graphene**|Zhihuan Dong et.al.|[2403.07873](http://arxiv.org/abs/2403.07873)|null|
+|**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872](http://arxiv.org/abs/2403.07872)|null|
+|**2024-03-12**|**OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation**|Aadhithya Iyer et.al.|[2403.07870](http://arxiv.org/abs/2403.07870)|null|
+|**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
+|**2024-03-12**|**Spectral invariants for non-compactly supported Hamiltonians on the disc, and an application to the mean action spectrum**|Barney Bramham et.al.|[2403.07863](http://arxiv.org/abs/2403.07863)|null|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857](http://arxiv.org/abs/2403.07857)|null|
+|**2024-03-12**|**Improving Fairness in Photovoltaic Curtailments via Daily Topology Reconfiguration for Voltage Control in Power Distribution Networks**|Rahul K. Gupta et.al.|[2403.07853](http://arxiv.org/abs/2403.07853)|null|
+|**2024-03-12**|**12 mJ per Class On-Device Online Few-Shot Class-Incremental Learning**|Yoga Esa Wibowo et.al.|[2403.07851](http://arxiv.org/abs/2403.07851)|**[link](https://github.com/pulp-platform/fscil)**|
+|**2024-03-12**|**Hyper-density functional theory of soft matter**|Florian Sammüller et.al.|[2403.07845](http://arxiv.org/abs/2403.07845)|**[link](https://github.com/sfalmo/HyperDFT)**|
+|**2024-03-12**|**Topological Protection of Optical Skyrmions through Complex Media**|An Aloysius Wang et.al.|[2403.07837](http://arxiv.org/abs/2403.07837)|null|
 |**2024-03-11**|**Imaging of I Zw 18 by JWST: I. Strategy and First Results of Dusty Stellar Populations**|Alec S. Hirschauer et.al.|[2403.06980](http://arxiv.org/abs/2403.06980)|null|
 |**2024-03-11**|**Tidal synchronization trapping in stars and planets with convective envelopes**|Janosz W. Dewberry et.al.|[2403.06979](http://arxiv.org/abs/2403.06979)|null|
 |**2024-03-11**|**MRL Parsing Without Tears: The Case of Hebrew**|Shaltiel Shmidman et.al.|[2403.06970](http://arxiv.org/abs/2403.06970)|null|
