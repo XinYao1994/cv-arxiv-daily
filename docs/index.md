@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -3851,7 +3851,7 @@ layout: default
 |**2024-03-19**|**DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset**|Alexander Khazatsky et.al.|[2403.12945](http://arxiv.org/abs/2403.12945)|null|
 |**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910](http://arxiv.org/abs/2403.12910)|null|
 |**2024-03-19**|**Wideband Modeling and Beamforming for Beyond Diagonal Reconfigurable Intelligent Surfaces**|Hongyu Li et.al.|[2403.12893](http://arxiv.org/abs/2403.12893)|null|
-|**2024-03-19**|**Average circuit eigenvalue sampling on NISQ devices**|Emilio Pelaez Cisneros et.al.|[2403.12857](http://arxiv.org/abs/2403.12857)|null|
+|**2024-03-20**|**Average circuit eigenvalue sampling on NISQ devices**|Emilio Pelaez et.al.|[2403.12857](http://arxiv.org/abs/2403.12857)|null|
 |**2024-03-19**|**Optimizing Service Placement in Edge-to-Cloud AR/VR Systems using a Multi-Objective Genetic Algorithm**|Mohammadsadeq Garshasbi Herabad et.al.|[2403.12849](http://arxiv.org/abs/2403.12849)|null|
 |**2024-03-19**|**MELTing point: Mobile Evaluation of Language Transformers**|Stefanos Laskaridis et.al.|[2403.12844](http://arxiv.org/abs/2403.12844)|null|
 |**2024-03-19**|**Knowledge and Data Dual-Driven Channel Estimation and Feedback for Ultra-Massive MIMO Systems under Hybrid Field Beam Squint Effect**|Kuiyu Wang et.al.|[2403.12813](http://arxiv.org/abs/2403.12813)|null|
