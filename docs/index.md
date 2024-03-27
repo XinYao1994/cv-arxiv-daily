@@ -131,6 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Lessons Learned from Building Edge Software System Testbeds**|Tobias Pfandzelter et.al.|[2403.16869](http://arxiv.org/abs/2403.16869)|null|
 |**2024-03-21**|**Blockchain e Sistemas Distribuídos: conceitos básicos e implicações**|M. Witter et.al.|[2403.14854](http://arxiv.org/abs/2403.14854)|null|
 |**2024-03-21**|**Adversary-Augmented Simulation to evaluate client-fairness on HyperLedger Fabric**|Erwan Mahe et.al.|[2403.14342](http://arxiv.org/abs/2403.14342)|null|
 |**2024-03-20**|**Optimal Fixed Priority Scheduling in Multi-Stage Multi-Resource Distributed Real-Time Systems**|Niraj Kumar et.al.|[2403.13411](http://arxiv.org/abs/2403.13411)|null|
@@ -486,6 +487,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**On the Computational Complexity of Stackelberg Planning and Meta-Operator Verification: Technical Report**|Gregor Behnke et.al.|[2403.17826](http://arxiv.org/abs/2403.17826)|null|
+|**2024-03-26**|**Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding**|Yuhao Liu et.al.|[2403.17794](http://arxiv.org/abs/2403.17794)|null|
+|**2024-03-26**|**SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation**|Dongqi Pu et.al.|[2403.17768](http://arxiv.org/abs/2403.17768)|null|
+|**2024-03-25**|**Relational Network Verification**|Xieyang Xu et.al.|[2403.17277](http://arxiv.org/abs/2403.17277)|null|
+|**2024-03-25**|**Guided Distant Supervision for Multilingual Relation Extraction Data: Adapting to a New Language**|Alistair Plum et.al.|[2403.17143](http://arxiv.org/abs/2403.17143)|null|
+|**2024-03-25**|**Exploring the Generalization of Cancer Clinical Trial Eligibility Classifiers Across Diseases**|Yumeng Yang et.al.|[2403.17135](http://arxiv.org/abs/2403.17135)|null|
 |**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
 |**2024-03-24**|**Thermal Analysis for NVIDIA GTX480 Fermi GPU Architecture**|Savinay Nagendra et.al.|[2403.16239](http://arxiv.org/abs/2403.16239)|null|
 |**2024-03-24**|**LLMs as Compiler for Arabic Programming Language**|Serry Sibaee et.al.|[2403.16087](http://arxiv.org/abs/2403.16087)|null|
@@ -1587,6 +1594,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**SLEDGE: Synthesizing Simulation Environments for Driving Agents with Generative Models**|Kashyap Chitta et.al.|[2403.17933](http://arxiv.org/abs/2403.17933)|null|
+|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917](http://arxiv.org/abs/2403.17917)|null|
+|**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914](http://arxiv.org/abs/2403.17914)|null|
+|**2024-03-26**|**Enhancing Indoor and Outdoor THz Communications with Beyond Diagonal-IRS: Optimization and Performance Analysis**|Asad Mahmood et.al.|[2403.17913](http://arxiv.org/abs/2403.17913)|null|
+|**2024-03-26**|**Multi-Agent Resilient Consensus under Intermittent Faulty and Malicious Transmissions (Extended Version)**|Sarper Aydın et.al.|[2403.17907](http://arxiv.org/abs/2403.17907)|null|
+|**2024-03-26**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Chen Yiwei et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
+|**2024-03-26**|**Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data**|Yonghao Xu et.al.|[2403.17884](http://arxiv.org/abs/2403.17884)|null|
+|**2024-03-26**|**Parallelizable Parametric Nonlinear System Identification via tuning of a Moving Horizon State Estimator**|Léo Simpson et.al.|[2403.17858](http://arxiv.org/abs/2403.17858)|null|
+|**2024-03-26**|**Counterfactual Fairness through Transforming Data Orthogonal to Bias**|Shuyi Chen et.al.|[2403.17852](http://arxiv.org/abs/2403.17852)|null|
+|**2024-03-26**|**Multi Agent Pathfinding for Noise Restricted Hybrid Fuel Unmanned Aerial Vehicles**|Drew Scott et.al.|[2403.17849](http://arxiv.org/abs/2403.17849)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Efficient Method for Finding Optimal Strategies in Chopstick Auctions with Uniform Objects Values**|Stanisław Kaźmierowski et.al.|[2403.16799](http://arxiv.org/abs/2403.16799)|null|
 |**2024-03-25**|**Nonlinear dynamics as a ground-state solution on quantum computers**|Albert J. Pool et.al.|[2403.16791](http://arxiv.org/abs/2403.16791)|null|
@@ -3911,6 +3928,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Proceedings Sixth Workshop on Models for Formal Analysis of Real Systems**|Frédéric Lang et.al.|[2403.17862](http://arxiv.org/abs/2403.17862)|null|
+|**2024-03-26**|**Molecular groundstate determination via short pulses on superconducting qubits**|Noga Entin et.al.|[2403.17789](http://arxiv.org/abs/2403.17789)|null|
+|**2024-03-26**|**Learning Goal-Directed Object Pushing in Cluttered Scenes with Location-Based Attention**|Nils Dengler et.al.|[2403.17667](http://arxiv.org/abs/2403.17667)|null|
+|**2024-03-26**|**MR sequence design using digital twins of non-idealized hardware**|Daniel J West et.al.|[2403.17575](http://arxiv.org/abs/2403.17575)|null|
+|**2024-03-26**|**From Computing to Quantum Mechanics: Accessible and Hands-On Quantum Computing Education for High School Students**|Qihong Sun et.al.|[2403.17485](http://arxiv.org/abs/2403.17485)|null|
+|**2024-03-26**|**Compensating for charge sharing by a deep-learning method: a preliminary experimental study**|Shengzi Zhao et.al.|[2403.17375](http://arxiv.org/abs/2403.17375)|null|
+|**2024-03-26**|**Leveraging Symmetry in RL-based Legged Locomotion Control**|Zhi Su et.al.|[2403.17320](http://arxiv.org/abs/2403.17320)|null|
+|**2024-03-26**|**Two Birds with One Stone: Differential Privacy by Low-power SRAM Memory**|Jianqing Liu et.al.|[2403.17303](http://arxiv.org/abs/2403.17303)|null|
+|**2024-03-25**|**Exact block encoding of imaginary time evolution with universal quantum neural networks**|Ermal Rrapaj et.al.|[2403.17273](http://arxiv.org/abs/2403.17273)|null|
+|**2024-03-25**|**Building an Open-Source Community to Enhance Autonomic Nervous System Signal Analysis: DBDP-Autonomic**|Jessilyn Dunn et.al.|[2403.17165](http://arxiv.org/abs/2403.17165)|null|
 |**2024-03-25**|**C-arm inverse geometry CT for 3D cardiac chamber mapping**|Jordan M. Slagowski et.al.|[2403.16779](http://arxiv.org/abs/2403.16779)|null|
 |**2024-03-25**|**Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation**|Martina Lippi et.al.|[2403.16764](http://arxiv.org/abs/2403.16764)|null|
 |**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
@@ -6152,6 +6179,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation**|Qingping Sun et.al.|[2403.17934](http://arxiv.org/abs/2403.17934)|null|
+|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917](http://arxiv.org/abs/2403.17917)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
+|**2024-03-26**|**Hierarchical Multi-label Classification for Fine-level Event Extraction from Aviation Accident Reports**|Xinyu Zhao et.al.|[2403.17914](http://arxiv.org/abs/2403.17914)|null|
+|**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
+|**2024-03-26**|**Reciprocity Calibration of Dual-Antenna Repeaters**|Erik G. Larsson et.al.|[2403.17908](http://arxiv.org/abs/2403.17908)|null|
+|**2024-03-26**|**Search and Society: Reimagining Information Access for Radical Futures**|Bhaskar Mitra et.al.|[2403.17901](http://arxiv.org/abs/2403.17901)|null|
+|**2024-03-26**|**A severe local flood and social events show a similar impact on human mobility**|Simone Loreti et.al.|[2403.17899](http://arxiv.org/abs/2403.17899)|null|
+|**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
+|**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876](http://arxiv.org/abs/2403.17876)|**[link](https://github.com/andreeaiana/xmind)**|
 |**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
 |**2024-03-25**|**Exploiting Priors from 3D Diffusion Models for RGB-Based One-Shot View Planning**|Sicong Pan et.al.|[2403.16803](http://arxiv.org/abs/2403.16803)|null|
 |**2024-03-25**|**Privacy Preservation by Intermittent Transmission in Cooperative LQG Control Systems**|Wenhao Lin et.al.|[2403.16797](http://arxiv.org/abs/2403.16797)|null|
@@ -8474,6 +8511,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
+|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|**[link](https://github.com/ispamm/hxai)**|
+|**2024-03-26**|**FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes**|Anoop Kini et.al.|[2403.17926](http://arxiv.org/abs/2403.17926)|null|
+|**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
+|**2024-03-26**|**Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos**|Akshay Paruchuri et.al.|[2403.17915](http://arxiv.org/abs/2403.17915)|null|
+|**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
+|**2024-03-26**|**Reciprocity Calibration of Dual-Antenna Repeaters**|Erik G. Larsson et.al.|[2403.17908](http://arxiv.org/abs/2403.17908)|null|
+|**2024-03-26**|**Multi-Agent Resilient Consensus under Intermittent Faulty and Malicious Transmissions (Extended Version)**|Sarper Aydın et.al.|[2403.17907](http://arxiv.org/abs/2403.17907)|null|
+|**2024-03-26**|**WKB asymptotics of Stokes matrices, spectral curves and rhombus inequalities**|Anton Alekseev et.al.|[2403.17906](http://arxiv.org/abs/2403.17906)|null|
+|**2024-03-26**|**Scalable Non-Cartesian Magnetic Resonance Imaging with R2D2**|Chen Yiwei et.al.|[2403.17905](http://arxiv.org/abs/2403.17905)|null|
 |**2024-03-25**|**Cluster-Based Normalization Layer for Neural Networks**|Bilal Faye et.al.|[2403.16798](http://arxiv.org/abs/2403.16798)|null|
 |**2024-03-25**|**DBPF: A Framework for Efficient and Robust Dynamic Bin-Picking**|Yichuan Li et.al.|[2403.16786](http://arxiv.org/abs/2403.16786)|null|
 |**2024-03-25**|**Enhanced extracellular matrix remodeling due to embedded spheroid fluidization**|Tao Zhang et.al.|[2403.16784](http://arxiv.org/abs/2403.16784)|null|
@@ -10797,6 +10844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-26**|**Controlling the chaotic wake of a flapping foil by tuning its chordwise flexibility**|Chhote Lal Shah et.al.|[2403.17932](http://arxiv.org/abs/2403.17932)|null|
+|**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
+|**2024-03-26**|**The instability mechanism of compact multiplanet systems**|Caleb Lammers et.al.|[2403.17928](http://arxiv.org/abs/2403.17928)|null|
+|**2024-03-26**|**Proofs that Modify Proofs**|Henry Towsner et.al.|[2403.17922](http://arxiv.org/abs/2403.17922)|null|
+|**2024-03-26**|**Multi-Agent Clarity-Aware Dynamic Coverage with Gaussian Processes**|Devansh R. Agrawal et.al.|[2403.17917](http://arxiv.org/abs/2403.17917)|null|
+|**2024-03-26**|**CMP: Cooperative Motion Prediction with Multi-Agent Communication**|Zhuoyuan Wu et.al.|[2403.17916](http://arxiv.org/abs/2403.17916)|null|
+|**2024-03-26**|**Enhancing Indoor and Outdoor THz Communications with Beyond Diagonal-IRS: Optimization and Performance Analysis**|Asad Mahmood et.al.|[2403.17913](http://arxiv.org/abs/2403.17913)|null|
+|**2024-03-26**|**Emergent Anomalous Hydrodynamics at Infinite Temperature in a Long-Range XXZ Model**|Ang Yang et.al.|[2403.17912](http://arxiv.org/abs/2403.17912)|null|
+|**2024-03-26**|**Domain-Specific Evaluation Strategies for AI in Journalism**|Sachita Nishal et.al.|[2403.17911](http://arxiv.org/abs/2403.17911)|null|
+|**2024-03-26**|**Reciprocity Calibration of Dual-Antenna Repeaters**|Erik G. Larsson et.al.|[2403.17908](http://arxiv.org/abs/2403.17908)|null|
 |**2024-03-25**|**Holographic Gaussian Boson Sampling with Matrix Product States on 3D cQED Processors**|Ningyi Lyu et.al.|[2403.16810](http://arxiv.org/abs/2403.16810)|null|
 |**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
 |**2024-03-25**|**Navigating the EU AI Act: A Methodological Approach to Compliance for Safety-critical Products**|J. Kelly et.al.|[2403.16808](http://arxiv.org/abs/2403.16808)|null|
