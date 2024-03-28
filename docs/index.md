@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -488,7 +488,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-26**|**On the Computational Complexity of Stackelberg Planning and Meta-Operator Verification: Technical Report**|Gregor Behnke et.al.|[2403.17826](http://arxiv.org/abs/2403.17826)|null|
-|**2024-03-26**|**Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding**|Yuhao Liu et.al.|[2403.17794](http://arxiv.org/abs/2403.17794)|null|
+|**2024-03-27**|**Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding**|Yuhao Liu et.al.|[2403.17794](http://arxiv.org/abs/2403.17794)|null|
 |**2024-03-26**|**SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation**|Dongqi Pu et.al.|[2403.17768](http://arxiv.org/abs/2403.17768)|null|
 |**2024-03-25**|**Relational Network Verification**|Xieyang Xu et.al.|[2403.17277](http://arxiv.org/abs/2403.17277)|null|
 |**2024-03-25**|**Guided Distant Supervision for Multilingual Relation Extraction Data: Adapting to a New Language**|Alistair Plum et.al.|[2403.17143](http://arxiv.org/abs/2403.17143)|null|
@@ -3934,10 +3934,10 @@ layout: default
 |**2024-03-26**|**MR sequence design using digital twins of non-idealized hardware**|Daniel J West et.al.|[2403.17575](http://arxiv.org/abs/2403.17575)|null|
 |**2024-03-26**|**From Computing to Quantum Mechanics: Accessible and Hands-On Quantum Computing Education for High School Students**|Qihong Sun et.al.|[2403.17485](http://arxiv.org/abs/2403.17485)|null|
 |**2024-03-26**|**Compensating for charge sharing by a deep-learning method: a preliminary experimental study**|Shengzi Zhao et.al.|[2403.17375](http://arxiv.org/abs/2403.17375)|null|
-|**2024-03-26**|**Leveraging Symmetry in RL-based Legged Locomotion Control**|Zhi Su et.al.|[2403.17320](http://arxiv.org/abs/2403.17320)|null|
+|**2024-03-27**|**Leveraging Symmetry in RL-based Legged Locomotion Control**|Zhi Su et.al.|[2403.17320](http://arxiv.org/abs/2403.17320)|null|
 |**2024-03-26**|**Two Birds with One Stone: Differential Privacy by Low-power SRAM Memory**|Jianqing Liu et.al.|[2403.17303](http://arxiv.org/abs/2403.17303)|null|
 |**2024-03-25**|**Exact block encoding of imaginary time evolution with universal quantum neural networks**|Ermal Rrapaj et.al.|[2403.17273](http://arxiv.org/abs/2403.17273)|null|
-|**2024-03-25**|**Building an Open-Source Community to Enhance Autonomic Nervous System Signal Analysis: DBDP-Autonomic**|Jessilyn Dunn et.al.|[2403.17165](http://arxiv.org/abs/2403.17165)|null|
+|**2024-03-27**|**Building an Open-Source Community to Enhance Autonomic Nervous System Signal Analysis: DBDP-Autonomic**|Jessilyn Dunn et.al.|[2403.17165](http://arxiv.org/abs/2403.17165)|null|
 |**2024-03-25**|**C-arm inverse geometry CT for 3D cardiac chamber mapping**|Jordan M. Slagowski et.al.|[2403.16779](http://arxiv.org/abs/2403.16779)|null|
 |**2024-03-25**|**Low-Cost Teleoperation with Haptic Feedback through Vision-based Tactile Sensors for Rigid and Soft Object Manipulation**|Martina Lippi et.al.|[2403.16764](http://arxiv.org/abs/2403.16764)|null|
 |**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
@@ -8512,7 +8512,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
-|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|**[link](https://github.com/ispamm/hxai)**|
+|**2024-03-26**|**Towards Explaining Hypercomplex Neural Networks**|Eleonora Lopez et.al.|[2403.17929](http://arxiv.org/abs/2403.17929)|null|
 |**2024-03-26**|**FastCAR: Fast Classification And Regression Multi-Task Learning via Task Consolidation for Modelling a Continuous Property Variable of Object Classes**|Anoop Kini et.al.|[2403.17926](http://arxiv.org/abs/2403.17926)|null|
 |**2024-03-26**|**The Need for Speed: Pruning Transformers with One Recipe**|Samir Khaki et.al.|[2403.17921](http://arxiv.org/abs/2403.17921)|**[link](https://github.com/skhaki18/optin-transformer-pruning)**|
 |**2024-03-26**|**Leveraging Near-Field Lighting for Monocular Depth Estimation from Endoscopy Videos**|Akshay Paruchuri et.al.|[2403.17915](http://arxiv.org/abs/2403.17915)|null|
@@ -13182,7 +13182,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-19**|**A note on incomplete Cholesky factorizations in half precision arithmetic**|Jennifer Scott et.al.|[2403.13123](http://arxiv.org/abs/2403.13123)|null|
 |**2024-03-13**|**Collaborative Automotive Radar Sensing via Mixed-Precision Distributed Array Completion**|Arian Eamaz et.al.|[2403.08168](http://arxiv.org/abs/2403.08168)|null|
-|**2024-03-08**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|null|
+|**2024-03-26**|**Algorithm-Hardware Co-Design of Distribution-Aware Logarithmic-Posit Encodings for Efficient DNN Inference**|Akshat Ramachandran et.al.|[2403.05465](http://arxiv.org/abs/2403.05465)|**[link](https://github.com/georgia-tech-synergy-lab/LogarithmicPosit)**|
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-02**|**LLM-PQ: Serving LLM on Heterogeneous Clusters with Phase-Aware Partition and Adaptive Quantization**|Juntao Zhao et.al.|[2403.01136](http://arxiv.org/abs/2403.01136)|**[link](https://github.com/tonyzhao-jt/LLM-PQ)**|
 |**2024-02-28**|**No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization**|June Yong Yang et.al.|[2402.18096](http://arxiv.org/abs/2402.18096)|null|
