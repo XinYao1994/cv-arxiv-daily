@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -131,8 +131,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
-|**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
+|**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|**[link](https://github.com/georgejolo/enfusion)**|
 |**2024-03-26**|**Extending Network Calculus To Deal With Partially Negative And Decreasing Service Curves**|Anja Hamscher et.al.|[2403.18042](http://arxiv.org/abs/2403.18042)|null|
 |**2024-03-25**|**Lessons Learned from Building Edge Software System Testbeds**|Tobias Pfandzelter et.al.|[2403.16869](http://arxiv.org/abs/2403.16869)|null|
 |**2024-03-21**|**Blockchain e Sistemas Distribuídos: conceitos básicos e implicações**|M. Witter et.al.|[2403.14854](http://arxiv.org/abs/2403.14854)|null|
@@ -491,12 +491,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
-|**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|null|
+|**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|**[link](https://github.com/georgejolo/enfusion)**|
 |**2024-03-27**|**Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**|Zhixin Guo et.al.|[2403.18306](http://arxiv.org/abs/2403.18306)|null|
 |**2024-03-26**|**For those who don't know (how) to ask: Building a dataset of technology questions for digital newcomers**|Evan Lucas et.al.|[2403.18125](http://arxiv.org/abs/2403.18125)|null|
 |**2024-03-26**|**Efficient Multi-Band Temporal Video Filter for Reducing Human-Robot Interaction**|Lawrence O'Gorman et.al.|[2403.18096](http://arxiv.org/abs/2403.18096)|null|
 |**2024-03-26**|**On the Computational Complexity of Stackelberg Planning and Meta-Operator Verification: Technical Report**|Gregor Behnke et.al.|[2403.17826](http://arxiv.org/abs/2403.17826)|null|
-|**2024-03-27**|**Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding**|Yuhao Liu et.al.|[2403.17794](http://arxiv.org/abs/2403.17794)|null|
+|**2024-03-27**|**Fermihedral: On the Optimal Compilation for Fermion-to-Qubit Encoding**|Yuhao Liu et.al.|[2403.17794](http://arxiv.org/abs/2403.17794)|**[link](https://github.com/acasta-yhliu/fermihedral)**|
 |**2024-03-26**|**SciNews: From Scholarly Complexities to Public Narratives -- A Dataset for Scientific News Report Generation**|Dongqi Pu et.al.|[2403.17768](http://arxiv.org/abs/2403.17768)|null|
 |**2024-03-25**|**Relational Network Verification**|Xieyang Xu et.al.|[2403.17277](http://arxiv.org/abs/2403.17277)|null|
 |**2024-03-27**|**Guided Distant Supervision for Multilingual Relation Extraction Data: Adapting to a New Language**|Alistair Plum et.al.|[2403.17143](http://arxiv.org/abs/2403.17143)|null|
@@ -6214,7 +6214,7 @@ layout: default
 |**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778](http://arxiv.org/abs/2403.18778)|null|
 |**2024-03-27**|**Efficient Generation of Multi-partite Entanglement between Non-local Superconducting Qubits using Classical Feedback**|Akel Hashim et.al.|[2403.18768](http://arxiv.org/abs/2403.18768)|null|
 |**2024-03-27**|**Superior Parallel Big Data Clustering through Competitive Stochastic Sample Size Optimization in Big-means**|Rustam Mussabayev et.al.|[2403.18766](http://arxiv.org/abs/2403.18766)|null|
-|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|null|
+|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|**[link](https://github.com/eliacunegatti/moeim)**|
 |**2024-03-27**|**Long gamma-ray burst light curves as the result of a common stochastic pulse-avalanche process**|Lorenzo Bazzanini et.al.|[2403.18754](http://arxiv.org/abs/2403.18754)|null|
 |**2024-03-27**|**Characterization of Spatial-Temporal Channel Statistics from Indoor Measurement Data at D Band**|Chathuri Weragama et.al.|[2403.18713](http://arxiv.org/abs/2403.18713)|null|
 |**2024-03-26**|**AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation**|Qingping Sun et.al.|[2403.17934](http://arxiv.org/abs/2403.17934)|null|
@@ -8554,7 +8554,7 @@ layout: default
 |**2024-03-27**|**Peregrine: ML-based Malicious Traffic Detection for Terabit Networks**|João Romeiras Amado et.al.|[2403.18788](http://arxiv.org/abs/2403.18788)|null|
 |**2024-03-27**|**Towards a World-English Language Model for On-Device Virtual Assistants**|Rricha Jalota et.al.|[2403.18783](http://arxiv.org/abs/2403.18783)|null|
 |**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775](http://arxiv.org/abs/2403.18775)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
-|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|null|
+|**2024-03-27**|**Many-Objective Evolutionary Influence Maximization: Balancing Spread, Budget, Fairness, and Time**|Elia Cunegatti et.al.|[2403.18755](http://arxiv.org/abs/2403.18755)|**[link](https://github.com/eliacunegatti/moeim)**|
 |**2024-03-27**|**Fast Decision Algorithms for Efficient Access Point Assignment in SDN-Controlled Wireless Access Networks**|Pablo Fondo-Ferreiro et.al.|[2403.18745](http://arxiv.org/abs/2403.18745)|null|
 |**2024-03-27**|**Usage-Specific Survival Modeling Based on Operational Data and Neural Networks**|Olov Holmer et.al.|[2403.18739](http://arxiv.org/abs/2403.18739)|null|
 |**2024-03-27**|**Nonlinear model reduction for operator learning**|Hamidreza Eivazi et.al.|[2403.18735](http://arxiv.org/abs/2403.18735)|**[link](https://github.com/hamidrezaeiv/kpca-deeponet)**|
