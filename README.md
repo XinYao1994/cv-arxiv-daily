@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
 |**2024-03-17**|**Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed**|Jinzhu Yan et.al.|[2403.11090](http://arxiv.org/abs/2403.11090)|**[link](https://github.com/inspiringgroup-lab/brain-on-switch)**|
 |**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
@@ -147,6 +148,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Co-Designing Statistical MIMO Radar and In-band Full-Duplex Multi-User MIMO Communications -- Part III: Multi-Target Tracking**|Sk Nayemuzzaman et.al.|[2403.19120](http://arxiv.org/abs/2403.19120)|null|
+|**2024-03-27**|**Modelling the Raft Distributed Consensus Protocol in mCRL2**|Parth Bora et.al.|[2403.18916](http://arxiv.org/abs/2403.18916)|null|
 |**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|**[link](https://github.com/georgejolo/enfusion)**|
 |**2024-03-26**|**Extending Network Calculus To Deal With Partially Negative And Decreasing Service Curves**|Anja Hamscher et.al.|[2403.18042](http://arxiv.org/abs/2403.18042)|null|
@@ -508,6 +511,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597](http://arxiv.org/abs/2403.19597)|null|
+|**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
+|**2024-03-28**|**The ALMaQUEST Survey XV: The Dependence of the Molecular-to-Atomic Gas Ratios on Resolved Optical Diagnostics**|Niankun Yu et.al.|[2403.19447](http://arxiv.org/abs/2403.19447)|null|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
+|**2024-03-28**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
+|**2024-03-27**|**Minimal entanglement for injecting diagonal gates**|Vadym Kliuchnikov et.al.|[2403.18900](http://arxiv.org/abs/2403.18900)|null|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
 |**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|**[link](https://github.com/georgejolo/enfusion)**|
 |**2024-03-27**|**Sm-Nd Isotope Data Compilation from Geoscientific Literature Using an Automated Tabular Extraction Method**|Zhixin Guo et.al.|[2403.18306](http://arxiv.org/abs/2403.18306)|null|
@@ -1622,6 +1631,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling**|Bowen Zhang et.al.|[2403.19655](http://arxiv.org/abs/2403.19655)|null|
+|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
+|**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
+|**2024-03-28**|**Linear Programming in Isabelle/HOL**|Julian Parsert et.al.|[2403.19639](http://arxiv.org/abs/2403.19639)|null|
+|**2024-03-28**|**Top- $k$ Classification and Cardinality-Aware Prediction**|Anqi Mao et.al.|[2403.19625](http://arxiv.org/abs/2403.19625)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
+|**2024-03-28**|**Magic-induced computational separation in entanglement theory**|Andi Gu et.al.|[2403.19610](http://arxiv.org/abs/2403.19610)|null|
+|**2024-03-28**|**Positivity violations in marginal structural survival models with time-dependent confounding: a simulation study on IPTW-estimator performance**|Marta Spreafico et.al.|[2403.19606](http://arxiv.org/abs/2403.19606)|null|
+|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
+|**2024-03-28**|**Taming the Interactive Particle Langevin Algorithm -- the superlinear case**|Tim Johnston et.al.|[2403.19587](http://arxiv.org/abs/2403.19587)|null|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
 |**2024-03-27**|**On the Communication Complexity of Approximate Pattern Matching**|Tomasz Kociumaka et.al.|[2403.18812](http://arxiv.org/abs/2403.18812)|null|
 |**2024-03-27**|**Hypergraph Unreliability in Quasi-Polynomial Time**|Ruoxu Cen et.al.|[2403.18781](http://arxiv.org/abs/2403.18781)|null|
@@ -3968,6 +3987,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
+|**2024-03-28**|**Reproducibility Made Easy: A Tool for Methodological Transparency and Efficient Standardized Reporting based on the proposed MRSinMRS Consensus**|Antonia Susnjar et.al.|[2403.19594](http://arxiv.org/abs/2403.19594)|null|
+|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
+|**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo et.al.|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
+|**2024-03-28**|**NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data**|Matteo Caligiuri et.al.|[2403.19376](http://arxiv.org/abs/2403.19376)|null|
+|**2024-03-28**|**A noise-tolerant, resource-saving probabilistic binary neural network implemented by the SOT-MRAM compute-in-memory system**|Yu Gu et.al.|[2403.19374](http://arxiv.org/abs/2403.19374)|null|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
+|**2024-03-28**|**Taming Lookup Tables for Efficient Image Retouching**|Sidi Yang et.al.|[2403.19238](http://arxiv.org/abs/2403.19238)|**[link](https://github.com/stephen0808/icelut)**|
+|**2024-03-28**|**CogniDot: Vasoactivity-based Cognitive Load Monitoring with a Miniature On-skin Sensor**|Hongbo Lan et.al.|[2403.19206](http://arxiv.org/abs/2403.19206)|null|
+|**2024-03-28**|**Design and Evaluation of a DC Microgrid Testbed for DER Integration and Power Management**|Gokul Krishnan S et.al.|[2403.19176](http://arxiv.org/abs/2403.19176)|null|
 |**2024-03-27**|**Efficient Generation of Multi-partite Entanglement between Non-local Superconducting Qubits using Classical Feedback**|Akel Hashim et.al.|[2403.18768](http://arxiv.org/abs/2403.18768)|null|
 |**2024-03-27**|**Four Formal Models of IEEE 1394 Link Layer**|Hubert Garavel et.al.|[2403.18723](http://arxiv.org/abs/2403.18723)|null|
 |**2024-03-27**|**Testing Resource Isolation for System-on-Chip Architectures**|Philippe Ledent et.al.|[2403.18720](http://arxiv.org/abs/2403.18720)|null|
@@ -6231,6 +6260,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**Square patterns in dynamical orbits**|Vefa Goksel et.al.|[2403.19642](http://arxiv.org/abs/2403.19642)|null|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**Metric Learning from Limited Pairwise Preference Comparisons**|Zhi Wang et.al.|[2403.19629](http://arxiv.org/abs/2403.19629)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
+|**2024-03-28**|**SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing**|Xiaowei Song et.al.|[2403.19615](http://arxiv.org/abs/2403.19615)|**[link](https://github.com/zsy1987/sa-gs)**|
+|**2024-03-28**|**Nearest Neighbor Classication for Classical Image Upsampling**|Evan Matthews et.al.|[2403.19611](http://arxiv.org/abs/2403.19611)|null|
+|**2024-03-28**|**Magic-induced computational separation in entanglement theory**|Andi Gu et.al.|[2403.19610](http://arxiv.org/abs/2403.19610)|null|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607](http://arxiv.org/abs/2403.19607)|null|
 |**2024-03-27**|**Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment**|Li Siyao et.al.|[2403.18811](http://arxiv.org/abs/2403.18811)|null|
 |**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**Squeezing below the ground state of motion of a continuously monitored levitating nanoparticle**|Qiongyuan Wu et.al.|[2403.18790](http://arxiv.org/abs/2403.18790)|null|
@@ -8575,6 +8614,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
+|**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638](http://arxiv.org/abs/2403.19638)|null|
+|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|null|
+|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620](http://arxiv.org/abs/2403.19620)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
+|**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612](http://arxiv.org/abs/2403.19612)|null|
+|**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
+|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|null|
+|**2024-03-28**|**Swarm Characteristics Classification Using Neural Networks**|Donald W. Peltier III et.al.|[2403.19572](http://arxiv.org/abs/2403.19572)|**[link](https://github.com/dwpeltier3/swarm-nn-tsc)**|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820](http://arxiv.org/abs/2403.18820)|null|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
 |**2024-03-27**|**Peregrine: ML-based Malicious Traffic Detection for Terabit Networks**|João Romeiras Amado et.al.|[2403.18788](http://arxiv.org/abs/2403.18788)|null|
@@ -10920,6 +10969,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
+|**2024-03-28**|**Square patterns in dynamical orbits**|Vefa Goksel et.al.|[2403.19642](http://arxiv.org/abs/2403.19642)|null|
+|**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
+|**2024-03-28**|**Asymmetric and trial-dependent modeling: the contribution of LIA to SdSV Challenge Task 2**|Pierre-Michel Bousquet et.al.|[2403.19634](http://arxiv.org/abs/2403.19634)|null|
+|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|null|
+|**2024-03-28**|**Ghost cycles exhibit increased entrainment and richer dynamics in response to external forcing compared to slow-fast systems**|Daniel Koch et.al.|[2403.19624](http://arxiv.org/abs/2403.19624)|null|
+|**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623](http://arxiv.org/abs/2403.19623)|null|
+|**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622](http://arxiv.org/abs/2403.19622)|null|
+|**2024-03-28**|**Holomorphically conjugate polynomial automorphisms of C^2 are polynomially conjugate**|Serge Cantat et.al.|[2403.19621](http://arxiv.org/abs/2403.19621)|null|
+|**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
 |**2024-03-27**|**A dynamical interpretation of the connection map of an attractor-repeller decomposition**|J. J. Sánchez-Gabites et.al.|[2403.18815](http://arxiv.org/abs/2403.18815)|null|
 |**2024-03-27**|**$L^\infty$ -error bounds for approximations of the Koopman operator by kernel extended dynamic mode decomposition**|Frederik Köhne et.al.|[2403.18809](http://arxiv.org/abs/2403.18809)|null|
 |**2024-03-27**|**Using an invariant knot of a flow to find additional invariant structure**|J. J. Sánchez-Gabites et.al.|[2403.18805](http://arxiv.org/abs/2403.18805)|null|
