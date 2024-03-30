@@ -8617,12 +8617,12 @@
 |**2024-03-28**|**RSMamba: Remote Sensing Image Classification with State Space Model**|Keyan Chen et.al.|[2403.19654](http://arxiv.org/abs/2403.19654)|**[link](https://github.com/KyanChen/RSMamba)**|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
 |**2024-03-28**|**Siamese Vision Transformers are Scalable Audio-visual Learners**|Yan-Bo Lin et.al.|[2403.19638](http://arxiv.org/abs/2403.19638)|null|
-|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|null|
+|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|**[link](https://github.com/bsj1216/NNMPC)**|
 |**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620](http://arxiv.org/abs/2403.19620)|null|
 |**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
 |**2024-03-28**|**ILPO-NET: Network for the invariant recognition of arbitrary volumetric patterns in 3D**|Dmitrii Zhemchuzhnikov et.al.|[2403.19612](http://arxiv.org/abs/2403.19612)|null|
 |**2024-03-28**|**TOD3Cap: Towards 3D Dense Captioning in Outdoor Scenes**|Bu Jin et.al.|[2403.19589](http://arxiv.org/abs/2403.19589)|**[link](https://github.com/jxbbb/tod3cap)**|
-|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|null|
+|**2024-03-28**|**DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs**|Donghyun Kim et.al.|[2403.19588](http://arxiv.org/abs/2403.19588)|**[link](https://github.com/naver-ai/rdnet)**|
 |**2024-03-28**|**Swarm Characteristics Classification Using Neural Networks**|Donald W. Peltier III et.al.|[2403.19572](http://arxiv.org/abs/2403.19572)|**[link](https://github.com/dwpeltier3/swarm-nn-tsc)**|
 |**2024-03-27**|**MetaCap: Meta-learning Priors from Multi-View Imagery for Sparse-view Human Performance Capture and Rendering**|Guoxing Sun et.al.|[2403.18820](http://arxiv.org/abs/2403.18820)|null|
 |**2024-03-27**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795](http://arxiv.org/abs/2403.18795)|null|
@@ -10973,7 +10973,7 @@
 |**2024-03-28**|**Square patterns in dynamical orbits**|Vefa Goksel et.al.|[2403.19642](http://arxiv.org/abs/2403.19642)|null|
 |**2024-03-28**|**Energy-Optimal Multi-Agent Navigation as a Strategic-Form Game**|Logan Beaver et.al.|[2403.19641](http://arxiv.org/abs/2403.19641)|null|
 |**2024-03-28**|**Asymmetric and trial-dependent modeling: the contribution of LIA to SdSV Challenge Task 2**|Pierre-Michel Bousquet et.al.|[2403.19634](http://arxiv.org/abs/2403.19634)|null|
-|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|null|
+|**2024-03-28**|**Lane-Change in Dense Traffic with Model Predictive Control and Neural Networks**|Sangjae Bae et.al.|[2403.19633](http://arxiv.org/abs/2403.19633)|**[link](https://github.com/bsj1216/NNMPC)**|
 |**2024-03-28**|**Ghost cycles exhibit increased entrainment and richer dynamics in response to external forcing compared to slow-fast systems**|Daniel Koch et.al.|[2403.19624](http://arxiv.org/abs/2403.19624)|null|
 |**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623](http://arxiv.org/abs/2403.19623)|null|
 |**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622](http://arxiv.org/abs/2403.19622)|null|
