@@ -26,7 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|**[link](https://github.com/ruoyu-li/genos-infocom24)**|
 |**2024-03-17**|**Brain-on-Switch: Towards Advanced Intelligent Network Data Plane via NN-Driven Traffic Analysis at Line-Speed**|Jinzhu Yan et.al.|[2403.11090](http://arxiv.org/abs/2403.11090)|**[link](https://github.com/inspiringgroup-lab/brain-on-switch)**|
 |**2024-03-12**|**Communication Optimization for Distributed Training: Architecture, Advances, and Opportunities**|Yunze Wei et.al.|[2403.07585](http://arxiv.org/abs/2403.07585)|null|
 |**2024-02-15**|**Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community**|Arman Isajanyan et.al.|[2402.09872](http://arxiv.org/abs/2402.09872)|**[link](https://github.com/picsart-ai-research/social-reward)**|
@@ -514,7 +514,7 @@
 |**2024-03-28**|**Reference Energies for Double Excitations: Improvement and Extension**|Fábris Kossoski et.al.|[2403.19597](http://arxiv.org/abs/2403.19597)|null|
 |**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
 |**2024-03-28**|**The ALMaQUEST Survey XV: The Dependence of the Molecular-to-Atomic Gas Ratios on Resolved Optical Diagnostics**|Niankun Yu et.al.|[2403.19447](http://arxiv.org/abs/2403.19447)|null|
-|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|**[link](https://github.com/ruoyu-li/genos-infocom24)**|
 |**2024-03-28**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
 |**2024-03-27**|**Minimal entanglement for injecting diagonal gates**|Vadym Kliuchnikov et.al.|[2403.18900](http://arxiv.org/abs/2403.18900)|null|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
@@ -1638,7 +1638,7 @@
 |**2024-03-28**|**Top- $k$ Classification and Cardinality-Aware Prediction**|Anqi Mao et.al.|[2403.19625](http://arxiv.org/abs/2403.19625)|null|
 |**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
 |**2024-03-28**|**Magic-induced computational separation in entanglement theory**|Andi Gu et.al.|[2403.19610](http://arxiv.org/abs/2403.19610)|null|
-|**2024-03-28**|**Positivity violations in marginal structural survival models with time-dependent confounding: a simulation study on IPTW-estimator performance**|Marta Spreafico et.al.|[2403.19606](http://arxiv.org/abs/2403.19606)|null|
+|**2024-03-28**|**Positivity violations in marginal structural survival models with time-dependent confounding: a simulation study on IPTW-estimator performance**|Marta Spreafico et.al.|[2403.19606](http://arxiv.org/abs/2403.19606)|**[link](https://github.com/mspreafico/posviolmsm)**|
 |**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
 |**2024-03-28**|**Taming the Interactive Particle Langevin Algorithm -- the superlinear case**|Tim Johnston et.al.|[2403.19587](http://arxiv.org/abs/2403.19587)|null|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
@@ -3993,7 +3993,7 @@
 |**2024-03-28**|**Parallel and real-time post-processing for quantum random number generators**|Xiaomin Guo et.al.|[2403.19479](http://arxiv.org/abs/2403.19479)|null|
 |**2024-03-28**|**NIGHT -- Non-Line-of-Sight Imaging from Indirect Time of Flight Data**|Matteo Caligiuri et.al.|[2403.19376](http://arxiv.org/abs/2403.19376)|null|
 |**2024-03-28**|**A noise-tolerant, resource-saving probabilistic binary neural network implemented by the SOT-MRAM compute-in-memory system**|Yu Gu et.al.|[2403.19374](http://arxiv.org/abs/2403.19374)|null|
-|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|null|
+|**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|**[link](https://github.com/ruoyu-li/genos-infocom24)**|
 |**2024-03-28**|**Taming Lookup Tables for Efficient Image Retouching**|Sidi Yang et.al.|[2403.19238](http://arxiv.org/abs/2403.19238)|**[link](https://github.com/stephen0808/icelut)**|
 |**2024-03-28**|**CogniDot: Vasoactivity-based Cognitive Load Monitoring with a Miniature On-skin Sensor**|Hongbo Lan et.al.|[2403.19206](http://arxiv.org/abs/2403.19206)|null|
 |**2024-03-28**|**Design and Evaluation of a DC Microgrid Testbed for DER Integration and Power Management**|Gokul Krishnan S et.al.|[2403.19176](http://arxiv.org/abs/2403.19176)|null|
@@ -6264,7 +6264,7 @@
 |**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-28**|**Square patterns in dynamical orbits**|Vefa Goksel et.al.|[2403.19642](http://arxiv.org/abs/2403.19642)|null|
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
-|**2024-03-28**|**Metric Learning from Limited Pairwise Preference Comparisons**|Zhi Wang et.al.|[2403.19629](http://arxiv.org/abs/2403.19629)|null|
+|**2024-03-28**|**Metric Learning from Limited Pairwise Preference Comparisons**|Zhi Wang et.al.|[2403.19629](http://arxiv.org/abs/2403.19629)|**[link](https://github.com/zhiwang123/metric-learning-lazy-crowds)**|
 |**2024-03-28**|**Feedback Optimization of Incentives for Distribution Grid Services**|Guido Cavraro et.al.|[2403.19616](http://arxiv.org/abs/2403.19616)|null|
 |**2024-03-28**|**SA-GS: Scale-Adaptive Gaussian Splatting for Training-Free Anti-Aliasing**|Xiaowei Song et.al.|[2403.19615](http://arxiv.org/abs/2403.19615)|**[link](https://github.com/zsy1987/sa-gs)**|
 |**2024-03-28**|**Nearest Neighbor Classication for Classical Image Upsampling**|Evan Matthews et.al.|[2403.19611](http://arxiv.org/abs/2403.19611)|null|
