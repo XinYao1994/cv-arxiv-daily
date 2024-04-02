@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.01
+## Updated on 2024.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -500,7 +500,7 @@ layout: default
 |**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
 |**2024-03-28**|**The ALMaQUEST Survey XV: The Dependence of the Molecular-to-Atomic Gas Ratios on Resolved Optical Diagnostics**|Niankun Yu et.al.|[2403.19447](http://arxiv.org/abs/2403.19447)|null|
 |**2024-03-28**|**Genos: General In-Network Unsupervised Intrusion Detection by Rule Extraction**|Ruoyu Li et.al.|[2403.19248](http://arxiv.org/abs/2403.19248)|**[link](https://github.com/ruoyu-li/genos-infocom24)**|
-|**2024-03-28**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
+|**2024-03-29**|**Tiny Machine Learning: Progress and Futures**|Ji Lin et.al.|[2403.19076](http://arxiv.org/abs/2403.19076)|null|
 |**2024-03-27**|**Minimal entanglement for injecting diagonal gates**|Vadym Kliuchnikov et.al.|[2403.18900](http://arxiv.org/abs/2403.18900)|null|
 |**2024-03-27**|**Equivalence Checking of Quantum Circuits by Model Counting**|Jingyi Mei et.al.|[2403.18813](http://arxiv.org/abs/2403.18813)|null|
 |**2024-03-27**|**On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency**|Georgios Tzolopoulos et.al.|[2403.18402](http://arxiv.org/abs/2403.18402)|**[link](https://github.com/georgejolo/enfusion)**|
