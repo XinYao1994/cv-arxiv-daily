@@ -153,6 +153,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Field Teams Coordination for Earthquake-Damaged Distribution System Energization**|İlker Işık et.al.|[2404.04087](http://arxiv.org/abs/2404.04087)|null|
+|**2024-04-05**|**Vulnerabilities of quantum key distribution systems in visible range**|Boris Nasedkin et.al.|[2404.03956](http://arxiv.org/abs/2404.03956)|null|
 |**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418](http://arxiv.org/abs/2404.03418)|null|
 |**2024-04-03**|**On Future Power Systems Digital Twins: Towards a Standard Architecture**|Wouter Zomerdijk et.al.|[2404.02568](http://arxiv.org/abs/2404.02568)|null|
 |**2024-04-03**|**Network-Aware and Welfare-Maximizing Dynamic Pricing for Energy Sharing**|Ahmed S. Alahmed et.al.|[2404.02458](http://arxiv.org/abs/2404.02458)|null|
@@ -521,6 +523,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Simplifying explicit subtyping coercions in a polymorphic calculus with effects**|Filip Koprivec et.al.|[2404.04218](http://arxiv.org/abs/2404.04218)|null|
+|**2024-04-05**|**Implicit automata in λ-calculi III: affine planar string-to-string functions**|Cécilia Pradic et.al.|[2404.03985](http://arxiv.org/abs/2404.03985)|null|
+|**2024-04-04**|**An Investigation into Misuse of Java Security APIs by Large Language Models**|Zahra Mousavi et.al.|[2404.03823](http://arxiv.org/abs/2404.03823)|null|
 |**2024-04-04**|**SemGrasp: Semantic Grasp Generation via Language Aligned Discretization**|Kailin Li et.al.|[2404.03590](http://arxiv.org/abs/2404.03590)|null|
 |**2024-04-04**|**Equivalence and Similarity Refutation for Probabilistic Programs**|Krishnendu Chatterjee et.al.|[2404.03430](http://arxiv.org/abs/2404.03430)|null|
 |**2024-04-04**|**Multi-modal Learning for WebAssembly Reverse Engineering**|Hanxian Huang et.al.|[2404.03171](http://arxiv.org/abs/2404.03171)|null|
@@ -1660,6 +1665,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
+|**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
+|**2024-04-05**|**The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model**|Alex Viguerie et.al.|[2404.04222](http://arxiv.org/abs/2404.04222)|null|
+|**2024-04-05**|**Simplifying explicit subtyping coercions in a polymorphic calculus with effects**|Filip Koprivec et.al.|[2404.04218](http://arxiv.org/abs/2404.04218)|null|
+|**2024-04-05**|**Deep-learning Segmentation of Small Volumes in CT images for Radiotherapy Treatment Planning**|Jianxin Zhou et.al.|[2404.04202](http://arxiv.org/abs/2404.04202)|null|
+|**2024-04-05**|**V-Star: Learning Visibly Pushdown Grammars from Program Inputs**|Xiaodong Jia et.al.|[2404.04201](http://arxiv.org/abs/2404.04201)|null|
+|**2024-04-05**|**A no-go result for pure state synthesis in the DQC1 model**|Zachary Stier et.al.|[2404.04198](http://arxiv.org/abs/2404.04198)|null|
+|**2024-04-05**|**Convex MPC and Thrust Allocation with Deadband for Spacecraft Rendezvous**|Pedro Taborda et.al.|[2404.04197](http://arxiv.org/abs/2404.04197)|null|
+|**2024-04-05**|**Probabilistically Informed Robot Object Search with Multiple Regions**|Matthew Collins et.al.|[2404.04186](http://arxiv.org/abs/2404.04186)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Hamiltonian simulation for low-energy states with optimal time dependence**|Alexander Zlokapa et.al.|[2404.03644](http://arxiv.org/abs/2404.03644)|null|
 |**2024-04-04**|**Amortized Analysis via Coalgebra**|Harrison Grodin et.al.|[2404.03641](http://arxiv.org/abs/2404.03641)|null|
@@ -4056,6 +4071,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**H3DFact: Heterogeneous 3D Integrated CIM for Factorization with Holographic Perceptual Representations**|Zishen Wan et.al.|[2404.04173](http://arxiv.org/abs/2404.04173)|null|
+|**2024-04-05**|**Clock offset recovery with sublinear complexity enables synchronization on low-level hardware for quantum key distribution**|Jan Krause et.al.|[2404.04081](http://arxiv.org/abs/2404.04081)|null|
+|**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023](http://arxiv.org/abs/2404.04023)|null|
+|**2024-04-05**|**Quantum Digital Simulation of Cavity Quantum Electrodynamics: Insights from Superconducting and Trapped Ion Quantum Testbeds**|Alex H. Rubin et.al.|[2404.03861](http://arxiv.org/abs/2404.03861)|null|
+|**2024-04-04**|**R5Detect: Detecting Control-Flow Attacks from Standard RISC-V Enclaves**|Davide Bove et.al.|[2404.03771](http://arxiv.org/abs/2404.03771)|null|
+|**2024-04-04**|**SpikeExplorer: hardware-oriented Design Space Exploration for Spiking Neural Networks on FPGA**|Dario Padovano et.al.|[2404.03714](http://arxiv.org/abs/2404.03714)|null|
 |**2024-04-04**|**Deriving Compact QUBO Models via Multilevel Constraint Transformation**|Oksana Pichugina et.al.|[2404.03610](http://arxiv.org/abs/2404.03610)|null|
 |**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|**[link](https://github.com/aninrusimha/qat-pretrain)**|
 |**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574](http://arxiv.org/abs/2404.03574)|null|
@@ -6369,6 +6390,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
+|**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252](http://arxiv.org/abs/2404.04252)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
+|**2024-04-05**|**{\sc SimBIG}: Cosmological Constraints using Simulation-Based Inference of Galaxy Clustering with Marked Power Spectra**|Elena Massara et.al.|[2404.04228](http://arxiv.org/abs/2404.04228)|null|
+|**2024-04-05**|**Active Causal Learning for Decoding Chemical Complexities with Targeted Interventions**|Zachary R. Fox et.al.|[2404.04224](http://arxiv.org/abs/2404.04224)|null|
+|**2024-04-05**|**How Lexical is Bilingual Lexicon Induction?**|Harsh Kohli et.al.|[2404.04221](http://arxiv.org/abs/2404.04221)|null|
+|**2024-04-05**|**Multi-modal perception for soft robotic interactions using generative models**|Enrico Donato et.al.|[2404.04220](http://arxiv.org/abs/2404.04220)|null|
+|**2024-04-05**|**Simplifying explicit subtyping coercions in a polymorphic calculus with effects**|Filip Koprivec et.al.|[2404.04218](http://arxiv.org/abs/2404.04218)|null|
+|**2024-04-05**|**Quantum-informed simulations for mechanics of materials: DFTB+MBD framework**|Zhaoxiang Shen et.al.|[2404.04216](http://arxiv.org/abs/2404.04216)|**[link](https://github.com/iansosa/QC-Toolkit)**|
+|**2024-04-05**|**Probabilistically Informed Robot Object Search with Multiple Regions**|Matthew Collins et.al.|[2404.04186](http://arxiv.org/abs/2404.04186)|null|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658](http://arxiv.org/abs/2404.03658)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Locating and Editing Factual Associations in Mamba**|Arnab Sen Sharma et.al.|[2404.03646](http://arxiv.org/abs/2404.03646)|**[link](https://github.com/arnab-api/romba)**|
@@ -8763,6 +8794,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
+|**2024-04-05**|**Observation of Gravitational Waves from the Coalescence of a $2.5-4.5~M_\odot$ Compact Object and a Neutron Star**|The LIGO Scientific Collaboration et.al.|[2404.04248](http://arxiv.org/abs/2404.04248)|null|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
+|**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
+|**2024-04-05**|**Modeling Kinematic Uncertainty of Tendon-Driven Continuum Robots via Mixture Density Networks**|Jordan Thompson et.al.|[2404.04241](http://arxiv.org/abs/2404.04241)|null|
+|**2024-04-05**|**Grand canonically optimized grain boundary phases in hexagonal close-packed titanium**|Enze Chen et.al.|[2404.04230](http://arxiv.org/abs/2404.04230)|null|
+|**2024-04-05**|**Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation**|Lanpei Li et.al.|[2404.04219](http://arxiv.org/abs/2404.04219)|null|
+|**2024-04-05**|**Machine-Learning-Enhanced Quantum Optical Storage in Solids**|Yisheng Lei et.al.|[2404.04200](http://arxiv.org/abs/2404.04200)|null|
+|**2024-04-05**|**Are We Up to the Challenge? An analysis of the FCC Broadband Data Collection Fixed Internet Availability Challenges**|Jonatas Marques et.al.|[2404.04189](http://arxiv.org/abs/2404.04189)|null|
+|**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188](http://arxiv.org/abs/2404.04188)|null|
 |**2024-04-04**|**RaFE: Generative Radiance Fields Restoration**|Zhongkai Wu et.al.|[2404.03654](http://arxiv.org/abs/2404.03654)|null|
 |**2024-04-04**|**Multipartite edge modes and tensor networks**|Chris Akers et.al.|[2404.03651](http://arxiv.org/abs/2404.03651)|null|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
@@ -11158,6 +11199,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257](http://arxiv.org/abs/2404.04257)|null|
+|**2024-04-05**|**Zeno physics of the Ising chain with symmetry-breaking boundary dephasing**|Umar Javed et.al.|[2404.04255](http://arxiv.org/abs/2404.04255)|null|
+|**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
+|**2024-04-05**|**Humanoid Robots at work: where are we ?**|Fabrice R. Noreils et.al.|[2404.04249](http://arxiv.org/abs/2404.04249)|null|
+|**2024-04-05**|**Observation of Gravitational Waves from the Coalescence of a $2.5-4.5~M_\odot$ Compact Object and a Neutron Star**|The LIGO Scientific Collaboration et.al.|[2404.04248](http://arxiv.org/abs/2404.04248)|null|
+|**2024-04-05**|**Nightclub bar dynamics: statistics of serving times**|Eduardo V. Stock et.al.|[2404.04238](http://arxiv.org/abs/2404.04238)|null|
+|**2024-04-05**|**Grand canonically optimized grain boundary phases in hexagonal close-packed titanium**|Enze Chen et.al.|[2404.04230](http://arxiv.org/abs/2404.04230)|null|
+|**2024-04-05**|**Beaded metamaterials**|Lauren Dreier et.al.|[2404.04227](http://arxiv.org/abs/2404.04227)|null|
+|**2024-04-05**|**The effects of HIV self-testing on HIV incidence and awareness of status among men who have sex with men in the United States: Insights from a novel compartmental model**|Alex Viguerie et.al.|[2404.04222](http://arxiv.org/abs/2404.04222)|null|
+|**2024-04-05**|**Quantum-informed simulations for mechanics of materials: DFTB+MBD framework**|Zhaoxiang Shen et.al.|[2404.04216](http://arxiv.org/abs/2404.04216)|**[link](https://github.com/iansosa/QC-Toolkit)**|
 |**2024-04-04**|**The More You See in 2D, the More You Perceive in 3D**|Xinyang Han et.al.|[2404.03652](http://arxiv.org/abs/2404.03652)|null|
 |**2024-04-04**|**Multipartite edge modes and tensor networks**|Chris Akers et.al.|[2404.03651](http://arxiv.org/abs/2404.03651)|null|
 |**2024-04-04**|**Toric Promotion with Reflections and Refractions**|Ashleigh Adams et.al.|[2404.03649](http://arxiv.org/abs/2404.03649)|null|
