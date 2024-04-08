@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1647,7 +1647,7 @@ layout: default
 |**2024-04-04**|**On the Efficiency of Convolutional Neural Networks**|Andrew Lavin et.al.|[2404.03617](http://arxiv.org/abs/2404.03617)|null|
 |**2024-04-04**|**A Unified Algorithmic Framework for Dynamic Assortment Optimization under MNL Choice**|Shuo Sun et.al.|[2404.03604](http://arxiv.org/abs/2404.03604)|null|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
-|**2024-04-04**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580](http://arxiv.org/abs/2404.03580)|null|
+|**2024-04-05**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580](http://arxiv.org/abs/2404.03580)|null|
 |**2024-04-04**|**Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm**|Miao Lu et.al.|[2404.03578](http://arxiv.org/abs/2404.03578)|null|
 |**2024-04-04**|**Terrain Point Cloud Inpainting via Signal Decomposition**|Yizhou Xie et.al.|[2404.03572](http://arxiv.org/abs/2404.03572)|null|
 |**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[2404.02903](http://arxiv.org/abs/2404.02903)|null|
@@ -4038,7 +4038,7 @@ layout: default
 |**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|**[link](https://github.com/aninrusimha/qat-pretrain)**|
 |**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574](http://arxiv.org/abs/2404.03574)|null|
 |**2024-04-04**|**Streamlining CXL Adoption for Hyperscale Efficiency**|Angelos Arelakis et.al.|[2404.03551](http://arxiv.org/abs/2404.03551)|null|
-|**2024-04-04**|**SCIM MILQ: An HPC Quantum Scheduler**|Philipp Seitz et.al.|[2404.03512](http://arxiv.org/abs/2404.03512)|null|
+|**2024-04-05**|**SCIM MILQ: An HPC Quantum Scheduler**|Philipp Seitz et.al.|[2404.03512](http://arxiv.org/abs/2404.03512)|null|
 |**2024-04-04**|**AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale**|Adam Pardyl et.al.|[2404.03482](http://arxiv.org/abs/2404.03482)|**[link](https://github.com/apardyl/adaglimpse)**|
 |**2024-04-04**|**Simultaneous State Estimation and Contact Detection for Legged Robots by Multiple-Model Kalman Filtering**|Marcel Menner et.al.|[2404.03444](http://arxiv.org/abs/2404.03444)|null|
 |**2024-04-04**|**RADIUM: Predicting and Repairing End-to-End Robot Failures using Gradient-Accelerated Sampling**|Charles Dawson et.al.|[2404.03412](http://arxiv.org/abs/2404.03412)|null|
@@ -8744,7 +8744,7 @@ layout: default
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
 |**2024-04-04**|**DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images**|Zhou Jie et.al.|[2404.03595](http://arxiv.org/abs/2404.03595)|**[link](https://github.com/JoyeZLearning/DiffDet4SAR)**|
-|**2024-04-04**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580](http://arxiv.org/abs/2404.03580)|null|
+|**2024-04-05**|**The CCube reconstruction algorithm for the SoLid experiment**|The SoLid collaboration et.al.|[2404.03580](http://arxiv.org/abs/2404.03580)|null|
 |**2024-04-04**|**TinyVQA: Compact Multimodal Deep Neural Network for Visual Question Answering on Resource-Constrained Devices**|Hasib-Al Rashid et.al.|[2404.03574](http://arxiv.org/abs/2404.03574)|null|
 |**2024-04-04**|**Bringing memory to Boolean networks: a unifying framework**|Maximilien Gadouleau et.al.|[2404.03553](http://arxiv.org/abs/2404.03553)|null|
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900](http://arxiv.org/abs/2404.02900)|**[link](https://github.com/val-iisc/DeiT-LT)**|
