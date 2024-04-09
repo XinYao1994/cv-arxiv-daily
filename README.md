@@ -153,7 +153,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-05**|**Field Teams Coordination for Earthquake-Damaged Distribution System Energization**|İlker Işık et.al.|[2404.04087](http://arxiv.org/abs/2404.04087)|null|
+|**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|null|
+|**2024-04-08**|**Optimized LinDistFlow for High-Fidelity Power Flow Modeling of Distribution Networks**|Babak Taheri et.al.|[2404.05125](http://arxiv.org/abs/2404.05125)|null|
+|**2024-04-06**|**Analyzing LLM Usage in an Advanced Computing Class in India**|Chaitanya Arora et.al.|[2404.04603](http://arxiv.org/abs/2404.04603)|null|
+|**2024-04-06**|**Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks**|Yuxiang Yang et.al.|[2404.04601](http://arxiv.org/abs/2404.04601)|null|
+|**2024-04-05**|**Optimal Policy Synthesis from A Sequence of Goal Sets with An Application to Electric Distribution System Restoration**|İlker Işık et.al.|[2404.04338](http://arxiv.org/abs/2404.04338)|null|
+|**2024-04-05**|**Field Teams Coordination for Earthquake-Damaged Distribution System Energization**|İlker Işık et.al.|[2404.04087](http://arxiv.org/abs/2404.04087)|**[link](https://github.com/necrashter/powerraft)**|
 |**2024-04-05**|**Vulnerabilities of quantum key distribution systems in visible range**|Boris Nasedkin et.al.|[2404.03956](http://arxiv.org/abs/2404.03956)|null|
 |**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418](http://arxiv.org/abs/2404.03418)|null|
 |**2024-04-03**|**On Future Power Systems Digital Twins: Towards a Standard Architecture**|Wouter Zomerdijk et.al.|[2404.02568](http://arxiv.org/abs/2404.02568)|null|
@@ -523,6 +528,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
+|**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
+|**2024-04-08**|**KaMPIng: Flexible and (Near) Zero-overhead C++ Bindings for MPI**|Demian Hespe et.al.|[2404.05610](http://arxiv.org/abs/2404.05610)|null|
+|**2024-04-08**|**Behavioural Types for Heterogeneous Systems (Position Paper)**|Simon Fowler et.al.|[2404.05479](http://arxiv.org/abs/2404.05479)|null|
+|**2024-04-08**|**Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI**|Hugo Caselles-Dupré et.al.|[2404.05468](http://arxiv.org/abs/2404.05468)|null|
+|**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307](http://arxiv.org/abs/2404.05307)|null|
+|**2024-04-07**|**Fork is All You Needed in Heterogeneous Systems**|Zixuan Wang et.al.|[2404.05085](http://arxiv.org/abs/2404.05085)|null|
+|**2024-04-06**|**Compilation of Modular and General Sparse Workspaces**|Genghan Zhang et.al.|[2404.04541](http://arxiv.org/abs/2404.04541)|null|
+|**2024-04-05**|**Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax Transformers**|Andy Yang et.al.|[2404.04393](http://arxiv.org/abs/2404.04393)|null|
 |**2024-04-05**|**Simplifying explicit subtyping coercions in a polymorphic calculus with effects**|Filip Koprivec et.al.|[2404.04218](http://arxiv.org/abs/2404.04218)|null|
 |**2024-04-05**|**Implicit automata in λ-calculi III: affine planar string-to-string functions**|Cécilia Pradic et.al.|[2404.03985](http://arxiv.org/abs/2404.03985)|null|
 |**2024-04-04**|**An Investigation into Misuse of Java Security APIs by Large Language Models**|Zahra Mousavi et.al.|[2404.03823](http://arxiv.org/abs/2404.03823)|null|
@@ -1665,6 +1679,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Finding Visual Task Vectors**|Alberto Hojel et.al.|[2404.05729](http://arxiv.org/abs/2404.05729)|null|
+|**2024-04-08**|**Enhance Low-Carbon Power System Operation via Carbon-Aware Demand Response**|Xin Chen et.al.|[2404.05713](http://arxiv.org/abs/2404.05713)|null|
+|**2024-04-08**|**Walking Your Frog Fast in 4 LoC**|Nis Meinert et.al.|[2404.05708](http://arxiv.org/abs/2404.05708)|null|
+|**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|**[link](https://github.com/ccnu-mathits/adm)**|
+|**2024-04-08**|**Even Faster Knapsack via Rectangular Monotone Min-Plus Convolution and Balancing**|Karl Bringmann et.al.|[2404.05681](http://arxiv.org/abs/2404.05681)|null|
+|**2024-04-08**|**Flexible Fairness Learning via Inverse Conditional Permutation**|Yuheng Lai et.al.|[2404.05678](http://arxiv.org/abs/2404.05678)|**[link](https://github.com/yuhenglai/fairicp)**|
+|**2024-04-08**|**Bayesian Inverse Ising Problem with Three-body Interactions**|Godwin Osabutey et.al.|[2404.05671](http://arxiv.org/abs/2404.05671)|null|
+|**2024-04-08**|**BFS versus DFS for random targets in ordered trees**|Stoyan Dimitrov et.al.|[2404.05664](http://arxiv.org/abs/2404.05664)|null|
+|**2024-04-08**|**Automatic Controllable Colorization via Imagination**|Xiaoyan Cong et.al.|[2404.05661](http://arxiv.org/abs/2404.05661)|null|
+|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|
 |**2024-04-05**|**Watermark-based Detection and Attribution of AI-Generated Content**|Zhengyuan Jiang et.al.|[2404.04254](http://arxiv.org/abs/2404.04254)|null|
 |**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
@@ -4071,6 +4095,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Walking Your Frog Fast in 4 LoC**|Nis Meinert et.al.|[2404.05708](http://arxiv.org/abs/2404.05708)|null|
+|**2024-04-08**|**Resistive Memory-based Neural Differential Equation Solver for Score-based Diffusion Model**|Jichang Yang et.al.|[2404.05648](http://arxiv.org/abs/2404.05648)|null|
+|**2024-04-08**|**OtterROS: Picking and Programming an Uncrewed Surface Vessel for Experimental Field Robotics Research with ROS 2**|Thomas M. C. Sears et.al.|[2404.05627](http://arxiv.org/abs/2404.05627)|null|
+|**2024-04-08**|**The Argument for Meta-Modeling-Based Approaches to Hardware Generation Languages**|Johannes Schreiner et.al.|[2404.05599](http://arxiv.org/abs/2404.05599)|null|
+|**2024-04-08**|**Quantum Optimization Methods for Satellite Mission Planning**|Antón Makarov et.al.|[2404.05516](http://arxiv.org/abs/2404.05516)|null|
+|**2024-04-08**|**Quantum optimization with linear Ising penalty functions for customer data science**|Puya Mirkarimi et.al.|[2404.05467](http://arxiv.org/abs/2404.05467)|null|
+|**2024-04-08**|**Joint Active and Passive Beamforming for IRS-Aided Wireless Energy Transfer Network Exploiting One-Bit Feedback**|Taotao Ji et.al.|[2404.05418](http://arxiv.org/abs/2404.05418)|null|
+|**2024-04-08**|**Design and implementation of a synchronous Hardware Performance Monitor for a RISC-V space-oriented processor**|Miguel Jiménez Arribas et.al.|[2404.05389](http://arxiv.org/abs/2404.05389)|null|
+|**2024-04-08**|**Exploring Quantization and Mapping Synergy in Hardware-Aware Deep Neural Network Accelerators**|Jan Klhufek et.al.|[2404.05368](http://arxiv.org/abs/2404.05368)|**[link](https://github.com/ehw-fit/timeloop-with-quantization)**|
+|**2024-04-08**|**SARIS: Accelerating Stencil Computations on Energy-Efficient RISC-V Compute Clusters with Indirect Stream Registers**|Paul Scheffler et.al.|[2404.05303](http://arxiv.org/abs/2404.05303)|null|
 |**2024-04-05**|**H3DFact: Heterogeneous 3D Integrated CIM for Factorization with Holographic Perceptual Representations**|Zishen Wan et.al.|[2404.04173](http://arxiv.org/abs/2404.04173)|null|
 |**2024-04-05**|**Clock offset recovery with sublinear complexity enables synchronization on low-level hardware for quantum key distribution**|Jan Krause et.al.|[2404.04081](http://arxiv.org/abs/2404.04081)|null|
 |**2024-04-05**|**Phase Binarization in Mutually Synchronized Bias Field-free Spin Hall Nano-oscillators for Reservoir Computing**|Sourabh Manna et.al.|[2404.04023](http://arxiv.org/abs/2404.04023)|null|
@@ -6390,6 +6424,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Finding Visual Task Vectors**|Alberto Hojel et.al.|[2404.05729](http://arxiv.org/abs/2404.05729)|null|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
+|**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723](http://arxiv.org/abs/2404.05723)|null|
+|**2024-04-08**|**On the estimation of complex statistics combining different surveys**|Vasilis Chasiotis et.al.|[2404.05702](http://arxiv.org/abs/2404.05702)|null|
+|**2024-04-08**|**Higher Landau-Level Analogues and Signatures of Non-Abelian States in Twisted Bilayer MoTe $_2$**|Chong Wang et.al.|[2404.05697](http://arxiv.org/abs/2404.05697)|null|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**YaART: Yet Another ART Rendering Technology**|Sergey Kastryulin et.al.|[2404.05666](http://arxiv.org/abs/2404.05666)|null|
+|**2024-04-08**|**BinaryDM: Towards Accurate Binarization of Diffusion Model**|Xingyu Zheng et.al.|[2404.05662](http://arxiv.org/abs/2404.05662)|null|
+|**2024-04-08**|**Causality Extraction from Nuclear Licensee Event Reports Using a Hybrid Framework**|Sohag Rahman et.al.|[2404.05656](http://arxiv.org/abs/2404.05656)|null|
+|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
 |**2024-04-05**|**Bounds on galaxy stochasticity from halo occupation distribution modeling**|Dylan Britt et.al.|[2404.04252](http://arxiv.org/abs/2404.04252)|null|
 |**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
@@ -8794,6 +8838,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Finding Visual Task Vectors**|Alberto Hojel et.al.|[2404.05729](http://arxiv.org/abs/2404.05729)|null|
+|**2024-04-08**|**A Large-Scale Exploration of $μ$ -Transfer**|Lucas Lingle et.al.|[2404.05728](http://arxiv.org/abs/2404.05728)|null|
+|**2024-04-08**|**Predicting Overtakes in Trucks Using CAN Data**|Talha Hanif Butt et.al.|[2404.05723](http://arxiv.org/abs/2404.05723)|null|
+|**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705](http://arxiv.org/abs/2404.05705)|null|
+|**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703](http://arxiv.org/abs/2404.05703)|null|
+|**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
+|**2024-04-08**|**Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery**|Ionut M. Motoi et.al.|[2404.05693](http://arxiv.org/abs/2404.05693)|null|
+|**2024-04-08**|**GW230529_181500: A Potential Primordial Binary Black Hole Merger in the Mass Gap**|Qing-Guo Huang et.al.|[2404.05691](http://arxiv.org/abs/2404.05691)|null|
+|**2024-04-08**|**Automated discovery of symbolic laws governing skill acquisition from naturally occurring data**|Sannyuya Liu et.al.|[2404.05689](http://arxiv.org/abs/2404.05689)|**[link](https://github.com/ccnu-mathits/adm)**|
+|**2024-04-08**|**David and Goliath: An Empirical Evaluation of Attacks and Defenses for QNNs at the Deep Edge**|Miguel Costa et.al.|[2404.05688](http://arxiv.org/abs/2404.05688)|**[link](https://gitlab.com/esrgv3/qnn-adversarial-robustness)**|
 |**2024-04-05**|**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**|Zifu Wan et.al.|[2404.04256](http://arxiv.org/abs/2404.04256)|null|
 |**2024-04-05**|**Observation of Gravitational Waves from the Coalescence of a $2.5-4.5~M_\odot$ Compact Object and a Neutron Star**|The LIGO Scientific Collaboration et.al.|[2404.04248](http://arxiv.org/abs/2404.04248)|null|
 |**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
@@ -11199,6 +11253,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**JADES: Primeval Lyman- $\mathrmα$ emitting galaxies reveal early sites of reionisation out to redshift $z \sim 9$**|Joris Witstok et.al.|[2404.05724](http://arxiv.org/abs/2404.05724)|null|
+|**2024-04-08**|**Infrared Spectroscopy for Diagnosing Superlattice Minibands in Magic-angle Twisted Bilayer Graphene**|Geng Li et.al.|[2404.05716](http://arxiv.org/abs/2404.05716)|null|
+|**2024-04-08**|**What if you have only one copy? Low-depth quantum circuits have no advantage in decision problems!**|Nengkun Yu et.al.|[2404.05714](http://arxiv.org/abs/2404.05714)|null|
+|**2024-04-08**|**Enhance Low-Carbon Power System Operation via Carbon-Aware Demand Response**|Xin Chen et.al.|[2404.05713](http://arxiv.org/abs/2404.05713)|null|
+|**2024-04-08**|**Effective Luttinger parameter and Kane-Fisher effect in quasiperiodic systems**|T. J. Vongkovit et.al.|[2404.05711](http://arxiv.org/abs/2404.05711)|null|
+|**2024-04-08**|**Weakly closed semigroups generated by operator-valued functions**|Valery V. Ryzhikov et.al.|[2404.05706](http://arxiv.org/abs/2404.05706)|null|
+|**2024-04-08**|**Case Study: Neural Network Malware Detection Verification for Feature and Image Datasets**|Preston K. Robinette et.al.|[2404.05703](http://arxiv.org/abs/2404.05703)|null|
+|**2024-04-08**|**Negative Photo Conductivity Triggered with Visible Light in Wide Bandgap Oxide-Based Optoelectronic Crossbar Memristive Array for Photograph Sensing and Neuromorphic Computing Applications**|Dayanand Kumar et.al.|[2404.05701](http://arxiv.org/abs/2404.05701)|null|
+|**2024-04-08**|**In-situ Imaging of a Single-Atom Wave Packet in Continuous Space**|Joris Verstraten et.al.|[2404.05699](http://arxiv.org/abs/2404.05699)|null|
+|**2024-04-08**|**BOLD v4: A Centralized Bioinformatics Platform for DNA-based Biodiversity Data**|Sujeevan Ratnasingham et.al.|[2404.05696](http://arxiv.org/abs/2404.05696)|null|
 |**2024-04-05**|**Incoherent polariton dynamics and nonlinearities in organic light-emitting diodes**|Olli Siltanen et.al.|[2404.04257](http://arxiv.org/abs/2404.04257)|null|
 |**2024-04-05**|**Zeno physics of the Ising chain with symmetry-breaking boundary dephasing**|Umar Javed et.al.|[2404.04255](http://arxiv.org/abs/2404.04255)|null|
 |**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
