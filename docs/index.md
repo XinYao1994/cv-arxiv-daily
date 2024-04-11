@@ -137,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**NotNets: Accelerating Microservices by Bypassing the Network**|Peter Alvaro et.al.|[2404.06581](http://arxiv.org/abs/2404.06581)|null|
 |**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|**[link](https://github.com/privacyengineering/purpl)**|
 |**2024-04-08**|**Optimized LinDistFlow for High-Fidelity Power Flow Modeling of Distribution Networks**|Babak Taheri et.al.|[2404.05125](http://arxiv.org/abs/2404.05125)|null|
 |**2024-04-06**|**Analyzing LLM Usage in an Advanced Computing Class in India**|Chaitanya Arora et.al.|[2404.04603](http://arxiv.org/abs/2404.04603)|null|
@@ -510,6 +511,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Searching for short-period variables in M31: method and catalogs**|Hongrui Gu et.al.|[2404.07127](http://arxiv.org/abs/2404.07127)|null|
+|**2024-04-10**|**Register Your Forests: Decision Tree Ensemble Optimization by Explicit CPU Register Allocation**|Daniel Biebert et.al.|[2404.06846](http://arxiv.org/abs/2404.06846)|null|
+|**2024-04-10**|**Causal Unit Selection using Tractable Arithmetic Circuits**|Haiying Huang et.al.|[2404.06681](http://arxiv.org/abs/2404.06681)|null|
 |**2024-04-09**|**Helium Reionization from Empirical Quasar Luminosity Functions before and after JWST**|Arghyadeep Basu et.al.|[2404.06409](http://arxiv.org/abs/2404.06409)|null|
 |**2024-04-09**|**Comparison of Three Programming Error Measures for Explaining Variability in CS1 Grades**|Valdemar Švábenský et.al.|[2404.05988](http://arxiv.org/abs/2404.05988)|**[link](https://github.com/seri-cs/iticse24-error-measures)**|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
@@ -1661,6 +1666,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Fractional decoding of algebraic geometry codes over extension fields**|Eduardo Camps-Moreno et.al.|[2404.07201](http://arxiv.org/abs/2404.07201)|null|
+|**2024-04-10**|**Massively Parallel Computation of Similarity Matrices from Piecewise Constant Invariants**|Björn H. Wehlin et.al.|[2404.07183](http://arxiv.org/abs/2404.07183)|null|
+|**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
+|**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
+|**2024-04-10**|**Unlocking Quantum Optimization: A Use Case Study on NISQ Systems**|Andreas Sturm et.al.|[2404.07171](http://arxiv.org/abs/2404.07171)|null|
+|**2024-04-10**|**Worst-Case Convergence Time of ML Algorithms via Extreme Value Theory**|Saeid Tizpaz-Niari et.al.|[2404.07170](http://arxiv.org/abs/2404.07170)|null|
+|**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
+|**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/abs/2404.07158)|null|
+|**2024-04-10**|**Logarithmic-Depth Quantum Circuits for Hamming Weight Projections**|Soorya Rethinasamy et.al.|[2404.07151](http://arxiv.org/abs/2404.07151)|null|
+|**2024-04-10**|**On the existence of $δ$ -temporal cliques in random simple temporal graphs**|George B. Mertzios et.al.|[2404.07147](http://arxiv.org/abs/2404.07147)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
 |**2024-04-09**|**Finding Stable Price Zones in European Electricity Markets: Aiming to Square the Circle?**|Teodora Dobos et.al.|[2404.06489](http://arxiv.org/abs/2404.06489)|null|
 |**2024-04-10**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479](http://arxiv.org/abs/2404.06479)|null|
@@ -4085,6 +4100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Unlocking Quantum Optimization: A Use Case Study on NISQ Systems**|Andreas Sturm et.al.|[2404.07171](http://arxiv.org/abs/2404.07171)|null|
+|**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
+|**2024-04-10**|**Quantum Tunneling: From Theory to Error-Mitigated Quantum Simulation**|Sorana Catrina et.al.|[2404.07034](http://arxiv.org/abs/2404.07034)|null|
+|**2024-04-10**|**Research on Detection of Floating Objects in River and Lake Based on AI Intelligent Image Recognition**|Jingyu Zhang et.al.|[2404.06883](http://arxiv.org/abs/2404.06883)|null|
+|**2024-04-10**|**Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing**|Mohamadreza Rostami et.al.|[2404.06856](http://arxiv.org/abs/2404.06856)|null|
+|**2024-04-10**|**Statistical evaluation of 571 GaAs quantum point contact transistors showing the 0.7 anomaly in quantized conductance using millikelvin cryogenic on-chip multiplexing**|Pengcheng Ma et.al.|[2404.06784](http://arxiv.org/abs/2404.06784)|null|
+|**2024-04-10**|**Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.|[2404.06695](http://arxiv.org/abs/2404.06695)|null|
+|**2024-04-10**|**Toward Cross-Layer Energy Optimizations in Machine Learning Systems**|Jae-Won Chung et.al.|[2404.06675](http://arxiv.org/abs/2404.06675)|null|
+|**2024-04-10**|**Forecasting the Future with Future Technologies: Advancements in Large Meteorological Models**|Hailong Shu et.al.|[2404.06668](http://arxiv.org/abs/2404.06668)|null|
 |**2024-04-09**|**Mechanism Design for ZK-Rollup Prover Markets**|Wenhao Wang et.al.|[2404.06495](http://arxiv.org/abs/2404.06495)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
 |**2024-04-09**|**Scaling to 32 GPUs on a Novel Composable System Architecture**|John Ihnotic et.al.|[2404.06467](http://arxiv.org/abs/2404.06467)|null|
@@ -6422,6 +6447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
+|**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
+|**2024-04-10**|**Fractional decoding of algebraic geometry codes over extension fields**|Eduardo Camps-Moreno et.al.|[2404.07201](http://arxiv.org/abs/2404.07201)|null|
+|**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
+|**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176](http://arxiv.org/abs/2404.07176)|null|
+|**2024-04-10**|**Worst-Case Convergence Time of ML Algorithms via Extreme Value Theory**|Saeid Tizpaz-Niari et.al.|[2404.07170](http://arxiv.org/abs/2404.07170)|null|
+|**2024-04-10**|**Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$**|Marta Brzezińska et.al.|[2404.07165](http://arxiv.org/abs/2404.07165)|null|
+|**2024-04-10**|**Understanding Dynamics in Coarse-Grained Models: IV. Connection of Fine-Grained and Coarse-Grained Dynamics with the Stokes-Einstein and Stokes-Einstein-Debye Relations**|Jaehyeok Jin et.al.|[2404.07156](http://arxiv.org/abs/2404.07156)|null|
+|**2024-04-10**|**Weights with Maximal Symmetry and Failures of the MacWilliams Identities**|Jay A. Wood et.al.|[2404.07154](http://arxiv.org/abs/2404.07154)|null|
 |**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
 |**2024-04-09**|**Comparing Two Model Designs for Clinical Note Generation; Is an LLM a Useful Evaluator of Consistency?**|Nathan Brake et.al.|[2404.06503](http://arxiv.org/abs/2404.06503)|null|
 |**2024-04-09**|**The Rise and Fall of the Initial Era**|Simon J Porter et.al.|[2404.06500](http://arxiv.org/abs/2404.06500)|null|
@@ -8844,6 +8879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
+|**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
+|**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
+|**2024-04-10**|**Studying the Supernova Absolute Magnitude Constancy with Baryonic Acoustic Oscillations**|Denitsa Staicova et.al.|[2404.07182](http://arxiv.org/abs/2404.07182)|null|
+|**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
+|**2024-04-10**|**Self-supervised Monocular Depth Estimation on Water Scenes via Specular Reflection Prior**|Zhengyang Lu et.al.|[2404.07176](http://arxiv.org/abs/2404.07176)|null|
+|**2024-04-10**|**Ground state-based quantum feature maps**|Chukwudubem Umeano et.al.|[2404.07174](http://arxiv.org/abs/2404.07174)|null|
+|**2024-04-10**|**A Gauss-Newton Approach for Min-Max Optimization in Generative Adversarial Networks**|Neel Mishra et.al.|[2404.07172](http://arxiv.org/abs/2404.07172)|**[link](https://github.com/neelmishra/gauss-newton-based-minimax-solver)**|
+|**2024-04-10**|**Worst-Case Convergence Time of ML Algorithms via Extreme Value Theory**|Saeid Tizpaz-Niari et.al.|[2404.07170](http://arxiv.org/abs/2404.07170)|null|
+|**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
 |**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510](http://arxiv.org/abs/2404.06510)|null|
 |**2024-04-10**|**Reconstructing Hand-Held Objects in 3D**|Jane Wu et.al.|[2404.06507](http://arxiv.org/abs/2404.06507)|null|
 |**2024-04-09**|**A Machine Learning Framework for the Prediction of Grain Boundary Segregation in Chemically Complex Environments**|Doruk Aksoy et.al.|[2404.06499](http://arxiv.org/abs/2404.06499)|null|
@@ -11267,6 +11312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Wave optics lensing of gravitational waves: theory and phenomenology of triple systems in the LISA band**|Martin Pijnenburg et.al.|[2404.07186](http://arxiv.org/abs/2404.07186)|null|
+|**2024-04-10**|**Ground state-based quantum feature maps**|Chukwudubem Umeano et.al.|[2404.07174](http://arxiv.org/abs/2404.07174)|null|
+|**2024-04-10**|**Unlocking Quantum Optimization: A Use Case Study on NISQ Systems**|Andreas Sturm et.al.|[2404.07171](http://arxiv.org/abs/2404.07171)|null|
+|**2024-04-10**|**Worst-Case Convergence Time of ML Algorithms via Extreme Value Theory**|Saeid Tizpaz-Niari et.al.|[2404.07170](http://arxiv.org/abs/2404.07170)|null|
+|**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
+|**2024-04-10**|**Pressure-tuned many-body phases through $Γ$-K valleytronics in moiré bilayer WSe$_2$**|Marta Brzezińska et.al.|[2404.07165](http://arxiv.org/abs/2404.07165)|null|
+|**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
+|**2024-04-10**|**Like a candle in the wind: The embers of once aflame, now smouldering galaxies at $5 < z < 8$**|James Trussler et.al.|[2404.07163](http://arxiv.org/abs/2404.07163)|null|
+|**2024-04-10**|**Polluting White Dwarfs with Oort Cloud Comets**|Dang Pham et.al.|[2404.07160](http://arxiv.org/abs/2404.07160)|null|
+|**2024-04-10**|**CBFKIT: A Control Barrier Function Toolbox for Robotics Applications**|Mitchell Black et.al.|[2404.07158](http://arxiv.org/abs/2404.07158)|null|
 |**2024-04-09**|**Superpolynomial Lower Bounds for Smooth 3-LCCs and Sharp Bounds for Designs**|Pravesh K. Kothari et.al.|[2404.06513](http://arxiv.org/abs/2404.06513)|null|
 |**2024-04-09**|**MoReVQA: Exploring Modular Reasoning Models for Video Question Answering**|Juhong Min et.al.|[2404.06511](http://arxiv.org/abs/2404.06511)|null|
 |**2024-04-09**|**Horizon-penetrating form of parametrized metrics for static and stationary black holes**|Yixuan Ma et.al.|[2404.06509](http://arxiv.org/abs/2404.06509)|null|
