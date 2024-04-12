@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -138,7 +138,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-09**|**NotNets: Accelerating Microservices by Bypassing the Network**|Peter Alvaro et.al.|[2404.06581](http://arxiv.org/abs/2404.06581)|null|
-|**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|**[link](https://github.com/privacyengineering/purpl)**|
+|**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|**[link](https://github.com/privacyengineering/purpl-jwt-go-ecdsa)**|
 |**2024-04-08**|**Optimized LinDistFlow for High-Fidelity Power Flow Modeling of Distribution Networks**|Babak Taheri et.al.|[2404.05125](http://arxiv.org/abs/2404.05125)|null|
 |**2024-04-06**|**Analyzing LLM Usage in an Advanced Computing Class in India**|Chaitanya Arora et.al.|[2404.04603](http://arxiv.org/abs/2404.04603)|null|
 |**2024-04-06**|**Exploiting Sequence Number Leakage: TCP Hijacking in NAT-Enabled Wi-Fi Networks**|Yuxiang Yang et.al.|[2404.04601](http://arxiv.org/abs/2404.04601)|null|
