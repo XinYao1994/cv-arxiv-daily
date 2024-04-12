@@ -153,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**SWI-FEED: Smart Water IoT Framework for Evaluation of Energy and Data in Massive Scenarios**|Antonino Pagano et.al.|[2404.07692](http://arxiv.org/abs/2404.07692)|null|
 |**2024-04-09**|**NotNets: Accelerating Microservices by Bypassing the Network**|Peter Alvaro et.al.|[2404.06581](http://arxiv.org/abs/2404.06581)|null|
 |**2024-04-08**|**Hook-in Privacy Techniques for gRPC-based Microservice Communication**|Louis Loechel et.al.|[2404.05598](http://arxiv.org/abs/2404.05598)|**[link](https://github.com/privacyengineering/purpl-jwt-go-ecdsa)**|
 |**2024-04-08**|**Optimized LinDistFlow for High-Fidelity Power Flow Modeling of Distribution Networks**|Babak Taheri et.al.|[2404.05125](http://arxiv.org/abs/2404.05125)|null|
@@ -529,6 +530,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Automatic Generation and Evaluation of Reading Comprehension Test Items with Large Language Models**|Andreas Säuberli et.al.|[2404.07720](http://arxiv.org/abs/2404.07720)|null|
+|**2024-04-11**|**Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain**|Iker García-Ferrero et.al.|[2404.07613](http://arxiv.org/abs/2404.07613)|null|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
 |**2024-04-10**|**Searching for short-period variables in M31: method and catalogs**|Hongrui Gu et.al.|[2404.07127](http://arxiv.org/abs/2404.07127)|null|
 |**2024-04-10**|**Register Your Forests: Decision Tree Ensemble Optimization by Explicit CPU Register Allocation**|Daniel Biebert et.al.|[2404.06846](http://arxiv.org/abs/2404.06846)|null|
@@ -1686,6 +1689,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh**|Jing Wen et.al.|[2404.07991](http://arxiv.org/abs/2404.07991)|null|
+|**2024-04-11**|**Trading Determinism for Noncommutativity in Edmonds' Problem**|V. Arvind et.al.|[2404.07986](http://arxiv.org/abs/2404.07986)|null|
+|**2024-04-11**|**WaveMo: Learning Wavefront Modulations to See Through Scattering**|Mingyang Xie et.al.|[2404.07985](http://arxiv.org/abs/2404.07985)|null|
+|**2024-04-11**|**A Lightweight Protocol for Matchgate Fidelity Estimation**|Jędrzej Burkat et.al.|[2404.07974](http://arxiv.org/abs/2404.07974)|null|
+|**2024-04-11**|**The Newman algorithm for constructing polynomials with restricted coefficients and many real roots**|Markus Jacob et.al.|[2404.07971](http://arxiv.org/abs/2404.07971)|null|
+|**2024-04-11**|**Robust elastic full-waveform inversion using an alternating direction method of multipliers with reconstructed wavefields**|Kamal Aghazade et.al.|[2404.07927](http://arxiv.org/abs/2404.07927)|null|
+|**2024-04-11**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|**[link](https://github.com/osu-nlp-group/amplegcg)**|
+|**2024-04-11**|**Quantum computation in fermionic thermal field theories**|Wenyang Qian et.al.|[2404.07912](http://arxiv.org/abs/2404.07912)|null|
+|**2024-04-11**|**High-performance matrix-free unfitted finite element operator evaluation**|Maximilian Bergbauer et.al.|[2404.07911](http://arxiv.org/abs/2404.07911)|null|
+|**2024-04-11**|**Bootstrap percolation is local**|Ivailo Hartarsky et.al.|[2404.07903](http://arxiv.org/abs/2404.07903)|null|
 |**2024-04-10**|**Fractional decoding of algebraic geometry codes over extension fields**|Eduardo Camps-Moreno et.al.|[2404.07201](http://arxiv.org/abs/2404.07201)|null|
 |**2024-04-10**|**Massively Parallel Computation of Similarity Matrices from Piecewise Constant Invariants**|Björn H. Wehlin et.al.|[2404.07183](http://arxiv.org/abs/2404.07183)|null|
 |**2024-04-10**|**BAMBOO: a predictive and transferable machine learning force field framework for liquid electrolyte development**|Sheng Gong et.al.|[2404.07181](http://arxiv.org/abs/2404.07181)|null|
@@ -4122,6 +4135,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904](http://arxiv.org/abs/2404.07904)|**[link](https://github.com/opennlplab/hgrn2)**|
+|**2024-04-11**|**On Reducing the Execution Latency of Superconducting Quantum Processors via Quantum Program Scheduling**|Wenjie Wu et.al.|[2404.07882](http://arxiv.org/abs/2404.07882)|null|
+|**2024-04-11**|**LeapFrog: The Rowhammer Instruction Skip Attack**|Andrew Adiletta et.al.|[2404.07878](http://arxiv.org/abs/2404.07878)|null|
+|**2024-04-11**|**Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator**|Daniele Mari et.al.|[2404.07698](http://arxiv.org/abs/2404.07698)|null|
+|**2024-04-11**|**One-Shot Transfer of Long-Horizon Extrinsic Manipulation Through Contact Retargeting**|Albert Wu et.al.|[2404.07468](http://arxiv.org/abs/2404.07468)|null|
+|**2024-04-11**|**Privacy preserving layer partitioning for Deep Neural Network models**|Kishore Rajasekar et.al.|[2404.07437](http://arxiv.org/abs/2404.07437)|null|
+|**2024-04-11**|**RTL Interconnect Obfuscation By Polymorphic Switch Boxes For Secure Hardware Generation**|Haimanti Chakraborty et.al.|[2404.07426](http://arxiv.org/abs/2404.07426)|null|
+|**2024-04-10**|**A Modified Depolarization Approach for Efficient Quantum Machine Learning**|Bikram Khanal et.al.|[2404.07330](http://arxiv.org/abs/2404.07330)|null|
+|**2024-04-10**|**sCWatter: Open source coupled wave scattering simulation for spectroscopy and microscopy**|Ruijiao Sun et.al.|[2404.07293](http://arxiv.org/abs/2404.07293)|null|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
 |**2024-04-10**|**Unlocking Quantum Optimization: A Use Case Study on NISQ Systems**|Andreas Sturm et.al.|[2404.07171](http://arxiv.org/abs/2404.07171)|null|
 |**2024-04-10**|**Analysis of Distributed Optimization Algorithms on a Real Processing-In-Memory System**|Steve Rhyner et.al.|[2404.07164](http://arxiv.org/abs/2404.07164)|null|
@@ -6471,6 +6493,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993](http://arxiv.org/abs/2404.07993)|null|
+|**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
+|**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**On average output entropy of a quantum channel**|M. E. Shirokov et.al.|[2404.07978](http://arxiv.org/abs/2404.07978)|null|
+|**2024-04-11**|**Gaga: Group Any Gaussians via 3D-aware Memory Bank**|Weijie Lyu et.al.|[2404.07977](http://arxiv.org/abs/2404.07977)|null|
+|**2024-04-11**|**Self-supervised Dataset Distillation: A Good Compression Is All You Need**|Muxin Zhou et.al.|[2404.07976](http://arxiv.org/abs/2404.07976)|**[link](https://github.com/VILA-Lab/SRe2L)**|
+|**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
+|**2024-04-11**|**Astrophysics and Nuclear Physics Informed Interactions in Dense Matter: Insights from PSR J0437-4715**|Tuhin Malik et.al.|[2404.07936](http://arxiv.org/abs/2404.07936)|null|
+|**2024-04-11**|**Goal Recognition via Linear Programming**|Felipe Meneguzzi et.al.|[2404.07934](http://arxiv.org/abs/2404.07934)|null|
 |**2024-04-10**|**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models**|Zewei Zhang et.al.|[2404.07206](http://arxiv.org/abs/2404.07206)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
 |**2024-04-10**|**Fractional decoding of algebraic geometry codes over extension fields**|Eduardo Camps-Moreno et.al.|[2404.07201](http://arxiv.org/abs/2404.07201)|null|
@@ -8905,6 +8937,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo**|Jiang Wu et.al.|[2404.07992](http://arxiv.org/abs/2404.07992)|**[link](https://github.com/wuuu3511/gomvs)**|
+|**2024-04-11**|**WaveMo: Learning Wavefront Modulations to See Through Scattering**|Mingyang Xie et.al.|[2404.07985](http://arxiv.org/abs/2404.07985)|null|
+|**2024-04-11**|**Spectral Multifractality and Emergent Energyscales Across the Many-Body Localisation Transition**|Sthitadhi Roy et.al.|[2404.07975](http://arxiv.org/abs/2404.07975)|null|
+|**2024-04-11**|**Lyapunov-stable Neural Control for State and Output Feedback: A Novel Formulation for Efficient Synthesis and Verification**|Lujie Yang et.al.|[2404.07956](http://arxiv.org/abs/2404.07956)|**[link](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)**|
+|**2024-04-11**|**Toward ultra-efficient high fidelity predictions of wind turbine wakes: Augmenting the accuracy of engineering models via LES-trained machine learning**|Christian Santoni et.al.|[2404.07938](http://arxiv.org/abs/2404.07938)|null|
+|**2024-04-11**|**Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation**|Keonhee Han et.al.|[2404.07933](http://arxiv.org/abs/2404.07933)|null|
+|**2024-04-11**|**FusionMamba: Efficient Image Fusion with State Space Model**|Siran Peng et.al.|[2404.07932](http://arxiv.org/abs/2404.07932)|null|
+|**2024-04-11**|**Parameter Hierarchical Optimization for Visible-Infrared Person Re-Identification**|Zeng YU et.al.|[2404.07930](http://arxiv.org/abs/2404.07930)|null|
+|**2024-04-11**|**A Parsimonious Setup for Streamflow Forecasting using CNN-LSTM**|Sudan Pokharel et.al.|[2404.07924](http://arxiv.org/abs/2404.07924)|null|
+|**2024-04-11**|**Low-rank Adaptation for Spatio-Temporal Forecasting**|Weilin Ruan et.al.|[2404.07919](http://arxiv.org/abs/2404.07919)|null|
 |**2024-04-10**|**Toward a Better Understanding of Fourier Neural Operators: Analysis and Improvement from a Spectral Perspective**|Shaoxiang Qin et.al.|[2404.07200](http://arxiv.org/abs/2404.07200)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**GCV-Turbo: End-to-end Acceleration of GNN-based Computer Vision Tasks on FPGA**|Bingyi Zhang et.al.|[2404.07188](http://arxiv.org/abs/2404.07188)|null|
@@ -11340,6 +11382,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Spectral Multifractality and Emergent Energyscales Across the Many-Body Localisation Transition**|Sthitadhi Roy et.al.|[2404.07975](http://arxiv.org/abs/2404.07975)|null|
+|**2024-04-11**|**OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments**|Tianbao Xie et.al.|[2404.07972](http://arxiv.org/abs/2404.07972)|null|
+|**2024-04-11**|**Differentiable All-pole Filters for Time-varying Audio Systems**|Chin-Yun Yu et.al.|[2404.07970](http://arxiv.org/abs/2404.07970)|**[link](https://github.com/DiffAPF/EHX-SmallStone)**|
+|**2024-04-11**|**Spin-Energy Entanglement of a Time-Focused Neutron**|J. C. Leiner et.al.|[2404.07967](http://arxiv.org/abs/2404.07967)|null|
+|**2024-04-11**|**Overcoming the chemical complexity bottleneck in on-the-fly machine learned molecular dynamics simulations**|Lucas R. Timmerman et.al.|[2404.07961](http://arxiv.org/abs/2404.07961)|null|
+|**2024-04-11**|**Lyapunov-stable Neural Control for State and Output Feedback: A Novel Formulation for Efficient Synthesis and Verification**|Lujie Yang et.al.|[2404.07956](http://arxiv.org/abs/2404.07956)|**[link](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)**|
+|**2024-04-11**|**Floer Homology with DG Coefficients. Applications to cotangent bundles**|Jean-François Barraud et.al.|[2404.07953](http://arxiv.org/abs/2404.07953)|null|
+|**2024-04-11**|**On Unified Prompt Tuning for Request Quality Assurance in Public Code Review**|Xinyu Chen et.al.|[2404.07942](http://arxiv.org/abs/2404.07942)|null|
+|**2024-04-11**|**Rate-Optimal Non-Asymptotics for the Quadratic Prediction Error Method**|Charis Stamouli et.al.|[2404.07937](http://arxiv.org/abs/2404.07937)|null|
+|**2024-04-11**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|**[link](https://github.com/osu-nlp-group/amplegcg)**|
 |**2024-04-10**|**Wave optics lensing of gravitational waves: theory and phenomenology of triple systems in the LISA band**|Martin Pijnenburg et.al.|[2404.07186](http://arxiv.org/abs/2404.07186)|null|
 |**2024-04-10**|**Ground state-based quantum feature maps**|Chukwudubem Umeano et.al.|[2404.07174](http://arxiv.org/abs/2404.07174)|null|
 |**2024-04-10**|**Unlocking Quantum Optimization: A Use Case Study on NISQ Systems**|Andreas Sturm et.al.|[2404.07171](http://arxiv.org/abs/2404.07171)|null|
