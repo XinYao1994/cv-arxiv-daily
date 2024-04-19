@@ -521,6 +521,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Tailoring Fault-Tolerance to Quantum Algorithms**|Zhuangzhuang Chen et.al.|[2404.11953](http://arxiv.org/abs/2404.11953)|null|
+|**2024-04-17**|**A Study of Undefined Behavior Across Foreign Function Boundaries in Rust Libraries**|Ian McCormack et.al.|[2404.11671](http://arxiv.org/abs/2404.11671)|null|
 |**2024-04-17**|**Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation**|Tuomo Lehtonen et.al.|[2404.11431](http://arxiv.org/abs/2404.11431)|null|
 |**2024-04-17**|**Quantum-inspired Techniques in Tensor Networks for Industrial Contexts**|Alejandro Mata Ali et.al.|[2404.11277](http://arxiv.org/abs/2404.11277)|null|
 |**2024-04-17**|**Photometric sample of early B-type pulsators in eclipsing binaries observed with TESS**|C. I. Eze et.al.|[2404.11178](http://arxiv.org/abs/2404.11178)|null|
@@ -1690,6 +1692,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
+|**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
+|**2024-04-18**|**A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to Functional Conditional Moment Equations**|Yuchen Zhu et.al.|[2404.12312](http://arxiv.org/abs/2404.12312)|null|
+|**2024-04-18**|**Singular-limit analysis of gradient descent with noise injection**|Anna Shalova et.al.|[2404.12293](http://arxiv.org/abs/2404.12293)|null|
+|**2024-04-18**|**A hybrid boundary integral-PDE approach for the approximation of the demagnetization potential in micromagnetics**|Doghonay Arjmand et.al.|[2404.12284](http://arxiv.org/abs/2404.12284)|null|
+|**2024-04-18**|**Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences**|Shreya Shankar et.al.|[2404.12272](http://arxiv.org/abs/2404.12272)|null|
+|**2024-04-18**|**Efficient Identification of Broad Absorption Line Quasars using Dimensionality Reduction and Machine Learning**|Wei-Bo Kao et.al.|[2404.12270](http://arxiv.org/abs/2404.12270)|null|
 |**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**The EDGE Language: Extended General Einsums for Graph Algorithms**|Toluwanimi O. Odemuyiwa et.al.|[2404.11591](http://arxiv.org/abs/2404.11591)|null|
 |**2024-04-17**|**Maximin Shares in Hereditary Set Systems**|Halvard Hummel et.al.|[2404.11582](http://arxiv.org/abs/2404.11582)|null|
@@ -4174,6 +4186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Combining Power and Arithmetic Optimization via Datapath Rewriting**|Samuel Coward et.al.|[2404.12336](http://arxiv.org/abs/2404.12336)|null|
+|**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
+|**2024-04-18**|**Switchable Single/Dual Edge Registers for Pipeline Architecture**|Suyash Vardhan Singh et.al.|[2404.12306](http://arxiv.org/abs/2404.12306)|null|
+|**2024-04-18**|**Preserving Nature's Ledger: Blockchains in Biodiversity Conservation**|Kostas Kryptos Chalkias et.al.|[2404.12086](http://arxiv.org/abs/2404.12086)|null|
+|**2024-04-18**|**Monitoring Unmanned Aircraft: Specification, Integration, and Lessons-learned**|Jan Baumeister et.al.|[2404.12035](http://arxiv.org/abs/2404.12035)|null|
+|**2024-04-18**|**EN-TensorCore: Advancing TensorCores Performance through Encoder-Based Methodology**|Qizhe Wu et.al.|[2404.11887](http://arxiv.org/abs/2404.11887)|null|
+|**2024-04-18**|**Cicero: Addressing Algorithmic and Architectural Bottlenecks in Neural Rendering by Radiance Warping and Memory Optimizations**|Yu Feng et.al.|[2404.11852](http://arxiv.org/abs/2404.11852)|null|
+|**2024-04-18**|**Continuous Dynamic Bipedal Jumping via Adaptive-model Optimization**|Junheng Li et.al.|[2404.11807](http://arxiv.org/abs/2404.11807)|null|
+|**2024-04-17**|**NonGEMM Bench: Understanding the Performance Horizon of the Latest ML Workloads with NonGEMM Workloads**|Rachid Karami et.al.|[2404.11788](http://arxiv.org/abs/2404.11788)|null|
+|**2024-04-17**|**REQUAL-LM: Reliability and Equity through Aggregation in Large Language Models**|Sana Ebrahimi et.al.|[2404.11782](http://arxiv.org/abs/2404.11782)|null|
 |**2024-04-17**|**Real Time Evolvable Hardware for Optimal Reconfiguration of Cusp-Like Pulse Shapers**|Juan Lanchares et.al.|[2404.11592](http://arxiv.org/abs/2404.11592)|null|
 |**2024-04-17**|**Spatio-Temporal Motion Retargeting for Quadruped Robots**|Taerim Yoon et.al.|[2404.11557](http://arxiv.org/abs/2404.11557)|null|
 |**2024-04-17**|**A Lean Simulation Framework for Stress Testing IoT Cloud Systems**|Jia Li et.al.|[2404.11542](http://arxiv.org/abs/2404.11542)|null|
@@ -6570,6 +6592,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
+|**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
+|**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
+|**2024-04-18**|**Information theory unifies atomistic machine learning, uncertainty quantification, and materials thermodynamics**|Daniel Schwalbe-Koda et.al.|[2404.12367](http://arxiv.org/abs/2404.12367)|**[link](https://github.com/dskoda/quests)**|
+|**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359](http://arxiv.org/abs/2404.12359)|null|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Gravitational wave luminosity distance-weighted anisotropies**|A. Begnoni et.al.|[2404.12351](http://arxiv.org/abs/2404.12351)|null|
 |**2024-04-17**|**Unlocking New Physics with Joint Power Spectrum and Voxel Intensity Distribution Forecasts in Line-Intensity Mapping**|Vivian I. Sabla et.al.|[2404.11609](http://arxiv.org/abs/2404.11609)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**Urban highways are barriers to social ties**|Luca Maria Aiello et.al.|[2404.11596](http://arxiv.org/abs/2404.11596)|null|
@@ -9052,6 +9084,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
+|**2024-04-18**|**Gradient-Regularized Out-of-Distribution Detection**|Sina Sharifi et.al.|[2404.12368](http://arxiv.org/abs/2404.12368)|null|
+|**2024-04-18**|**Inverse Neural Rendering for Explainable Multi-Object Tracking**|Julian Ost et.al.|[2404.12359](http://arxiv.org/abs/2404.12359)|null|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Measuring Feature Dependency of Neural Networks by Collapsing Feature Dimensions in the Data Manifold**|Yinzhu Jin et.al.|[2404.12341](http://arxiv.org/abs/2404.12341)|null|
+|**2024-04-18**|**A Perspective on Deep Vision Performance with Standard Image and Video Codecs**|Christoph Reich et.al.|[2404.12330](http://arxiv.org/abs/2404.12330)|null|
+|**2024-04-18**|**Adjoint Sensitivities of Chaotic Flows without Adjoint Solvers: A Data-Driven Approach**|Defne E. Ozan et.al.|[2404.12315](http://arxiv.org/abs/2404.12315)|null|
+|**2024-04-18**|**A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to Functional Conditional Moment Equations**|Yuchen Zhu et.al.|[2404.12312](http://arxiv.org/abs/2404.12312)|null|
+|**2024-04-18**|**SAFLA: Semantic-aware Full Lifecycle Assurance Designed for Intent-Driven Networks**|Shiwen Kou et.al.|[2404.12305](http://arxiv.org/abs/2404.12305)|null|
+|**2024-04-18**|**Extended unitarity and absence of skin effect in periodically driven systems**|Aditi Chakrabarty et.al.|[2404.12297](http://arxiv.org/abs/2404.12297)|null|
 |**2024-04-17**|**Localized dopant motion across the 2D Ising phase transition**|K. Knakkergaard Nielsen et.al.|[2404.11608](http://arxiv.org/abs/2404.11608)|null|
 |**2024-04-17**|**Learning to Solve the Constrained Most Probable Explanation Task in Probabilistic Graphical Models**|Shivvrat Arya et.al.|[2404.11606](http://arxiv.org/abs/2404.11606)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
@@ -11535,6 +11577,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Wavelength-accurate and wafer-scale process for nonlinear frequency mixers in thin-film lithium niobate**|C. J. Xin et.al.|[2404.12381](http://arxiv.org/abs/2404.12381)|null|
+|**2024-04-18**|**Long-lived oscillations of false and true vacuum states in neutral atom systems**|Siva Darbha et.al.|[2404.12371](http://arxiv.org/abs/2404.12371)|null|
+|**2024-04-18**|**Accounting for AI and Users Shaping One Another: The Role of Mathematical Models**|Sarah Dean et.al.|[2404.12366](http://arxiv.org/abs/2404.12366)|null|
+|**2024-04-18**|**False vacuum decay and nucleation dynamics in neutral atom systems**|Siva Darbha et.al.|[2404.12360](http://arxiv.org/abs/2404.12360)|null|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**Evaluating AI for Law: Bridging the Gap with Open-Source Solutions**|Rohan Bhambhoria et.al.|[2404.12349](http://arxiv.org/abs/2404.12349)|null|
+|**2024-04-18**|**AniClipart: Clipart Animation with Text-to-Video Priors**|Ronghuan Wu et.al.|[2404.12347](http://arxiv.org/abs/2404.12347)|null|
+|**2024-04-18**|**Gemini Near Infrared Spectrograph -- Distant Quasar Survey: Rest-Frame Ultraviolet-Optical Spectral Properties of Broad Absorption Line Quasars**|Harum Ahmed et.al.|[2404.12343](http://arxiv.org/abs/2404.12343)|null|
+|**2024-04-18**|**Adiabatic Transformations in Dissipative and Non-Hermitian Phase Transitions**|Pavel Orlov et.al.|[2404.12337](http://arxiv.org/abs/2404.12337)|null|
 |**2024-04-17**|**Photoproduction of QED bound states in future electron-ion colliders**|Reinaldo Francener et.al.|[2404.11610](http://arxiv.org/abs/2404.11610)|null|
 |**2024-04-17**|**Localized dopant motion across the 2D Ising phase transition**|K. Knakkergaard Nielsen et.al.|[2404.11608](http://arxiv.org/abs/2404.11608)|null|
 |**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
