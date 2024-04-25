@@ -144,6 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**A Review on Message Complexity of the Algorithms for Clock Synchronization in Distributed Systems**|Chandeepa Dissanayake et.al.|[2404.15467](http://arxiv.org/abs/2404.15467)|null|
 |**2024-04-22**|**Synthesis for prefix first-order logic on data words**|Julien Grange et.al.|[2404.14517](http://arxiv.org/abs/2404.14517)|null|
 |**2024-04-22**|**Flexibility Pricing in Distribution Systems: A Direct Method Aligned with Flexibility Models**|Yilin Wen et.al.|[2404.14386](http://arxiv.org/abs/2404.14386)|null|
 |**2024-04-20**|**Revolutionizing System Reliability: The Role of AI in Predictive Maintenance Strategies**|Michael Bidollahkhani et.al.|[2404.13454](http://arxiv.org/abs/2404.13454)|null|
@@ -527,14 +528,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Constraining dark energy equations of state in $F(R,T)$ gravity**|Ahmed Errahmani et.al.|[2404.15537](http://arxiv.org/abs/2404.15537)|null|
+|**2024-04-23**|**The early Earth as an analogue for exoplanetary biogeochemistry**|Eva E. Stüeken et.al.|[2404.15432](http://arxiv.org/abs/2404.15432)|null|
 |**2024-04-23**|**Distributed Architecture for FPGA-based Superconducting Qubit Control**|Neelay Fruitwala et.al.|[2404.15260](http://arxiv.org/abs/2404.15260)|null|
 |**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
 |**2024-04-23**|**In industrial embedded software, are some compilation errors easier to localize and fix than others?**|Han Fu et.al.|[2404.14823](http://arxiv.org/abs/2404.14823)|null|
 |**2024-04-23**|**Retrieval Augmented Generation for Domain-specific Question Answering**|Sanat Sharma et.al.|[2404.14760](http://arxiv.org/abs/2404.14760)|null|
 |**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634](http://arxiv.org/abs/2404.14634)|null|
-|**2024-04-22**|**Exploring Radio Emissions from Confirmed Exoplanets Using SKA**|Fatemeh Bagheri et.al.|[2404.14468](http://arxiv.org/abs/2404.14468)|null|
+|**2024-04-24**|**Exploring Radio Emissions from Confirmed Exoplanets Using SKA**|Fatemeh Bagheri et.al.|[2404.14468](http://arxiv.org/abs/2404.14468)|null|
 |**2024-04-22**|**MMT: Mutation Testing of Java Bytecode with Model Transformation -- An Illustrative Demonstration**|Christoph Bockisch et.al.|[2404.14097](http://arxiv.org/abs/2404.14097)|null|
-|**2024-04-22**|**HamilToniQ: An Open-Source Benchmark Toolkit for Quantum Computers**|Xiaotian Xu et.al.|[2404.13971](http://arxiv.org/abs/2404.13971)|null|
+|**2024-04-22**|**HamilToniQ: An Open-Source Benchmark Toolkit for Quantum Computers**|Xiaotian Xu et.al.|[2404.13971](http://arxiv.org/abs/2404.13971)|**[link](https://github.com/felixxu35/hamiltoniq)**|
 |**2024-04-22**|**Angle-Aware Coverage with Camera Rotational Motion Control**|Zhiyuan Lu et.al.|[2404.13915](http://arxiv.org/abs/2404.13915)|null|
 |**2024-04-22**|**Machine Learning Prediction Models for Solid Electrolytes based on Lattice Dynamics Properties**|Jiyeon Kim et.al.|[2404.13858](http://arxiv.org/abs/2404.13858)|null|
 |**2024-04-20**|**PristiQ: A Co-Design Framework for Preserving Data Security of Quantum Learning in the Cloud**|Zhepeng Wang et.al.|[2404.13475](http://arxiv.org/abs/2404.13475)|null|
@@ -1717,6 +1720,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**Neural Operator induced Gaussian Process framework for probabilistic solution of parametric partial differential equations**|Sawan Kumar et.al.|[2404.15618](http://arxiv.org/abs/2404.15618)|null|
+|**2024-04-24**|**A Bi-directional Quantum Search Algorithm**|Debanjan Konar et.al.|[2404.15616](http://arxiv.org/abs/2404.15616)|**[link](https://github.com/hafeezzwiz21/dfgs-bdgs)**|
+|**2024-04-24**|**A Note on Approximating Weighted Nash Social Welfare with Additive Valuations**|Yuda Feng et.al.|[2404.15607](http://arxiv.org/abs/2404.15607)|null|
+|**2024-04-24**|**Development of Pattern Recognition Validation for Boson Sampling**|Yang Ji et.al.|[2404.15603](http://arxiv.org/abs/2404.15603)|null|
+|**2024-04-24**|**Decentralized Multi-Agent Trajectory Planning in Dynamic Environments with Spatiotemporal Occupancy Grid Maps**|Siyuan Wu et.al.|[2404.15602](http://arxiv.org/abs/2404.15602)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**A Survey of Deep Long-Tail Classification Advancements**|Charika de Alvis et.al.|[2404.15593](http://arxiv.org/abs/2404.15593)|null|
+|**2024-04-24**|**Security Analysis of WiFi-based Sensing Systems: Threats from Perturbation Attacks**|Hangcheng Cao et.al.|[2404.15587](http://arxiv.org/abs/2404.15587)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
@@ -4241,6 +4254,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
+|**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524](http://arxiv.org/abs/2404.15524)|null|
+|**2024-04-23**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|null|
+|**2024-04-23**|**Drop-Connect as a Fault-Tolerance Approach for RRAM-based Deep Neural Network Accelerators**|Mingyuan Xiang et.al.|[2404.15498](http://arxiv.org/abs/2404.15498)|null|
+|**2024-04-23**|**Training all-mechanical neural networks for task learning through in situ backpropagation**|Shuaifeng Li et.al.|[2404.15471](http://arxiv.org/abs/2404.15471)|null|
 |**2024-04-23**|**Distributed Architecture for FPGA-based Superconducting Qubit Control**|Neelay Fruitwala et.al.|[2404.15260](http://arxiv.org/abs/2404.15260)|null|
 |**2024-04-23**|**Closed Loop Interactive Embodied Reasoning for Robot Manipulation**|Michal Nazarczuk et.al.|[2404.15194](http://arxiv.org/abs/2404.15194)|null|
 |**2024-04-23**|**Combating Missing Modalities in Egocentric Videos at Test Time**|Merey Ramazanova et.al.|[2404.15161](http://arxiv.org/abs/2404.15161)|null|
@@ -6677,6 +6696,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
+|**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626](http://arxiv.org/abs/2404.15626)|null|
+|**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
+|**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
+|**2024-04-24**|**Revealing Aspects of Hawai'i Tourism Using Situated Augmented Reality**|Karen Abe et.al.|[2404.15610](http://arxiv.org/abs/2404.15610)|null|
+|**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604](http://arxiv.org/abs/2404.15604)|null|
+|**2024-04-24**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599](http://arxiv.org/abs/2404.15599)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|null|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276](http://arxiv.org/abs/2404.15276)|**[link](https://github.com/xuxy09/smpler)**|
 |**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275](http://arxiv.org/abs/2404.15275)|**[link](https://github.com/id-animator/id-animator)**|
 |**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
@@ -9199,6 +9228,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
+|**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
+|**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
+|**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
+|**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|null|
+|**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
+|**2024-04-24**|**Human-in-the-loop Learning for Dynamic Congestion Games**|Hongbo Li et.al.|[2404.15599](http://arxiv.org/abs/2404.15599)|null|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**Domain Adaptation for Learned Image Compression with Supervised Adapters**|Alberto Presta et.al.|[2404.15591](http://arxiv.org/abs/2404.15591)|null|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
 |**2024-04-23**|**Quantum optical classifier with superexponential speedup**|Simone Roncallo et.al.|[2404.15266](http://arxiv.org/abs/2404.15266)|null|
 |**2024-04-23**|**UniMERNet: A Universal Network for Real-World Mathematical Expression Recognition**|Bin Wang et.al.|[2404.15254](http://arxiv.org/abs/2404.15254)|**[link](https://github.com/opendatalab/unimernet)**|
@@ -11722,6 +11761,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Neuromorphic Shack-Hartmann wave normal sensing**|Chutian Wang et.al.|[2404.15619](http://arxiv.org/abs/2404.15619)|null|
+|**2024-04-24**|**Unitary Basis Transformations in Mixed Quantum-Classical Dynamics**|Ken Miyazaki et.al.|[2404.15614](http://arxiv.org/abs/2404.15614)|null|
+|**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611](http://arxiv.org/abs/2404.15611)|null|
+|**2024-04-24**|**Dynamic fault detection and diagnosis for alkaline water electrolyzer with variational Bayesian Sparse principal component analysis**|Qi Zhang et.al.|[2404.15609](http://arxiv.org/abs/2404.15609)|null|
+|**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604](http://arxiv.org/abs/2404.15604)|null|
+|**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**VulEval: Towards Repository-Level Evaluation of Software Vulnerability Detection**|Xin-Cheng Wen et.al.|[2404.15596](http://arxiv.org/abs/2404.15596)|null|
+|**2024-04-24**|**Security Analysis of WiFi-based Sensing Systems: Threats from Perturbation Attacks**|Hangcheng Cao et.al.|[2404.15587](http://arxiv.org/abs/2404.15587)|null|
+|**2024-04-24**|**Research on OPF control of three-phase four-wire low-voltage distribution network considering uncertainty**|Rui Wang et.al.|[2404.15584](http://arxiv.org/abs/2404.15584)|null|
 |**2024-04-23**|**Metric-guided Image Reconstruction Bounds via Conformal Prediction**|Matt Y Cheung et.al.|[2404.15274](http://arxiv.org/abs/2404.15274)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
 |**2024-04-23**|**Estimation Network Design framework for efficient distributed optimization**|Mattia Bianchi et.al.|[2404.15273](http://arxiv.org/abs/2404.15273)|null|
 |**2024-04-23**|**Chiral TeraHertz surface plasmonics**|Ian Aupiais et.al.|[2404.15270](http://arxiv.org/abs/2404.15270)|null|
@@ -14248,6 +14297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**MP-DPD: Low-Complexity Mixed-Precision Neural Networks for Energy-Efficient Digital Predistortion of Wideband Power Amplifiers**|Yizhuo Wu et.al.|[2404.15364](http://arxiv.org/abs/2404.15364)|null|
 |**2024-04-23**|**Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning**|Jie Lei et.al.|[2404.15043](http://arxiv.org/abs/2404.15043)|null|
 |**2024-04-19**|**Variance-informed Rounding Uncertainty Analysis for Floating-point Statistical Models**|Sahil Bhola et.al.|[2404.12556](http://arxiv.org/abs/2404.12556)|null|
 |**2024-04-15**|**EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization**|Wenxuan Zeng et.al.|[2404.09404](http://arxiv.org/abs/2404.09404)|null|
