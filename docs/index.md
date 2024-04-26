@@ -144,6 +144,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**A Communication- and Memory-Aware Model for Load Balancing Tasks**|Jonathan Lifflander et.al.|[2404.16793](http://arxiv.org/abs/2404.16793)|null|
+|**2024-04-25**|**Quantum-assisted trustworthiness for the Quantum Internet**|Agustin Zaballos et.al.|[2404.16463](http://arxiv.org/abs/2404.16463)|null|
+|**2024-04-25**|**On Software Ageing Indicators in OpenStack**|Yevhen Yazvinskyi et.al.|[2404.16446](http://arxiv.org/abs/2404.16446)|null|
+|**2024-04-25**|**Secure Coded Distributed Computing**|Shanuja Sasi et.al.|[2404.16431](http://arxiv.org/abs/2404.16431)|null|
+|**2024-04-24**|**POLIMON: Checking Temporal Properties over Out-of-order Streams at Runtime**|Felix Klaedtke et.al.|[2404.15723](http://arxiv.org/abs/2404.15723)|null|
 |**2024-04-23**|**A Review on Message Complexity of the Algorithms for Clock Synchronization in Distributed Systems**|Chandeepa Dissanayake et.al.|[2404.15467](http://arxiv.org/abs/2404.15467)|null|
 |**2024-04-22**|**Synthesis for prefix first-order logic on data words**|Julien Grange et.al.|[2404.14517](http://arxiv.org/abs/2404.14517)|null|
 |**2024-04-22**|**Flexibility Pricing in Distribution Systems: A Direct Method Aligned with Flexibility Models**|Yilin Wen et.al.|[2404.14386](http://arxiv.org/abs/2404.14386)|null|
@@ -528,6 +533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**The MOPYS project: A survey of 70 planets in search of extended He I and H atmospheres. No evidence of enhanced evaporation in young planets**|J. Orell-Miquel et.al.|[2404.16732](http://arxiv.org/abs/2404.16732)|null|
+|**2024-04-25**|**A candidate period of 4.605 day for FRB 20121102A and one possible implication of its origin**|Jixuan Li et.al.|[2404.16669](http://arxiv.org/abs/2404.16669)|null|
+|**2024-04-25**|**OpenIVM: a SQL-to-SQL Compiler for Incremental Computations**|Ilaria Battiston et.al.|[2404.16486](http://arxiv.org/abs/2404.16486)|null|
+|**2024-04-25**|**The Impact of Social Environment and Interaction Focus on User Experience and Social Acceptability of an Augmented Reality Game**|Lorenzo Cocchia et.al.|[2404.16479](http://arxiv.org/abs/2404.16479)|null|
+|**2024-04-25**|**Canonical Decision Diagrams Modulo Theories**|Massimo Michelutti et.al.|[2404.16455](http://arxiv.org/abs/2404.16455)|null|
+|**2024-04-24**|**Exploring Spatial Context: A Comprehensive Bibliography of GWR and MGWR**|A. Stewart Fotheringham et.al.|[2404.16209](http://arxiv.org/abs/2404.16209)|null|
+|**2024-04-24**|**JWST NIRSpec High-resolution Spectroscopy of MACS0647-JD at z=10.167: Resolved [OII] Doublet and Electron Density in an Early Galaxy**|Abdurro'uf et.al.|[2404.16201](http://arxiv.org/abs/2404.16201)|null|
+|**2024-04-24**|**Supercompiler Code Optimization with Zero-Shot Reinforcement Learning**|Jialong Wu et.al.|[2404.16077](http://arxiv.org/abs/2404.16077)|null|
+|**2024-04-24**|**APACHE: A Processing-Near-Memory Architecture for Multi-Scheme Fully Homomorphic Encryption**|Lin Ding et.al.|[2404.15819](http://arxiv.org/abs/2404.15819)|null|
+|**2024-04-24**|**Automated Creation of Source Code Variants of a Cryptographic Hash Function Implementation Using Generative Pre-Trained Transformer Models**|Elijah Pelofske et.al.|[2404.15681](http://arxiv.org/abs/2404.15681)|null|
 |**2024-04-23**|**Constraining dark energy equations of state in $F(R,T)$ gravity**|Ahmed Errahmani et.al.|[2404.15537](http://arxiv.org/abs/2404.15537)|null|
 |**2024-04-23**|**The early Earth as an analogue for exoplanetary biogeochemistry**|Eva E. Stüeken et.al.|[2404.15432](http://arxiv.org/abs/2404.15432)|null|
 |**2024-04-23**|**Distributed Architecture for FPGA-based Superconducting Qubit Control**|Neelay Fruitwala et.al.|[2404.15260](http://arxiv.org/abs/2404.15260)|null|
@@ -1720,6 +1735,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|null|
+|**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818](http://arxiv.org/abs/2404.16818)|**[link](https://github.com/visinf/primaps)**|
+|**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
+|**2024-04-25**|**SAGBI and Gröbner Bases Detection**|Viktoriia Borovik et.al.|[2404.16796](http://arxiv.org/abs/2404.16796)|null|
+|**2024-04-25**|**A Communication- and Memory-Aware Model for Load Balancing Tasks**|Jonathan Lifflander et.al.|[2404.16793](http://arxiv.org/abs/2404.16793)|null|
+|**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787](http://arxiv.org/abs/2404.16787)|null|
+|**2024-04-25**|**Harnessing Inferior Solutions For Superior Outcomes: Obtaining Robust Solutions From Quantum Algorithms**|Pascal Halffmann et.al.|[2404.16784](http://arxiv.org/abs/2404.16784)|null|
+|**2024-04-25**|**DrS: Learning Reusable Dense Rewards for Multi-Stage Tasks**|Tongzhou Mu et.al.|[2404.16779](http://arxiv.org/abs/2404.16779)|null|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**Beyond Boolean networks, a multi-valued approach**|J. García Galofre et.al.|[2404.16760](http://arxiv.org/abs/2404.16760)|null|
 |**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
 |**2024-04-24**|**A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution**|Zhixiong Yang et.al.|[2404.15620](http://arxiv.org/abs/2404.15620)|**[link](https://github.com/XYLGroup/DKP)**|
 |**2024-04-24**|**Neural Operator induced Gaussian Process framework for probabilistic solution of parametric partial differential equations**|Sawan Kumar et.al.|[2404.15618](http://arxiv.org/abs/2404.15618)|null|
@@ -4254,6 +4279,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|null|
+|**2024-04-25**|**Evolutionary Large Language Models for Hardware Security: A Comparative Survey**|Mohammad Akyash et.al.|[2404.16651](http://arxiv.org/abs/2404.16651)|null|
+|**2024-04-25**|**Implementing and Optimizing the Scaled Dot-Product Attention on Streaming Dataflow**|Gina Sohn et.al.|[2404.16629](http://arxiv.org/abs/2404.16629)|null|
+|**2024-04-25**|**Reduced density matrix formulation of quantum linear response**|Theo Juncker von Buchwald et.al.|[2404.16586](http://arxiv.org/abs/2404.16586)|null|
+|**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508](http://arxiv.org/abs/2404.16508)|null|
+|**2024-04-25**|**Hardware Implementation of Double Pendulum Pseudo Random Number Generator**|Jarrod Lim et.al.|[2404.16504](http://arxiv.org/abs/2404.16504)|null|
+|**2024-04-25**|**Stabilizing quantum simulations of lattice gauge theories by dissipation**|Tobias Schmale et.al.|[2404.16454](http://arxiv.org/abs/2404.16454)|null|
+|**2024-04-25**|**Revisiting Restarts of CDCL: Should the Search Information be Preserved?**|Xindi Zhang et.al.|[2404.16387](http://arxiv.org/abs/2404.16387)|null|
+|**2024-04-25**|**QREChem: Quantum Resource Estimation Software for Chemistry Applications**|Matthew Otten et.al.|[2404.16351](http://arxiv.org/abs/2404.16351)|null|
+|**2024-04-25**|**FLAASH: Flexible Accelerator Architecture for Sparse High-Order Tensor Contraction**|Gabriel Kulp et.al.|[2404.16317](http://arxiv.org/abs/2404.16317)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
 |**2024-04-24**|**Layer Ensemble Averaging for Improving Memristor-Based Artificial Neural Network Performance**|Osama Yousuf et.al.|[2404.15621](http://arxiv.org/abs/2404.15621)|null|
 |**2024-04-23**|**A Rapid Adapting and Continual Learning Spiking Neural Network Path Planning Algorithm for Mobile Robots**|Harrison Espino et.al.|[2404.15524](http://arxiv.org/abs/2404.15524)|null|
@@ -6696,6 +6731,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|null|
+|**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824](http://arxiv.org/abs/2404.16824)|null|
+|**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
+|**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
+|**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
+|**2024-04-25**|**Spherical bispectrum expansion and quadratic estimators**|Julien Carron et.al.|[2404.16797](http://arxiv.org/abs/2404.16797)|null|
+|**2024-04-25**|**Registration by Regression (RbR): a framework for interpretable and flexible atlas registration**|Karthik Gopinath et.al.|[2404.16781](http://arxiv.org/abs/2404.16781)|null|
+|**2024-04-25**|**Unifying Asynchronous Logics for Hyperproperties**|Alberto Bombardelli et.al.|[2404.16778](http://arxiv.org/abs/2404.16778)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|null|
+|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771](http://arxiv.org/abs/2404.16771)|**[link](https://github.com/JackAILab/ConsistentID)**|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
 |**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626](http://arxiv.org/abs/2404.15626)|null|
 |**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
@@ -9228,6 +9273,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Accelerated inference on accelerated cosmic expansion: New constraints on axion-like early dark energy with DESI BAO and ACT DR6 CMB lensing**|Frank J. Qu et.al.|[2404.16805](http://arxiv.org/abs/2404.16805)|null|
+|**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799](http://arxiv.org/abs/2404.16799)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787](http://arxiv.org/abs/2404.16787)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|null|
+|**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771](http://arxiv.org/abs/2404.16771)|**[link](https://github.com/JackAILab/ConsistentID)**|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**Analysis of Ethanol Blending Effects on Auto-Ignition and Heat Release in n-Heptane/Ethanol Non-Premixed Flames**|Liang Ji et.al.|[2404.16762](http://arxiv.org/abs/2404.16762)|null|
+|**2024-04-25**|**Beyond Boolean networks, a multi-valued approach**|J. García Galofre et.al.|[2404.16760](http://arxiv.org/abs/2404.16760)|null|
+|**2024-04-25**|**Characterizing Solar Center-to-Limb Radial-Velocity Variability with SDO**|Michael L. Palumbo III et.al.|[2404.16747](http://arxiv.org/abs/2404.16747)|null|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
 |**2024-04-24**|**Characterizing the Age of Information with Multiple Coexisting Data Streams**|Yoshiaki Inoue et.al.|[2404.15623](http://arxiv.org/abs/2404.15623)|null|
 |**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
@@ -11761,6 +11816,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**The Black-Hole Masses of High-Redshift QSOs**|Andrew King et.al.|[2404.16832](http://arxiv.org/abs/2404.16832)|null|
+|**2024-04-25**|**Learning Visuotactile Skills with Two Multifingered Hands**|Toru Lin et.al.|[2404.16823](http://arxiv.org/abs/2404.16823)|null|
+|**2024-04-25**|**Ordered and disordered stealthy hyperuniform point patterns across spatial dimensions**|Peter K. Morse et.al.|[2404.16819](http://arxiv.org/abs/2404.16819)|null|
+|**2024-04-25**|**Atmospheric Retrievals of the Phase-resolved Spectra of Irradiated Brown Dwarfs WD-0137B and EPIC-2122B**|Joshua D. Lothringer et.al.|[2404.16813](http://arxiv.org/abs/2404.16813)|null|
+|**2024-04-25**|**The Spectrum of $\mathbb{Q}$ -Isotropic Binary Quadratic Forms**|Giorgos Kotsovolis et.al.|[2404.16810](http://arxiv.org/abs/2404.16810)|null|
+|**2024-04-25**|**Enhancing nanocrystal superlattice self-assembly near a metastable liquid binodal**|Christian P. N. Tanner et.al.|[2404.16808](http://arxiv.org/abs/2404.16808)|null|
+|**2024-04-25**|**Simple tunable phase-locked lasers for quantum technologies**|Nicola Agnew et.al.|[2404.16806](http://arxiv.org/abs/2404.16806)|null|
+|**2024-04-25**|**The Directed Landscape is a Black Noise**|Zoe Himwich et.al.|[2404.16801](http://arxiv.org/abs/2404.16801)|null|
+|**2024-04-25**|**A Communication- and Memory-Aware Model for Load Balancing Tasks**|Jonathan Lifflander et.al.|[2404.16793](http://arxiv.org/abs/2404.16793)|null|
+|**2024-04-25**|**Rapid thermalization of dissipative many-body dynamics of commuting Hamiltonians**|Jan Kochanowski et.al.|[2404.16780](http://arxiv.org/abs/2404.16780)|null|
 |**2024-04-24**|**Neuromorphic Shack-Hartmann wave normal sensing**|Chutian Wang et.al.|[2404.15619](http://arxiv.org/abs/2404.15619)|null|
 |**2024-04-24**|**Unitary Basis Transformations in Mixed Quantum-Classical Dynamics**|Ken Miyazaki et.al.|[2404.15614](http://arxiv.org/abs/2404.15614)|null|
 |**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611](http://arxiv.org/abs/2404.15611)|null|
