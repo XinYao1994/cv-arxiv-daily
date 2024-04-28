@@ -555,7 +555,7 @@
 |**2024-04-25**|**A candidate period of 4.605 day for FRB 20121102A and one possible implication of its origin**|Jixuan Li et.al.|[2404.16669](http://arxiv.org/abs/2404.16669)|null|
 |**2024-04-25**|**OpenIVM: a SQL-to-SQL Compiler for Incremental Computations**|Ilaria Battiston et.al.|[2404.16486](http://arxiv.org/abs/2404.16486)|null|
 |**2024-04-25**|**The Impact of Social Environment and Interaction Focus on User Experience and Social Acceptability of an Augmented Reality Game**|Lorenzo Cocchia et.al.|[2404.16479](http://arxiv.org/abs/2404.16479)|null|
-|**2024-04-25**|**Canonical Decision Diagrams Modulo Theories**|Massimo Michelutti et.al.|[2404.16455](http://arxiv.org/abs/2404.16455)|null|
+|**2024-04-25**|**Canonical Decision Diagrams Modulo Theories**|Massimo Michelutti et.al.|[2404.16455](http://arxiv.org/abs/2404.16455)|**[link](https://github.com/maxmicheluttiunitn/decisiondiagrams)**|
 |**2024-04-24**|**Exploring Spatial Context: A Comprehensive Bibliography of GWR and MGWR**|A. Stewart Fotheringham et.al.|[2404.16209](http://arxiv.org/abs/2404.16209)|null|
 |**2024-04-24**|**JWST NIRSpec High-resolution Spectroscopy of MACS0647-JD at z=10.167: Resolved [OII] Doublet and Electron Density in an Early Galaxy**|Abdurro'uf et.al.|[2404.16201](http://arxiv.org/abs/2404.16201)|null|
 |**2024-04-24**|**Supercompiler Code Optimization with Zero-Shot Reinforcement Learning**|Jialong Wu et.al.|[2404.16077](http://arxiv.org/abs/2404.16077)|null|
@@ -1755,7 +1755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|null|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|**[link](https://github.com/uw-acl/successive-convexification)**|
 |**2024-04-25**|**Boosting Unsupervised Semantic Segmentation with Principal Mask Proposals**|Oliver Hahn et.al.|[2404.16818](http://arxiv.org/abs/2404.16818)|**[link](https://github.com/visinf/primaps)**|
 |**2024-04-25**|**ESG: Pipeline-Conscious Efficient Scheduling of DNN Workflows on Serverless Platforms with Shareable GPUs**|Xinning Hui et.al.|[2404.16812](http://arxiv.org/abs/2404.16812)|null|
 |**2024-04-25**|**SAGBI and Gröbner Bases Detection**|Viktoriia Borovik et.al.|[2404.16796](http://arxiv.org/abs/2404.16796)|null|
@@ -6755,7 +6755,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|null|
+|**2024-04-25**|**Successive Convexification for Trajectory Optimization with Continuous-Time Constraint Satisfaction**|Purnanand Elango et.al.|[2404.16826](http://arxiv.org/abs/2404.16826)|**[link](https://github.com/uw-acl/successive-convexification)**|
 |**2024-04-25**|**V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection**|Xuanyu Zhang et.al.|[2404.16824](http://arxiv.org/abs/2404.16824)|null|
 |**2024-04-25**|**Meta-Transfer Derm-Diagnosis: Exploring Few-Shot Learning and Transfer Learning for Skin Disease Classification in Long-Tail Distribution**|Zeynep Özdemir et.al.|[2404.16814](http://arxiv.org/abs/2404.16814)|null|
 |**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
@@ -6763,7 +6763,7 @@
 |**2024-04-25**|**Spherical bispectrum expansion and quadratic estimators**|Julien Carron et.al.|[2404.16797](http://arxiv.org/abs/2404.16797)|null|
 |**2024-04-25**|**Registration by Regression (RbR): a framework for interpretable and flexible atlas registration**|Karthik Gopinath et.al.|[2404.16781](http://arxiv.org/abs/2404.16781)|null|
 |**2024-04-25**|**Unifying Asynchronous Logics for Hyperproperties**|Alberto Bombardelli et.al.|[2404.16778](http://arxiv.org/abs/2404.16778)|null|
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|**[link](https://github.com/hggzjx/sfa)**|
 |**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771](http://arxiv.org/abs/2404.16771)|**[link](https://github.com/JackAILab/ConsistentID)**|
 |**2024-04-24**|**Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training**|Joseph A. Kilgore et.al.|[2404.15627](http://arxiv.org/abs/2404.15627)|null|
 |**2024-04-24**|**An Electromagnetism-Inspired Method for Estimating In-Grasp Torque from Visuotactile Sensors**|Yuni Fuchioka et.al.|[2404.15626](http://arxiv.org/abs/2404.15626)|null|
@@ -9303,7 +9303,7 @@
 |**2024-04-25**|**Model-free inference of memory in conformational dynamics of a multi-domain protein**|Leonie Vollmar et.al.|[2404.16799](http://arxiv.org/abs/2404.16799)|null|
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
 |**2024-04-25**|**Enhancing Quality of Experience in Telecommunication Networks: A Review of Frameworks and Machine Learning Algorithms**|Parsa H. S. Panahi et.al.|[2404.16787](http://arxiv.org/abs/2404.16787)|null|
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|**[link](https://github.com/hggzjx/sfa)**|
 |**2024-04-25**|**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving**|Jiehui Huang et.al.|[2404.16771](http://arxiv.org/abs/2404.16771)|**[link](https://github.com/JackAILab/ConsistentID)**|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
 |**2024-04-25**|**Analysis of Ethanol Blending Effects on Auto-Ignition and Heat Release in n-Heptane/Ethanol Non-Premixed Flames**|Liang Ji et.al.|[2404.16762](http://arxiv.org/abs/2404.16762)|null|
@@ -14392,7 +14392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-18**|**MP-DPD: Low-Complexity Mixed-Precision Neural Networks for Energy-Efficient Digital Predistortion of Wideband Power Amplifiers**|Yizhuo Wu et.al.|[2404.15364](http://arxiv.org/abs/2404.15364)|null|
+|**2024-04-18**|**MP-DPD: Low-Complexity Mixed-Precision Neural Networks for Energy-Efficient Digital Predistortion of Wideband Power Amplifiers**|Yizhuo Wu et.al.|[2404.15364](http://arxiv.org/abs/2404.15364)|**[link](https://github.com/lab-emi/opendpd)**|
 |**2024-04-23**|**Mapping Parallel Matrix Multiplication in GotoBLAS2 to the AMD Versal ACAP for Deep Learning**|Jie Lei et.al.|[2404.15043](http://arxiv.org/abs/2404.15043)|null|
 |**2024-04-19**|**Variance-informed Rounding Uncertainty Analysis for Floating-point Statistical Models**|Sahil Bhola et.al.|[2404.12556](http://arxiv.org/abs/2404.12556)|null|
 |**2024-04-15**|**EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization**|Wenxuan Zeng et.al.|[2404.09404](http://arxiv.org/abs/2404.09404)|null|
