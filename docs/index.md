@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -541,7 +541,7 @@ layout: default
 |**2024-04-30**|**Succinct arguments for QMA from standard assumptions via compiled nonlocal games**|Tony Metger et.al.|[2404.19754](http://arxiv.org/abs/2404.19754)|null|
 |**2024-04-30**|**Lancet: Accelerating Mixture-of-Experts Training via Whole Graph Computation-Communication Overlapping**|Chenyu Jiang et.al.|[2404.19429](http://arxiv.org/abs/2404.19429)|null|
 |**2024-04-30**|**A simple method for compiling quantum stabilizer circuits**|Brendan Reid et.al.|[2404.19408](http://arxiv.org/abs/2404.19408)|null|
-|**2024-04-30**|**Improving LLM Classification of Logical Errors by Integrating Error Relationship into Prompts**|Yanggyu Lee et.al.|[2404.19336](http://arxiv.org/abs/2404.19336)|null|
+|**2024-05-01**|**Improving LLM Classification of Logical Errors by Integrating Error Relationship into Prompts**|Yanggyu Lee et.al.|[2404.19336](http://arxiv.org/abs/2404.19336)|null|
 |**2024-04-30**|**Modeling Orthographic Variation in Occitan's Dialects**|Zachary William Hopton et.al.|[2404.19315](http://arxiv.org/abs/2404.19315)|null|
 |**2024-04-30**|**Optical Spectroscopy of Type Ia Supernovae by the Carnegie Supernova Projects I and II**|N. Morrell et.al.|[2404.19208](http://arxiv.org/abs/2404.19208)|null|
 |**2024-04-30**|**Updated observational constraints on spatially-flat and non-flat $Λ$ CDM and XCDM cosmological models**|Javier de Cruz Perez et.al.|[2404.19194](http://arxiv.org/abs/2404.19194)|null|
