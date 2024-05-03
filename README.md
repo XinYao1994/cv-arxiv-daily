@@ -558,6 +558,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|null|
+|**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
+|**2024-05-02**|**WildChat: 1M ChatGPT Interaction Logs in the Wild**|Wenting Zhao et.al.|[2405.01470](http://arxiv.org/abs/2405.01470)|null|
+|**2024-05-01**|**Evolution of Flare Activity in GKM Stars Younger than 300 Myr over Five Years of TESS Observations**|Adina D. Feinstein et.al.|[2405.00850](http://arxiv.org/abs/2405.00850)|null|
 |**2024-05-01**|**Unbundle-Rewrite-Rebundle: Runtime Detection and Rewriting of Privacy-Harming Code in JavaScript Bundles**|Mir Masood Ali et.al.|[2405.00596](http://arxiv.org/abs/2405.00596)|null|
 |**2024-05-01**|**Using non-DESI data to confirm and strengthen the DESI 2024 spatially-flat $w_0w_a$ CDM cosmological parameterization result**|Chan-Gyung Park et.al.|[2405.00502](http://arxiv.org/abs/2405.00502)|null|
 |**2024-04-30**|**Resource-compact time-optimal quantum computation**|Taewan Kim et.al.|[2405.00191](http://arxiv.org/abs/2405.00191)|null|
@@ -1791,6 +1795,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**AI for Manufacturing and Healthcare: a chemistry and engineering perspective**|Jihua Chen et.al.|[2405.01520](http://arxiv.org/abs/2405.01520)|null|
+|**2024-05-02**|**New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries**|Aditya Bhaskara et.al.|[2405.01517](http://arxiv.org/abs/2405.01517)|null|
+|**2024-05-02**|**Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**|Beverly J. Smith et.al.|[2405.01516](http://arxiv.org/abs/2405.01516)|null|
+|**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
+|**2024-05-02**|**Error Correction Capabilities of Non-Linear Cryptographic Hash Functions**|Alejandro Cohen et.al.|[2405.01495](http://arxiv.org/abs/2405.01495)|null|
+|**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
+|**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484](http://arxiv.org/abs/2405.01484)|null|
+|**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
+|**2024-05-02**|**On Quantum Ambiguity and Potential Exponential Computational Speed-Ups to Solving**|Eric Ghysels et.al.|[2405.01479](http://arxiv.org/abs/2405.01479)|null|
+|**2024-05-02**|**Creative Problem Solving in Large Language and Vision Models -- What Would it Take?**|Lakshmi Nair et.al.|[2405.01453](http://arxiv.org/abs/2405.01453)|null|
 |**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676](http://arxiv.org/abs/2405.00676)|**[link](https://github.com/runyiyang/sundae)**|
 |**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673](http://arxiv.org/abs/2405.00673)|null|
 |**2024-05-01**|**Linearly simplified QAOA parameters and transferability**|Ryo Sakai et.al.|[2405.00655](http://arxiv.org/abs/2405.00655)|null|
@@ -4377,6 +4391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**On-demand shaped photon emission based on a parametrically modulated qubit**|Xiang Li et.al.|[2405.01464](http://arxiv.org/abs/2405.01464)|null|
+|**2024-05-02**|**Digital-Analog Counterdiabatic Quantum Optimization with Trapped Ions**|Shubham Kumar et.al.|[2405.01447](http://arxiv.org/abs/2405.01447)|null|
+|**2024-05-02**|**GROMACS on AMD GPU-Based HPC Platforms: Using SYCL for Performance and Portability**|Andrey Alekseenko et.al.|[2405.01420](http://arxiv.org/abs/2405.01420)|null|
+|**2024-05-02**|**Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT**|Paola Vitolo et.al.|[2405.01419](http://arxiv.org/abs/2405.01419)|null|
+|**2024-05-02**|**Reduced Order Modeling for Real-Time Monitoring of Structural Displacements due to Electromagnetic Forces in Large Scale Tokamaks**|Francesco Lucchini et.al.|[2405.01406](http://arxiv.org/abs/2405.01406)|null|
+|**2024-05-02**|**An Advanced Framework for Ultra-Realistic Simulation and Digital Twinning for Autonomous Vehicles**|Yuankai He et.al.|[2405.01328](http://arxiv.org/abs/2405.01328)|null|
+|**2024-05-02**|**Distributed Representations Enable Robust Multi-Timescale Computation in Neuromorphic Hardware**|Madison Cotteret et.al.|[2405.01305](http://arxiv.org/abs/2405.01305)|null|
+|**2024-05-02**|**Joint Sequential Fronthaul Quantization and Hardware Complexity Reduction in Uplink Cell-Free Massive MIMO Networks**|Vida Ranjbar et.al.|[2405.01303](http://arxiv.org/abs/2405.01303)|null|
+|**2024-05-02**|**Proposal for PAC 52: Measurement of $α_-$ for $Λ\rightarrow pπ^-$**|Peter Hurck et.al.|[2405.01288](http://arxiv.org/abs/2405.01288)|null|
+|**2024-05-02**|**Evaluation of Video-Based rPPG in Challenging Environments: Artifact Mitigation and Network Resilience**|Nhi Nguyen et.al.|[2405.01230](http://arxiv.org/abs/2405.01230)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-05-01**|**A Modular Pragmatic Architecture for Multiuser MIMO with Array-Fed RIS**|Krishan Kumar Tiwari et.al.|[2405.00572](http://arxiv.org/abs/2405.00572)|null|
 |**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556](http://arxiv.org/abs/2405.00556)|null|
@@ -6871,6 +6895,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Robustness of Fixed Points of Quantum Channels and Application to Approximate Quantum Markov Chains**|Robert Salzmann et.al.|[2405.01532](http://arxiv.org/abs/2405.01532)|null|
+|**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
+|**2024-05-02**|**Driven Multiphoton Qubit-Resonator Interactions**|Mohammad Ayyash et.al.|[2405.01518](http://arxiv.org/abs/2405.01518)|null|
+|**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
+|**2024-05-02**|**Reverse Influential Community Search Over Social Networks (Technical Report)**|Qi Wen et.al.|[2405.01510](http://arxiv.org/abs/2405.01510)|null|
+|**2024-05-02**|**Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models**|Raymond Fok et.al.|[2405.01501](http://arxiv.org/abs/2405.01501)|null|
+|**2024-05-02**|**Error Correction Capabilities of Non-Linear Cryptographic Hash Functions**|Alejandro Cohen et.al.|[2405.01495](http://arxiv.org/abs/2405.01495)|null|
+|**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
+|**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
+|**2024-05-02**|**Saturation of the Multiparameter Quantum Cramér-Rao Bound at the Single-Copy Level with Projective Measurements**|Hendra I. Nurdin et.al.|[2405.01471](http://arxiv.org/abs/2405.01471)|null|
 |**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673](http://arxiv.org/abs/2405.00673)|null|
 |**2024-05-01**|**Optimizing Profitability in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2405.00665](http://arxiv.org/abs/2405.00665)|null|
 |**2024-05-01**|**Quantum cryptographic protocols with dual messaging system via 2D alternate quantum walks and genuine single particle entangled states**|Dinesh Kumar Panda et.al.|[2405.00663](http://arxiv.org/abs/2405.00663)|null|
@@ -9455,6 +9489,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
+|**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
+|**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
+|**2024-05-02**|**Reverse Influential Community Search Over Social Networks (Technical Report)**|Qi Wen et.al.|[2405.01510](http://arxiv.org/abs/2405.01510)|null|
+|**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
+|**2024-05-02**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|null|
+|**2024-05-02**|**Single-layer tensor network approach for three-dimensional quantum systems**|Illia Lukin et.al.|[2405.01489](http://arxiv.org/abs/2405.01489)|null|
+|**2024-05-02**|**Digital Twin Generators for Disease Modeling**|Nameyeh Alam et.al.|[2405.01488](http://arxiv.org/abs/2405.01488)|null|
+|**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
+|**2024-05-02**|**On-demand shaped photon emission based on a parametrically modulated qubit**|Xiang Li et.al.|[2405.01464](http://arxiv.org/abs/2405.01464)|null|
 |**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676](http://arxiv.org/abs/2405.00676)|**[link](https://github.com/runyiyang/sundae)**|
 |**2024-05-01**|**Adapting Pretrained Networks for Image Quality Assessment on High Dynamic Range Displays**|Andrei Chubarau et.al.|[2405.00670](http://arxiv.org/abs/2405.00670)|null|
 |**2024-05-01**|**Optimizing Profitability in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2405.00665](http://arxiv.org/abs/2405.00665)|null|
@@ -12040,6 +12084,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Robustness of Fixed Points of Quantum Channels and Application to Approximate Quantum Markov Chains**|Robert Salzmann et.al.|[2405.01532](http://arxiv.org/abs/2405.01532)|null|
+|**2024-05-02**|**Implementation of time-dependent Hartree Fock in real space**|Uday Panta et.al.|[2405.01522](http://arxiv.org/abs/2405.01522)|null|
+|**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
+|**2024-05-02**|**AI for Manufacturing and Healthcare: a chemistry and engineering perspective**|Jihua Chen et.al.|[2405.01520](http://arxiv.org/abs/2405.01520)|null|
+|**2024-05-02**|**Valuing maintenance strategies for fusion plants as part of a future electricity grid**|Jacob A. Schwartz et.al.|[2405.01514](http://arxiv.org/abs/2405.01514)|null|
+|**2024-05-02**|**Symbiotic stars in X-rays IV: XMM-Newton, Swift and TESS observations**|Isabel J. Lima et.al.|[2405.01508](http://arxiv.org/abs/2405.01508)|null|
+|**2024-05-02**|**Evaluation and Optimization of Adaptive Cruise Control in Autonomous Vehicles using the CARLA Simulator: A Study on Performance under Wet and Dry Weather Conditions**|Roza Al-Hindaw et.al.|[2405.01504](http://arxiv.org/abs/2405.01504)|null|
+|**2024-05-02**|**Optical Manipulation of Spin States in Ultracold Magnetic Atoms via an Inner-Shell Hz Transition**|Ferdinand Claude et.al.|[2405.01499](http://arxiv.org/abs/2405.01499)|null|
+|**2024-05-02**|**Insight-HXMT View of the BHC Swift J1727.8-1613 during its outburst in 2023**|Kaushik Chatterjee et.al.|[2405.01498](http://arxiv.org/abs/2405.01498)|null|
+|**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
 |**2024-05-01**|**Quantum algorithms for matrix geometric means**|Nana Liu et.al.|[2405.00673](http://arxiv.org/abs/2405.00673)|null|
 |**2024-05-01**|**Optimizing Profitability in Timely Gossip Networks**|Priyanka Kaswan et.al.|[2405.00665](http://arxiv.org/abs/2405.00665)|null|
 |**2024-05-01**|**Quantum cryptographic protocols with dual messaging system via 2D alternate quantum walks and genuine single particle entangled states**|Dinesh Kumar Panda et.al.|[2405.00663](http://arxiv.org/abs/2405.00663)|null|
@@ -14628,6 +14682,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Reorthogonalized Pythagorean variants of block classical Gram-Schmidt**|Erin Carson et.al.|[2405.01298](http://arxiv.org/abs/2405.01298)|null|
 |**2024-05-01**|**Gradient-based Automatic Per-Weight Mixed Precision Quantization for Neural Networks On-Chip**|Chang Sun et.al.|[2405.00645](http://arxiv.org/abs/2405.00645)|**[link](https://github.com/calad0i/HGQ-demos)**|
 |**2024-04-29**|**Efficient Mixed-Precision Matrix Factorization of the Inverse Overlap Matrix in Electronic Structure Calculations with AI-Hardware and GPUs**|Adela Habib et.al.|[2404.19163](http://arxiv.org/abs/2404.19163)|null|
 |**2024-04-22**|**AdaQAT: Adaptive Bit-Width Quantization-Aware Training**|Cédric Gernigon et.al.|[2404.16876](http://arxiv.org/abs/2404.16876)|null|
