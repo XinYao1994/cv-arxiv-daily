@@ -558,6 +558,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution**|M. G. Dainotti et.al.|[2405.02263](http://arxiv.org/abs/2405.02263)|null|
+|**2024-05-03**|**Possible Causes of False General Relativity Violations in Gravitational Wave Observations**|Anuradha Gupta et.al.|[2405.02197](http://arxiv.org/abs/2405.02197)|null|
+|**2024-05-03**|**The role of LRG1 and LRG2's monopole in inferring the DESI 2024 BAO cosmology**|Zhengyi Wang et.al.|[2405.02168](http://arxiv.org/abs/2405.02168)|null|
+|**2024-05-02**|**A hidden population of active galactic nuclei can explain the overabundance of luminous $z>10$ objects observed by JWST**|Sahil Hegde et.al.|[2405.01629](http://arxiv.org/abs/2405.01629)|null|
 |**2024-05-02**|**FeNNol: an Efficient and Flexible Library for Building Force-field-enhanced Neural Network Potentials**|Thomas Plé et.al.|[2405.01491](http://arxiv.org/abs/2405.01491)|**[link](https://github.com/thomasple/FeNNol)**|
 |**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
 |**2024-05-02**|**WildChat: 1M ChatGPT Interaction Logs in the Wild**|Wenting Zhao et.al.|[2405.01470](http://arxiv.org/abs/2405.01470)|null|
@@ -1795,6 +1799,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**How Rare are TESS Free-Floating Planets?**|Hongjing Yang et.al.|[2405.02279](http://arxiv.org/abs/2405.02279)|null|
+|**2024-05-03**|**Characterizing randomness in parameterized quantum circuits through expressibility and average entanglement**|Guilherme Ilário Correr et.al.|[2405.02265](http://arxiv.org/abs/2405.02265)|null|
+|**2024-05-03**|**Comparing Personalized Relevance Algorithms for Directed Graphs**|Luca Cavalcanti et.al.|[2405.02261](http://arxiv.org/abs/2405.02261)|null|
+|**2024-05-03**|**Efficient computation of topological integral transforms**|Vadim Lebovici et.al.|[2405.02256](http://arxiv.org/abs/2405.02256)|null|
+|**2024-05-03**|**Response of strongly coupled fermions on classical and quantum computers**|John Novak et.al.|[2405.02255](http://arxiv.org/abs/2405.02255)|null|
+|**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
+|**2024-05-03**|**Towards Improving Learning from Demonstration Algorithms via MCMC Methods**|Hanwen Qi et.al.|[2405.02243](http://arxiv.org/abs/2405.02243)|null|
+|**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
+|**2024-05-03**|**Secure and Efficient General Matrix Multiplication On Cloud Using Homomorphic Encryption**|Yang Gao et.al.|[2405.02238](http://arxiv.org/abs/2405.02238)|null|
+|**2024-05-03**|**Estimating microlensing parameters from observables and stellar isochrones with pyLIMASS**|E. Bachelet et.al.|[2405.02230](http://arxiv.org/abs/2405.02230)|null|
 |**2024-05-02**|**AI for Manufacturing and Healthcare: a chemistry and engineering perspective**|Jihua Chen et.al.|[2405.01520](http://arxiv.org/abs/2405.01520)|null|
 |**2024-05-02**|**New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries**|Aditya Bhaskara et.al.|[2405.01517](http://arxiv.org/abs/2405.01517)|null|
 |**2024-05-02**|**Grand Design vs. Multi-Armed Spiral Galaxies: Dependence on Galaxy Structure**|Beverly J. Smith et.al.|[2405.01516](http://arxiv.org/abs/2405.01516)|null|
@@ -4391,6 +4405,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Characterizing randomness in parameterized quantum circuits through expressibility and average entanglement**|Guilherme Ilário Correr et.al.|[2405.02265](http://arxiv.org/abs/2405.02265)|null|
+|**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
+|**2024-05-03**|**GTA: a new General Tensor Accelerator with Better Area Efficiency and Data Reuse**|Chenyang Ai et.al.|[2405.02196](http://arxiv.org/abs/2405.02196)|null|
+|**2024-05-03**|**Transimpedance Amplifier with Automatic Gain Control Based on Memristors for Optical Signal Acquisition**|Sariel Hodisan et.al.|[2405.02169](http://arxiv.org/abs/2405.02169)|null|
+|**2024-05-03**|**A Spiking Neural Network Decoder for Implantable Brain Machine Interfaces and its Sparsity-aware Deployment on RISC-V Microcontrollers**|Jiawei Liao et.al.|[2405.02146](http://arxiv.org/abs/2405.02146)|null|
+|**2024-05-03**|**Quantum Circuit Learning on NISQ Hardware**|Niclas Schillo et.al.|[2405.02069](http://arxiv.org/abs/2405.02069)|null|
+|**2024-05-03**|**Small Logic-based Multipliers with Incomplete Sub-Multipliers for FPGAs**|Andreas Böttcher et.al.|[2405.02047](http://arxiv.org/abs/2405.02047)|null|
+|**2024-05-03**|**Fast Algorithms for Spiking Neural Network Simulation with FPGAs**|Björn A. Lindqvist et.al.|[2405.02019](http://arxiv.org/abs/2405.02019)|null|
+|**2024-05-03**|**Dependency-Aware Semi-Structured Sparsity of GLU Variants in Large Language Models**|Zhiyu Guo et.al.|[2405.01943](http://arxiv.org/abs/2405.01943)|null|
+|**2024-05-03**|**RF Chain-Free mmWave Transmission: Modeling and Experimental Verification**|M. Yaser Yağan et.al.|[2405.01931](http://arxiv.org/abs/2405.01931)|null|
 |**2024-05-02**|**On-demand shaped photon emission based on a parametrically modulated qubit**|Xiang Li et.al.|[2405.01464](http://arxiv.org/abs/2405.01464)|null|
 |**2024-05-02**|**Digital-Analog Counterdiabatic Quantum Optimization with Trapped Ions**|Shubham Kumar et.al.|[2405.01447](http://arxiv.org/abs/2405.01447)|null|
 |**2024-05-02**|**GROMACS on AMD GPU-Based HPC Platforms: Using SYCL for Performance and Portability**|Andrey Alekseenko et.al.|[2405.01420](http://arxiv.org/abs/2405.01420)|null|
@@ -6895,6 +6919,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Special matrices over finite fields and their applications to quantum error-correcting codes**|Meng Cao et.al.|[2405.02285](http://arxiv.org/abs/2405.02285)|null|
+|**2024-05-03**|**How Rare are TESS Free-Floating Planets?**|Hongjing Yang et.al.|[2405.02279](http://arxiv.org/abs/2405.02279)|null|
+|**2024-05-03**|**Local number fluctuations in ordered and disordered phases of water across temperatures: Higher-order moments and degrees of tetrahedrality**|Michael A. Klatt et.al.|[2405.02271](http://arxiv.org/abs/2405.02271)|null|
+|**2024-05-03**|**An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution**|M. G. Dainotti et.al.|[2405.02263](http://arxiv.org/abs/2405.02263)|null|
+|**2024-05-03**|**Comparing Personalized Relevance Algorithms for Directed Graphs**|Luca Cavalcanti et.al.|[2405.02261](http://arxiv.org/abs/2405.02261)|null|
+|**2024-05-03**|**Efficient computation of topological integral transforms**|Vadim Lebovici et.al.|[2405.02256](http://arxiv.org/abs/2405.02256)|null|
+|**2024-05-03**|**Strategies for implementing quantum error correction in molecular rotation**|Brandon J. Furey et.al.|[2405.02236](http://arxiv.org/abs/2405.02236)|null|
+|**2024-05-03**|**Estimating microlensing parameters from observables and stellar isochrones with pyLIMASS**|E. Bachelet et.al.|[2405.02230](http://arxiv.org/abs/2405.02230)|null|
+|**2024-05-03**|**REASONS: A benchmark for REtrieval and Automated citationS Of scieNtific Sentences using Public and Proprietary LLMs**|Deepa Tilwani et.al.|[2405.02228](http://arxiv.org/abs/2405.02228)|null|
+|**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-02**|**Robustness of Fixed Points of Quantum Channels and Application to Approximate Quantum Markov Chains**|Robert Salzmann et.al.|[2405.01532](http://arxiv.org/abs/2405.01532)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
 |**2024-05-02**|**Driven Multiphoton Qubit-Resonator Interactions**|Mohammad Ayyash et.al.|[2405.01518](http://arxiv.org/abs/2405.01518)|null|
@@ -9489,6 +9523,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Local insulator-to-superconductor transition in amorphous InO $_x$ films modulated by e-beam irradiation**|Iago F. Llovo et.al.|[2405.02276](http://arxiv.org/abs/2405.02276)|null|
+|**2024-05-03**|**Local number fluctuations in ordered and disordered phases of water across temperatures: Higher-order moments and degrees of tetrahedrality**|Michael A. Klatt et.al.|[2405.02271](http://arxiv.org/abs/2405.02271)|null|
+|**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
+|**2024-05-03**|**An Optical Gamma-Ray Burst Catalogue with Measured Redshift PART I: Data Release of 535 Gamma-Ray Bursts and Colour Evolution**|M. G. Dainotti et.al.|[2405.02263](http://arxiv.org/abs/2405.02263)|null|
+|**2024-05-03**|**Deep Learning of ab initio Hessians for Transition State Optimization**|Eric C. -Y. Yuan et.al.|[2405.02247](http://arxiv.org/abs/2405.02247)|null|
+|**2024-05-03**|**Towards Improving Learning from Demonstration Algorithms via MCMC Methods**|Hanwen Qi et.al.|[2405.02243](http://arxiv.org/abs/2405.02243)|null|
+|**2024-05-03**|**Designed Dithering Sign Activation for Binary Neural Networks**|Brayan Monroy et.al.|[2405.02220](http://arxiv.org/abs/2405.02220)|null|
+|**2024-05-03**|**Influence of a slow moving vehicle on traffic: Well-posedness and approximation for a mildly non-local model**|Abraham Sylla et.al.|[2405.02215](http://arxiv.org/abs/2405.02215)|null|
+|**2024-05-03**|**A Flow-Based Model for Conditional and Probabilistic Electricity Consumption Profile Generation and Prediction**|Weijie Xia et.al.|[2405.02180](http://arxiv.org/abs/2405.02180)|null|
+|**2024-05-03**|**All-fiber microendoscopic polarization sensing at single-photon level aided by deep-learning**|Martin Bielak et.al.|[2405.02172](http://arxiv.org/abs/2405.02172)|null|
 |**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
@@ -12084,6 +12128,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Thermodynamic constraints on polar active matter hydrodynamics**|Andrea Amoretti et.al.|[2405.02283](http://arxiv.org/abs/2405.02283)|null|
+|**2024-05-03**|**Modulational instability in a quasi-one-dimensional Bose-Einstein condensates**|Sherzod R. Otajonov et.al.|[2405.02282](http://arxiv.org/abs/2405.02282)|null|
+|**2024-05-03**|**Local insulator-to-superconductor transition in amorphous InO $_x$ films modulated by e-beam irradiation**|Iago F. Llovo et.al.|[2405.02276](http://arxiv.org/abs/2405.02276)|null|
+|**2024-05-03**|**On its way to the neutron star-white dwarf binary graveyard, IGR J16194-2810, a first ascent M giant X-ray binary**|K. H. Hinkle et.al.|[2405.02270](http://arxiv.org/abs/2405.02270)|null|
+|**2024-05-03**|**Spatio-temporal spectral transfers in fluid dynamics**|Avik Mondal et.al.|[2405.02259](http://arxiv.org/abs/2405.02259)|null|
+|**2024-05-03**|**Cryogenic optical beam steering for superconducting device calibration**|K. Stifter et.al.|[2405.02258](http://arxiv.org/abs/2405.02258)|null|
+|**2024-05-03**|**Response of strongly coupled fermions on classical and quantum computers**|John Novak et.al.|[2405.02255](http://arxiv.org/abs/2405.02255)|null|
+|**2024-05-03**|**Moment matching based reduced closed-loop design to achieve asymptotic performance**|Tudor C. Ionescu et.al.|[2405.02253](http://arxiv.org/abs/2405.02253)|null|
+|**2024-05-03**|**Fermionization and collective excitations of 1D polariton lattices**|Johannes Knörzer et.al.|[2405.02251](http://arxiv.org/abs/2405.02251)|null|
+|**2024-05-03**|**Fractonic criticality in Rydberg atom arrays**|Rafael A. Macedo et.al.|[2405.02248](http://arxiv.org/abs/2405.02248)|null|
 |**2024-05-02**|**Robustness of Fixed Points of Quantum Channels and Application to Approximate Quantum Markov Chains**|Robert Salzmann et.al.|[2405.01532](http://arxiv.org/abs/2405.01532)|null|
 |**2024-05-02**|**Implementation of time-dependent Hartree Fock in real space**|Uday Panta et.al.|[2405.01522](http://arxiv.org/abs/2405.01522)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
