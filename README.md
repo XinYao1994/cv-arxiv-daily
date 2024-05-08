@@ -164,6 +164,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Decision-Dependent Uncertainty-Aware Distribution System Planning Under Wildfire Risk**|Felipe Piancó et.al.|[2405.04350](http://arxiv.org/abs/2405.04350)|null|
+|**2024-05-07**|**Assemblage: Automatic Binary Dataset Construction for Machine Learning**|Chang Liu et.al.|[2405.03991](http://arxiv.org/abs/2405.03991)|null|
 |**2024-05-04**|**Communication Modalities**|Roman Kuznets et.al.|[2405.02606](http://arxiv.org/abs/2405.02606)|null|
 |**2024-05-03**|**Incremental Volt/Var Control for Distribution Networks via Chance-Constrained Optimization**|Antonin Colot et.al.|[2405.02511](http://arxiv.org/abs/2405.02511)|null|
 |**2024-05-03**|**Stable Distributed Online Feedback Optimization for Distribution System Voltage Regulation**|Sen Zhan et.al.|[2405.02487](http://arxiv.org/abs/2405.02487)|null|
@@ -562,6 +564,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**BERP: A Blind Estimator of Room Acoustic and Physical Parameters for Single-Channel Noisy Speech Signals**|Lijun Wang et.al.|[2405.04476](http://arxiv.org/abs/2405.04476)|null|
+|**2024-05-07**|**WALLETRADAR: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets**|Pengcheng Xia et.al.|[2405.04332](http://arxiv.org/abs/2405.04332)|null|
+|**2024-05-07**|**DESI 2024: Reconstructing Dark Energy using Crossing Statistics with DESI DR1 BAO data**|R. Calderon et.al.|[2405.04216](http://arxiv.org/abs/2405.04216)|null|
+|**2024-05-07**|**What Impacts the Quality of the User Answers when Asked about the Current Context?**|Ivano Bison et.al.|[2405.04054](http://arxiv.org/abs/2405.04054)|null|
+|**2024-05-07**|**Assemblage: Automatic Binary Dataset Construction for Machine Learning**|Chang Liu et.al.|[2405.03991](http://arxiv.org/abs/2405.03991)|null|
+|**2024-05-03**|**Generating Probabilistic Scenario Programs from Natural Language**|Karim Elmaaroufi et.al.|[2405.03709](http://arxiv.org/abs/2405.03709)|null|
 |**2024-05-06**|**Linear correlations of Gibbs free energy for rare earth element oxide, hydroxide, chloride, fluoride, carbonate, and ferrite minerals and crystalline solids**|Ruiguang Pan et.al.|[2405.03515](http://arxiv.org/abs/2405.03515)|null|
 |**2024-05-05**|**Enhancing High-Level Synthesis with Automated Pragma Insertion and Code Transformation Framework**|Stèphane Pouget et.al.|[2405.03058](http://arxiv.org/abs/2405.03058)|null|
 |**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
@@ -1809,6 +1817,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532](http://arxiv.org/abs/2405.04532)|**[link](https://github.com/mit-han-lab/qserve)**|
+|**2024-05-07**|**Stochastic Gradient MCMC for Massive Geostatistical Data**|Mohamed A. Abba et.al.|[2405.04531](http://arxiv.org/abs/2405.04531)|null|
+|**2024-05-07**|**Comparing Ways of Obtaining Candidate Orderings from Approval Ballots**|Théo Delemazure et.al.|[2405.04525](http://arxiv.org/abs/2405.04525)|null|
+|**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
+|**2024-05-07**|**SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45 $^\circ$ 598 Debris Disk**|Maria Vincent et.al.|[2405.04521](http://arxiv.org/abs/2405.04521)|null|
+|**2024-05-07**|**NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts**|Shudan Zhang et.al.|[2405.04520](http://arxiv.org/abs/2405.04520)|null|
+|**2024-05-07**|**Local Advice and Local Decompression**|Alkida Balliu et.al.|[2405.04519](http://arxiv.org/abs/2405.04519)|null|
+|**2024-05-07**|**Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System**|Shuwen Kan et.al.|[2405.04514](http://arxiv.org/abs/2405.04514)|null|
+|**2024-05-07**|**Benchmarking Optimizers for Qumode State Preparation with Variational Quantum Algorithms**|Shuwen Kan et.al.|[2405.04499](http://arxiv.org/abs/2405.04499)|null|
+|**2024-05-07**|**Resource-Efficient and Self-Adaptive Quantum Search in a Quantum-Classical Hybrid System**|Zihao Jiang et.al.|[2405.04490](http://arxiv.org/abs/2405.04490)|null|
 |**2024-05-06**|**Monotone Randomized Apportionment**|José Correa et.al.|[2405.03687](http://arxiv.org/abs/2405.03687)|null|
 |**2024-05-06**|**All-in-One Deep Learning Framework for MR Image Reconstruction**|Geunu Jeong et.al.|[2405.03684](http://arxiv.org/abs/2405.03684)|null|
 |**2024-05-06**|**Competitive strategies to use "warm start" algorithms with predictions**|Vaidehi Srinivas et.al.|[2405.03661](http://arxiv.org/abs/2405.03661)|null|
@@ -4425,6 +4443,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
+|**2024-05-07**|**Vision Mamba: A Comprehensive Survey and Taxonomy**|Xiao Liu et.al.|[2405.04404](http://arxiv.org/abs/2405.04404)|**[link](https://github.com/lx6c78/vision-mamba-a-comprehensive-survey-and-taxonomy)**|
+|**2024-05-07**|**Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies**|Julien Baglio et.al.|[2405.04401](http://arxiv.org/abs/2405.04401)|null|
+|**2024-05-07**|**$\textbf{Splat-MOVER}$ : Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
+|**2024-05-07**|**Certifying Phase Abstraction**|Nils Froleyks et.al.|[2405.04297](http://arxiv.org/abs/2405.04297)|null|
+|**2024-05-07**|**Insights from Basilisk: Are Open-Source EDA Tools Ready for a Multi-Million-Gate, Linux-Booting RV64 SoC Design?**|Philippe Sauter et.al.|[2405.04257](http://arxiv.org/abs/2405.04257)|null|
+|**2024-05-07**|**Quantum-enhanced Markov Chain Monte Carlo for systems larger than your Quantum Computer**|Stuart Ferguson et.al.|[2405.04247](http://arxiv.org/abs/2405.04247)|null|
+|**2024-05-07**|**Optical Photon Emission in Extended Airshowers -- Hybrid computing in the context of CORSIKA 8**|Dominik Baack et.al.|[2405.04229](http://arxiv.org/abs/2405.04229)|null|
+|**2024-05-07**|**NOVA: NoC-based Vector Unit for Mapping Attention Layers on a CNN Accelerator**|Mohit Upadhyay et.al.|[2405.04206](http://arxiv.org/abs/2405.04206)|null|
+|**2024-05-07**|**Effect of realistic oscillator phase noise on the performance of cell-free networks**|Igor Zhilin et.al.|[2405.04099](http://arxiv.org/abs/2405.04099)|null|
 |**2024-05-06**|**Collage: Light-Weight Low-Precision Strategy for LLM Training**|Tao Yu et.al.|[2405.03637](http://arxiv.org/abs/2405.03637)|null|
 |**2024-05-06**|**LaserEscape: Detecting and Mitigating Optical Probing Attacks**|Saleh Khalaj Monfared et.al.|[2405.03632](http://arxiv.org/abs/2405.03632)|null|
 |**2024-05-06**|**Trackable Island-model Genetic Algorithms at Wafer Scale**|Matthew Andres Moreno et.al.|[2405.03605](http://arxiv.org/abs/2405.03605)|null|
@@ -6949,6 +6977,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**PoW Security-Latency under Random Delays and the Effect of Transaction Fees**|Mustafa Doger et.al.|[2405.04526](http://arxiv.org/abs/2405.04526)|null|
+|**2024-05-07**|**The ramification tree and almost Dedekind domains of prescribed SP-rank**|Balint Rago et.al.|[2405.04523](http://arxiv.org/abs/2405.04523)|null|
+|**2024-05-07**|**Large mechanical squeezing through synthetic magnetism in optomechanics**|D. R. Kenigoule Massembele et.al.|[2405.04508](http://arxiv.org/abs/2405.04508)|null|
+|**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
+|**2024-05-07**|**Generative Planning with Fast Collision Checks for High Speed Navigation**|Craig Knuth et.al.|[2405.04498](http://arxiv.org/abs/2405.04498)|null|
+|**2024-05-07**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
+|**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
+|**2024-05-07**|**S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling**|Minh Tran et.al.|[2405.04489](http://arxiv.org/abs/2405.04489)|null|
+|**2024-05-07**|**Quantum Rabin oblivious transfer using two pure states**|Lara Stroh et.al.|[2405.04486](http://arxiv.org/abs/2405.04486)|null|
 |**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|null|
 |**2024-05-06**|**Language-Image Models with 3D Understanding**|Jang Hyun Cho et.al.|[2405.03685](http://arxiv.org/abs/2405.03685)|null|
 |**2024-05-06**|**MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**|Qianning Wang et.al.|[2405.03673](http://arxiv.org/abs/2405.03673)|null|
@@ -9563,6 +9601,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
+|**2024-05-07**|**Disorder free many-body localization transition in two quasiperiodically coupled Heisenberg spin chains**|K. G. S. H. Gunawardana et.al.|[2405.04516](http://arxiv.org/abs/2405.04516)|null|
+|**2024-05-07**|**Switchable Decision: Dynamic Neural Generation Networks**|Shujian Zhang et.al.|[2405.04513](http://arxiv.org/abs/2405.04513)|null|
+|**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
+|**2024-05-07**|**Neural Network Quantum States for the Interacting Hofstadter Model with Higher Local Occupations and Long-Range Interactions**|Fabian Döschl et.al.|[2405.04472](http://arxiv.org/abs/2405.04472)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
+|**2024-05-07**|**Designing the Network Intelligence Stratum for 6G Networks**|Paola Soto et.al.|[2405.04432](http://arxiv.org/abs/2405.04432)|null|
+|**2024-05-07**|**Optimizing Information Freshness in IoT Systems with Update Rate Constraints: A Token-Based Approach**|Erfan Delfani et.al.|[2405.04431](http://arxiv.org/abs/2405.04431)|null|
+|**2024-05-07**|**Intrinsic Current Concentration of Buffer Layer Material for Cable Ablation Failure: Role of Random Fiber Networks**|Haoran Zhang et.al.|[2405.04430](http://arxiv.org/abs/2405.04430)|null|
 |**2024-05-06**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680](http://arxiv.org/abs/2405.03680)|null|
 |**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
 |**2024-05-06**|**Generated Contents Enrichment**|Mahdi Naseri et.al.|[2405.03650](http://arxiv.org/abs/2405.03650)|null|
@@ -12178,6 +12226,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532](http://arxiv.org/abs/2405.04532)|**[link](https://github.com/mit-han-lab/qserve)**|
+|**2024-05-07**|**The six-planet resonant chain of HD 110067**|Caleb Lammers et.al.|[2405.04527](http://arxiv.org/abs/2405.04527)|null|
+|**2024-05-07**|**Neural network based deep learning analysis of semiconductor quantum dot qubits for automated control**|Jacob R. Taylor et.al.|[2405.04524](http://arxiv.org/abs/2405.04524)|null|
+|**2024-05-07**|**SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45 $^\circ$ 598 Debris Disk**|Maria Vincent et.al.|[2405.04521](http://arxiv.org/abs/2405.04521)|null|
+|**2024-05-07**|**Disorder free many-body localization transition in two quasiperiodically coupled Heisenberg spin chains**|K. G. S. H. Gunawardana et.al.|[2405.04516](http://arxiv.org/abs/2405.04516)|null|
+|**2024-05-07**|**Scalable Circuit Cutting and Scheduling in a Resource-constrained and Distributed Quantum System**|Shuwen Kan et.al.|[2405.04514](http://arxiv.org/abs/2405.04514)|null|
+|**2024-05-07**|**Macroscopic flow out of a segment for Activated Random Walks in dimension 1**|Forien Nicolas et.al.|[2405.04510](http://arxiv.org/abs/2405.04510)|null|
+|**2024-05-07**|**Large mechanical squeezing through synthetic magnetism in optomechanics**|D. R. Kenigoule Massembele et.al.|[2405.04508](http://arxiv.org/abs/2405.04508)|null|
+|**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
 |**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**|Qianning Wang et.al.|[2405.03673](http://arxiv.org/abs/2405.03673)|null|
 |**2024-05-06**|**Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing**|Akane Wakai et.al.|[2405.03670](http://arxiv.org/abs/2405.03670)|null|
