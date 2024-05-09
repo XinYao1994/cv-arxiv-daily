@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -553,7 +553,7 @@ layout: default
 |**2024-05-07**|**Assemblage: Automatic Binary Dataset Construction for Machine Learning**|Chang Liu et.al.|[2405.03991](http://arxiv.org/abs/2405.03991)|null|
 |**2024-05-03**|**Generating Probabilistic Scenario Programs from Natural Language**|Karim Elmaaroufi et.al.|[2405.03709](http://arxiv.org/abs/2405.03709)|null|
 |**2024-05-06**|**Linear correlations of Gibbs free energy for rare earth element oxide, hydroxide, chloride, fluoride, carbonate, and ferrite minerals and crystalline solids**|Ruiguang Pan et.al.|[2405.03515](http://arxiv.org/abs/2405.03515)|null|
-|**2024-05-05**|**Enhancing High-Level Synthesis with Automated Pragma Insertion and Code Transformation Framework**|Stèphane Pouget et.al.|[2405.03058](http://arxiv.org/abs/2405.03058)|null|
+|**2024-05-07**|**Enhancing High-Level Synthesis with Automated Pragma Insertion and Code Transformation Framework**|Stéphane Pouget et.al.|[2405.03058](http://arxiv.org/abs/2405.03058)|null|
 |**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
 |**2024-05-04**|**Prediction of Space Weather Events through Analysis of Active Region Magnetograms using Convolutional Neural Network**|Shlesh Sakpal et.al.|[2405.02545](http://arxiv.org/abs/2405.02545)|null|
 |**2024-05-03**|**X-ray Winds In Nearby-to-distant Galaxies (X-WING) - I: Legacy Surveys of Galaxies with Ultrafast Outflows and Warm Absorbers in $z \sim 0$-$4$**|Satoshi Yamada et.al.|[2405.02391](http://arxiv.org/abs/2405.02391)|null|
@@ -4426,7 +4426,7 @@ layout: default
 |**2024-05-07**|**Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies**|Julien Baglio et.al.|[2405.04401](http://arxiv.org/abs/2405.04401)|null|
 |**2024-05-07**|**$\textbf{Splat-MOVER}$ : Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting**|Ola Shorinwa et.al.|[2405.04378](http://arxiv.org/abs/2405.04378)|null|
 |**2024-05-07**|**Certifying Phase Abstraction**|Nils Froleyks et.al.|[2405.04297](http://arxiv.org/abs/2405.04297)|null|
-|**2024-05-07**|**Insights from Basilisk: Are Open-Source EDA Tools Ready for a Multi-Million-Gate, Linux-Booting RV64 SoC Design?**|Philippe Sauter et.al.|[2405.04257](http://arxiv.org/abs/2405.04257)|null|
+|**2024-05-08**|**Insights from Basilisk: Are Open-Source EDA Tools Ready for a Multi-Million-Gate, Linux-Booting RV64 SoC Design?**|Philippe Sauter et.al.|[2405.04257](http://arxiv.org/abs/2405.04257)|null|
 |**2024-05-07**|**Quantum-enhanced Markov Chain Monte Carlo for systems larger than your Quantum Computer**|Stuart Ferguson et.al.|[2405.04247](http://arxiv.org/abs/2405.04247)|null|
 |**2024-05-07**|**Optical Photon Emission in Extended Airshowers -- Hybrid computing in the context of CORSIKA 8**|Dominik Baack et.al.|[2405.04229](http://arxiv.org/abs/2405.04229)|null|
 |**2024-05-07**|**NOVA: NoC-based Vector Unit for Mapping Attention Layers on a CNN Accelerator**|Mohit Upadhyay et.al.|[2405.04206](http://arxiv.org/abs/2405.04206)|null|
@@ -6959,7 +6959,7 @@ layout: default
 |**2024-05-07**|**Large mechanical squeezing through synthetic magnetism in optomechanics**|D. R. Kenigoule Massembele et.al.|[2405.04508](http://arxiv.org/abs/2405.04508)|null|
 |**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
 |**2024-05-07**|**Generative Planning with Fast Collision Checks for High Speed Navigation**|Craig Knuth et.al.|[2405.04498](http://arxiv.org/abs/2405.04498)|null|
-|**2024-05-07**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
+|**2024-05-08**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
 |**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
 |**2024-05-07**|**S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling**|Minh Tran et.al.|[2405.04489](http://arxiv.org/abs/2405.04489)|null|
 |**2024-05-07**|**Quantum Rabin oblivious transfer using two pure states**|Lara Stroh et.al.|[2405.04486](http://arxiv.org/abs/2405.04486)|null|
@@ -9580,7 +9580,7 @@ layout: default
 |**2024-05-07**|**Switchable Decision: Dynamic Neural Generation Networks**|Shujian Zhang et.al.|[2405.04513](http://arxiv.org/abs/2405.04513)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
 |**2024-05-07**|**Neural Network Quantum States for the Interacting Hofstadter Model with Higher Local Occupations and Long-Range Interactions**|Fabian Döschl et.al.|[2405.04472](http://arxiv.org/abs/2405.04472)|null|
-|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|**[link](https://github.com/Litianyu141/Gen-FVGN-steady)**|
 |**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
 |**2024-05-07**|**Designing the Network Intelligence Stratum for 6G Networks**|Paola Soto et.al.|[2405.04432](http://arxiv.org/abs/2405.04432)|null|
 |**2024-05-07**|**Optimizing Information Freshness in IoT Systems with Update Rate Constraints: A Token-Based Approach**|Erfan Delfani et.al.|[2405.04431](http://arxiv.org/abs/2405.04431)|null|
