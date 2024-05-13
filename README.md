@@ -164,6 +164,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**On Existence of Latency Optimal Uncoded Storage Schemes in Geo-Distributed Data Storage Systems**|Srivathsa Acharya et.al.|[2405.06641](http://arxiv.org/abs/2405.06641)|null|
+|**2024-05-10**|**Disttack: Graph Adversarial Attacks Toward Distributed GNN Training**|Yuxiang Zhang et.al.|[2405.06247](http://arxiv.org/abs/2405.06247)|**[link](https://github.com/zhangyxrepo/disttack)**|
 |**2024-05-09**|**Non-Binary Covering Codes for Low-Access Computations**|Vinayak Ramkumar et.al.|[2405.05845](http://arxiv.org/abs/2405.05845)|null|
 |**2024-05-08**|**Nearly-Optimal Consensus Tolerating Adaptive Omissions: Why is a Lot of Randomness is Needed?**|Mohammad T. Hajiaghayi et.al.|[2405.04762](http://arxiv.org/abs/2405.04762)|null|
 |**2024-05-08**|**Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence**|Xiaomeng Chen et.al.|[2405.04757](http://arxiv.org/abs/2405.04757)|null|
@@ -568,6 +570,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**ExoplANETS-A: A VO database for host stars and planetary systems: The effect of XUV on planet atmospheres**|M. Morales-Calderón et.al.|[2405.06577](http://arxiv.org/abs/2405.06577)|null|
+|**2024-05-10**|**Machine learning for reconstruction of polarity inversion lines from solar filaments**|V. Kisielius et.al.|[2405.06293](http://arxiv.org/abs/2405.06293)|null|
+|**2024-05-10**|**Arctic: A Field Programmable Quantum Array Scheduling Technique**|Ethan Decker et.al.|[2405.06183](http://arxiv.org/abs/2405.06183)|null|
+|**2024-05-09**|**Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**|Ross Daly et.al.|[2405.06127](http://arxiv.org/abs/2405.06127)|null|
+|**2024-05-09**|**Champuru 2: Improved scoring of alignments and a user-friendly graphical interface**|Yann Spöri et.al.|[2405.06032](http://arxiv.org/abs/2405.06032)|null|
 |**2024-05-09**|**A Genetic Approach to Minimising Gate and Qubit Teleportations for Multi-Processor Quantum Circuit Distribution**|Oliver Crampton et.al.|[2405.05875](http://arxiv.org/abs/2405.05875)|null|
 |**2024-05-09**|**A PAge-like Unified Dark Fluid Model**|Junchao Wang et.al.|[2405.05798](http://arxiv.org/abs/2405.05798)|null|
 |**2024-05-09**|**Towards a More Inclusive AI: Progress and Perspectives in Large Language Model Training for the Sámi Language**|Ronny Paul et.al.|[2405.05777](http://arxiv.org/abs/2405.05777)|null|
@@ -1829,6 +1836,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**QSpace - An open-source tensor library for Abelian and non-Abelian symmetries**|Andreas Weichselbaum et.al.|[2405.06632](http://arxiv.org/abs/2405.06632)|null|
+|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
+|**2024-05-10**|**Optimal Uniform Circle Formation by Asynchronous Luminous Robots**|Caterina Feletti et.al.|[2405.06617](http://arxiv.org/abs/2405.06617)|null|
+|**2024-05-10**|**Fast Mixing in Sparse Random Ising Models**|Kuikui Liu et.al.|[2405.06616](http://arxiv.org/abs/2405.06616)|null|
+|**2024-05-10**|**Simultaneously detecting spatiotemporal changes with penalized Poisson regression models**|Zerui Zhang et.al.|[2405.06613](http://arxiv.org/abs/2405.06613)|null|
+|**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
+|**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580](http://arxiv.org/abs/2405.06580)|null|
+|**2024-05-10**|**Algorithms for partial wave amplitudes under covariant $L$-$S$ scheme**|Hao-Jie Jing et.al.|[2405.06576](http://arxiv.org/abs/2405.06576)|null|
+|**2024-05-10**|**No-Regret is not enough! Bandits with General Constraints through Adaptive Regret Minimization**|Martino Bernasconi et.al.|[2405.06575](http://arxiv.org/abs/2405.06575)|null|
 |**2024-05-09**|**New Algorithms and Lower Bounds for Streaming Tournaments**|Prantar Ghosh et.al.|[2405.05952](http://arxiv.org/abs/2405.05952)|null|
 |**2024-05-09**|**$\mathcal{H}_2$ optimal model reduction of linear systems with multiple quadratic outputs**|Sean Reiter et.al.|[2405.05951](http://arxiv.org/abs/2405.05951)|null|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950](http://arxiv.org/abs/2405.05950)|null|
@@ -4475,6 +4492,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
+|**2024-05-10**|**Photonic Neuromorphic Accelerator for Convolutional Neural Networks based on an Integrated Reconfigurable Mesh**|Aris Tsirigotis et.al.|[2405.06434](http://arxiv.org/abs/2405.06434)|null|
+|**2024-05-10**|**Solving the Turbine Balancing Problem using Quantum Annealing**|Arnold Unterauer et.al.|[2405.06412](http://arxiv.org/abs/2405.06412)|null|
+|**2024-05-10**|**Scalable Computation of Inter-Core Bounds Through Exact Abstractions**|Mohammed Aristide Foughali et.al.|[2405.06387](http://arxiv.org/abs/2405.06387)|null|
+|**2024-05-09**|**Efficiently Synthesizing Lowest Cost Rewrite Rules for Instruction Selection**|Ross Daly et.al.|[2405.06127](http://arxiv.org/abs/2405.06127)|null|
+|**2024-05-09**|**Simultaneous Many-Row Activation in Off-the-Shelf DRAM Chips: Experimental Characterization and Analysis**|Ismail Emir Yuksel et.al.|[2405.06081](http://arxiv.org/abs/2405.06081)|null|
+|**2024-05-09**|**From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks**|Xue Geng et.al.|[2405.06038](http://arxiv.org/abs/2405.06038)|null|
 |**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911](http://arxiv.org/abs/2405.05911)|null|
 |**2024-05-09**|**TroLLoc: Logic Locking and Layout Hardening for IC Security Closure against Hardware Trojans**|Fangzhou Wang et.al.|[2405.05590](http://arxiv.org/abs/2405.05590)|null|
 |**2024-05-09**|**Shape-Optimized Electrooptic Beam Scanners: Experiment**|Jennifer C. Fang et.al.|[2405.05540](http://arxiv.org/abs/2405.05540)|null|
@@ -7021,6 +7045,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**On Existence of Latency Optimal Uncoded Storage Schemes in Geo-Distributed Data Storage Systems**|Srivathsa Acharya et.al.|[2405.06641](http://arxiv.org/abs/2405.06641)|null|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
+|**2024-05-10**|**On Streaming Codes for Simultaneously Correcting Burst and Random Erasures**|Shobhit Bhatnagar et.al.|[2405.06621](http://arxiv.org/abs/2405.06621)|null|
+|**2024-05-10**|**"We are at the mercy of others' opinion": Supporting Blind People in Recreational Window Shopping with AI-infused Technology**|Rie Kamikubo et.al.|[2405.06611](http://arxiv.org/abs/2405.06611)|null|
+|**2024-05-10**|**On Streaming Codes for Burst and Random Errors**|Shobhit Bhatnagar et.al.|[2405.06606](http://arxiv.org/abs/2405.06606)|null|
+|**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|null|
+|**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600](http://arxiv.org/abs/2405.06600)|**[link](https://github.com/ying-fu/lmot)**|
+|**2024-05-10**|**Ice phase classification made easy with score-based denoising**|Hong Sun et.al.|[2405.06599](http://arxiv.org/abs/2405.06599)|null|
+|**2024-05-10**|**Private Repair of a Single Erasure in Reed-Solomon Codes**|Stanislav Kruglik et.al.|[2405.06583](http://arxiv.org/abs/2405.06583)|null|
+|**2024-05-10**|**ExoplANETS-A: A VO database for host stars and planetary systems: The effect of XUV on planet atmospheres**|M. Morales-Calderón et.al.|[2405.06577](http://arxiv.org/abs/2405.06577)|null|
 |**2024-05-09**|**Quantum Communication and Mixed-State Order in Decohered Symmetry-Protected Topological States**|Zhehao Zhang et.al.|[2405.05965](http://arxiv.org/abs/2405.05965)|null|
 |**2024-05-09**|**Lattice Models for Phases and Transitions with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2405.05964](http://arxiv.org/abs/2405.05964)|null|
 |**2024-05-09**|**Age Aware Scheduling for Differentially-Private Federated Learning**|Kuan-Yu Lin et.al.|[2405.05962](http://arxiv.org/abs/2405.05962)|null|
@@ -9665,6 +9699,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**On Existence of Latency Optimal Uncoded Storage Schemes in Geo-Distributed Data Storage Systems**|Srivathsa Acharya et.al.|[2405.06641](http://arxiv.org/abs/2405.06641)|null|
+|**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
+|**2024-05-10**|**QSpace - An open-source tensor library for Abelian and non-Abelian symmetries**|Andreas Weichselbaum et.al.|[2405.06632](http://arxiv.org/abs/2405.06632)|null|
+|**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
+|**2024-05-10**|**Decomposing weather forecasting into advection and convection with neural networks**|Mengxuan Chen et.al.|[2405.06590](http://arxiv.org/abs/2405.06590)|null|
+|**2024-05-10**|**Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach**|Elham Ravanbakhsh et.al.|[2405.06586](http://arxiv.org/abs/2405.06586)|null|
+|**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580](http://arxiv.org/abs/2405.06580)|null|
+|**2024-05-10**|**Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**|Nathan Ludlow et.al.|[2405.06578](http://arxiv.org/abs/2405.06578)|null|
+|**2024-05-10**|**Scalable Property Valuation Models via Graph-based Deep Learning**|Enrique Riveros et.al.|[2405.06553](http://arxiv.org/abs/2405.06553)|null|
 |**2024-05-09**|**A Universal Growth Rate for Learning with Smooth Surrogate Losses**|Anqi Mao et.al.|[2405.05968](http://arxiv.org/abs/2405.05968)|null|
 |**2024-05-09**|**Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**|Siyuan Li et.al.|[2405.05930](http://arxiv.org/abs/2405.05930)|null|
 |**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911](http://arxiv.org/abs/2405.05911)|null|
@@ -12310,6 +12354,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**On Existence of Latency Optimal Uncoded Storage Schemes in Geo-Distributed Data Storage Systems**|Srivathsa Acharya et.al.|[2405.06641](http://arxiv.org/abs/2405.06641)|null|
+|**2024-05-10**|**Conformal Validity Guarantees Exist for Any Data Distribution**|Drew Prinster et.al.|[2405.06627](http://arxiv.org/abs/2405.06627)|**[link](https://github.com/drewprinster/conformal-mfcs)**|
+|**2024-05-10**|**Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems**|David "davidad" Dalrymple et.al.|[2405.06624](http://arxiv.org/abs/2405.06624)|null|
+|**2024-05-10**|**Interfacial spin-orbit coupling driven enhancement of superconductivity by parallel magnetic field**|Zh. Devizorova et.al.|[2405.06619](http://arxiv.org/abs/2405.06619)|null|
+|**2024-05-10**|**The Coupled Impacts of Atmospheric Composition and Obliquity on the Climate Dynamics of TRAPPIST-1e**|Tobi Hammond et.al.|[2405.06615](http://arxiv.org/abs/2405.06615)|null|
+|**2024-05-10**|**Dual-band bandpass filter derived from the transformation of a single-band bandpass filter**|Chandramouli H. Mahadevaswamy et.al.|[2405.06608](http://arxiv.org/abs/2405.06608)|null|
+|**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[2405.06600](http://arxiv.org/abs/2405.06600)|**[link](https://github.com/ying-fu/lmot)**|
+|**2024-05-10**|**Ice phase classification made easy with score-based denoising**|Hong Sun et.al.|[2405.06599](http://arxiv.org/abs/2405.06599)|null|
+|**2024-05-10**|**Non-Uniform Spatial Alignment Errors in sUAS Imagery From Wide-Area Disasters**|Thomas Manzini et.al.|[2405.06593](http://arxiv.org/abs/2405.06593)|null|
+|**2024-05-10**|**Huygens Synchronization of Three Aligned Clocks**|Jorge Buescu et.al.|[2405.06585](http://arxiv.org/abs/2405.06585)|null|
 |**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966](http://arxiv.org/abs/2405.05966)|null|
 |**2024-05-09**|**Quantum Communication and Mixed-State Order in Decohered Symmetry-Protected Topological States**|Zhehao Zhang et.al.|[2405.05965](http://arxiv.org/abs/2405.05965)|null|
 |**2024-05-09**|**Towards comprehensive coverage of chemical space: Quantum mechanical properties of 836k constitutional and conformational closed shell neutral isomers consisting of HCNOFSiPSClBr**|Danish Khan et.al.|[2405.05961](http://arxiv.org/abs/2405.05961)|null|
