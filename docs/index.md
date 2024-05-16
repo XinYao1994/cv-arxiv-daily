@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -7082,7 +7082,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-14**|**Performance of wave function and Green's functions based methods for non equilibrium many-body dynamics**|Cian C. Reeves et.al.|[2405.08814](http://arxiv.org/abs/2405.08814)|null|
-|**2024-05-14**|**Quantum computing with Qiskit**|Ali Javadi-Abhari et.al.|[2405.08810](http://arxiv.org/abs/2405.08810)|null|
+|**2024-05-15**|**Quantum computing with Qiskit**|Ali Javadi-Abhari et.al.|[2405.08810](http://arxiv.org/abs/2405.08810)|null|
 |**2024-05-14**|**SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation**|Jonathan Roberts et.al.|[2405.08807](http://arxiv.org/abs/2405.08807)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**Refinement of an Epilepsy Dictionary through Human Annotation of Health-related posts on Instagram**|Aehong Min et.al.|[2405.08784](http://arxiv.org/abs/2405.08784)|null|
@@ -9757,7 +9757,7 @@ layout: default
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
 |**2024-05-14**|**Refinement of an Epilepsy Dictionary through Human Annotation of Health-related posts on Instagram**|Aehong Min et.al.|[2405.08784](http://arxiv.org/abs/2405.08784)|null|
 |**2024-05-14**|**The Developing Human Connectome Project: A Fast Deep Learning-based Pipeline for Neonatal Cortical Surface Reconstruction**|Qiang Ma et.al.|[2405.08783](http://arxiv.org/abs/2405.08783)|null|
-|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|null|
+|**2024-05-14**|**Jacobian Regularizer-based Neural Granger Causality**|Wanqi Zhou et.al.|[2405.08779](http://arxiv.org/abs/2405.08779)|**[link](https://github.com/ElleZWQ/JRNGC)**|
 |**2024-05-14**|**Daydreaming Hopfield Networks and their surprising effectiveness on correlated data**|Ludovica Serricchio et.al.|[2405.08777](http://arxiv.org/abs/2405.08777)|null|
 |**2024-05-14**|**FolkTalent: Enhancing Classification and Tagging of Indian Folk Paintings**|Nancy Hada et.al.|[2405.08776](http://arxiv.org/abs/2405.08776)|null|
 |**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
