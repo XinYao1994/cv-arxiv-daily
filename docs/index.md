@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -568,9 +568,9 @@ layout: default
 |**2024-05-15**|**Investigation of the Radial Profile of Galactic Magnetic Fields using Rotation Measure of Background Quasars**|Paras Sharma et.al.|[2405.09623](http://arxiv.org/abs/2405.09623)|null|
 |**2024-05-15**|**When AI Eats Itself: On the Caveats of Data Pollution in the Era of Generative AI**|Xiaodan Xing et.al.|[2405.09597](http://arxiv.org/abs/2405.09597)|null|
 |**2024-05-15**|**The asymmetry of dawn: evidence for asymmetric reionization histories from a joint analysis of cosmic microwave background and astrophysical data**|Daniela Paoletti et.al.|[2405.09506](http://arxiv.org/abs/2405.09506)|null|
-|**2024-05-15**|**EFACT: an External Function Auto-Completion Tool to Strengthen Static Binary Lifting**|Yilei Zhang et.al.|[2405.09132](http://arxiv.org/abs/2405.09132)|null|
+|**2024-05-15**|**EFACT: an External Function Auto-Completion Tool to Strengthen Static Binary Lifting**|Yilei Zhang et.al.|[2405.09132](http://arxiv.org/abs/2405.09132)|**[link](https://github.com/solecnugit/efact)**|
 |**2024-05-15**|**Enhancing Function Name Prediction using Votes-Based Name Tokenization and Multi-Task Learning**|Xiaoling Zhang et.al.|[2405.09112](http://arxiv.org/abs/2405.09112)|null|
-|**2024-05-15**|**A Catalogue and Analysis of Ultra-Diffuse Galaxy Spectroscopic Properties**|Jonah S. Gannon et.al.|[2405.09104](http://arxiv.org/abs/2405.09104)|null|
+|**2024-05-15**|**A Catalogue and Analysis of Ultra-Diffuse Galaxy Spectroscopic Properties**|Jonah S. Gannon et.al.|[2405.09104](http://arxiv.org/abs/2405.09104)|**[link](https://github.com/gannonjs/published_data)**|
 |**2024-05-14**|**The ratio of [Eu/ $α$ ] differentiates accreted/in-situ Milky Way stars across metallicities, as indicated by both field stars and globular clusters**|Stephanie Monty et.al.|[2405.08963](http://arxiv.org/abs/2405.08963)|null|
 |**2024-05-14**|**Python-Based Reinforcement Learning on Simulink Models**|Georg Schäfer et.al.|[2405.08567](http://arxiv.org/abs/2405.08567)|null|
 |**2024-05-14**|**Why Larp?! A Synthesis Paper on Live Action Roleplay in Relation to HCI Research and Practice**|Karin Johansson et.al.|[2405.08526](http://arxiv.org/abs/2405.08526)|null|
@@ -1849,7 +1849,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Efficient Implementation of an Abstract Domain of Quantified First-Order Formulas**|Eden Frenkel et.al.|[2405.10308](http://arxiv.org/abs/2405.10308)|null|
 |**2024-05-16**|**Fault Tolerance Embedded in a Quantum-Gap-Estimation Algorithm with Trial-State Optimization**|Woo-Ram Lee et.al.|[2405.10306](http://arxiv.org/abs/2405.10306)|null|
-|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|**[link](https://github.com/automl/hw-aware-llm-bench)**|
 |**2024-05-16**|**Verifying Unboundedness via Amalgamation**|Ashwani Anand et.al.|[2405.10296](http://arxiv.org/abs/2405.10296)|null|
 |**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**On Partially Unitary Learning**|Mikhail Gennadievich Belov et.al.|[2405.10263](http://arxiv.org/abs/2405.10263)|null|
@@ -4541,8 +4541,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|null|
-|**2024-05-16**|**SMLP: Symbolic Machine Learning Prover (User Manual)**|Franz Brauße et.al.|[2405.10215](http://arxiv.org/abs/2405.10215)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|**[link](https://github.com/automl/hw-aware-llm-bench)**|
+|**2024-05-16**|**SMLP: Symbolic Machine Learning Prover (User Manual)**|Franz Brauße et.al.|[2405.10215](http://arxiv.org/abs/2405.10215)|**[link](https://github.com/fbrausse/smlp)**|
 |**2024-05-16**|**A Mess of Memory System Benchmarking, Simulation and Application Profiling**|Pouya Esmaili-Dokht et.al.|[2405.10170](http://arxiv.org/abs/2405.10170)|null|
 |**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[2405.10145](http://arxiv.org/abs/2405.10145)|null|
 |**2024-05-16**|**Trusting the Cloud-Native Edge: Remotely Attested Kubernetes Workers**|Jordi Thijsman et.al.|[2405.10131](http://arxiv.org/abs/2405.10131)|null|
@@ -7131,9 +7131,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
-|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
-|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|null|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|**[link](https://github.com/christianinterno/autoflip)**|
 |**2024-05-16**|**The Magic in Nuclear and Hypernuclear Forces**|Caroline E. P. Robin et.al.|[2405.10268](http://arxiv.org/abs/2405.10268)|null|
 |**2024-05-16**|**Architectures and random properties of symplectic quantum circuits**|Diego García-Martín et.al.|[2405.10264](http://arxiv.org/abs/2405.10264)|null|
 |**2024-05-16**|**The 3He(\vec n,p)3H parity-conserving asymmetry**|M. Viviani et.al.|[2405.10258](http://arxiv.org/abs/2405.10258)|null|
@@ -12518,7 +12518,7 @@ layout: default
 |**2024-05-16**|**How Far Are We From AGI**|Tao Feng et.al.|[2405.10313](http://arxiv.org/abs/2405.10313)|**[link](https://github.com/ulab-uiuc/agi-survey)**|
 |**2024-05-16**|**Hydrodynamic Edge Modes and Fragile Surface States of Symmetry Protected Integer Quantum Hall Effect of Bosons**|Dylan Reynolds et.al.|[2405.10309](http://arxiv.org/abs/2405.10309)|null|
 |**2024-05-16**|**Efficient Implementation of an Abstract Domain of Quantified First-Order Formulas**|Eden Frenkel et.al.|[2405.10308](http://arxiv.org/abs/2405.10308)|null|
-|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Verifying Unboundedness via Amalgamation**|Ashwani Anand et.al.|[2405.10296](http://arxiv.org/abs/2405.10296)|null|
 |**2024-05-16**|**Societal Adaptation to Advanced AI**|Jamie Bernardi et.al.|[2405.10295](http://arxiv.org/abs/2405.10295)|null|
 |**2024-05-16**|**Corrections to adiabatic behavior for long paths**|Thomas D. Cohen et.al.|[2405.10294](http://arxiv.org/abs/2405.10294)|null|
