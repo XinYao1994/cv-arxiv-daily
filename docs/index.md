@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -586,7 +586,7 @@ layout: default
 |**2024-05-27**|**Scorch: A Library for Sparse Deep Learning**|Bobby Yan et.al.|[2405.16883](http://arxiv.org/abs/2405.16883)|null|
 |**2024-05-26**|**Graph neural networks with configuration cross-attention for tensor compilers**|Dmitrii Khizbullin et.al.|[2405.16623](http://arxiv.org/abs/2405.16623)|null|
 |**2024-05-26**|**Free Foil: Generating Efficient and Scope-Safe Abstract Syntax**|Nikolai Kudasov et.al.|[2405.16384](http://arxiv.org/abs/2405.16384)|null|
-|**2024-05-25**|**TURNIP: A "Nondeterministic" GPU Runtime with CPU RAM Offload**|Zhimin Ding et.al.|[2405.16283](http://arxiv.org/abs/2405.16283)|null|
+|**2024-05-28**|**TURNIP: A "Nondeterministic" GPU Runtime with CPU RAM Offload**|Zhimin Ding et.al.|[2405.16283](http://arxiv.org/abs/2405.16283)|null|
 |**2024-05-25**|**AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning**|Minghao Chen et.al.|[2405.16247](http://arxiv.org/abs/2405.16247)|null|
 |**2024-05-24**|**Single-Round Proofs of Quantumness from Knowledge Assumptions**|Petia Arabadjieva et.al.|[2405.15736](http://arxiv.org/abs/2405.15736)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
