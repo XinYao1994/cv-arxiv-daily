@@ -156,6 +156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Ancillary Services Provision by Cross-Voltage-Level Power Flow Control using Flexibility Regions**|Christian Holger Nerowski et.al.|[2405.20260](http://arxiv.org/abs/2405.20260)|null|
+|**2024-05-29**|**Construction of a Byzantine Linearizable SWMR Atomic Register from SWSR Atomic Registers**|Ajay D. Kshemkalyani et.al.|[2405.19457](http://arxiv.org/abs/2405.19457)|null|
 |**2024-05-28**|**Full-Stack Allreduce on Multi-Rail Networks**|Enda Yu et.al.|[2405.17870](http://arxiv.org/abs/2405.17870)|null|
 |**2024-05-27**|**Peer2PIR: Private Queries for IPFS**|Miti Mazmudar et.al.|[2405.17307](http://arxiv.org/abs/2405.17307)|null|
 |**2024-05-27**|**Learning with User-Level Local Differential Privacy**|Puning Zhao et.al.|[2405.17079](http://arxiv.org/abs/2405.17079)|null|
@@ -583,6 +585,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Active Dwarf Galaxy Database I: Overlap between active galactic nuclei selected by different techniques**|Erik J. Wasleske et.al.|[2405.20312](http://arxiv.org/abs/2405.20312)|null|
+|**2024-05-30**|**KerasCV and KerasNLP: Vision and Language Power-Ups**|Matthew Watson et.al.|[2405.20247](http://arxiv.org/abs/2405.20247)|null|
+|**2024-05-30**|**Eclipse Qrisp QAOA: description and preliminary comparison with Qiskit counterparts**|Eneko Osaba et.al.|[2405.20173](http://arxiv.org/abs/2405.20173)|null|
+|**2024-05-30**|**Improving the Fidelity of CNOT Circuits on NISQ Hardware**|Dohun Kim et.al.|[2405.19891](http://arxiv.org/abs/2405.19891)|null|
+|**2024-05-30**|**Biodiversity data standards for the organization and dissemination of complex research projects and digital twins: a guide**|Carrie Andrew et.al.|[2405.19857](http://arxiv.org/abs/2405.19857)|null|
+|**2024-05-30**|**InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning**|Muzhi Han et.al.|[2405.19758](http://arxiv.org/abs/2405.19758)|null|
+|**2024-05-29**|**Paths to Robust Exoplanet Science Yield Margin for the Habitable Worlds Observatory**|Christopher C. Stark et.al.|[2405.19418](http://arxiv.org/abs/2405.19418)|null|
 |**2024-05-29**|**Model-independent cosmological inference post DESI DR1 BAO measurements**|Purba Mukherjee et.al.|[2405.19178](http://arxiv.org/abs/2405.19178)|null|
 |**2024-05-29**|**Learning Mixture-of-Experts for General-Purpose Black-Box Discrete Optimization**|Shengcai Liu et.al.|[2405.18884](http://arxiv.org/abs/2405.18884)|null|
 |**2024-05-29**|**Towards Data-Driven Electricity Management: Multi-Region Harmonized Data and Knowledge Graph**|Vid Hanžel et.al.|[2405.18869](http://arxiv.org/abs/2405.18869)|null|
@@ -1912,6 +1921,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image**|Kailu Wu et.al.|[2405.20343](http://arxiv.org/abs/2405.20343)|null|
+|**2024-05-30**|**Xwin-LM: Strong and Scalable Alignment Practice for LLMs**|Bolin Ni et.al.|[2405.20335](http://arxiv.org/abs/2405.20335)|**[link](https://github.com/xwin-lm/xwin-lm)**|
+|**2024-05-30**|**mRNA secondary structure prediction using utility-scale quantum computers**|Dimitris Alevras et.al.|[2405.20328](http://arxiv.org/abs/2405.20328)|null|
+|**2024-05-30**|**Quantum generalizations of Glauber and Metropolis dynamics**|András Gilyén et.al.|[2405.20322](http://arxiv.org/abs/2405.20322)|null|
+|**2024-05-30**|**Vision-based Manipulation from Single Human Video with Open-World Object Graphs**|Yifeng Zhu et.al.|[2405.20321](http://arxiv.org/abs/2405.20321)|null|
+|**2024-05-30**|**Improving the Training of Rectified Flows**|Sangyun Lee et.al.|[2405.20320](http://arxiv.org/abs/2405.20320)|**[link](https://github.com/sangyun884/rfpp)**|
+|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319](http://arxiv.org/abs/2405.20319)|null|
+|**2024-05-30**|**Tight Characterizations for Preprocessing against Cryptographic Salting**|Fangqi Dong et.al.|[2405.20281](http://arxiv.org/abs/2405.20281)|null|
+|**2024-05-30**|**Proof of the Diaconis--Freedman Conjecture on partially-exchangeable processes**|Noah Halberstam et.al.|[2405.20276](http://arxiv.org/abs/2405.20276)|null|
+|**2024-05-30**|**Arbitrary State Preparation via Quantum Walks**|Alvin Gonzales et.al.|[2405.20273](http://arxiv.org/abs/2405.20273)|null|
 |**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332](http://arxiv.org/abs/2405.19332)|**[link](https://github.com/shenao-zhang/selm)**|
 |**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330](http://arxiv.org/abs/2405.19330)|null|
 |**2024-05-29**|**ACE: A general-purpose non-Markovian open quantum systems simulation toolkit based on process tensors**|Moritz Cygorek et.al.|[2405.19319](http://arxiv.org/abs/2405.19319)|null|
@@ -4686,6 +4705,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**mRNA secondary structure prediction using utility-scale quantum computers**|Dimitris Alevras et.al.|[2405.20328](http://arxiv.org/abs/2405.20328)|null|
+|**2024-05-30**|**Training-efficient density quantum machine learning**|Brian Coyle et.al.|[2405.20237](http://arxiv.org/abs/2405.20237)|null|
+|**2024-05-30**|**A Perspective on the Impact of Group Delay Dispersion in Future Terahertz Wireless Systems**|Karl Strecker et.al.|[2405.20107](http://arxiv.org/abs/2405.20107)|null|
+|**2024-05-30**|**A Hardware-Efficient EMG Decoder with an Attractor-based Neural Network for Next-Generation Hand Prostheses**|Mohammad Kalbasi et.al.|[2405.20052](http://arxiv.org/abs/2405.20052)|null|
+|**2024-05-30**|**SEA Cache: A Performance-Efficient Countermeasure for Contention-based Attacks**|Xiao Liu et.al.|[2405.20027](http://arxiv.org/abs/2405.20027)|null|
+|**2024-05-30**|**Scalable Test Generation to Trigger Rare Targets in High-Level Synthesizable IPs for Cloud FPGAs**|Mukta Debnath et.al.|[2405.19948](http://arxiv.org/abs/2405.19948)|null|
+|**2024-05-30**|**Integrated Sensing and Communications Framework for 6G Networks**|Hongliang Luo et.al.|[2405.19925](http://arxiv.org/abs/2405.19925)|null|
+|**2024-05-30**|**P $^2$ -ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer**|Huihong Shi et.al.|[2405.19915](http://arxiv.org/abs/2405.19915)|null|
+|**2024-05-30**|**Improving the Fidelity of CNOT Circuits on NISQ Hardware**|Dohun Kim et.al.|[2405.19891](http://arxiv.org/abs/2405.19891)|null|
+|**2024-05-30**|**PixelsDB: Serverless and Natural-Language-Aided Data Analytics with Flexible Service Levels and Prices**|Haoqiong Bian et.al.|[2405.19784](http://arxiv.org/abs/2405.19784)|null|
 |**2024-05-29**|**Optimizing Foundation Model Inference on a Many-tiny-core Open-source RISC-V Platform**|Viviane Potocnik et.al.|[2405.19284](http://arxiv.org/abs/2405.19284)|null|
 |**2024-05-29**|**A quantum implementation of high-order power method for estimating geometric entanglement of pure states**|Andrii Semenov et.al.|[2405.19134](http://arxiv.org/abs/2405.19134)|null|
 |**2024-05-29**|**xTern: Energy-Efficient Ternary Neural Network Inference on RISC-V-Based Edge Systems**|Georg Rutishauser et.al.|[2405.19065](http://arxiv.org/abs/2405.19065)|null|
@@ -7353,6 +7382,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339](http://arxiv.org/abs/2405.20339)|null|
+|**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336](http://arxiv.org/abs/2405.20336)|null|
+|**2024-05-30**|**SurgiTrack: Fine-Grained Multi-Class Multi-Tool Tracking in Surgical Videos**|Chinedu Innocent Nwoye et.al.|[2405.20333](http://arxiv.org/abs/2405.20333)|null|
+|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330](http://arxiv.org/abs/2405.20330)|null|
+|**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
+|**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324](http://arxiv.org/abs/2405.20324)|null|
+|**2024-05-30**|**Summer Amplification of Wind Stilling and Land Warming Compounds Energy Risks in a Changing Climate**|Gan Zhang et.al.|[2405.20302](http://arxiv.org/abs/2405.20302)|null|
+|**2024-05-30**|**Critical metrology of minimally accessible anisotropic spin chains**|Marco Adani et.al.|[2405.20296](http://arxiv.org/abs/2405.20296)|null|
+|**2024-05-30**|**How (not) to Build Quantum PKE in Minicrypt**|Longcheng Li et.al.|[2405.20295](http://arxiv.org/abs/2405.20295)|null|
+|**2024-05-30**|**Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation**|Meng Qin et.al.|[2405.20277](http://arxiv.org/abs/2405.20277)|null|
 |**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335](http://arxiv.org/abs/2405.19335)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
 |**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe et.al.|[2405.19321](http://arxiv.org/abs/2405.19321)|null|
@@ -10125,6 +10164,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**CoSy: Evaluating Textual Explanations of Neurons**|Laura Kopf et.al.|[2405.20331](http://arxiv.org/abs/2405.20331)|**[link](https://github.com/lkopf/cosy)**|
+|**2024-05-30**|**4DHands: Reconstructing Interactive Hands in 4D with Transformers**|Dixuan Lin et.al.|[2405.20330](http://arxiv.org/abs/2405.20330)|null|
+|**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
+|**2024-05-30**|**CausalQuest: Collecting Natural Causal Questions for AI Agents**|Roberto Ceraolo et.al.|[2405.20318](http://arxiv.org/abs/2405.20318)|**[link](https://github.com/roberto-ceraolo/causal-quest)**|
+|**2024-05-30**|**Unveiling and Mitigating Backdoor Vulnerabilities based on Unlearning Weight Changes and Backdoor Activeness**|Weilin Lin et.al.|[2405.20291](http://arxiv.org/abs/2405.20291)|null|
+|**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287](http://arxiv.org/abs/2405.20287)|**[link](https://github.com/mariabankestad/se2-gnn)**|
+|**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283](http://arxiv.org/abs/2405.20283)|null|
+|**2024-05-30**|**CV-VAE: A Compatible Video VAE for Latent Generative Video Models**|Sijie Zhao et.al.|[2405.20279](http://arxiv.org/abs/2405.20279)|**[link](https://github.com/ailab-cvc/cv-vae)**|
+|**2024-05-30**|**Length independent generalization bounds for deep SSM architectures with stability constraints**|Dániel Rácz et.al.|[2405.20278](http://arxiv.org/abs/2405.20278)|null|
+|**2024-05-30**|**Pre-train and Refine: Towards Higher Efficiency in K-Agnostic Community Detection without Quality Degradation**|Meng Qin et.al.|[2405.20277](http://arxiv.org/abs/2405.20277)|null|
 |**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
 |**2024-05-29**|**ACE: A general-purpose non-Markovian open quantum systems simulation toolkit based on process tensors**|Moritz Cygorek et.al.|[2405.19319](http://arxiv.org/abs/2405.19319)|null|
 |**2024-05-29**|**Network Connectivity--Information Freshness Tradeoff in Information Dissemination Over Networks**|Arunabh Srivastava et.al.|[2405.19310](http://arxiv.org/abs/2405.19310)|null|
@@ -12898,6 +12947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341](http://arxiv.org/abs/2405.20341)|**[link](https://github.com/talreiss/coldfusion)**|
+|**2024-05-30**|**RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text**|Jiaben Chen et.al.|[2405.20336](http://arxiv.org/abs/2405.20336)|null|
+|**2024-05-30**|**Quantum generalizations of Glauber and Metropolis dynamics**|András Gilyén et.al.|[2405.20322](http://arxiv.org/abs/2405.20322)|null|
+|**2024-05-30**|**ParSEL: Parameterized Shape Editing with Language**|Aditya Ganeshan et.al.|[2405.20319](http://arxiv.org/abs/2405.20319)|null|
+|**2024-05-30**|**S3D: A Simple and Cost-Effective Self-Speculative Decoding Scheme for Low-Memory GPUs**|Wei Zhong et.al.|[2405.20314](http://arxiv.org/abs/2405.20314)|null|
+|**2024-05-30**|**Massless Quasiparticles in Bogoliubov-de Gennes Systems**|Arist Zhenyuan Yang et.al.|[2405.20298](http://arxiv.org/abs/2405.20298)|null|
+|**2024-05-30**|**Gaussian factors, spectra, and $P$ -entropy**|Valery V. Ryzhikov et.al.|[2405.20297](http://arxiv.org/abs/2405.20297)|null|
+|**2024-05-30**|**Critical metrology of minimally accessible anisotropic spin chains**|Marco Adani et.al.|[2405.20296](http://arxiv.org/abs/2405.20296)|null|
+|**2024-05-30**|**Quarkonium Polarization in Medium from Open Quantum Systems and Chromomagnetic Correlators**|Di-Lun Yang et.al.|[2405.20280](http://arxiv.org/abs/2405.20280)|null|
+|**2024-05-30**|**Hyperuniformity in Ashkin-Teller model**|Indranil Mukherjee et.al.|[2405.20266](http://arxiv.org/abs/2405.20266)|null|
 |**2024-05-29**|**Barium stars as tracers of s-process nucleosynthesis in AGB stars III. Systematic deviations from the AGB models**|B. Világos et.al.|[2405.19330](http://arxiv.org/abs/2405.19330)|null|
 |**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
 |**2024-05-29**|**ACE: A general-purpose non-Markovian open quantum systems simulation toolkit based on process tensors**|Moritz Cygorek et.al.|[2405.19319](http://arxiv.org/abs/2405.19319)|null|
@@ -15674,6 +15733,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**P $^2$ -ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer**|Huihong Shi et.al.|[2405.19915](http://arxiv.org/abs/2405.19915)|null|
 |**2024-05-30**|**Multilevel Interior Penalty Methods on GPUs**|Cu Cui et.al.|[2405.18982](http://arxiv.org/abs/2405.18982)|null|
 |**2024-05-28**|**A comparison of mixed precision iterative refinement approaches for least-squares problems**|Erin Carson et.al.|[2405.18363](http://arxiv.org/abs/2405.18363)|null|
 |**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
