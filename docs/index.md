@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.30
+## Updated on 2024.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -1921,7 +1921,7 @@ layout: default
 |**2024-05-29**|**Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes**|L. Spagnoli et.al.|[2405.19293](http://arxiv.org/abs/2405.19293)|null|
 |**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
 |**2024-05-29**|**Rich-Observation Reinforcement Learning with Continuous Latent Dynamics**|Yuda Song et.al.|[2405.19269](http://arxiv.org/abs/2405.19269)|null|
-|**2024-05-29**|**Bivariate phase-type distributions for experience rating**|Christian Furrer et.al.|[2405.19248](http://arxiv.org/abs/2405.19248)|null|
+|**2024-05-30**|**Bivariate phase-type distributions for experience rating in disability insurance**|Christian Furrer et.al.|[2405.19248](http://arxiv.org/abs/2405.19248)|null|
 |**2024-05-28**|**Why are Visually-Grounded Language Models Bad at Image Classification?**|Yuhui Zhang et.al.|[2405.18415](http://arxiv.org/abs/2405.18415)|**[link](https://github.com/yuhui-zh15/vlmclassifier)**|
 |**2024-05-28**|**Explicit Formulae to Interchangeably use Hyperplanes and Hyperballs using Inversive Geometry**|Erik Thordsen et.al.|[2405.18401](http://arxiv.org/abs/2405.18401)|null|
 |**2024-05-29**|**Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass**|Ethan Shen et.al.|[2405.18400](http://arxiv.org/abs/2405.18400)|**[link](https://github.com/raivnlab/superposeddecoding)**|
@@ -15674,9 +15674,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-29**|**Multilevel Interior Penalty Methods on GPUs**|Cu Cui et.al.|[2405.18982](http://arxiv.org/abs/2405.18982)|null|
+|**2024-05-30**|**Multilevel Interior Penalty Methods on GPUs**|Cu Cui et.al.|[2405.18982](http://arxiv.org/abs/2405.18982)|null|
 |**2024-05-28**|**A comparison of mixed precision iterative refinement approaches for least-squares problems**|Erin Carson et.al.|[2405.18363](http://arxiv.org/abs/2405.18363)|null|
-|**2024-05-28**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
+|**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
 |**2024-05-27**|**LRAMM -- Low precision approximates GEMM via RSVD**|Hongyaoxing Gu et.al.|[2405.16917](http://arxiv.org/abs/2405.16917)|null|
 |**2024-05-24**|**BiSup: Bidirectional Quantization Error Suppression for Large Language Models**|Minghui Zou et.al.|[2405.15346](http://arxiv.org/abs/2405.15346)|null|
 |**2024-05-23**|**SliM-LLM: Salience-Driven Mixed-Precision Quantization for Large Language Models**|Wei Huang et.al.|[2405.14917](http://arxiv.org/abs/2405.14917)|null|
