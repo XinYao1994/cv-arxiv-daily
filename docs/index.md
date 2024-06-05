@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -4729,7 +4729,7 @@ layout: default
 |**2024-05-31**|**Locking Machine Learning Models into Hardware**|Eleanor Clifford et.al.|[2405.20990](http://arxiv.org/abs/2405.20990)|null|
 |**2024-05-31**|**Design, Calibration, and Control of Compliant Force-sensing Gripping Pads for Humanoid Robots**|Yuanfeng Han et.al.|[2405.20969](http://arxiv.org/abs/2405.20969)|null|
 |**2024-05-31**|**Learning to Estimate System Specifications in Linear Temporal Logic using Transformers and Mamba**|İlker Işık et.al.|[2405.20917](http://arxiv.org/abs/2405.20917)|null|
-|**2024-05-31**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835](http://arxiv.org/abs/2405.20835)|null|
+|**2024-06-03**|**Outliers and Calibration Sets have Diminishing Effect on Quantization of Modern LLMs**|Davide Paglieri et.al.|[2405.20835](http://arxiv.org/abs/2405.20835)|null|
 |**2024-05-31**|**Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit**|Sumin Lim et.al.|[2405.20827](http://arxiv.org/abs/2405.20827)|null|
 |**2024-05-31**|**Robust Stable Spiking Neural Networks**|Jianhao Ding et.al.|[2405.20694](http://arxiv.org/abs/2405.20694)|null|
 |**2024-05-31**|**Universal evaluation and design of imaging systems using information estimation**|Henry Pinkard et.al.|[2405.20559](http://arxiv.org/abs/2405.20559)|null|
