@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -594,7 +594,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**MOTIF: A tool for Mutation Testing with Fuzzing**|Jaekwon Lee et.al.|[2406.02398](http://arxiv.org/abs/2406.02398)|null|
 |**2024-06-04**|**Learning dynamical models from stochastic trajectories**|Pierre Ronceray et.al.|[2406.02363](http://arxiv.org/abs/2406.02363)|null|
-|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|null|
+|**2024-06-04**|**mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models**|Huiyuan Lai et.al.|[2406.02301](http://arxiv.org/abs/2406.02301)|**[link](https://github.com/laihuiyuan/mcot)**|
 |**2024-06-04**|**ShadowBound: Efficient Heap Memory Protection Through Advanced Metadata Management and Customized Compiler Optimization**|Zheng Yu et.al.|[2406.02023](http://arxiv.org/abs/2406.02023)|null|
 |**2024-06-04**|**Process-Driven Autoformalization in Lean 4**|Jianqiao Lu et.al.|[2406.01940](http://arxiv.org/abs/2406.01940)|**[link](https://github.com/rookie-joe/pda)**|
 |**2024-06-03**|**The first Palomar Gattini-IR catalog of J-band light curves: construction and public data release**|Shion Murakawa et.al.|[2406.01720](http://arxiv.org/abs/2406.01720)|null|
@@ -1944,7 +1944,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|null|
+|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
 |**2024-06-04**|**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation**|Dejia Xu et.al.|[2406.02509](http://arxiv.org/abs/2406.02509)|null|
 |**2024-06-04**|**Singular Subspace Perturbation Bounds via Rectangular Random Matrix Diffusions**|Peiyao Lai et.al.|[2406.02502](http://arxiv.org/abs/2406.02502)|null|
@@ -10249,7 +10249,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors**|Markus Plack et.al.|[2406.02552](http://arxiv.org/abs/2406.02552)|null|
-|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|null|
+|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Dreamguider: Improved Training free Diffusion-based Conditional Generation**|Nithin Gopalakrishnan Nair et.al.|[2406.02549](http://arxiv.org/abs/2406.02549)|null|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**Robust and highly scalable estimation of directional couplings from time-shifted signals**|Luca Ambrogioni et.al.|[2406.02545](http://arxiv.org/abs/2406.02545)|null|
@@ -13053,7 +13053,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**VHS: High-Resolution Iterative Stereo Matching with Visual Hull Priors**|Markus Plack et.al.|[2406.02552](http://arxiv.org/abs/2406.02552)|null|
 |**2024-06-04**|**Local control and mixed dimensions: Exploring high-temperature superconductivity in optical lattices**|Henning Schlömer et.al.|[2406.02551](http://arxiv.org/abs/2406.02551)|null|
-|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|null|
+|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Robust and highly scalable estimation of directional couplings from time-shifted signals**|Luca Ambrogioni et.al.|[2406.02545](http://arxiv.org/abs/2406.02545)|null|
 |**2024-06-04**|**Asymmetry, Gap Opening and High Accretion Rate on DM Tau: A Hypothesis Based on Interaction of Magnetized Disk Wind with Planet**|Yinhao Wu et.al.|[2406.02544](http://arxiv.org/abs/2406.02544)|null|
 |**2024-06-04**|**Lichen-Mediated Self-Growing Construc8on Materials for Habitat Outfitting on Mars**|Nisha Rokaya et.al.|[2406.02522](http://arxiv.org/abs/2406.02522)|null|
@@ -15859,7 +15859,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
 |**2024-05-31**|**Mamba State-Space Models Can Be Strong Downstream Learners**|John T. Halloran et.al.|[2406.00209](http://arxiv.org/abs/2406.00209)|null|
-|**2024-05-30**|**P $^2$ -ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer**|Huihong Shi et.al.|[2405.19915](http://arxiv.org/abs/2405.19915)|null|
+|**2024-05-30**|**P $^2$ -ViT: Power-of-Two Post-Training Quantization and Acceleration for Fully Quantized Vision Transformer**|Huihong Shi et.al.|[2405.19915](http://arxiv.org/abs/2405.19915)|**[link](https://github.com/shihuihong214/p2-vit)**|
 |**2024-05-30**|**Multilevel Interior Penalty Methods on GPUs**|Cu Cui et.al.|[2405.18982](http://arxiv.org/abs/2405.18982)|null|
 |**2024-05-28**|**A comparison of mixed precision iterative refinement approaches for least-squares problems**|Erin Carson et.al.|[2405.18363](http://arxiv.org/abs/2405.18363)|null|
 |**2024-05-30**|**MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization**|Tianchen Zhao et.al.|[2405.17873](http://arxiv.org/abs/2405.17873)|null|
