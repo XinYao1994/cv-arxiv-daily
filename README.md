@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,7 +77,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -168,7 +168,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -605,7 +605,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Compiler
 
@@ -614,7 +614,7 @@
 |**2024-06-06**|**Estimation of Global Building Stocks by 2070: Unlocking Renovation Potential**|Shufan Zhang et.al.|[2406.04074](http://arxiv.org/abs/2406.04074)|null|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
 |**2024-06-06**|**Observational constraints on phenomenological emergent dark energy and barotropic dark matter characterized by a constant equation of state parameter**|Jianqi Liu et.al.|[2406.03936](http://arxiv.org/abs/2406.03936)|null|
-|**2024-06-06**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776](http://arxiv.org/abs/2406.03776)|null|
+|**2024-06-07**|**XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags**|Faisal Tareque Shohan et.al.|[2406.03776](http://arxiv.org/abs/2406.03776)|null|
 |**2024-06-05**|**Synthetic Programming Elicitation and Repair for Text-to-Code in Very Low-Resource Programming Languages**|Federico Mora et.al.|[2406.03636](http://arxiv.org/abs/2406.03636)|**[link](https://github.com/FedericoAureliano/eudoxus)**|
 |**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430](http://arxiv.org/abs/2406.03430)|**[link](https://github.com/xmindflow/awesome_mamba)**|
 |**2024-06-05**|**MESS: Modern Electronic Structure Simulations**|Hatem Helal et.al.|[2406.03121](http://arxiv.org/abs/2406.03121)|**[link](https://github.com/graphcore-research/mess)**|
@@ -1969,7 +1969,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -4796,7 +4796,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -7515,7 +7515,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -7529,7 +7529,7 @@
 |**2024-06-06**|**Approximation-Aware Bayesian Optimization**|Natalie Maus et.al.|[2406.04308](http://arxiv.org/abs/2406.04308)|null|
 |**2024-06-06**|**Information Benchmark for Biological Sensors Beyond Steady States -- Mpemba-like sensory withdrawal effect**|Asawari Pagare et.al.|[2406.04304](http://arxiv.org/abs/2406.04304)|null|
 |**2024-06-06**|**Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry**|Kaichen Zhou et.al.|[2406.04301](http://arxiv.org/abs/2406.04301)|null|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
+|**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Measuring and Addressing Indexical Bias in Information Retrieval**|Caleb Ziems et.al.|[2406.04298](http://arxiv.org/abs/2406.04298)|**[link](https://github.com/SALT-NLP/pair)**|
 |**2024-06-05**|**A self-aligning recirculated crossed optical dipole trap for lithium atoms**|Ming Lian et.al.|[2406.03489](http://arxiv.org/abs/2406.03489)|null|
 |**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
@@ -10339,7 +10339,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -10353,7 +10353,7 @@
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
 |**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310](http://arxiv.org/abs/2406.04310)|null|
 |**2024-06-06**|**ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation**|Sergey Zakharov et.al.|[2406.04309](http://arxiv.org/abs/2406.04309)|null|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
+|**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**VideoTetris: Towards Compositional Text-to-Video Generation**|Ye Tian et.al.|[2406.04277](http://arxiv.org/abs/2406.04277)|**[link](https://github.com/yangling0818/videotetris)**|
 |**2024-06-05**|**Grokking Modular Polynomials**|Darshil Doshi et.al.|[2406.03495](http://arxiv.org/abs/2406.03495)|null|
 |**2024-06-05**|**Solving Poisson Equations using Neural Walk-on-Spheres**|Hong Chul Nam et.al.|[2406.03494](http://arxiv.org/abs/2406.03494)|null|
@@ -13164,19 +13164,19 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Operating Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
+|**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
 |**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|
 |**2024-06-06**|**Neural Networks Assisted Metropolis-Hastings for Bayesian Estimation of Critical Exponent on Elliptic Black Hole Solution in 4D Using Quantum Perturbation Theory**|Armin Hatefi et.al.|[2406.04310](http://arxiv.org/abs/2406.04310)|null|
 |**2024-06-06**|**High-precision and low-depth eigenstate property estimation: theory and resource estimation**|Jinzhao Sun et.al.|[2406.04307](http://arxiv.org/abs/2406.04307)|null|
 |**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
-|**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
+|**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Measuring and Addressing Indexical Bias in Information Retrieval**|Caleb Ziems et.al.|[2406.04298](http://arxiv.org/abs/2406.04298)|**[link](https://github.com/SALT-NLP/pair)**|
 |**2024-06-06**|**Translation symmetry restoration under random unitary dynamics**|Katja Klobas et.al.|[2406.04296](http://arxiv.org/abs/2406.04296)|null|
 |**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291](http://arxiv.org/abs/2406.04291)|null|
@@ -15992,7 +15992,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -16120,7 +16120,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
