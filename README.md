@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-06-01**|**Approaching 100% Confidence in Stream Summary through ReliableSketch**|Yuhan Wu et.al.|[2406.00376](http://arxiv.org/abs/2406.00376)|null|
 |**2024-05-31**|**Understanding the Throughput Bounds of Reconfigurable Datacenter Networks**|Vamsi Addanki et.al.|[2405.20869](http://arxiv.org/abs/2405.20869)|null|
 |**2024-05-23**|**P4Control: Line-Rate Cross-Host Attack Prevention via In-Network Information Flow Control Enabled by Programmable Switches and eBPF**|Osama Bajaber et.al.|[2405.14970](http://arxiv.org/abs/2405.14970)|null|
@@ -174,6 +175,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
+|**2024-06-07**|**Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets**|Wicak Ananduta et.al.|[2406.04889](http://arxiv.org/abs/2406.04889)|null|
+|**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747](http://arxiv.org/abs/2406.04747)|null|
 |**2024-06-05**|**Multivariate Physics-Informed Convolutional Autoencoder for Anomaly Detection in Power Distribution Systems with High Penetration of DERs**|Mehdi Jabbari Zideh et.al.|[2406.02927](http://arxiv.org/abs/2406.02927)|null|
 |**2024-06-02**|**Applying Fine-Tuned LLMs for Reducing Data Needs in Load Profile Analysis**|Yi Hu et.al.|[2406.02479](http://arxiv.org/abs/2406.02479)|null|
 |**2024-06-04**|**Enhance Image-to-Image Generation with LLaVA Prompt and Negative Prompt**|Zhicheng Ding et.al.|[2406.01956](http://arxiv.org/abs/2406.01956)|null|
@@ -611,6 +615,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Self-testing in the compiled setting via tilted-CHSH inequalities**|Arthur Mehta et.al.|[2406.04986](http://arxiv.org/abs/2406.04986)|null|
+|**2024-06-07**|**Compilation Quotient (CQ): A Metric for the Compilation Hardness of Programming Languages**|Vince Szabo et.al.|[2406.04778](http://arxiv.org/abs/2406.04778)|null|
+|**2024-06-07**|**LLM-Vectorizer: LLM-based Verified Loop Vectorizer**|Jubi Taneja et.al.|[2406.04693](http://arxiv.org/abs/2406.04693)|null|
+|**2024-06-06**|**lenscat: a Public and Community-Contributed Catalog of Known Strong Gravitational Lenses**|L. Vujeva et.al.|[2406.04398](http://arxiv.org/abs/2406.04398)|null|
 |**2024-06-06**|**Estimation of Global Building Stocks by 2070: Unlocking Renovation Potential**|Shufan Zhang et.al.|[2406.04074](http://arxiv.org/abs/2406.04074)|null|
 |**2024-06-06**|**Semmeldetector: Application of Machine Learning in Commercial Bakeries**|Thomas H. Schmitt et.al.|[2406.04050](http://arxiv.org/abs/2406.04050)|null|
 |**2024-06-06**|**Observational constraints on phenomenological emergent dark energy and barotropic dark matter characterized by a constant equation of state parameter**|Jianqi Liu et.al.|[2406.03936](http://arxiv.org/abs/2406.03936)|null|
@@ -1975,6 +1983,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|null|
+|**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
+|**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
+|**2024-06-07**|**The Expanding Scope of the Stability Gap: Unveiling its Presence in Joint Incremental Learning of Homogeneous Tasks**|Sandesh Kamath et.al.|[2406.05114](http://arxiv.org/abs/2406.05114)|null|
+|**2024-06-07**|**Hibou: A Family of Foundational Vision Transformers for Pathology**|Dmitry Nechaev et.al.|[2406.05074](http://arxiv.org/abs/2406.05074)|null|
+|**2024-06-07**|**Targeted Mining Precise-positioning Episode Rules**|Jian Zhu et.al.|[2406.05070](http://arxiv.org/abs/2406.05070)|null|
+|**2024-06-07**|**Efficient Centroid-Linkage Clustering**|MohammadHossein Bateni et.al.|[2406.05066](http://arxiv.org/abs/2406.05066)|null|
+|**2024-06-07**|**Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning**|Subhojyoti Mukherjee et.al.|[2406.05064](http://arxiv.org/abs/2406.05064)|null|
+|**2024-06-07**|**The wind-shade roughness model for turbulent wall-bounded flows**|Charles Meneveau et.al.|[2406.05062](http://arxiv.org/abs/2406.05062)|null|
+|**2024-06-07**|**Accurate stochastic simulation algorithm for multiscale models of infectious diseases**|Yuan Yin et.al.|[2406.05058](http://arxiv.org/abs/2406.05058)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**High-precision and low-depth eigenstate property estimation: theory and resource estimation**|Jinzhao Sun et.al.|[2406.04307](http://arxiv.org/abs/2406.04307)|null|
@@ -4802,6 +4820,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver**|Palak Chawla et.al.|[2406.04992](http://arxiv.org/abs/2406.04992)|null|
+|**2024-06-07**|**Hybrid Beamforming Design for RSMA-assisted mmWave Integrated Sensing and Communications**|Jun Gong et.al.|[2406.04985](http://arxiv.org/abs/2406.04985)|null|
+|**2024-06-07**|**Mexican Computers: A Brief Technical and Historical Overview**|Daniel Ortiz-Arroyo et.al.|[2406.04912](http://arxiv.org/abs/2406.04912)|null|
+|**2024-06-07**|**PolyLUT-Add: FPGA-based LUT Inference with Wide Inputs**|Binglei Lou et.al.|[2406.04910](http://arxiv.org/abs/2406.04910)|**[link](https://github.com/bingleilou/PolyLUT-Add)**|
+|**2024-06-07**|**Quantum Computing for nonlinear differential equations and turbulence**|Felix Tennie et.al.|[2406.04826](http://arxiv.org/abs/2406.04826)|null|
+|**2024-06-07**|**OFDM-Standard Compatible SC-NOFS Waveforms for Low-Latency and Jitter-Tolerance Industrial IoT Communications**|Tongyang Xu et.al.|[2406.04776](http://arxiv.org/abs/2406.04776)|null|
+|**2024-06-07**|**A 2.5-nA Area-Efficient Temperature-Independent 176-/82-ppm/°C CMOS-Only Current Reference in 0.11- $μ$ m Bulk and 22-nm FD-SOI**|Martin Lefebvre et.al.|[2406.04741](http://arxiv.org/abs/2406.04741)|null|
+|**2024-06-07**|**Unsupervised representation learning with Hebbian synaptic and structural plasticity in brain-like feedforward neural networks**|Naresh Ravichandran et.al.|[2406.04733](http://arxiv.org/abs/2406.04733)|null|
+|**2024-06-07**|**Upgrade of the online data quality monitoring system for future PandaX experiments**|Yubo Zhou et.al.|[2406.04645](http://arxiv.org/abs/2406.04645)|null|
+|**2024-06-07**|**Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach**|Jianbo Dong et.al.|[2406.04594](http://arxiv.org/abs/2406.04594)|null|
 |**2024-06-06**|**Quixer: A Quantum Transformer Model**|Nikhil Khatri et.al.|[2406.04305](http://arxiv.org/abs/2406.04305)|null|
 |**2024-06-06**|**Providing High-Performance Execution with a Sequential Contract for Cryptographic Programs**|Ali Hajiabadi et.al.|[2406.04290](http://arxiv.org/abs/2406.04290)|null|
 |**2024-06-06**|**SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera**|Jackson Arnold et.al.|[2406.04287](http://arxiv.org/abs/2406.04287)|null|
@@ -7521,6 +7549,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Third-order intrinsic alignment of SDSS BOSS LOWZ galaxies**|Laila Linke et.al.|[2406.05122](http://arxiv.org/abs/2406.05122)|null|
+|**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120](http://arxiv.org/abs/2406.05120)|null|
+|**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113](http://arxiv.org/abs/2406.05113)|null|
+|**2024-06-07**|**Categorizing Sources of Information for Explanations in Conversational AI Systems for Older Adults Aging in Place**|Niharika Mathur et.al.|[2406.05111](http://arxiv.org/abs/2406.05111)|null|
+|**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
+|**2024-06-07**|**Investigating the price determinants of the European Emission Trading System: a non-parametric approach**|Cristiano Salvagnin et.al.|[2406.05094](http://arxiv.org/abs/2406.05094)|null|
+|**2024-06-07**|**Discovery of An Apparent Red, High-Velocity Type Ia Supernova at z = 2.9 with JWST**|J. D. R. Pierel et.al.|[2406.05089](http://arxiv.org/abs/2406.05089)|null|
+|**2024-06-07**|**Corpus Poisoning via Approximate Greedy Gradient Descent**|Jinyan Su et.al.|[2406.05087](http://arxiv.org/abs/2406.05087)|**[link](https://github.com/jinyansu1/aggd)**|
+|**2024-06-07**|**Multi-Head RAG: Solving Multi-Aspect Problems with LLMs**|Maciej Besta et.al.|[2406.05085](http://arxiv.org/abs/2406.05085)|**[link](https://github.com/spcl/mrag)**|
+|**2024-06-07**|**On Ambiguity and the Expressive Function of Law: The Role of Pragmatics in Smart Legal Ecosystems**|Pompeu Casanovas et.al.|[2406.05084](http://arxiv.org/abs/2406.05084)|null|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
 |**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
@@ -10345,6 +10383,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Energy Propagation in Scattering Convolution Networks Can Be Arbitrarily Slow**|Hartmut Führ et.al.|[2406.05121](http://arxiv.org/abs/2406.05121)|null|
+|**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120](http://arxiv.org/abs/2406.05120)|null|
+|**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
+|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
+|**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
+|**2024-06-07**|**IRIS observational approach to the oscillatory and damping nature of network and internetwork chromosphere small-scale brightening (SSBs) and their unusual dynamical and morphological differences in different regions on the solar disk**|Rayhane Sadeghi et.al.|[2406.05105](http://arxiv.org/abs/2406.05105)|null|
+|**2024-06-07**|**A Novel Time Series-to-Image Encoding Approach for Weather Phenomena Classification**|Christian Giannetti et.al.|[2406.05096](http://arxiv.org/abs/2406.05096)|null|
+|**2024-06-07**|**Enhancing LEO Mega-Constellations with Inter-Satellite Links: Vision and Challenges**|Chenyu Wu et.al.|[2406.05078](http://arxiv.org/abs/2406.05078)|null|
+|**2024-06-07**|**Reconstruction of phase-amplitude dynamics from electrophysiological signals**|Azamat Yeldesbay et.al.|[2406.05073](http://arxiv.org/abs/2406.05073)|null|
+|**2024-06-07**|**Linearization Turns Neural Operators into Function-Valued Gaussian Processes**|Emilia Magnani et.al.|[2406.05072](http://arxiv.org/abs/2406.05072)|null|
 |**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342](http://arxiv.org/abs/2406.04342)|**[link](https://github.com/opengvlab/de-focus-attention-networks)**|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
@@ -13170,6 +13218,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Optimizing Exit Queues for Proof-of-Stake Blockchains: A Mechanism Design Approach**|Mike Neuder et.al.|[2406.05124](http://arxiv.org/abs/2406.05124)|null|
+|**2024-06-07**|**Kružkov-type uniqueness theorem for the chemical flood conservation law system with local vanishing viscosity admissibility**|Sergey Matveenko et.al.|[2406.05116](http://arxiv.org/abs/2406.05116)|null|
+|**2024-06-07**|**Categorizing Sources of Information for Explanations in Conversational AI Systems for Older Adults Aging in Place**|Niharika Mathur et.al.|[2406.05111](http://arxiv.org/abs/2406.05111)|null|
+|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
+|**2024-06-07**|**Adapting Physics-Informed Neural Networks To Optimize ODEs in Mosquito Population Dynamics**|Dinh Viet Cuong et.al.|[2406.05108](http://arxiv.org/abs/2406.05108)|null|
+|**2024-06-07**|**LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration**|Tavor Lipman et.al.|[2406.05107](http://arxiv.org/abs/2406.05107)|null|
+|**2024-06-07**|**Investigating the price determinants of the European Emission Trading System: a non-parametric approach**|Cristiano Salvagnin et.al.|[2406.05094](http://arxiv.org/abs/2406.05094)|null|
+|**2024-06-07**|**Corpus Poisoning via Approximate Greedy Gradient Descent**|Jinyan Su et.al.|[2406.05087](http://arxiv.org/abs/2406.05087)|**[link](https://github.com/jinyansu1/aggd)**|
+|**2024-06-07**|**Enhancing LEO Mega-Constellations with Inter-Satellite Links: Vision and Challenges**|Chenyu Wu et.al.|[2406.05078](http://arxiv.org/abs/2406.05078)|null|
+|**2024-06-07**|**Reconstruction of phase-amplitude dynamics from electrophysiological signals**|Azamat Yeldesbay et.al.|[2406.05073](http://arxiv.org/abs/2406.05073)|null|
 |**2024-06-07**|**Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion**|Fangfu Liu et.al.|[2406.04338](http://arxiv.org/abs/2406.04338)|null|
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
 |**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|
