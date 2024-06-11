@@ -91,7 +91,7 @@
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
+|**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-05-23**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
@@ -175,6 +175,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Towards a real-time distributed feedback system for the transportation assistance of PwD**|Iosif Polenakis et.al.|[2406.06154](http://arxiv.org/abs/2406.06154)|null|
+|**2024-06-10**|**Economic Model Predictive Control of Water Distribution Systems with Accelerated Optimization Algorithm**|Saskia Putri et.al.|[2406.06098](http://arxiv.org/abs/2406.06098)|null|
 |**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109](http://arxiv.org/abs/2406.05109)|null|
 |**2024-06-07**|**Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets**|Wicak Ananduta et.al.|[2406.04889](http://arxiv.org/abs/2406.04889)|null|
 |**2024-06-07**|**Approximated Coded Computing: Towards Fast, Private and Secure Distributed Machine Learning**|Houming Qiu et.al.|[2406.04747](http://arxiv.org/abs/2406.04747)|null|
@@ -615,6 +617,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**PretVM: Predictable, Efficient Virtual Machine for Real-Time Concurrency**|Shaokai Lin et.al.|[2406.06253](http://arxiv.org/abs/2406.06253)|null|
+|**2024-06-10**|**Label-Looping: Highly Efficient Decoding for Transducers**|Vladimir Bataev et.al.|[2406.06220](http://arxiv.org/abs/2406.06220)|null|
+|**2024-06-10**|**An extension of C++ with memory-centric specifications for HPC to reduce memory footprints and streamline MPI development**|Pawel K. Radtke et.al.|[2406.06095](http://arxiv.org/abs/2406.06095)|null|
+|**2024-06-10**|**Fault-tolerant resource estimation using graph-state compilation on a modular superconducting architecture**|S. N. Saadatmand et.al.|[2406.06015](http://arxiv.org/abs/2406.06015)|null|
+|**2024-06-08**|**NYU CTF Dataset: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security**|Minghao Shao et.al.|[2406.05590](http://arxiv.org/abs/2406.05590)|**[link](https://github.com/nyu-llm-ctf/llm_ctf_automation)**|
+|**2024-06-07**|**Quantum Algorithms and Applications for Open Quantum Systems**|Luis H. Delgado-Granados et.al.|[2406.05219](http://arxiv.org/abs/2406.05219)|null|
 |**2024-06-07**|**Self-testing in the compiled setting via tilted-CHSH inequalities**|Arthur Mehta et.al.|[2406.04986](http://arxiv.org/abs/2406.04986)|null|
 |**2024-06-07**|**Compilation Quotient (CQ): A Metric for the Compilation Hardness of Programming Languages**|Vince Szabo et.al.|[2406.04778](http://arxiv.org/abs/2406.04778)|null|
 |**2024-06-07**|**LLM-Vectorizer: LLM-based Verified Loop Vectorizer**|Jubi Taneja et.al.|[2406.04693](http://arxiv.org/abs/2406.04693)|null|
@@ -1983,6 +1991,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
+|**2024-06-10**|**Quantifying fault tolerant simulation of strongly correlated systems using the Fermi-Hubbard model**|Anjali A. Agrawal et.al.|[2406.06511](http://arxiv.org/abs/2406.06511)|null|
+|**2024-06-10**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509](http://arxiv.org/abs/2406.06509)|null|
+|**2024-06-10**|**Online Newton Method for Bandit Convex Optimisation**|Hidde Fokkema et.al.|[2406.06506](http://arxiv.org/abs/2406.06506)|null|
+|**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
+|**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498](http://arxiv.org/abs/2406.06498)|null|
+|**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
+|**2024-06-10**|**Computationally efficient permutation tests for the multivariate two-sample problem based on energy distance or maximum mean discrepancy statistics**|Elias Chaibub Neto et.al.|[2406.06488](http://arxiv.org/abs/2406.06488)|null|
+|**2024-06-10**|**When is Multicalibration Post-Processing Necessary?**|Dutch Hansen et.al.|[2406.06487](http://arxiv.org/abs/2406.06487)|null|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
 |**2024-06-07**|**PatchSVD: A Non-uniform SVD-based Image Compression Algorithm**|Zahra Golpayegani et.al.|[2406.05129](http://arxiv.org/abs/2406.05129)|null|
 |**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
 |**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
@@ -4820,6 +4838,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Quantifying fault tolerant simulation of strongly correlated systems using the Fermi-Hubbard model**|Anjali A. Agrawal et.al.|[2406.06511](http://arxiv.org/abs/2406.06511)|null|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
+|**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482](http://arxiv.org/abs/2406.06482)|null|
+|**2024-06-10**|**A Gigabit, DMA-enhanced Open-Source Ethernet Controller for Mixed-Criticality Systems**|Chaoqun Liang et.al.|[2406.06394](http://arxiv.org/abs/2406.06394)|null|
+|**2024-06-10**|**Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians**|Matthias Werner et.al.|[2406.06378](http://arxiv.org/abs/2406.06378)|null|
+|**2024-06-10**|**ProAct: Progressive Training for Hybrid Clipped Activation Function to Enhance Resilience of DNNs**|Seyedhamidreza Mousavi et.al.|[2406.06313](http://arxiv.org/abs/2406.06313)|null|
+|**2024-06-10**|**Identifying Bottlenecks of NISQ-friendly HHL algorithms**|Marc Andreu Marfany et.al.|[2406.06288](http://arxiv.org/abs/2406.06288)|null|
+|**2024-06-10**|**Applications and resource estimates for open system simulation on a quantum computer**|Evgeny Mozgunov et.al.|[2406.06281](http://arxiv.org/abs/2406.06281)|null|
+|**2024-06-10**|**Practical Boolean Decomposition for Delay-driven LUT Mapping**|Alessandro Tempia Calvino et.al.|[2406.06241](http://arxiv.org/abs/2406.06241)|null|
+|**2024-06-10**|**Quantum Architecture Search: A Survey**|Darya Martyniuk et.al.|[2406.06210](http://arxiv.org/abs/2406.06210)|null|
 |**2024-06-07**|**Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver**|Palak Chawla et.al.|[2406.04992](http://arxiv.org/abs/2406.04992)|null|
 |**2024-06-07**|**Hybrid Beamforming Design for RSMA-assisted mmWave Integrated Sensing and Communications**|Jun Gong et.al.|[2406.04985](http://arxiv.org/abs/2406.04985)|null|
 |**2024-06-07**|**Mexican Computers: A Brief Technical and Historical Overview**|Daniel Ortiz-Arroyo et.al.|[2406.04912](http://arxiv.org/abs/2406.04912)|null|
@@ -7549,6 +7577,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517](http://arxiv.org/abs/2406.06517)|null|
+|**2024-06-10**|**Most nearby young star clusters formed in three massive complexes**|Cameren Swiggum et.al.|[2406.06510](http://arxiv.org/abs/2406.06510)|null|
+|**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
+|**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498](http://arxiv.org/abs/2406.06498)|null|
+|**2024-06-10**|**Rephasing spectral diffusion in time-bin spin-spin entanglement protocols**|Mehmet T. Uysal et.al.|[2406.06497](http://arxiv.org/abs/2406.06497)|null|
+|**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
+|**2024-06-10**|**Survey for Landing Generative AI in Social and E-commerce Recsys -- the Industry Perspectives**|Da Xu et.al.|[2406.06475](http://arxiv.org/abs/2406.06475)|null|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
+|**2024-06-10**|**GKAN: Graph Kolmogorov-Arnold Networks**|Mehrdad Kiamari et.al.|[2406.06470](http://arxiv.org/abs/2406.06470)|null|
 |**2024-06-07**|**Third-order intrinsic alignment of SDSS BOSS LOWZ galaxies**|Laila Linke et.al.|[2406.05122](http://arxiv.org/abs/2406.05122)|null|
 |**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120](http://arxiv.org/abs/2406.05120)|null|
 |**2024-06-07**|**LLavaGuard: VLM-based Safeguards for Vision Dataset Curation and Safety Assessment**|Lukas Helff et.al.|[2406.05113](http://arxiv.org/abs/2406.05113)|null|
@@ -10383,6 +10421,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Genomics-guided Representation Learning for Pathologic Pan-cancer Tumor Microenvironment Subtype Prediction**|Fangliangzi Meng et.al.|[2406.06517](http://arxiv.org/abs/2406.06517)|null|
+|**2024-06-10**|**Spin-photon entanglement of a single Er $^{3+}$ ion in the telecom band**|Mehmet T. Uysal et.al.|[2406.06515](http://arxiv.org/abs/2406.06515)|null|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
+|**2024-06-10**|**Equivariant Neural Tangent Kernels**|Philipp Misof et.al.|[2406.06504](http://arxiv.org/abs/2406.06504)|null|
+|**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499](http://arxiv.org/abs/2406.06499)|null|
+|**2024-06-10**|**Rephasing spectral diffusion in time-bin spin-spin entanglement protocols**|Mehmet T. Uysal et.al.|[2406.06497](http://arxiv.org/abs/2406.06497)|null|
+|**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
+|**2024-06-10**|**Input Driven Synchronization of Chaotic Neural Networks with Analyticaly Determined Conditional Lyapunov Exponents**|Jordan Culp et.al.|[2406.06491](http://arxiv.org/abs/2406.06491)|null|
+|**2024-06-10**|**How much longer do you have to drive than the crow has to fly?**|Shanshan Wang et.al.|[2406.06490](http://arxiv.org/abs/2406.06490)|null|
+|**2024-06-10**|**A Taxonomy and Comparative Analysis of IPv4 ID Selection Correctness, Security, and Performance**|Joshua J. Daymude et.al.|[2406.06483](http://arxiv.org/abs/2406.06483)|null|
 |**2024-06-07**|**Energy Propagation in Scattering Convolution Networks Can Be Arbitrarily Slow**|Hartmut Führ et.al.|[2406.05121](http://arxiv.org/abs/2406.05121)|null|
 |**2024-06-07**|**Contextual fusion enhances robustness to image blurring**|Shruti Joshi et.al.|[2406.05120](http://arxiv.org/abs/2406.05120)|null|
 |**2024-06-07**|**Compositional Curvature Bounds for Deep Neural Networks**|Taha Entesari et.al.|[2406.05119](http://arxiv.org/abs/2406.05119)|null|
@@ -13218,6 +13266,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514](http://arxiv.org/abs/2406.06514)|null|
+|**2024-06-10**|**Quantifying fault tolerant simulation of strongly correlated systems using the Fermi-Hubbard model**|Anjali A. Agrawal et.al.|[2406.06511](http://arxiv.org/abs/2406.06511)|null|
+|**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498](http://arxiv.org/abs/2406.06498)|null|
+|**2024-06-10**|**Rephasing spectral diffusion in time-bin spin-spin entanglement protocols**|Mehmet T. Uysal et.al.|[2406.06497](http://arxiv.org/abs/2406.06497)|null|
+|**2024-06-10**|**Macroscopic quantum superpositions in superconducting circuits**|Vitoria A. de Souza et.al.|[2406.06492](http://arxiv.org/abs/2406.06492)|null|
+|**2024-06-10**|**Input Driven Synchronization of Chaotic Neural Networks with Analyticaly Determined Conditional Lyapunov Exponents**|Jordan Culp et.al.|[2406.06491](http://arxiv.org/abs/2406.06491)|null|
+|**2024-06-10**|**A Taxonomy and Comparative Analysis of IPv4 ID Selection Correctness, Security, and Performance**|Joshua J. Daymude et.al.|[2406.06483](http://arxiv.org/abs/2406.06483)|null|
+|**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482](http://arxiv.org/abs/2406.06482)|null|
 |**2024-06-07**|**Optimizing Exit Queues for Proof-of-Stake Blockchains: A Mechanism Design Approach**|Mike Neuder et.al.|[2406.05124](http://arxiv.org/abs/2406.05124)|null|
 |**2024-06-07**|**Kružkov-type uniqueness theorem for the chemical flood conservation law system with local vanishing viscosity admissibility**|Sergey Matveenko et.al.|[2406.05116](http://arxiv.org/abs/2406.05116)|null|
 |**2024-06-07**|**Categorizing Sources of Information for Explanations in Conversational AI Systems for Older Adults Aging in Place**|Niharika Mathur et.al.|[2406.05111](http://arxiv.org/abs/2406.05111)|null|
@@ -16056,6 +16114,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Efficient Neural Compression with Inference-time Decoding**|C. Metz et.al.|[2406.06237](http://arxiv.org/abs/2406.06237)|null|
+|**2024-06-08**|**Towards Lightweight Speaker Verification via Adaptive Neural Network Quantization**|Bei Liu et.al.|[2406.05359](http://arxiv.org/abs/2406.05359)|null|
+|**2024-06-07**|**Scalable and Programmable Look-Up Table based Neural Acceleration (LUT-NA) for Extreme Energy Efficiency**|Ovishake Sen et.al.|[2406.05282](http://arxiv.org/abs/2406.05282)|null|
 |**2024-06-04**|**Mixed-Precision Over-The-Air Federated Learning via Approximated Computing**|Jinsheng Yuan et.al.|[2406.03402](http://arxiv.org/abs/2406.03402)|null|
 |**2024-06-04**|**MPCR: Multi- and Mixed-Precision Computations Package in R**|Mary Lai O. Salvana et.al.|[2406.02701](http://arxiv.org/abs/2406.02701)|null|
 |**2024-06-04**|**ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation**|Tianchen Zhao et.al.|[2406.02540](http://arxiv.org/abs/2406.02540)|null|
