@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -4821,7 +4821,7 @@ layout: default
 |**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482](http://arxiv.org/abs/2406.06482)|null|
 |**2024-06-10**|**A Gigabit, DMA-enhanced Open-Source Ethernet Controller for Mixed-Criticality Systems**|Chaoqun Liang et.al.|[2406.06394](http://arxiv.org/abs/2406.06394)|null|
 |**2024-06-10**|**Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians**|Matthias Werner et.al.|[2406.06378](http://arxiv.org/abs/2406.06378)|null|
-|**2024-06-10**|**ProAct: Progressive Training for Hybrid Clipped Activation Function to Enhance Resilience of DNNs**|Seyedhamidreza Mousavi et.al.|[2406.06313](http://arxiv.org/abs/2406.06313)|null|
+|**2024-06-10**|**ProAct: Progressive Training for Hybrid Clipped Activation Function to Enhance Resilience of DNNs**|Seyedhamidreza Mousavi et.al.|[2406.06313](http://arxiv.org/abs/2406.06313)|**[link](https://github.com/hamidmousavi0/reliable-relu-toolbox)**|
 |**2024-06-10**|**Identifying Bottlenecks of NISQ-friendly HHL algorithms**|Marc Andreu Marfany et.al.|[2406.06288](http://arxiv.org/abs/2406.06288)|null|
 |**2024-06-10**|**Applications and resource estimates for open system simulation on a quantum computer**|Evgeny Mozgunov et.al.|[2406.06281](http://arxiv.org/abs/2406.06281)|null|
 |**2024-06-10**|**Practical Boolean Decomposition for Delay-driven LUT Mapping**|Alessandro Tempia Calvino et.al.|[2406.06241](http://arxiv.org/abs/2406.06241)|null|
@@ -13240,7 +13240,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
-|**2024-06-10**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514](http://arxiv.org/abs/2406.06514)|null|
+|**2024-06-11**|**Random Features Approximation for Control-Affine Systems**|Kimia Kazemian et.al.|[2406.06514](http://arxiv.org/abs/2406.06514)|null|
 |**2024-06-10**|**Quantifying fault tolerant simulation of strongly correlated systems using the Fermi-Hubbard model**|Anjali A. Agrawal et.al.|[2406.06511](http://arxiv.org/abs/2406.06511)|null|
 |**2024-06-10**|**Demonstrating HumanTHOR: A Simulation Platform and Benchmark for Human-Robot Collaboration in a Shared Workspace**|Chenxu Wang et.al.|[2406.06498](http://arxiv.org/abs/2406.06498)|null|
 |**2024-06-10**|**Rephasing spectral diffusion in time-bin spin-spin entanglement protocols**|Mehmet T. Uysal et.al.|[2406.06497](http://arxiv.org/abs/2406.06497)|null|
