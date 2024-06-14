@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -600,12 +600,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Conference Proceedings of The European DAO Workshop 2024**|Florian Spychiger et.al.|[2406.08110](http://arxiv.org/abs/2406.08110)|null|
-|**2024-06-12**|**Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition**|Edoardo Debenedetti et.al.|[2406.07954](http://arxiv.org/abs/2406.07954)|null|
+|**2024-06-12**|**Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition**|Edoardo Debenedetti et.al.|[2406.07954](http://arxiv.org/abs/2406.07954)|**[link](https://github.com/ethz-spylab/ctf-satml24-data-analysis)**|
 |**2024-06-12**|**Characterizing Unsafe Code Encapsulation In Real-world Rust Systems**|Zihao Rao et.al.|[2406.07936](http://arxiv.org/abs/2406.07936)|null|
 |**2024-06-11**|**Report on laser-induced fluorescence transitions relevant for the microelectronics industry and sustainability applications**|V. S. Santosh K. Kondeti et.al.|[2406.07747](http://arxiv.org/abs/2406.07747)|null|
 |**2024-06-11**|**UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback**|Jason Wu et.al.|[2406.07739](http://arxiv.org/abs/2406.07739)|null|
 |**2024-06-11**|**Transformer Models in Education: Summarizing Science Textbooks with AraBART, MT5, AraT5, and mBART**|Sari Masri et.al.|[2406.07692](http://arxiv.org/abs/2406.07692)|null|
-|**2024-06-11**|**HTVM: Efficient Neural Network Deployment On Heterogeneous TinyML Platforms**|Josse Van Delm et.al.|[2406.07453](http://arxiv.org/abs/2406.07453)|null|
+|**2024-06-11**|**HTVM: Efficient Neural Network Deployment On Heterogeneous TinyML Platforms**|Josse Van Delm et.al.|[2406.07453](http://arxiv.org/abs/2406.07453)|**[link](https://github.com/kuleuven-micas/htvm)**|
 |**2024-06-11**|**A search for Galactic post-AGB stars in Gaia DR3**|Iker González-Santamaría et.al.|[2406.07196](http://arxiv.org/abs/2406.07196)|null|
 |**2024-06-11**|**Comparative Analysis of $k$ -essence and Quintessence Scalar Field Models: A Data Analysis Approach**|Saddam Hussain et.al.|[2406.07179](http://arxiv.org/abs/2406.07179)|null|
 |**2024-06-10**|**Exploring Alternative Cosmologies with the LSST: Simulated Forecasts and Current Observational Constraints**|Dharmendra Kumar et.al.|[2406.06757](http://arxiv.org/abs/2406.06757)|null|
@@ -1987,9 +1987,9 @@ layout: default
 |**2024-06-12**|**Hidden symmetries and Dehn surgery on tetrahedral links**|Priyadip Mondal et.al.|[2406.08456](http://arxiv.org/abs/2406.08456)|null|
 |**2024-06-12**|**Detection of Open Cluster Members Inside and Beyond Tidal Radius by Machine Learning Methods Based on Gaia DR3**|Mohammad Noormohammadi Mehdi Khakian Ghomi Atefeh Javadi et.al.|[2406.08450](http://arxiv.org/abs/2406.08450)|null|
 |**2024-06-12**|**Coherent Optical Modems for Full-Wavefield Lidar**|Parsa Mirdehghan et.al.|[2406.08439](http://arxiv.org/abs/2406.08439)|null|
-|**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|null|
+|**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|**[link](https://github.com/msorkhpar/wiki-entity-summarization-preprocessor)**|
 |**2024-06-12**|**Designing Child-Centered Content Exposure and Moderation**|Belén Saldías et.al.|[2406.08420](http://arxiv.org/abs/2406.08420)|null|
-|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|null|
+|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|**[link](https://github.com/luchris429/DiscoPOP)**|
 |**2024-06-12**|**RRLS : Robust Reinforcement Learning Suite**|Adil Zouitine et.al.|[2406.08406](http://arxiv.org/abs/2406.08406)|**[link](https://github.com/sureli/rrls)**|
 |**2024-06-12**|**Time-Constrained Robust MDPs**|Adil Zouitine et.al.|[2406.08395](http://arxiv.org/abs/2406.08395)|null|
 |**2024-06-12**|**Deep Learning Based Joint Multi-User MISO Power Allocation and Beamforming Design**|Cemil Vahapoglu et.al.|[2406.08373](http://arxiv.org/abs/2406.08373)|null|
@@ -4854,7 +4854,7 @@ layout: default
 |**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334](http://arxiv.org/abs/2406.08334)|null|
 |**2024-06-12**|**Review of Autonomous Mobile Robots for the Warehouse Environment**|Russell Keith et.al.|[2406.08333](http://arxiv.org/abs/2406.08333)|null|
 |**2024-06-12**|**It's all about PR -- Smart Benchmarking AI Accelerators using Performance Representatives**|Alexander Louis-Ferdinand Jung et.al.|[2406.08330](http://arxiv.org/abs/2406.08330)|null|
-|**2024-06-12**|**Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences**|Zicheng Liu et.al.|[2406.08128](http://arxiv.org/abs/2406.08128)|null|
+|**2024-06-13**|**Short-Long Convolutions Help Hardware-Efficient Linear Attention to Focus on Long Sequences**|Zicheng Liu et.al.|[2406.08128](http://arxiv.org/abs/2406.08128)|null|
 |**2024-06-12**|**ONNXim: A Fast, Cycle-level Multi-core NPU Simulator**|Hyungkyu Ham et.al.|[2406.08051](http://arxiv.org/abs/2406.08051)|null|
 |**2024-06-12**|**Hardware Implementation of Soft Mapper/Demappers in Iterative EP-based Receivers**|Ian Fischer Schilling et.al.|[2406.07934](http://arxiv.org/abs/2406.07934)|null|
 |**2024-06-12**|**Hybrid Rendering for Dynamic Scenes**|Alexandr Kuznetsov et.al.|[2406.07906](http://arxiv.org/abs/2406.07906)|null|
@@ -7605,7 +7605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-12**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|null|
+|**2024-06-13**|**Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models**|Yi-Fan Zhang et.al.|[2406.08487](http://arxiv.org/abs/2406.08487)|**[link](https://github.com/yfzhang114/slime)**|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**RMem: Restricted Memory Banks Improve Video Object Segmentation**|Junbao Zhou et.al.|[2406.08476](http://arxiv.org/abs/2406.08476)|null|
 |**2024-06-12**|**Human 3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models**|Yuxuan Xue et.al.|[2406.08475](http://arxiv.org/abs/2406.08475)|null|
@@ -7614,7 +7614,7 @@ layout: default
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**Bridging the Gap: Unravelling Local Government Data Sharing Barriers in Estonia and Beyond**|Katrin Rajamäe Soosaar et.al.|[2406.08461](http://arxiv.org/abs/2406.08461)|null|
 |**2024-06-12**|**Towards Musically Informed Evaluation of Piano Transcription Models**|Patricia Hu et.al.|[2406.08454](http://arxiv.org/abs/2406.08454)|null|
-|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|null|
+|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|**[link](https://github.com/weitunglin/pixmamba)**|
 |**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551](http://arxiv.org/abs/2406.07551)|**[link](https://github.com/huicongzhang/bsstnet)**|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
 |**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547](http://arxiv.org/abs/2406.07547)|null|
@@ -10468,7 +10468,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
-|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|null|
+|**2024-06-12**|**PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**|Wei-Tung Lin et.al.|[2406.08444](http://arxiv.org/abs/2406.08444)|**[link](https://github.com/weitunglin/pixmamba)**|
 |**2024-06-12**|**Transformation-Dependent Adversarial Attacks**|Yaoteng Tan et.al.|[2406.08443](http://arxiv.org/abs/2406.08443)|null|
 |**2024-06-12**|**Coherent Optical Modems for Full-Wavefield Lidar**|Parsa Mirdehghan et.al.|[2406.08439](http://arxiv.org/abs/2406.08439)|null|
 |**2024-06-12**|**Dynamical control in a prethermalized molecular ultracold plasma: Local dissipation drives global relaxation**|Ruoxi Wang et.al.|[2406.08433](http://arxiv.org/abs/2406.08433)|null|
