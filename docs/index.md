@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -71,7 +71,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
@@ -613,7 +613,7 @@ layout: default
 |**2024-06-17**|**A Representative Framework for Implementing Quantum Finite Automata on Real Devices**|Aliya Khadieva et.al.|[2406.11360](http://arxiv.org/abs/2406.11360)|null|
 |**2024-06-17**|**WaDec: Decompile WebAssembly Using Large Language Model**|Xinyu She et.al.|[2406.11346](http://arxiv.org/abs/2406.11346)|null|
 |**2024-06-16**|**New Solutions on LLM Acceleration, Optimization, and Application**|Yingbing Huang et.al.|[2406.10903](http://arxiv.org/abs/2406.10903)|null|
-|**2024-06-16**|**Optimization of Armv9 architecture general large language model inference performance based on Llama.cpp**|Longhao Chen et.al.|[2406.10816](http://arxiv.org/abs/2406.10816)|null|
+|**2024-06-16**|**Optimization of Armv9 architecture general large language model inference performance based on Llama.cpp**|Longhao Chen et.al.|[2406.10816](http://arxiv.org/abs/2406.10816)|**[link](https://github.com/longhao-chen/aicas2024)**|
 |**2024-06-14**|**A Comparison of the Performance of the Molecular Dynamics Simulation Package GROMACS Implemented in the SYCL and CUDA Programming Models**|L. Apanasevich et.al.|[2406.10362](http://arxiv.org/abs/2406.10362)|null|
 |**2024-06-14**|**Cosmic Ray Muons in Laboratories Deep Underground**|William Woodley et.al.|[2406.10339](http://arxiv.org/abs/2406.10339)|null|
 |**2024-06-14**|**Double-Anonymous Review for Robotics**|Justin K. Yim et.al.|[2406.10059](http://arxiv.org/abs/2406.10059)|null|
@@ -2019,7 +2019,7 @@ layout: default
 |**2024-06-17**|**Computationally Efficient RL under Linear Bellman Completeness for Deterministic Dynamics**|Runzhe Wu et.al.|[2406.11810](http://arxiv.org/abs/2406.11810)|null|
 |**2024-06-17**|**Efficient Discovery of Significant Patterns with Few-Shot Resampling**|Leonardo Pellegrina et.al.|[2406.11803](http://arxiv.org/abs/2406.11803)|null|
 |**2024-06-17**|**CELL your Model: Contrastive Explanation Methods for Large Language Models**|Ronny Luss et.al.|[2406.11785](http://arxiv.org/abs/2406.11785)|null|
-|**2024-06-17**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779](http://arxiv.org/abs/2406.11779)|null|
+|**2024-06-17**|**Provable Guarantees for Model Performance via Mechanistic Interpretability**|Jason Gross et.al.|[2406.11779](http://arxiv.org/abs/2406.11779)|**[link](https://github.com/JasonGross/guarantees-based-mechanistic-interpretability)**|
 |**2024-06-17**|**Improving Multi-Agent Debate with Sparse Communication Topology**|Yunxuan Li et.al.|[2406.11776](http://arxiv.org/abs/2406.11776)|null|
 |**2024-06-17**|**Task Me Anything**|Jieyu Zhang et.al.|[2406.11775](http://arxiv.org/abs/2406.11775)|**[link](https://github.com/jieyuz2/taskmeanything)**|
 |**2024-06-14**|**SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models**|Zhaoxu Luo et.al.|[2406.10225](http://arxiv.org/abs/2406.10225)|null|
@@ -4915,7 +4915,7 @@ layout: default
 |**2024-06-17**|**RO-SVD: A Reconfigurable Hardware Copyright Protection Framework for AIGC Applications**|Zhuoheng Ran et.al.|[2406.11536](http://arxiv.org/abs/2406.11536)|null|
 |**2024-06-17**|**A Representative Framework for Implementing Quantum Finite Automata on Real Devices**|Aliya Khadieva et.al.|[2406.11360](http://arxiv.org/abs/2406.11360)|null|
 |**2024-06-17**|**Low-power Ship Detection in Satellite Images Using Neuromorphic Hardware**|Gregor Lenz et.al.|[2406.11319](http://arxiv.org/abs/2406.11319)|null|
-|**2024-06-17**|**QTIP: Quantization with Trellises and Incoherence Processing**|Albert Tseng et.al.|[2406.11235](http://arxiv.org/abs/2406.11235)|null|
+|**2024-06-17**|**QTIP: Quantization with Trellises and Incoherence Processing**|Albert Tseng et.al.|[2406.11235](http://arxiv.org/abs/2406.11235)|**[link](https://github.com/Cornell-RelaxML/qtip)**|
 |**2024-06-17**|**Consistency^2: Consistent and Fast 3D Painting with Latent Consistency Models**|Tianfu Wang et.al.|[2406.11202](http://arxiv.org/abs/2406.11202)|**[link](https://github.com/kongdai123/consistency2)**|
 |**2024-06-14**|**Practical offloading for fine-tuning LLM on commodity GPU via learned subspace projectors**|Siyuan Chen et.al.|[2406.10181](http://arxiv.org/abs/2406.10181)|null|
 |**2024-06-14**|**Misam: Using ML in Dataflow Selection of Sparse-Sparse Matrix Multiplication**|Sanjali Yadav et.al.|[2406.10166](http://arxiv.org/abs/2406.10166)|null|
