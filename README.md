@@ -178,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**A Behavioral Theory for Distributed Systems with Weak Recovery**|Giovanni Fabbretti et.al.|[2406.12574](http://arxiv.org/abs/2406.12574)|null|
 |**2024-06-17**|**Joint Distributed Generation Maximization and Radial Distribution Network Reconfiguration**|Kin Cheong Sou et.al.|[2406.11332](http://arxiv.org/abs/2406.11332)|null|
 |**2024-06-14**|**Consistent Update Synthesis via Privatized Beliefs**|Thomas Schlögl et.al.|[2406.10010](http://arxiv.org/abs/2406.10010)|null|
 |**2024-06-13**|**Towards a Function-as-a-Service Choreographic Programming Language: Examples and Applications**|Giuseppe De Palma et.al.|[2406.09099](http://arxiv.org/abs/2406.09099)|null|
@@ -624,6 +625,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**A quantum algorithm to simulate Lindblad master equations**|Evan Borras et.al.|[2406.12748](http://arxiv.org/abs/2406.12748)|null|
+|**2024-06-18**|**Automatic benchmarking of large multimodal models via iterative experiment programming**|Alessandro Conti et.al.|[2406.12321](http://arxiv.org/abs/2406.12321)|**[link](https://github.com/altndrr/apex)**|
+|**2024-06-18**|**A framework for developing a knowledge management platform**|Marie Lisandra Zepeda Mendoza et.al.|[2406.12313](http://arxiv.org/abs/2406.12313)|null|
+|**2024-06-18**|**Quantum Compiling with Reinforcement Learning on a Superconducting Processor**|Z. T. Wang et.al.|[2406.12195](http://arxiv.org/abs/2406.12195)|null|
+|**2024-06-17**|**Should AI Optimize Your Code? A Comparative Study of Current Large Language Models Versus Classical Optimizing Compilers**|Miguel Romero Rosas et.al.|[2406.12146](http://arxiv.org/abs/2406.12146)|null|
+|**2024-06-17**|**When Reasoning Meets Information Aggregation: A Case Study with Sports Narratives**|Yebowen Hu et.al.|[2406.12084](http://arxiv.org/abs/2406.12084)|null|
 |**2024-06-17**|**Flexible and Reversible Conversion between Extensible Records and Overloading Constraints for ML**|Alvise Spanò et.al.|[2406.11750](http://arxiv.org/abs/2406.11750)|null|
 |**2024-06-17**|**A search for the fine-structure constant evolution from fast radio bursts and type Ia supernovae data**|Thais Lemos et.al.|[2406.11691](http://arxiv.org/abs/2406.11691)|null|
 |**2024-06-17**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452](http://arxiv.org/abs/2406.11452)|null|
@@ -2032,6 +2039,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835](http://arxiv.org/abs/2406.12835)|null|
+|**2024-06-18**|**Borromean supercounterfluids at finite temperatures**|Alexandru Golic et.al.|[2406.12833](http://arxiv.org/abs/2406.12833)|null|
+|**2024-06-18**|**Detecting Outbreaks Using a Latent Field: Part I -- Spatial Modeling**|Cosmin Safta et.al.|[2406.12810](http://arxiv.org/abs/2406.12810)|null|
+|**2024-06-18**|**Scalable Rule Lists Learning with Sampling**|Leonardo Pellegrina et.al.|[2406.12803](http://arxiv.org/abs/2406.12803)|null|
+|**2024-06-18**|**Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty**|Yupeng Yang et.al.|[2406.12802](http://arxiv.org/abs/2406.12802)|null|
+|**2024-06-18**|**Sample-Based Matroid Prophet Inequalities**|Hu Fu et.al.|[2406.12799](http://arxiv.org/abs/2406.12799)|null|
+|**2024-06-18**|**Bayesian Consistency for Long Memory Processes: A Semiparametric Perspective**|Clara Grazian et.al.|[2406.12780](http://arxiv.org/abs/2406.12780)|null|
+|**2024-06-18**|**Towards Exact Gradient-based Training on Analog In-memory Computing**|Zhaoxian Wu et.al.|[2406.12774](http://arxiv.org/abs/2406.12774)|null|
+|**2024-06-18**|**First-Order Methods for Linearly Constrained Bilevel Optimization**|Guy Kornowski et.al.|[2406.12771](http://arxiv.org/abs/2406.12771)|null|
+|**2024-06-18**|**Implicit Bias of Mirror Flow on Separable Data**|Scott Pesme et.al.|[2406.12763](http://arxiv.org/abs/2406.12763)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
 |**2024-06-17**|**Learning sum of diverse features: computational hardness and efficient gradient-based training for ridge combinations**|Kazusato Oko et.al.|[2406.11828](http://arxiv.org/abs/2406.11828)|null|
 |**2024-06-17**|**A precision benchmark suite for nuclear reactor point kinetics equations via converged accelerated Taylor series (cats)**|Barry Ganapol et.al.|[2406.11822](http://arxiv.org/abs/2406.11822)|null|
@@ -4929,6 +4946,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**"A Lot of Moving Parts": A Case Study of Open-Source Hardware Design Collaboration in the Thingiverse Community**|Kathy Cheng et.al.|[2406.12801](http://arxiv.org/abs/2406.12801)|null|
+|**2024-06-18**|**Towards Exact Gradient-based Training on Analog In-memory Computing**|Zhaoxian Wu et.al.|[2406.12774](http://arxiv.org/abs/2406.12774)|null|
+|**2024-06-18**|**Discovering Minimal Reinforcement Learning Environments**|Jarek Liesen et.al.|[2406.12589](http://arxiv.org/abs/2406.12589)|null|
+|**2024-06-18**|**Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation**|Chengkai Liu et.al.|[2406.12580](http://arxiv.org/abs/2406.12580)|null|
+|**2024-06-18**|**TREE: Tree Regularization for Efficient Execution**|Lena Schmid et.al.|[2406.12531](http://arxiv.org/abs/2406.12531)|null|
+|**2024-06-18**|**Demonstrating Agile Flight from Pixels without State Estimation**|Ismail Geles et.al.|[2406.12505](http://arxiv.org/abs/2406.12505)|null|
+|**2024-06-18**|**Insect Identification in the Wild: The AMI Dataset**|Aditya Jain et.al.|[2406.12452](http://arxiv.org/abs/2406.12452)|**[link](https://github.com/rolnicklab/ami-dataset)**|
+|**2024-06-18**|**Tracking Real-time Anomalies in Cyber-Physical Systems Through Dynamic Behavioral Analysis**|Prashanth Krishnamurthy et.al.|[2406.12438](http://arxiv.org/abs/2406.12438)|null|
+|**2024-06-18**|**ROVER: RTL Optimization via Verified E-Graph Rewriting**|Samuel Coward et.al.|[2406.12421](http://arxiv.org/abs/2406.12421)|null|
+|**2024-06-18**|**Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal**|Wenqi Jiang et.al.|[2406.12385](http://arxiv.org/abs/2406.12385)|null|
 |**2024-06-17**|**Simon's algorithm in the NISQ cloud**|Reece Robertson et.al.|[2406.11771](http://arxiv.org/abs/2406.11771)|null|
 |**2024-06-17**|**Control of Unknown Quadrotors from a Single Throw**|Till M. Blaha et.al.|[2406.11723](http://arxiv.org/abs/2406.11723)|null|
 |**2024-06-17**|**Circuit-Efficient Qubit-Excitation-based Variational Quantum Eigensolver**|Zhijie Sun et.al.|[2406.11699](http://arxiv.org/abs/2406.11699)|null|
@@ -7718,6 +7745,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841](http://arxiv.org/abs/2406.12841)|null|
+|**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835](http://arxiv.org/abs/2406.12835)|null|
+|**2024-06-18**|**Feasibility of Non-Line-of-Sight Integrated Sensing and Communication at mmWave**|Paolo Tosi et.al.|[2406.12828](http://arxiv.org/abs/2406.12828)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824](http://arxiv.org/abs/2406.12824)|null|
+|**2024-06-18**|**Lower box dimension of infinitely generated self-conformal sets**|Amlan Banaji et.al.|[2406.12821](http://arxiv.org/abs/2406.12821)|null|
+|**2024-06-18**|**Optimal Bailouts in Diversified Financial Networks**|Krishna Dasaratha et.al.|[2406.12818](http://arxiv.org/abs/2406.12818)|null|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**Detecting Outbreaks Using a Latent Field: Part I -- Spatial Modeling**|Cosmin Safta et.al.|[2406.12810](http://arxiv.org/abs/2406.12810)|null|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**Perfect chiral quantum routing**|Simone Cavazzoni et.al.|[2406.11834](http://arxiv.org/abs/2406.11834)|null|
 |**2024-06-17**|**Learning sum of diverse features: computational hardness and efficient gradient-based training for ridge combinations**|Kazusato Oko et.al.|[2406.11828](http://arxiv.org/abs/2406.11828)|null|
@@ -10612,6 +10649,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Machine learning guided discovery of stable, spin-resolved topological insulators**|Alexander C. Tyner et.al.|[2406.12850](http://arxiv.org/abs/2406.12850)|null|
+|**2024-06-18**|**ChangeViT: Unleashing Plain Vision Transformers for Change Detection**|Duowang Zhu et.al.|[2406.12847](http://arxiv.org/abs/2406.12847)|**[link](https://github.com/zhuduowang/changevit)**|
+|**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
+|**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843](http://arxiv.org/abs/2406.12843)|null|
+|**2024-06-18**|**Demystifying Higher-Order Graph Neural Networks**|Maciej Besta et.al.|[2406.12841](http://arxiv.org/abs/2406.12841)|null|
+|**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
+|**2024-06-18**|**Influence Maximization via Graph Neural Bandits**|Yuting Feng et.al.|[2406.12835](http://arxiv.org/abs/2406.12835)|null|
+|**2024-06-18**|**Feasibility of Non-Line-of-Sight Integrated Sensing and Communication at mmWave**|Paolo Tosi et.al.|[2406.12828](http://arxiv.org/abs/2406.12828)|null|
+|**2024-06-18**|**Optimal Bailouts in Diversified Financial Networks**|Krishna Dasaratha et.al.|[2406.12818](http://arxiv.org/abs/2406.12818)|null|
+|**2024-06-18**|**Graph Neural Networks in Histopathology: Emerging Trends and Future Directions**|Siemen Brussee et.al.|[2406.12808](http://arxiv.org/abs/2406.12808)|null|
 |**2024-06-17**|**Perfect chiral quantum routing**|Simone Cavazzoni et.al.|[2406.11834](http://arxiv.org/abs/2406.11834)|null|
 |**2024-06-17**|**Learning sum of diverse features: computational hardness and efficient gradient-based training for ridge combinations**|Kazusato Oko et.al.|[2406.11828](http://arxiv.org/abs/2406.11828)|null|
 |**2024-06-17**|**Spectral Introspection Identifies Group Training Dynamics in Deep Neural Networks for Neuroimaging**|Bradley T. Baker et.al.|[2406.11825](http://arxiv.org/abs/2406.11825)|null|
@@ -13507,6 +13554,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Machine learning guided discovery of stable, spin-resolved topological insulators**|Alexander C. Tyner et.al.|[2406.12850](http://arxiv.org/abs/2406.12850)|null|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843](http://arxiv.org/abs/2406.12843)|null|
+|**2024-06-18**|**Evaluating the design space of diffusion-based generative models**|Yuqing Wang et.al.|[2406.12839](http://arxiv.org/abs/2406.12839)|null|
+|**2024-06-18**|**Cohomological Hall algebras for 3-Calabi-Yau categories**|Tasuki Kinjo et.al.|[2406.12838](http://arxiv.org/abs/2406.12838)|null|
+|**2024-06-18**|**Borromean supercounterfluids at finite temperatures**|Alexandru Golic et.al.|[2406.12833](http://arxiv.org/abs/2406.12833)|null|
+|**2024-06-18**|**Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems**|Guillem Müller-Rigat et.al.|[2406.12823](http://arxiv.org/abs/2406.12823)|null|
+|**2024-06-18**|**Lower box dimension of infinitely generated self-conformal sets**|Amlan Banaji et.al.|[2406.12821](http://arxiv.org/abs/2406.12821)|null|
+|**2024-06-18**|**Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents**|Zehao Wang et.al.|[2406.12806](http://arxiv.org/abs/2406.12806)|null|
+|**2024-06-18**|**The Aligned Orbit of a Hot Jupiter around the M Dwarf TOI-4201**|Tianjun Gan et.al.|[2406.12798](http://arxiv.org/abs/2406.12798)|null|
 |**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830](http://arxiv.org/abs/2406.11830)|**[link](https://github.com/belindal/erase)**|
 |**2024-06-17**|**Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation**|Alexander Raistrick et.al.|[2406.11824](http://arxiv.org/abs/2406.11824)|null|
 |**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|null|
@@ -16405,10 +16462,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**ROVER: RTL Optimization via Verified E-Graph Rewriting**|Samuel Coward et.al.|[2406.12421](http://arxiv.org/abs/2406.12421)|null|
+|**2024-06-17**|**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**|Seungwoo Son et.al.|[2406.12016](http://arxiv.org/abs/2406.12016)|null|
 |**2024-06-13**|**ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**|Jing Liu et.al.|[2406.09041](http://arxiv.org/abs/2406.09041)|null|
 |**2024-06-13**|**Delta-CoMe: Training-Free Delta-Compression with Mixed-Precision for Large Language Models**|Bowen Ping et.al.|[2406.08903](http://arxiv.org/abs/2406.08903)|null|
 |**2024-06-10**|**Efficient Neural Compression with Inference-time Decoding**|C. Metz et.al.|[2406.06237](http://arxiv.org/abs/2406.06237)|null|
-|**2024-06-08**|**Towards Lightweight Speaker Verification via Adaptive Neural Network Quantization**|Bei Liu et.al.|[2406.05359](http://arxiv.org/abs/2406.05359)|null|
+|**2024-06-18**|**Towards Lightweight Speaker Verification via Adaptive Neural Network Quantization**|Bei Liu et.al.|[2406.05359](http://arxiv.org/abs/2406.05359)|null|
 |**2024-06-13**|**Scalable and Programmable Look-Up Table based Neural Acceleration (LUT-NA) for Extreme Energy Efficiency**|Ovishake Sen et.al.|[2406.05282](http://arxiv.org/abs/2406.05282)|null|
 |**2024-06-04**|**Mixed-Precision Over-The-Air Federated Learning via Approximated Computing**|Jinsheng Yuan et.al.|[2406.03402](http://arxiv.org/abs/2406.03402)|null|
 |**2024-06-04**|**MPCR: Multi- and Mixed-Precision Computations Package in R**|Mary Lai O. Salvana et.al.|[2406.02701](http://arxiv.org/abs/2406.02701)|null|
