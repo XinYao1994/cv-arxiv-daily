@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -4947,7 +4947,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**A two-dimensional optomechanical crystal for quantum transduction**|Felix M. Mayor et.al.|[2406.14484](http://arxiv.org/abs/2406.14484)|null|
 |**2024-06-20**|**CascadeServe: Unlocking Model Cascades for Inference Serving**|Ferdi Kossmann et.al.|[2406.14424](http://arxiv.org/abs/2406.14424)|null|
-|**2024-06-20**|**Safety-Critical Edge Robotics Architecture with Bounded End-to-End Latency**|Gautam Gala et.al.|[2406.14391](http://arxiv.org/abs/2406.14391)|null|
+|**2024-06-21**|**Safety-Critical Edge Robotics Architecture with Bounded End-to-End Latency**|Gautam Gala et.al.|[2406.14391](http://arxiv.org/abs/2406.14391)|null|
 |**2024-06-20**|**Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations**|Jai Moondra et.al.|[2406.14330](http://arxiv.org/abs/2406.14330)|null|
 |**2024-06-20**|**Computing Within Limits: An Empirical Study of Energy Consumption in ML Training and Inference**|Ioannis Mavromatis et.al.|[2406.14328](http://arxiv.org/abs/2406.14328)|null|
 |**2024-06-20**|**Scalable and RISC-V Programmable Near-Memory Computing Architectures for Edge Nodes**|Michele Caon et.al.|[2406.14263](http://arxiv.org/abs/2406.14263)|null|
