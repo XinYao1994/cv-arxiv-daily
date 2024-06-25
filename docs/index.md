@@ -163,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-22**|**NeuralSCF: Neural network self-consistent fields for density functional theory**|Feitong Song et.al.|[2406.15873](http://arxiv.org/abs/2406.15873)|null|
+|**2024-06-22**|**The Simons Observatory: Deployment of the observatory control system and supporting infrastructure**|Brian J. Koopman et.al.|[2406.15703](http://arxiv.org/abs/2406.15703)|null|
 |**2024-06-21**|**Software infrastructure for the highly-distributed semi-autonomous Dragonfly Spectral Line Mapper**|Imad Pasha et.al.|[2406.15301](http://arxiv.org/abs/2406.15301)|null|
 |**2024-06-20**|**Optimal estimation in spatially distributed systems: how far to share measurements from?**|Juncal Arbelaiz et.al.|[2406.14781](http://arxiv.org/abs/2406.14781)|null|
 |**2024-06-19**|**Data Value in Distribution System Operations**|Mehrnoush Ghazanfariharandi et.al.|[2406.13148](http://arxiv.org/abs/2406.13148)|null|
@@ -612,6 +614,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs**|Xinchi Qiu et.al.|[2406.16810](http://arxiv.org/abs/2406.16810)|null|
+|**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
+|**2024-06-24**|**Homomorphisms and Embeddings of STRIPS Planning Models**|Arnaud Lequen et.al.|[2406.16555](http://arxiv.org/abs/2406.16555)|null|
+|**2024-06-24**|**Decomposing God Header File via Multi-View Graph Clustering**|Yue Wang et.al.|[2406.16487](http://arxiv.org/abs/2406.16487)|null|
+|**2024-06-23**|**LeanBin: Harnessing Lifting and Recompilation to Debloat Binaries**|Igor Wodiany et.al.|[2406.16162](http://arxiv.org/abs/2406.16162)|null|
+|**2024-06-22**|**Simulation of high-performance memory allocators**|José L. Risco-Martín et.al.|[2406.15776](http://arxiv.org/abs/2406.15776)|null|
+|**2024-06-22**|**CasModaTest: A Cascaded and Model-agnostic Self-directed Framework for Unit Test Generation**|Chao Ni et.al.|[2406.15743](http://arxiv.org/abs/2406.15743)|null|
+|**2024-06-21**|**Observation of a non-Hermitian supersonic mode**|Yuxuan Zhang et.al.|[2406.15557](http://arxiv.org/abs/2406.15557)|null|
 |**2024-06-21**|**BliMe Linter**|Hossam ElAtali et.al.|[2406.15302](http://arxiv.org/abs/2406.15302)|null|
 |**2024-06-21**|**The Greek podcast corpus: Competitive speech models for low-resourced languages with weakly supervised data**|Georgios Paraskevopoulos et.al.|[2406.15284](http://arxiv.org/abs/2406.15284)|null|
 |**2024-06-21**|**Investigating the impact of 2D gesture representation on co-speech gesture generation**|Teo Guichoux et.al.|[2406.15111](http://arxiv.org/abs/2406.15111)|null|
@@ -2043,6 +2053,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
+|**2024-06-24**|**Constructibility, computational complexity and P versus NP**|Arne Hole et.al.|[2406.16843](http://arxiv.org/abs/2406.16843)|null|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837](http://arxiv.org/abs/2406.16837)|null|
+|**2024-06-24**|**How to compute efficiently the analytical solution to Heisenberg spin glass models on sparse random graphs and their de Almeida-Thouless line**|Luca Maria Del Bono et.al.|[2406.16836](http://arxiv.org/abs/2406.16836)|null|
+|**2024-06-24**|**Understanding and Mitigating Tokenization Bias in Language Models**|Buu Phan et.al.|[2406.16829](http://arxiv.org/abs/2406.16829)|null|
+|**2024-06-24**|**High-quality activation function for applications in neuromorphic photonic chips realized using low-quality nonlinear optical resonators**|Ivan A. Pshenichnyuk et.al.|[2406.16798](http://arxiv.org/abs/2406.16798)|null|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
+|**2024-06-24**|**Confidence Aware Inverse Constrained Reinforcement Learning**|Sriram Ganapathi Subramanian et.al.|[2406.16782](http://arxiv.org/abs/2406.16782)|null|
+|**2024-06-24**|**A Carrying Capacity Calculator for Pedestrians Using OpenStreetMap Data: Application to Urban Tourism and Public Spaces**|Duarte Sampaio de Almeida et.al.|[2406.16781](http://arxiv.org/abs/2406.16781)|null|
 |**2024-06-21**|**LeapFrog: Getting the Jump on Multi-Scale Materials Simulations Using Machine Learning**|Damien Pinto et.al.|[2406.15326](http://arxiv.org/abs/2406.15326)|null|
 |**2024-06-21**|**Diverse beam search to find densest-known planar unit distance graphs**|Peter Engel et.al.|[2406.15317](http://arxiv.org/abs/2406.15317)|null|
 |**2024-06-21**|**Discovery of Novel Silicon Allotropes with Optimized Band Gaps to Enhance Solar Cell Efficiency through Evolutionary Algorithms and Machine Learning**|Mostafa Yaghoobi et.al.|[2406.15316](http://arxiv.org/abs/2406.15316)|null|
@@ -4968,6 +4988,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Enabling more efficient and cost-effective AI/ML systems with Collective Mind, virtualized MLOps, MLPerf, Collective Knowledge Playground and reproducible optimization tournaments**|Grigori Fursin et.al.|[2406.16791](http://arxiv.org/abs/2406.16791)|null|
+|**2024-06-24**|**Accelerating Graph-based Tracking Tasks with Symbolic Regression**|Nathalie Soybelman et.al.|[2406.16752](http://arxiv.org/abs/2406.16752)|null|
+|**2024-06-24**|**Optimizing Search Strategies: A Study of Two-Pointer Linear Search Implementation**|Nazma Akter Zinnia et.al.|[2406.16729](http://arxiv.org/abs/2406.16729)|null|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
+|**2024-06-24**|**Multi-Robot Collaborative Localization and Planning with Inter-Ranging**|Derek Knowles et.al.|[2406.16679](http://arxiv.org/abs/2406.16679)|null|
+|**2024-06-24**|**Data-driven Modeling in Metrology -- A Short Introduction, Current Developments and Future Perspectives**|Linda-Sophie Schneider et.al.|[2406.16659](http://arxiv.org/abs/2406.16659)|null|
+|**2024-06-24**|**Not All RDF is Created Equal: Investigating RDF Load Times on Resource-Constrained Devices**|Piotr Sowinski et.al.|[2406.16412](http://arxiv.org/abs/2406.16412)|null|
+|**2024-06-24**|**PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling**|Amirparsa Salmankhah et.al.|[2406.16388](http://arxiv.org/abs/2406.16388)|null|
+|**2024-06-24**|**Approximate DCT and Quantization Techniques for Energy-Constrained Image Sensors**|Ming-Che Li et.al.|[2406.16358](http://arxiv.org/abs/2406.16358)|null|
+|**2024-06-24**|**Hybrid Precoding With Low-Resolution PSs for Wideband Terahertz Communication Systems in The Face of Beam Squint**|Yang Wang et.al.|[2406.16303](http://arxiv.org/abs/2406.16303)|null|
 |**2024-06-21**|**BliMe Linter**|Hossam ElAtali et.al.|[2406.15302](http://arxiv.org/abs/2406.15302)|null|
 |**2024-06-21**|**Software infrastructure for the highly-distributed semi-autonomous Dragonfly Spectral Line Mapper**|Imad Pasha et.al.|[2406.15301](http://arxiv.org/abs/2406.15301)|null|
 |**2024-06-21**|**HTMPC: A heavily templated C++ library for large scale particle-based mesoscale hydrodynamics simulations using multiparticle collision dynamics**|Elmar Westphal et.al.|[2406.15236](http://arxiv.org/abs/2406.15236)|null|
@@ -7785,6 +7815,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Can Quantum Computers Do Nothing?**|Alexander Nico-Katz et.al.|[2406.16861](http://arxiv.org/abs/2406.16861)|null|
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
+|**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
+|**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
+|**2024-06-24**|**Nonparametric analysis of correlations in the binary black hole population with LIGO-Virgo-KAGRA data**|Jack Heinzel et.al.|[2406.16844](http://arxiv.org/abs/2406.16844)|null|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**Numerical methods for eigenvalues of singular polynomial eigenvalue problems**|Michiel E. Hochstenbach et.al.|[2406.16832](http://arxiv.org/abs/2406.16832)|null|
+|**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
+|**2024-06-24**|**On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation**|Baskaran Sripathmanathan et.al.|[2406.16816](http://arxiv.org/abs/2406.16816)|null|
+|**2024-06-24**|**PixelPop: High Resolution Nonparameteric Inference of Gravitational-Wave Populations in Multiple Dimensions**|Jack Heinzel et.al.|[2406.16813](http://arxiv.org/abs/2406.16813)|null|
 |**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
 |**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
 |**2024-06-21**|**An End-to-End, Segmentation-Free, Arabic Handwritten Recognition Model on KHATT**|Sondos Aabed et.al.|[2406.15329](http://arxiv.org/abs/2406.15329)|null|
@@ -10707,6 +10747,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**How to compute efficiently the analytical solution to Heisenberg spin glass models on sparse random graphs and their de Almeida-Thouless line**|Luca Maria Del Bono et.al.|[2406.16836](http://arxiv.org/abs/2406.16836)|null|
+|**2024-06-24**|**Concentration Inequalities for $(f,Γ)$ -GANs**|Jeremiah Birrell et.al.|[2406.16834](http://arxiv.org/abs/2406.16834)|null|
+|**2024-06-24**|**General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design**|Yue Jian et.al.|[2406.16821](http://arxiv.org/abs/2406.16821)|null|
+|**2024-06-24**|**EFECT -- A Method and Metric to Assess the Reproducibility of Stochastic Simulation Studies**|T. J. Sego et.al.|[2406.16820](http://arxiv.org/abs/2406.16820)|null|
+|**2024-06-24**|**On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation**|Baskaran Sripathmanathan et.al.|[2406.16816](http://arxiv.org/abs/2406.16816)|null|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
+|**2024-06-24**|**Explicit Retinal Networks Produce Center-Surround Opponent Color Cells**|Lane Yoder et.al.|[2406.16788](http://arxiv.org/abs/2406.16788)|null|
+|**2024-06-24**|**Parrondo's paradox in susceptible-infectious-susceptible dynamics over periodic temporal networks**|Maisha Islam Sejunti et.al.|[2406.16787](http://arxiv.org/abs/2406.16787)|null|
+|**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
+|**2024-06-24**|**Instance Consistency Regularization for Semi-Supervised 3D Instance Segmentation**|Yizheng Wu et.al.|[2406.16776](http://arxiv.org/abs/2406.16776)|**[link](https://github.com/w1zheng/insteacher3d)**|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**Network-Based Optimal Control of Pollution Growth**|Fausto Gozzi et.al.|[2406.15338](http://arxiv.org/abs/2406.15338)|null|
 |**2024-06-21**|**GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation**|Chubin Zhang et.al.|[2406.15333](http://arxiv.org/abs/2406.15333)|**[link](https://github.com/alibaba-yuanjing-aigclab/geolrm)**|
@@ -13630,6 +13680,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
+|**2024-06-24**|**GeoMFormer: A General Architecture for Geometric Molecular Representation Learning**|Tianlang Chen et.al.|[2406.16853](http://arxiv.org/abs/2406.16853)|**[link](https://github.com/c-tl/geomformer)**|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**How to compute efficiently the analytical solution to Heisenberg spin glass models on sparse random graphs and their de Almeida-Thouless line**|Luca Maria Del Bono et.al.|[2406.16836](http://arxiv.org/abs/2406.16836)|null|
+|**2024-06-24**|**Numerical methods for eigenvalues of singular polynomial eigenvalue problems**|Michiel E. Hochstenbach et.al.|[2406.16832](http://arxiv.org/abs/2406.16832)|null|
+|**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
+|**2024-06-24**|**EFECT -- A Method and Metric to Assess the Reproducibility of Stochastic Simulation Studies**|T. J. Sego et.al.|[2406.16820](http://arxiv.org/abs/2406.16820)|null|
+|**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
+|**2024-06-24**|**FlipDyn in Graphs: Resource Takeover Games in Graphs**|Sandeep Banik et.al.|[2406.16812](http://arxiv.org/abs/2406.16812)|null|
 |**2024-06-21**|**Elucidating Galaxy Population Properties Using a Model-Free Analysis of Quadruply Imaged Quasar Lenses From Large Surveys**|John Miller Jr et.al.|[2406.15344](http://arxiv.org/abs/2406.15344)|null|
 |**2024-06-21**|**Chern-Textured Exciton Insulators with Valley Spiral Order in Moiré Materials**|Ziwei Wang et.al.|[2406.15342](http://arxiv.org/abs/2406.15342)|null|
 |**2024-06-21**|**SPRINT for WFAO systems**|Guido Agapito et.al.|[2406.15336](http://arxiv.org/abs/2406.15336)|null|
@@ -16556,6 +16616,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Mixed precision iterative refinement for least squares with linear equality constraints and generalized least squares problems**|Bowen Gao et.al.|[2406.16499](http://arxiv.org/abs/2406.16499)|null|
 |**2024-06-08**|**A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation**|Farzana Yasmin Ahmad et.al.|[2406.12898](http://arxiv.org/abs/2406.12898)|null|
 |**2024-06-18**|**ROVER: RTL Optimization via Verified E-Graph Rewriting**|Samuel Coward et.al.|[2406.12421](http://arxiv.org/abs/2406.12421)|null|
 |**2024-06-17**|**Prefixing Attention Sinks can Mitigate Activation Outliers for Large Language Model Quantization**|Seungwoo Son et.al.|[2406.12016](http://arxiv.org/abs/2406.12016)|null|
