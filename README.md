@@ -179,6 +179,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
+|**2024-06-26**|**Resilient and Secure Programmable System-on-Chip Accelerator Offload**|Inês Pinto Gouveia et.al.|[2406.18117](http://arxiv.org/abs/2406.18117)|null|
+|**2024-06-26**|**Coordination of Transmission and Distribution Systems in Load Restoration**|Santosh Sharma et.al.|[2406.18010](http://arxiv.org/abs/2406.18010)|null|
 |**2024-06-25**|**Prioritized experience replay-based DDQN for Unmanned Vehicle Path Planning**|Liu Lipeng et.al.|[2406.17286](http://arxiv.org/abs/2406.17286)|null|
 |**2024-06-24**|**GraphPipe: Improving Performance and Scalability of DNN Training with Graph Pipeline Parallelism**|Byungsoo Jeon et.al.|[2406.17145](http://arxiv.org/abs/2406.17145)|null|
 |**2024-06-22**|**NeuralSCF: Neural network self-consistent fields for density functional theory**|Feitong Song et.al.|[2406.15873](http://arxiv.org/abs/2406.15873)|null|
@@ -634,6 +637,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Scaling Quantum Computations via Gate Virtualization**|Nathaniel Tornow et.al.|[2406.18410](http://arxiv.org/abs/2406.18410)|null|
+|**2024-06-26**|**Hemispheric analysis of the magnetic flux in regular and irregular solar active regions**|A. Zhukova et.al.|[2406.18277](http://arxiv.org/abs/2406.18277)|null|
+|**2024-06-26**|**Composing Distributed Computations Through Task and Kernel Fusion**|Rohan Yadav et.al.|[2406.18109](http://arxiv.org/abs/2406.18109)|null|
+|**2024-06-26**|**Fuzzing at Scale: The Untold Story of the Scheduler**|Ivica Nikolic et.al.|[2406.18058](http://arxiv.org/abs/2406.18058)|null|
+|**2024-06-24**|**CATBench: A Compiler Autotuning Benchmarking Suite for Black-box Optimization**|Jacob O. Tørring et.al.|[2406.17811](http://arxiv.org/abs/2406.17811)|null|
 |**2024-06-25**|**YAQQ: Yet Another Quantum Quantizer -- Design Space Exploration of Quantum Gate Sets using Novelty Search**|Aritra Sarkar et.al.|[2406.17610](http://arxiv.org/abs/2406.17610)|null|
 |**2024-06-25**|**Resource-Optimized Grouping Shadow for Efficient Energy Estimation**|Min Li et.al.|[2406.17252](http://arxiv.org/abs/2406.17252)|null|
 |**2024-06-25**|**MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework**|Xusheng Xu et.al.|[2406.17248](http://arxiv.org/abs/2406.17248)|null|
@@ -2081,6 +2089,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
+|**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
+|**2024-06-26**|**An Understanding of Principal Differential Analysis**|Edward Gunning et.al.|[2406.18484](http://arxiv.org/abs/2406.18484)|null|
+|**2024-06-26**|**Decidability of Krohn-Rhodes complexity for all finite semigroups and automata**|Stuart Margolis et.al.|[2406.18477](http://arxiv.org/abs/2406.18477)|null|
+|**2024-06-26**|**Near-Term Quantum Spin Simulation of the Spin- $\frac{1}{2}$ Square $J_{1}-J_{2}$ Heisenberg Model**|Dylan Sheils et.al.|[2406.18474](http://arxiv.org/abs/2406.18474)|null|
+|**2024-06-26**|**Unveiling the connection between the Lyndon factorization and the Canonical Inverse Lyndon factorization via a border property**|Paola Bonizzoni et.al.|[2406.18473](http://arxiv.org/abs/2406.18473)|null|
+|**2024-06-26**|**Algebraic Connectivity Control and Maintenance in Multi-Agent Networks under Attack**|Wenjie Zhao et.al.|[2406.18467](http://arxiv.org/abs/2406.18467)|null|
+|**2024-06-26**|**Parameterizing the quantification of CMSO: model checking on minor-closed graph classes**|Ignasi Sau et.al.|[2406.18465](http://arxiv.org/abs/2406.18465)|null|
 |**2024-06-25**|**Splitting Guarantees for Prophet Inequalities via Nonlinear Systems**|Johannes Brustle et.al.|[2406.17767](http://arxiv.org/abs/2406.17767)|null|
 |**2024-06-25**|**A New Perspective on Shampoo's Preconditioner**|Depen Morwani et.al.|[2406.17748](http://arxiv.org/abs/2406.17748)|null|
 |**2024-06-25**|**Following Length Constraints in Instructions**|Weizhe Yuan et.al.|[2406.17744](http://arxiv.org/abs/2406.17744)|null|
@@ -5028,6 +5046,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Multicarrier ISAC: Advances in Waveform Design, Signal Processing and Learning under Non-Idealities**|Visa Koivunen et.al.|[2406.18476](http://arxiv.org/abs/2406.18476)|null|
+|**2024-06-26**|**On Approximate 8-bit Floating-Point Operations Using Integer Operations**|Theodor Lindberg et.al.|[2406.18441](http://arxiv.org/abs/2406.18441)|null|
+|**2024-06-26**|**L-Sort: An Efficient Hardware for Real-time Multi-channel Spike Sorting with Localization**|Yuntao Han et.al.|[2406.18425](http://arxiv.org/abs/2406.18425)|null|
+|**2024-06-26**|**A Lightweight Algorithm for Classifying Ex Vivo Tissues Samples**|Tzu-Hao Li et.al.|[2406.18372](http://arxiv.org/abs/2406.18372)|null|
+|**2024-06-26**|**Multi-Step Reconstruction of Radio-Interferometric Images**|S. Wang et.al.|[2406.18356](http://arxiv.org/abs/2406.18356)|null|
+|**2024-06-26**|**A Jammer-Mitigating 267 Mb/s 3.78 mm $^2$ 583 mW 32$\times$ 8 Multi-User MIMO Receiver in 22FDX**|Florian Bucheli et.al.|[2406.18149](http://arxiv.org/abs/2406.18149)|null|
+|**2024-06-26**|**Resilient and Secure Programmable System-on-Chip Accelerator Offload**|Inês Pinto Gouveia et.al.|[2406.18117](http://arxiv.org/abs/2406.18117)|null|
+|**2024-06-26**|**A Communication Satellite Servises Based Decentralized Network Protocol**|Xiao Yan et.al.|[2406.18032](http://arxiv.org/abs/2406.18032)|null|
+|**2024-06-26**|**Dependence Analysis and Structured Construction for Batched Sparse Code**|Jiaxin Qing et.al.|[2406.18017](http://arxiv.org/abs/2406.18017)|null|
+|**2024-06-26**|**Scalable Dual Coordinate Descent for Kernel Methods**|Zishan Shao et.al.|[2406.18001](http://arxiv.org/abs/2406.18001)|null|
 |**2024-06-25**|**Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation**|Tushar Prasanna Swaminathan et.al.|[2406.17749](http://arxiv.org/abs/2406.17749)|null|
 |**2024-06-25**|**Embedded event based object detection with spiking neural network**|Jonathan Courtois et.al.|[2406.17617](http://arxiv.org/abs/2406.17617)|null|
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586](http://arxiv.org/abs/2406.17586)|null|
@@ -7867,6 +7895,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**A principled framework to assess information theoretical fitness of brain functional sub-circuits**|Duy Duong-Tran et.al.|[2406.18531](http://arxiv.org/abs/2406.18531)|null|
+|**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
+|**2024-06-26**|**Digging its own Site: Linear Coordination Stabilizes a Pt1/Fe2O3 Single-Atom Catalyst**|Ali Rafsanjani-Abbasi et.al.|[2406.18525](http://arxiv.org/abs/2406.18525)|null|
+|**2024-06-26**|**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**|Zirui Wang et.al.|[2406.18521](http://arxiv.org/abs/2406.18521)|null|
+|**2024-06-26**|**Distinguishing mechanisms of social contagion from local network view**|Elsa Andres et.al.|[2406.18519](http://arxiv.org/abs/2406.18519)|null|
+|**2024-06-26**|**Generalized Concentratable Entanglement via Parallelized Permutation Tests**|Xiaoyu Liu et.al.|[2406.18517](http://arxiv.org/abs/2406.18517)|null|
+|**2024-06-26**|**High-Speed Combinatorial Self-Assembly through Kinetic-Trap Encoding**|Félix Benoist et.al.|[2406.18511](http://arxiv.org/abs/2406.18511)|null|
+|**2024-06-26**|**From Tweet to Theft: Tracing the Flow of Stolen Cryptocurrency**|Guglielmo Cola et.al.|[2406.18503](http://arxiv.org/abs/2406.18503)|null|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
+|**2024-06-26**|**Multicarrier ISAC: Advances in Waveform Design, Signal Processing and Learning under Non-Idealities**|Visa Koivunen et.al.|[2406.18476](http://arxiv.org/abs/2406.18476)|null|
 |**2024-06-25**|**Text-Animator: Controllable Visual Text Video Generation**|Lin Liu et.al.|[2406.17777](http://arxiv.org/abs/2406.17777)|null|
 |**2024-06-25**|**Evidence of thermodynamics and magnetic monopole plasma formation by photon-magnon interaction in artificial spin ice**|D. G. Duarte et.al.|[2406.17775](http://arxiv.org/abs/2406.17775)|null|
 |**2024-06-25**|**Fast and Uncertainty-Aware SVBRDF Recovery from Multi-View Capture using Frequency Domain Analysis**|Ruben Wiersma et.al.|[2406.17774](http://arxiv.org/abs/2406.17774)|null|
@@ -10811,6 +10849,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2024-06-26**|**A principled framework to assess information theoretical fitness of brain functional sub-circuits**|Duy Duong-Tran et.al.|[2406.18531](http://arxiv.org/abs/2406.18531)|null|
+|**2024-06-26**|**Distinguishing mechanisms of social contagion from local network view**|Elsa Andres et.al.|[2406.18519](http://arxiv.org/abs/2406.18519)|null|
+|**2024-06-26**|**High-Speed Combinatorial Self-Assembly through Kinetic-Trap Encoding**|Félix Benoist et.al.|[2406.18511](http://arxiv.org/abs/2406.18511)|null|
+|**2024-06-26**|**Assessment of Clonal Hematopoiesis of Indeterminate Potential from Cardiac Magnetic Resonance Imaging using Deep Learning in a Cardio-oncology Population**|Sangeon Ryu et.al.|[2406.18508](http://arxiv.org/abs/2406.18508)|null|
+|**2024-06-26**|**From Tweet to Theft: Tracing the Flow of Stolen Cryptocurrency**|Guglielmo Cola et.al.|[2406.18503](http://arxiv.org/abs/2406.18503)|null|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
+|**2024-06-26**|**Parameter selection and optimization of a computational network model of blood flow in single-ventricle patients**|Alyssa M. Taylor-LaPole et.al.|[2406.18490](http://arxiv.org/abs/2406.18490)|null|
+|**2024-06-26**|**Multicarrier ISAC: Advances in Waveform Design, Signal Processing and Learning under Non-Idealities**|Visa Koivunen et.al.|[2406.18476](http://arxiv.org/abs/2406.18476)|null|
+|**2024-06-26**|**Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method**|Sascha Caron et.al.|[2406.18469](http://arxiv.org/abs/2406.18469)|null|
 |**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770](http://arxiv.org/abs/2406.17770)|**[link](https://github.com/phoenixz810/mg-llava)**|
 |**2024-06-25**|**Connectivity and Community Structure of Online and Register-based Social Networks**|Márton Menyhért et.al.|[2406.17752](http://arxiv.org/abs/2406.17752)|null|
 |**2024-06-25**|**Light-weight End-to-End Graph Interest Network for CTR Prediction in E-commerce Search**|Pai Peng et.al.|[2406.17745](http://arxiv.org/abs/2406.17745)|null|
@@ -13756,6 +13804,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
+|**2024-06-26**|**A principled framework to assess information theoretical fitness of brain functional sub-circuits**|Duy Duong-Tran et.al.|[2406.18531](http://arxiv.org/abs/2406.18531)|null|
+|**2024-06-26**|**Digging its own Site: Linear Coordination Stabilizes a Pt1/Fe2O3 Single-Atom Catalyst**|Ali Rafsanjani-Abbasi et.al.|[2406.18525](http://arxiv.org/abs/2406.18525)|null|
+|**2024-06-26**|**Integrability and renormalizability for the fully anisotropic ${\rm SU}(2)$ principal chiral field and its deformations**|G. A. Kotousov et.al.|[2406.18523](http://arxiv.org/abs/2406.18523)|null|
+|**2024-06-26**|**Particle-Particle Random Phase Approximation for Predicting Correlated Excited States of Point Defects**|Jiachen Li et.al.|[2406.18515](http://arxiv.org/abs/2406.18515)|null|
+|**2024-06-26**|**Addressing intra-area oscillations and frequency stability after DC segmentation of a large AC power system**|Mathieu Robin et.al.|[2406.18514](http://arxiv.org/abs/2406.18514)|null|
+|**2024-06-26**|**High-Speed Combinatorial Self-Assembly through Kinetic-Trap Encoding**|Félix Benoist et.al.|[2406.18511](http://arxiv.org/abs/2406.18511)|null|
+|**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
+|**2024-06-26**|**On the effectiveness of the collapse in the Diósi-Penrose model**|Laria Figurato et.al.|[2406.18494](http://arxiv.org/abs/2406.18494)|null|
+|**2024-06-26**|**A weakly monotonic, logically constrained, HORPO-variant**|Cynthia Kop et.al.|[2406.18493](http://arxiv.org/abs/2406.18493)|null|
 |**2024-06-25**|**Evidence of thermodynamics and magnetic monopole plasma formation by photon-magnon interaction in artificial spin ice**|D. G. Duarte et.al.|[2406.17775](http://arxiv.org/abs/2406.17775)|null|
 |**2024-06-25**|**Flat bands and distinct density wave orders in correlated Kagome superconductor CsCr $_3$Sb$_5$**|Shuting Peng et.al.|[2406.17769](http://arxiv.org/abs/2406.17769)|null|
 |**2024-06-25**|**Splitting Guarantees for Prophet Inequalities via Nonlinear Systems**|Johannes Brustle et.al.|[2406.17767](http://arxiv.org/abs/2406.17767)|null|
