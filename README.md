@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
@@ -182,6 +183,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813](http://arxiv.org/abs/2407.02813)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-01**|**Linearizability and State-Machine Replication: Is it a match?**|Franz J. Hauck et.al.|[2407.01720](http://arxiv.org/abs/2407.01720)|null|
 |**2024-07-01**|**How Clustering Affects the Convergence of Decentralized Optimization over Networks: A Monte-Carlo-based Approach**|Mohammadreza Doostmohammadian et.al.|[2407.01460](http://arxiv.org/abs/2407.01460)|null|
 |**2024-07-01**|**Parallel Computing Architectures for Robotic Applications: A Comprehensive Review**|Md Rafid Islam et.al.|[2407.01011](http://arxiv.org/abs/2407.01011)|null|
@@ -647,6 +649,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Using Photoplethysmography to Detect Real-time Blood Pressure Changes with a Calibration-free Deep Learning Model**|Jingyuan Hong et.al.|[2407.03274](http://arxiv.org/abs/2407.03274)|null|
+|**2024-07-03**|**Control Flow Management in Modern GPUs**|Mojtaba Abaie Shoushtary et.al.|[2407.02944](http://arxiv.org/abs/2407.02944)|null|
+|**2024-07-03**|**Teleporting two-qubit entanglement across 19 qubits on a superconducting quantum computer**|Haiyue Kang et.al.|[2407.02858](http://arxiv.org/abs/2407.02858)|null|
+|**2024-07-03**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813](http://arxiv.org/abs/2407.02813)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
+|**2024-07-03**|**A Comparative Study of DSL Code Generation: Fine-Tuning vs. Optimized Retrieval Augmentation**|Nastaran Bassamzadeh et.al.|[2407.02742](http://arxiv.org/abs/2407.02742)|null|
+|**2024-07-03**|**STRIDE: Simple Type Recognition In Decompiled Executables**|Harrison Green et.al.|[2407.02733](http://arxiv.org/abs/2407.02733)|null|
+|**2024-07-02**|**KGym: A Platform and Dataset to Benchmark Large Language Models on Linux Kernel Crash Resolution**|Alex Mathai et.al.|[2407.02680](http://arxiv.org/abs/2407.02680)|null|
 |**2024-07-02**|**Mixing effects on spectroscopy and partonic observables of mesons with logarithmic confining potential in a light-front quark model**|Bhoomika Pandya et.al.|[2407.02479](http://arxiv.org/abs/2407.02479)|null|
 |**2024-07-02**|**MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations**|Akash Dutta et.al.|[2407.02238](http://arxiv.org/abs/2407.02238)|null|
 |**2024-07-01**|**Introducing SWIRL: An Intermediate Representation Language for Scientific Workflows**|Iacopo Colonnelli et.al.|[2407.01838](http://arxiv.org/abs/2407.01838)|null|
@@ -2111,6 +2120,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321](http://arxiv.org/abs/2407.03321)|**[link](https://github.com/batsresearch/planetarium)**|
+|**2024-07-03**|**Fair Division of Indivisible Chores via Earning Restricted Equilibria**|Jugal Garg et.al.|[2407.03318](http://arxiv.org/abs/2407.03318)|null|
+|**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
+|**2024-07-03**|**A Graded Mesh Refinement for 2D Poisson's Equation on Non Convex Polygonal Domains**|Charuka D. Wickramasinghe et.al.|[2407.03303](http://arxiv.org/abs/2407.03303)|null|
+|**2024-07-03**|**Vertex Exchange Method for a Class of Quadratic Programming Problems**|Ling Liang et.al.|[2407.03294](http://arxiv.org/abs/2407.03294)|null|
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|null|
+|**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
+|**2024-07-03**|**Policy-guided Monte Carlo on general state spaces: Application to glass-forming mixtures**|Leonardo Galliano et.al.|[2407.03275](http://arxiv.org/abs/2407.03275)|null|
+|**2024-07-03**|**Nearly Linear Sparsification of $\ell_p$ Subspace Approximation**|David P. Woodruff et.al.|[2407.03262](http://arxiv.org/abs/2407.03262)|null|
+|**2024-07-03**|**Quantum coarsening and collective dynamics on a programmable quantum simulator**|Tom Manovitz et.al.|[2407.03249](http://arxiv.org/abs/2407.03249)|null|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
 |**2024-07-02**|**Analogs of the dual canonical bases for cluster algebras from Lie theory**|Fan Qin et.al.|[2407.02480](http://arxiv.org/abs/2407.02480)|null|
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
@@ -5098,6 +5117,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**A Formal Model for Artificial Intelligence Applications in Automation Systems**|Marvin Schieseck et.al.|[2407.03183](http://arxiv.org/abs/2407.03183)|null|
+|**2024-07-03**|**Ultra-Lightweight Collaborative Mapping for Robot Swarms**|Vlad Niculescu et.al.|[2407.03136](http://arxiv.org/abs/2407.03136)|null|
+|**2024-07-03**|**Hardware-efficient variational quantum algorithm in trapped-ion quantum computer**|J. -Z. Zhuang et.al.|[2407.03116](http://arxiv.org/abs/2407.03116)|null|
+|**2024-07-03**|**Achieving High Throughput with a Trainable Neural-Network-Based Equalizer for Communications on FPGA**|Jonas Ney et.al.|[2407.02967](http://arxiv.org/abs/2407.02967)|null|
+|**2024-07-03**|**Control Flow Management in Modern GPUs**|Mojtaba Abaie Shoushtary et.al.|[2407.02944](http://arxiv.org/abs/2407.02944)|null|
+|**2024-07-03**|**ShiftAddAug: Augment Multiplication-Free Tiny Neural Network with Hybrid Computation**|Yipin Guo et.al.|[2407.02881](http://arxiv.org/abs/2407.02881)|null|
+|**2024-07-03**|**Quantum Serverless Paradigm and Application Development using the QFaaS Framework**|Hoa T. Nguyen et.al.|[2407.02828](http://arxiv.org/abs/2407.02828)|null|
+|**2024-07-03**|**Mobile Edge Generation-Enabled Digital Twin: Architecture Design and Research Opportunities**|Xiaoxia Xu et.al.|[2407.02804](http://arxiv.org/abs/2407.02804)|null|
+|**2024-07-03**|**Data-driven Software-based Power Estimation for Embedded Devices**|Haoyu Wang et.al.|[2407.02764](http://arxiv.org/abs/2407.02764)|null|
+|**2024-07-03**|**ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers**|Yanfeng Jiang et.al.|[2407.02763](http://arxiv.org/abs/2407.02763)|null|
 |**2024-07-02**|**A Hardware-Friendly Shuffling Countermeasure Against Side-Channel Attacks for Kyber**|Dejun Xu et.al.|[2407.02452](http://arxiv.org/abs/2407.02452)|null|
 |**2024-07-02**|**Hybrid Quantum-Classical Photonic Neural Networks**|Tristan Austin et.al.|[2407.02366](http://arxiv.org/abs/2407.02366)|null|
 |**2024-07-02**|**Fast, Scalable, Energy-Efficient Non-element-wise Matrix Multiplication on FPGA**|Xuqi Zhu et.al.|[2407.02362](http://arxiv.org/abs/2407.02362)|null|
@@ -7977,6 +8006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**HoloHisto: End-to-end Gigapixel WSI Segmentation with 4K Resolution Sequential Tokenization**|Yucheng Tang et.al.|[2407.03307](http://arxiv.org/abs/2407.03307)|null|
+|**2024-07-03**|**Eyes on the Game: Deciphering Implicit Human Signals to Infer Human Proficiency, Trust, and Intent**|Nikhil Hulle et.al.|[2407.03298](http://arxiv.org/abs/2407.03298)|null|
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|null|
+|**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289](http://arxiv.org/abs/2407.03289)|null|
+|**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
+|**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
+|**2024-07-03**|**Finely Stratified Rerandomization Designs**|Max Cytrynbaum et.al.|[2407.03279](http://arxiv.org/abs/2407.03279)|null|
+|**2024-07-03**|**Using Photoplethysmography to Detect Real-time Blood Pressure Changes with a Calibration-free Deep Learning Model**|Jingyuan Hong et.al.|[2407.03274](http://arxiv.org/abs/2407.03274)|null|
+|**2024-07-03**|**Global Out of Time Order Correlators as a Signature of Scrambling Dynamics of Local Observables**|Fabricio S. Lozano-Negro et.al.|[2407.03273](http://arxiv.org/abs/2407.03273)|null|
+|**2024-07-03**|**How Similar Are Elected Politicians and Their Constituents? Quantitative Evidence From Online Social Network**|Waleed Iqbal et.al.|[2407.03255](http://arxiv.org/abs/2407.03255)|null|
 |**2024-07-02**|**RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs**|Yue Yu et.al.|[2407.02485](http://arxiv.org/abs/2407.02485)|null|
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
 |**2024-07-02**|**Database Systems Course: Service Learning Project**|Sherri WeitlHarms et.al.|[2407.02475](http://arxiv.org/abs/2407.02475)|null|
@@ -10961,6 +11000,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Accelerated Proton Resonance Frequency-based Magnetic Resonance Thermometry by Optimized Deep Learning Method**|Sijie Xu et.al.|[2407.03308](http://arxiv.org/abs/2407.03308)|null|
+|**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
+|**2024-07-03**|**Biomechanics-informed Non-rigid Medical Image Registration and its Inverse Material Property Estimation with Linear and Nonlinear Elasticity**|Zhe Min et.al.|[2407.03292](http://arxiv.org/abs/2407.03292)|null|
+|**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
+|**2024-07-03**|**Using Photoplethysmography to Detect Real-time Blood Pressure Changes with a Calibration-free Deep Learning Model**|Jingyuan Hong et.al.|[2407.03274](http://arxiv.org/abs/2407.03274)|null|
+|**2024-07-03**|**For a semiotic AI: Bridging computer vision and visual semiotics for computational observation of large scale facial image archives**|Lia Morra et.al.|[2407.03268](http://arxiv.org/abs/2407.03268)|null|
+|**2024-07-03**|**Do Quantum Neural Networks have Simplicity Bias?**|Jessica Pointing et.al.|[2407.03266](http://arxiv.org/abs/2407.03266)|null|
+|**2024-07-03**|**Magnetic Hysteresis Modeling with Neural Operators**|Abhishek Chandra et.al.|[2407.03261](http://arxiv.org/abs/2407.03261)|null|
+|**2024-07-03**|**How Similar Are Elected Politicians and Their Constituents? Quantitative Evidence From Online Social Network**|Waleed Iqbal et.al.|[2407.03255](http://arxiv.org/abs/2407.03255)|null|
+|**2024-07-03**|**Polynomial stability of a coupled wave-heat network**|Lassi Paunonen et.al.|[2407.03252](http://arxiv.org/abs/2407.03252)|null|
 |**2024-07-02**|**Characterizing the Interpretability of Attention Maps in Digital Pathology**|Tomé Albuquerque et.al.|[2407.02484](http://arxiv.org/abs/2407.02484)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455](http://arxiv.org/abs/2407.02455)|null|
@@ -13946,6 +13995,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**An Upper Limit on the Photoproduction Cross Section of the Spin-Exotic $π_1(1600)$**|F. Afzal et.al.|[2407.03316](http://arxiv.org/abs/2407.03316)|null|
+|**2024-07-03**|**Quantum dynamical criticality speeds up thermodynamic entropy production**|Andesson B. Nascimento et.al.|[2407.03315](http://arxiv.org/abs/2407.03315)|null|
+|**2024-07-03**|**Smart City Surveillance Unveiling Indian Person Attributes in Real Time**|Shubham Kale et.al.|[2407.03305](http://arxiv.org/abs/2407.03305)|null|
+|**2024-07-03**|**Revisiting sums and products in countable and finite fields**|Ioannis Kousek et.al.|[2407.03304](http://arxiv.org/abs/2407.03304)|null|
+|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
+|**2024-07-03**|**Generic Complex Polynomial Vector Fields with Real Coefficients**|Jonathan Godin et.al.|[2407.03287](http://arxiv.org/abs/2407.03287)|null|
+|**2024-07-03**|**The not-so-hidden risks of 'hidden-to-maturity' accounting: on depositor runs and bank resilience**|Zachary Feinstein et.al.|[2407.03285](http://arxiv.org/abs/2407.03285)|null|
+|**2024-07-03**|**Aligning Planet-Hosting Binaries via Dissipative Precession in Circumstellar Disks**|Konstantin Gerbig et.al.|[2407.03284](http://arxiv.org/abs/2407.03284)|null|
+|**2024-07-03**|**Evaluating Automatic Metrics with Incremental Machine Translation Systems**|Guojun Wu et.al.|[2407.03277](http://arxiv.org/abs/2407.03277)|**[link](https://github.com/gjwubyron/evo)**|
+|**2024-07-03**|**Integrability of the Inozemtsev spin chain**|Oleg Chalykh et.al.|[2407.03276](http://arxiv.org/abs/2407.03276)|null|
 |**2024-07-02**|**Topological defects of 2+1D systems from line excitations in 3+1D bulk**|Wenjie Ji et.al.|[2407.02488](http://arxiv.org/abs/2407.02488)|null|
 |**2024-07-02**|**Database Systems Course: Service Learning Project**|Sherri WeitlHarms et.al.|[2407.02475](http://arxiv.org/abs/2407.02475)|null|
 |**2024-07-02**|**Open Scene Graphs for Open World Object-Goal Navigation**|Joel Loo et.al.|[2407.02473](http://arxiv.org/abs/2407.02473)|null|
