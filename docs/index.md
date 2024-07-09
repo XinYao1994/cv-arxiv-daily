@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2117,7 +2117,7 @@ layout: default
 |**2024-07-05**|**Lost in Translation: The Algorithmic Gap Between LMs and the Brain**|Tommaso Tosato et.al.|[2407.04680](http://arxiv.org/abs/2407.04680)|null|
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam et.al.|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
 |**2024-07-05**|**Rapid Mixing via Coupling Independence for Spin Systems with Unbounded Degree**|Xiaoyu Chen et.al.|[2407.04672](http://arxiv.org/abs/2407.04672)|null|
-|**2024-07-05**|**The Degree of Fairness in Efficient House Allocation**|Hadi Hosseini et.al.|[2407.04664](http://arxiv.org/abs/2407.04664)|null|
+|**2024-07-05**|**The Degree of Fairness in Efficient House Allocation**|Hadi Hosseini et.al.|[2407.04664](http://arxiv.org/abs/2407.04664)|**[link](https://github.com/gituserMkumar/DegreeOfFairnessInEfficientHouseAllocation)**|
 |**2024-07-05**|**Simulation-based Calibration of Uncertainty Intervals under Approximate Bayesian Estimation**|Terrance D. Savitsky et.al.|[2407.04659](http://arxiv.org/abs/2407.04659)|null|
 |**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
 |**2024-07-05**|**DCZNMaker: A Web-based Application for Multi-Attribute Utilities Analysis**|Adrienne Kline et.al.|[2407.04655](http://arxiv.org/abs/2407.04655)|null|
