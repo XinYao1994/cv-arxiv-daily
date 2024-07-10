@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -17090,11 +17090,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Kratos: An FPGA Benchmark for Unrolled DNNs with Fine-Grained Sparsity and Mixed Precision**|Xilai Dai et.al.|[2407.06033](http://arxiv.org/abs/2407.06033)|null|
 |**2024-07-07**|**CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs**|Akshat Ramachandran et.al.|[2407.05266](http://arxiv.org/abs/2407.05266)|**[link](https://github.com/georgia-tech-synergy-lab/clamp-vit)**|
-|**2024-07-05**|**Resource-Efficient Speech Quality Prediction through Quantization Aware Training and Binary Activation Maps**|Mattias Nilsson et.al.|[2407.04578](http://arxiv.org/abs/2407.04578)|null|
+|**2024-07-05**|**Resource-Efficient Speech Quality Prediction through Quantization Aware Training and Binary Activation Maps**|Mattias Nilsson et.al.|[2407.04578](http://arxiv.org/abs/2407.04578)|**[link](https://github.com/fmi-basel/binary-activation-maps-sqp)**|
 |**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
 |**2024-07-02**|**QSync: Quantization-Minimized Synchronous Distributed Training Across Hybrid Devices**|Juntao Zhao et.al.|[2407.02327](http://arxiv.org/abs/2407.02327)|**[link](https://github.com/bytedance/QSync)**|
 |**2024-07-01**|**Joint Pruning and Channel-wise Mixed-Precision Quantization for Efficient Deep Neural Networks**|Beatrice Alessandra Motetti et.al.|[2407.01054](http://arxiv.org/abs/2407.01054)|**[link](https://github.com/eml-eda/mixprec-pruning)**|
-|**2024-06-25**|**T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge**|Jianyu Wei et.al.|[2407.00088](http://arxiv.org/abs/2407.00088)|null|
+|**2024-06-25**|**T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge**|Jianyu Wei et.al.|[2407.00088](http://arxiv.org/abs/2407.00088)|**[link](https://github.com/microsoft/t-mac)**|
 |**2024-06-24**|**Mixed precision iterative refinement for least squares with linear equality constraints and generalized least squares problems**|Bowen Gao et.al.|[2406.16499](http://arxiv.org/abs/2406.16499)|null|
 |**2024-06-08**|**A Comprehensive Evaluation of Generative Models in Calorimeter Shower Simulation**|Farzana Yasmin Ahmad et.al.|[2406.12898](http://arxiv.org/abs/2406.12898)|null|
 |**2024-06-18**|**ROVER: RTL Optimization via Verified E-Graph Rewriting**|Samuel Coward et.al.|[2406.12421](http://arxiv.org/abs/2406.12421)|null|
