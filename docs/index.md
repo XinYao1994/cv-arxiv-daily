@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -5161,7 +5161,7 @@ layout: default
 |**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025](http://arxiv.org/abs/2407.07025)|null|
 |**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Detection-Triggered Recursive Impact Mitigation against Secondary False Data Injection Attacks in Microgrids**|Mengxiang Liu et.al.|[2407.06948](http://arxiv.org/abs/2407.06948)|null|
-|**2024-07-09**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
+|**2024-07-10**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
 |**2024-07-09**|**FE-GUT: Factor Graph Optimization hybrid with Extended Kalman Filter for tightly coupled GNSS/UWB Integration**|Qijia Zhao et.al.|[2407.06915](http://arxiv.org/abs/2407.06915)|null|
 |**2024-07-09**|**Evaluating Quantum Optimization for Dynamic Self-Reliant Community Detection**|David Bucher et.al.|[2407.06773](http://arxiv.org/abs/2407.06773)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
@@ -8078,7 +8078,7 @@ layout: default
 |**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
 |**2024-07-09**|**Imaging-based Quantum Optomechanics**|Christian M. Pluchar et.al.|[2407.07060](http://arxiv.org/abs/2407.07060)|null|
 |**2024-07-09**|**Elevating Academic Administration: A Comprehensive Faculty Dashboard for Tracking Student Evaluations and Research**|Musa Azeem et.al.|[2407.07057](http://arxiv.org/abs/2407.07057)|null|
-|**2024-07-09**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wang Wei et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
+|**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052](http://arxiv.org/abs/2407.07052)|null|
 |**2024-07-09**|**The First VHE Activity of OJ 287 and the Extragalactic Background Light**|Sameer Yadav et.al.|[2407.07047](http://arxiv.org/abs/2407.07047)|null|
 |**2024-07-09**|**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**|Sara Mandelli et.al.|[2407.07041](http://arxiv.org/abs/2407.07041)|null|
@@ -11100,7 +11100,7 @@ layout: default
 |**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
 |**2024-07-09**|**Quasiperiodicity protects quantized transport in disordered systems without gaps**|Emmanuel Gottlob et.al.|[2407.07049](http://arxiv.org/abs/2407.07049)|null|
 |**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|null|
-|**2024-07-09**|**ProtoSAM - One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
+|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038](http://arxiv.org/abs/2407.07038)|null|
 |**2024-07-09**|**Trajectory Data Mining and Trip Travel Time Prediction on Specific Roads**|Muhammad Awais Amin et.al.|[2407.07030](http://arxiv.org/abs/2407.07030)|null|
 |**2024-07-09**|**Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**|Daiqing Wu et.al.|[2407.07026](http://arxiv.org/abs/2407.07026)|null|

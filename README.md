@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -82,7 +82,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -178,7 +178,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -651,7 +651,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Compiler
 
@@ -2144,7 +2144,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -5171,7 +5171,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -5183,7 +5183,7 @@
 |**2024-07-09**|**Quantum Frequency Mixing using an NV Diamond Microscope**|Samuel J. Karlson et.al.|[2407.07025](http://arxiv.org/abs/2407.07025)|null|
 |**2024-07-09**|**An Attempt to Devise a Pairwise Ising-Type Maximum Entropy Model Integrated Cost Function for Optimizing SNN Deployment**|Wanhong Huang et.al.|[2407.07014](http://arxiv.org/abs/2407.07014)|null|
 |**2024-07-09**|**Detection-Triggered Recursive Impact Mitigation against Secondary False Data Injection Attacks in Microgrids**|Mengxiang Liu et.al.|[2407.06948](http://arxiv.org/abs/2407.06948)|null|
-|**2024-07-09**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
+|**2024-07-10**|**Identity-enabled CDMA LiDAR for massively parallel ranging with a single-element receiver**|Yixiu Shen et.al.|[2407.06918](http://arxiv.org/abs/2407.06918)|null|
 |**2024-07-09**|**FE-GUT: Factor Graph Optimization hybrid with Extended Kalman Filter for tightly coupled GNSS/UWB Integration**|Qijia Zhao et.al.|[2407.06915](http://arxiv.org/abs/2407.06915)|null|
 |**2024-07-09**|**Evaluating Quantum Optimization for Dynamic Self-Reliant Community Detection**|David Bucher et.al.|[2407.06773](http://arxiv.org/abs/2407.06773)|null|
 |**2024-07-09**|**Reconfigurable classifier based on spin torque driven magnetization switching in electrically connected magnetic tunnel junctions**|A. Lopez et.al.|[2407.06768](http://arxiv.org/abs/2407.06768)|null|
@@ -8090,7 +8090,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -8102,7 +8102,7 @@
 |**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
 |**2024-07-09**|**Imaging-based Quantum Optomechanics**|Christian M. Pluchar et.al.|[2407.07060](http://arxiv.org/abs/2407.07060)|null|
 |**2024-07-09**|**Elevating Academic Administration: A Comprehensive Faculty Dashboard for Tracking Student Evaluations and Research**|Musa Azeem et.al.|[2407.07057](http://arxiv.org/abs/2407.07057)|null|
-|**2024-07-09**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wang Wei et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
+|**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052](http://arxiv.org/abs/2407.07052)|null|
 |**2024-07-09**|**The First VHE Activity of OJ 287 and the Extragalactic Background Light**|Sameer Yadav et.al.|[2407.07047](http://arxiv.org/abs/2407.07047)|null|
 |**2024-07-09**|**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**|Sara Mandelli et.al.|[2407.07041](http://arxiv.org/abs/2407.07041)|null|
@@ -11114,7 +11114,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -11126,7 +11126,7 @@
 |**2024-07-09**|**Multicell-Fold: geometric learning in folding multicellular life**|Haiqian Yang et.al.|[2407.07055](http://arxiv.org/abs/2407.07055)|null|
 |**2024-07-09**|**Quasiperiodicity protects quantized transport in disordered systems without gaps**|Emmanuel Gottlob et.al.|[2407.07049](http://arxiv.org/abs/2407.07049)|null|
 |**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|null|
-|**2024-07-09**|**ProtoSAM - One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
+|**2024-07-09**|**ProtoSAM -- One Shot Medical Image Segmentation With Foundational Models**|Lev Ayzenberg et.al.|[2407.07042](http://arxiv.org/abs/2407.07042)|null|
 |**2024-07-09**|**Decoding Climate Disagreement: A Graph Neural Network-Based Approach to Understanding Social Media Dynamics**|Ruiran Su et.al.|[2407.07038](http://arxiv.org/abs/2407.07038)|null|
 |**2024-07-09**|**Trajectory Data Mining and Trip Travel Time Prediction on Specific Roads**|Muhammad Awais Amin et.al.|[2407.07030](http://arxiv.org/abs/2407.07030)|null|
 |**2024-07-09**|**Resolving Sentiment Discrepancy for Multimodal Sentiment Detection via Semantics Completion and Decomposition**|Daiqing Wu et.al.|[2407.07026](http://arxiv.org/abs/2407.07026)|null|
@@ -14139,7 +14139,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -17167,7 +17167,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -17311,7 +17311,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
