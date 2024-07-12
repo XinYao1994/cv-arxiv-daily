@@ -8105,7 +8105,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**The Deletion Order and Coxeter Groups**|Robert Nicolaides et.al.|[2407.07881](http://arxiv.org/abs/2407.07881)|null|
-|**2024-07-10**|**Approximate Unitary $k$ -Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876](http://arxiv.org/abs/2407.07876)|null|
+|**2024-07-11**|**Approximate Unitary $k$ -Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876](http://arxiv.org/abs/2407.07876)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
 |**2024-07-10**|**Synthetic Light-in-Flight**|Patrick Cornwall et.al.|[2407.07872](http://arxiv.org/abs/2407.07872)|null|
 |**2024-07-10**|**Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation**|Wentao Xiao et.al.|[2407.07871](http://arxiv.org/abs/2407.07871)|**[link](https://github.com/xwt1/icpads-mn-ru)**|
@@ -14172,7 +14172,7 @@ layout: default
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Controllability problems of a neutral integro-differential equation with memory**|Sumit Arora et.al.|[2407.07886](http://arxiv.org/abs/2407.07886)|null|
 |**2024-07-10**|**Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation**|Tao Chen et.al.|[2407.07884](http://arxiv.org/abs/2407.07884)|null|
-|**2024-07-10**|**Approximate Unitary $k$ -Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876](http://arxiv.org/abs/2407.07876)|null|
+|**2024-07-11**|**Approximate Unitary $k$ -Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876](http://arxiv.org/abs/2407.07876)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
 |**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
 |**2024-07-10**|**Shocks and instability in Brownian last-passage percolation**|Firas Rassoul-Agha et.al.|[2407.07866](http://arxiv.org/abs/2407.07866)|null|
