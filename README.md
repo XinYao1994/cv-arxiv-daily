@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -83,7 +83,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -181,7 +181,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -655,12 +655,17 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Compiler
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Mon CHÈRI <3 Adapting Capability Hardware Enhanced RISC with Conditional Capabilities**|Merve Gülmez et.al.|[2407.08663](http://arxiv.org/abs/2407.08663)|null|
+|**2024-07-11**|**Pragmatics of Formally Verified Yet Efficient Static Analysis, in particular for Formally Verified Compilers**|David Monniaux et.al.|[2407.08258](http://arxiv.org/abs/2407.08258)|null|
+|**2024-07-11**|**ARCO:Adaptive Multi-Agent Reinforcement Learning-Based Hardware/Software Co-Optimization Compiler for Improved Performance in DNN Accelerator Design**|Arya Fayyazi et.al.|[2407.08192](http://arxiv.org/abs/2407.08192)|null|
+|**2024-07-10**|**Teaching Type Systems Implementation with Stella, an Extensible Statically Typed Programming Language**|Abdelrahman Abounegm et.al.|[2407.08089](http://arxiv.org/abs/2407.08089)|null|
+|**2024-07-10**|**The Type I Superluminous Supernova Catalog I: Light Curve Properties, Models, and Catalog Description**|Sebastian Gomez et.al.|[2407.07946](http://arxiv.org/abs/2407.07946)|null|
 |**2024-07-10**|**LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models**|Feng Li et.al.|[2407.07895](http://arxiv.org/abs/2407.07895)|**[link](https://github.com/LLaVA-VL/LLaVA-NeXT)**|
 |**2024-07-10**|**Evaluating the Role of Security Assurance Cases in Agile Medical Device Development**|Max Fransson et.al.|[2407.07704](http://arxiv.org/abs/2407.07704)|null|
 |**2024-07-10**|**ALMA-IMF XII: Point-process mapping of 15 massive protoclusters**|P. Dell'Ova et.al.|[2407.07610](http://arxiv.org/abs/2407.07610)|null|
@@ -2155,12 +2160,22 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
+|**2024-07-11**|**End-to-End Orchestration of NextG Media Services over the Distributed Compute Continuum**|Alessandro Mauro et.al.|[2407.08710](http://arxiv.org/abs/2407.08710)|null|
+|**2024-07-11**|**Reducing the Resources Required by ADAPT-VQE Using Coupled Exchange Operators and Improved Subroutines**|Mafalda Ramôa et.al.|[2407.08696](http://arxiv.org/abs/2407.08696)|**[link](https://github.com/mafaldaramoa/ceo-adapt-vqe)**|
+|**2024-07-11**|**Lower $T$ -count with faster algorithms**|Vivien Vandaele et.al.|[2407.08695](http://arxiv.org/abs/2407.08695)|null|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
+|**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
+|**2024-07-11**|**Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies**|Aggelos Kiayias et.al.|[2407.08686](http://arxiv.org/abs/2407.08686)|null|
+|**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
 |**2024-07-10**|**Quantum Algorithm to Prepare Quasi-Stationary States**|Samuel J. Garratt et.al.|[2407.07893](http://arxiv.org/abs/2407.07893)|null|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation**|Wentao Xiao et.al.|[2407.07871](http://arxiv.org/abs/2407.07871)|**[link](https://github.com/xwt1/icpads-mn-ru)**|
@@ -5192,12 +5207,22 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Hardware Architecture
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
+|**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700](http://arxiv.org/abs/2407.08700)|null|
+|**2024-07-11**|**Reducing the Resources Required by ADAPT-VQE Using Coupled Exchange Operators and Improved Subroutines**|Mafalda Ramôa et.al.|[2407.08696](http://arxiv.org/abs/2407.08696)|**[link](https://github.com/mafaldaramoa/ceo-adapt-vqe)**|
+|**2024-07-11**|**Hardware Neural Control of CartPole and F1TENTH Race Car**|Marcin Paluch et.al.|[2407.08681](http://arxiv.org/abs/2407.08681)|**[link](https://github.com/sensorsini/neural-control-tools)**|
+|**2024-07-11**|**Superparamagnetic Tunnel Junctions for Reliable True Randomness**|Dooyong Koh et.al.|[2407.08665](http://arxiv.org/abs/2407.08665)|null|
+|**2024-07-11**|**Mon CHÈRI <3 Adapting Capability Hardware Enhanced RISC with Conditional Capabilities**|Merve Gülmez et.al.|[2407.08663](http://arxiv.org/abs/2407.08663)|null|
+|**2024-07-11**|**Latent Spaces Enable Transformer-Based Dose Prediction in Complex Radiotherapy Plans**|Edward Wang et.al.|[2407.08650](http://arxiv.org/abs/2407.08650)|**[link](https://github.com/edwardwang1/ldformer)**|
+|**2024-07-11**|**Surpassing Cosine Similarity for Multidimensional Comparisons: Dimension Insensitive Euclidean Metric (DIEM)**|Federico Tessari et.al.|[2407.08623](http://arxiv.org/abs/2407.08623)|null|
+|**2024-07-11**|**FlexCross: High-Speed and Flexible Packet Processing via a Crosspoint-Queued Crossbar**|Klajd Zyla et.al.|[2407.08621](http://arxiv.org/abs/2407.08621)|null|
 |**2024-07-10**|**Harnessing Integrated CPU-GPU System Memory for HPC: a first look into Grace Hopper**|Gabin Schieffer et.al.|[2407.07850](http://arxiv.org/abs/2407.07850)|null|
 |**2024-07-10**|**An investigation of the Online Payment and Banking System Apps in Bangladesh**|Shahriar Hasan Mickey et.al.|[2407.07766](http://arxiv.org/abs/2407.07766)|null|
 |**2024-07-10**|**Terahertz Digital Reconfigurable Metamaterial Array for Dynamic Beamforming Applications**|Eistiak Ahamed et.al.|[2407.07743](http://arxiv.org/abs/2407.07743)|null|
@@ -8121,12 +8146,22 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Information Retrieval
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**An Equation of State for Turbulence in the Gross-Pitaevskii model**|Gevorg Martirosyan et.al.|[2407.08738](http://arxiv.org/abs/2407.08738)|null|
+|**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
+|**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731](http://arxiv.org/abs/2407.08731)|null|
+|**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729](http://arxiv.org/abs/2407.08729)|null|
+|**2024-07-11**|**End-to-End Orchestration of NextG Media Services over the Distributed Compute Continuum**|Alessandro Mauro et.al.|[2407.08710](http://arxiv.org/abs/2407.08710)|null|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Detecting Gravitational Wave Anisotropies from Supermassive Black Hole Binaries**|Anna-Malin Lemke et.al.|[2407.08705](http://arxiv.org/abs/2407.08705)|null|
+|**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
+|**2024-07-11**|**Segmentation-guided Attention for Visual Question Answering from Remote Sensing Images**|Lucrezia Tosato et.al.|[2407.08669](http://arxiv.org/abs/2407.08669)|null|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**The Deletion Order and Coxeter Groups**|Robert Nicolaides et.al.|[2407.07881](http://arxiv.org/abs/2407.07881)|null|
 |**2024-07-11**|**Approximate Unitary $k$ -Designs from Shallow, Low-Communication Circuits**|Nicholas LaRacuente et.al.|[2407.07876](http://arxiv.org/abs/2407.07876)|null|
@@ -11155,12 +11190,22 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
+|**2024-07-11**|**Evaluating Deep Neural Networks in Deployment (A Comparative and Replicability Study)**|Eduard Pinconschi et.al.|[2407.08730](http://arxiv.org/abs/2407.08730)|null|
+|**2024-07-11**|**The Potential Impact of Noise Correlation in Next-generation Gravitational Wave Detectors**|Isaac C. F. Wong et.al.|[2407.08728](http://arxiv.org/abs/2407.08728)|null|
+|**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|null|
+|**2024-07-11**|**UNRealNet: Learning Uncertainty-Aware Navigation Features from High-Fidelity Scans of Real Environments**|Samuel Triest et.al.|[2407.08720](http://arxiv.org/abs/2407.08720)|null|
+|**2024-07-11**|**WhisperNetV2: SlowFast Siamese Network For Lip-Based Biometrics**|Abdollah Zakeri et.al.|[2407.08717](http://arxiv.org/abs/2407.08717)|null|
+|**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
+|**2024-07-11**|**End-to-End Orchestration of NextG Media Services over the Distributed Compute Continuum**|Alessandro Mauro et.al.|[2407.08710](http://arxiv.org/abs/2407.08710)|null|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
+|**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700](http://arxiv.org/abs/2407.08700)|null|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Dynamical Measure Transport and Neural PDE Solvers for Sampling**|Jingtong Sun et.al.|[2407.07873](http://arxiv.org/abs/2407.07873)|null|
 |**2024-07-11**|**Functional Assessment of Cerebral Capillaries using Single Capillary Reporters in Ultrasound Localization Microscopy**|Stephen A Lee et.al.|[2407.07857](http://arxiv.org/abs/2407.07857)|null|
@@ -14190,12 +14235,22 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Operating Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**Superconductivity in three-dimensional interacting doped topological insulators**|Andras L. Szabo et.al.|[2407.08736](http://arxiv.org/abs/2407.08736)|null|
+|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
+|**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
+|**2024-07-11**|**Hierarchical Bayesian estimation of motor-evoked potential recruitment curves yields accurate and robust estimates**|Vishweshwar Tyagi et.al.|[2407.08709](http://arxiv.org/abs/2407.08709)|null|
+|**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
+|**2024-07-11**|**Cloud Atlas: Efficient Fault Localization for Cloud Systems using Language Models and Causal Insight**|Zhiqiang Xie et.al.|[2407.08694](http://arxiv.org/abs/2407.08694)|null|
+|**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
+|**2024-07-11**|**Local limit theorems for expanding maps**|Dmitry Dolgopyat et.al.|[2407.08690](http://arxiv.org/abs/2407.08690)|null|
+|**2024-07-11**|**Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies**|Aggelos Kiayias et.al.|[2407.08686](http://arxiv.org/abs/2407.08686)|null|
+|**2024-07-11**|**An "ultimate" coupled cluster method based entirely on $T_2$**|Zachary W. Windom et.al.|[2407.08685](http://arxiv.org/abs/2407.08685)|null|
 |**2024-07-10**|**Quantum Algorithm to Prepare Quasi-Stationary States**|Samuel J. Garratt et.al.|[2407.07893](http://arxiv.org/abs/2407.07893)|null|
 |**2024-07-10**|**AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation**|Kaifeng Zhang et.al.|[2407.07889](http://arxiv.org/abs/2407.07889)|null|
 |**2024-07-10**|**Controllability problems of a neutral integro-differential equation with memory**|Sumit Arora et.al.|[2407.07886](http://arxiv.org/abs/2407.07886)|null|
@@ -17228,12 +17283,13 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## Mixed Precision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-08**|**Kratos: An FPGA Benchmark for Unrolled DNNs with Fine-Grained Sparsity and Mixed Precision**|Xilai Dai et.al.|[2407.06033](http://arxiv.org/abs/2407.06033)|null|
 |**2024-07-07**|**CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs**|Akshat Ramachandran et.al.|[2407.05266](http://arxiv.org/abs/2407.05266)|**[link](https://github.com/georgia-tech-synergy-lab/clamp-vit)**|
 |**2024-07-05**|**Resource-Efficient Speech Quality Prediction through Quantization Aware Training and Binary Activation Maps**|Mattias Nilsson et.al.|[2407.04578](http://arxiv.org/abs/2407.04578)|**[link](https://github.com/fmi-basel/binary-activation-maps-sqp)**|
@@ -17372,7 +17428,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
