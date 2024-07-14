@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.13
+## Updated on 2024.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -654,7 +654,7 @@ layout: default
 |**2024-07-10**|**ler : LVK (LIGO-Virgo-KAGRA collaboration) event (compact-binary mergers) rate calculator and simulator**|Hemantakumar Phurailatpam et.al.|[2407.07526](http://arxiv.org/abs/2407.07526)|null|
 |**2024-07-10**|**Rectifier: Code Translation with Corrector via LLMs**|Xin Yin et.al.|[2407.07472](http://arxiv.org/abs/2407.07472)|**[link](https://github.com/vinci-grape/rectifier)**|
 |**2024-07-10**|**MagicPool: Dealing with Magic State Distillation Failures on Large-Scale Fault-Tolerant Quantum Computer**|Yutaka Hirano et.al.|[2407.07394](http://arxiv.org/abs/2407.07394)|null|
-|**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373](http://arxiv.org/abs/2407.07373)|null|
+|**2024-07-10**|**Automatic Extraction of Disease Risk Factors from Medical Publications**|Maxim Rubchinsky et.al.|[2407.07373](http://arxiv.org/abs/2407.07373)|**[link](https://github.com/maximrub/diseases-risk-factors)**|
 |**2024-07-09**|**The Cost of Executing Business Processes on Next-Generation Blockchains: The Case of Algorand**|Fabian Stiehle et.al.|[2407.06725](http://arxiv.org/abs/2407.06725)|null|
 |**2024-07-09**|**Toward Verified Library-Level Choreographic Programming with Algebraic Effects**|Gan Shen et.al.|[2407.06509](http://arxiv.org/abs/2407.06509)|null|
 |**2024-07-08**|**FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols**|Hongbo Wen et.al.|[2407.06348](http://arxiv.org/abs/2407.06348)|null|
@@ -2161,7 +2161,7 @@ layout: default
 |**2024-07-10**|**Enhancing HNSW Index for Real-Time Updates: Addressing Unreachable Points and Performance Degradation**|Wentao Xiao et.al.|[2407.07871](http://arxiv.org/abs/2407.07871)|**[link](https://github.com/xwt1/icpads-mn-ru)**|
 |**2024-07-10**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868](http://arxiv.org/abs/2407.07868)|null|
 |**2024-07-10**|**Two Nitsche-based mixed finite element discretizations for the seepage problem in Richards' equation**|Federico Gatti et.al.|[2407.07865](http://arxiv.org/abs/2407.07865)|null|
-|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
+|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|**[link](https://github.com/PrimeIntellect-ai/OpenDiLoCo)**|
 |**2024-07-10**|**Optimal number of parametrized rotations and Hadamard gates in parametrized Clifford circuits with non-repeated parameters**|Vivien Vandaele et.al.|[2407.07846](http://arxiv.org/abs/2407.07846)|null|
 |**2024-07-10**|**RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement**|Honglie Chen et.al.|[2407.07825](http://arxiv.org/abs/2407.07825)|null|
 |**2024-07-10**|**New Gravitational Wave Discoveries Enabled by Machine Learning**|Alexandra E. Koloniari et.al.|[2407.07820](http://arxiv.org/abs/2407.07820)|null|
