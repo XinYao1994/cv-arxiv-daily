@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|null|
 |**2024-07-10**|**Inference Performance Optimization for Large Language Models on CPUs**|Pujiang He et.al.|[2407.07304](http://arxiv.org/abs/2407.07304)|**[link](https://github.com/intel/xfastertransformer)**|
 |**2024-06-30**|**Challenging the Need for Packet Spraying in Large-Scale Distributed Training**|Vamsi Addanki et.al.|[2407.00550](http://arxiv.org/abs/2407.00550)|null|
 |**2024-06-28**|**NetNN: Neural Intrusion Detection System in Programmable Networks**|Kamran Razavi et.al.|[2406.19990](http://arxiv.org/abs/2406.19990)|**[link](https://github.com/shynfard/netnn)**|
@@ -643,6 +644,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators**|Paolo D'Alberto et.al.|[2407.09453](http://arxiv.org/abs/2407.09453)|null|
+|**2024-07-12**|**HETOCompiler: An MLIR-based crypTOgraphic Compilation Framework for HEterogeneous Devices**|Zhiyuan Tan et.al.|[2407.09333](http://arxiv.org/abs/2407.09333)|null|
+|**2024-07-12**|**Defining Name Accessibility using Scope Graphs (Extended Edition)**|Aron Zwaan et.al.|[2407.09320](http://arxiv.org/abs/2407.09320)|null|
+|**2024-07-12**|**The Sociolinguistic Foundations of Language Modeling**|Jack Grieve et.al.|[2407.09241](http://arxiv.org/abs/2407.09241)|null|
+|**2024-07-11**|**Estimating Methane Emissions from the Upstream Oil and Gas Industry Using a Multi-Stage Framework**|Augustine Wigle et.al.|[2407.08827](http://arxiv.org/abs/2407.08827)|null|
 |**2024-07-11**|**Mon CHÈRI <3 Adapting Capability Hardware Enhanced RISC with Conditional Capabilities**|Merve Gülmez et.al.|[2407.08663](http://arxiv.org/abs/2407.08663)|null|
 |**2024-07-11**|**Pragmatics of Formally Verified Yet Efficient Static Analysis, in particular for Formally Verified Compilers**|David Monniaux et.al.|[2407.08258](http://arxiv.org/abs/2407.08258)|null|
 |**2024-07-11**|**ARCO:Adaptive Multi-Agent Reinforcement Learning-Based Hardware/Software Co-Optimization Compiler for Improved Performance in DNN Accelerator Design**|Arya Fayyazi et.al.|[2407.08192](http://arxiv.org/abs/2407.08192)|null|
@@ -2146,6 +2152,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Integer programs with nearly totally unimodular matrices: the cographic case**|Manuel Aprile et.al.|[2407.09477](http://arxiv.org/abs/2407.09477)|null|
+|**2024-07-12**|**Learning Coordinated Maneuver in Adversarial Environments**|Zechen Hu et.al.|[2407.09469](http://arxiv.org/abs/2407.09469)|null|
+|**2024-07-12**|**Interactive Coding with Unbounded Noise**|Eden Fargion et.al.|[2407.09463](http://arxiv.org/abs/2407.09463)|null|
+|**2024-07-12**|**A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance**|Erin Wolf Chambers et.al.|[2407.09442](http://arxiv.org/abs/2407.09442)|null|
+|**2024-07-12**|**A novel direct Helmholtz solver in inhomogeneous media based on the operator Fourier transform functional calculus**|Max Cubillos et.al.|[2407.09436](http://arxiv.org/abs/2407.09436)|null|
+|**2024-07-12**|**Nearly-Tight Bounds for Flow Sparsifiers in Quasi-Bipartite Graphs**|Syamantak Das et.al.|[2407.09433](http://arxiv.org/abs/2407.09433)|null|
+|**2024-07-12**|**Efficient energy-stable parametric finite element methods for surface diffusion flow and applications in solid-state dewetting**|Meng Li et.al.|[2407.09418](http://arxiv.org/abs/2407.09418)|null|
+|**2024-07-12**|**A Benchmark Environment for Offline Reinforcement Learning in Racing Games**|Girolamo Macaluso et.al.|[2407.09415](http://arxiv.org/abs/2407.09415)|**[link](https://github.com/ganjiro/offlinemania)**|
+|**2024-07-12**|**Exploring Galactic open clusters with Gaia I. An examination in the first kiloparsec**|Jeison Alfonso et.al.|[2407.09407](http://arxiv.org/abs/2407.09407)|null|
+|**2024-07-12**|**CAACS: A Carbon Aware Ant Colony System**|Marina Lin et.al.|[2407.09404](http://arxiv.org/abs/2407.09404)|null|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms**|Rayna Andreeva et.al.|[2407.08723](http://arxiv.org/abs/2407.08723)|**[link](https://github.com/rorondre/TDAGeneralization)**|
 |**2024-07-11**|**Sensor-Aware Classifiers for Energy-Efficient Time Series Applications on IoT Devices**|Dina Hussein et.al.|[2407.08715](http://arxiv.org/abs/2407.08715)|null|
@@ -5191,6 +5207,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety**|Sandeep Thalapanane et.al.|[2407.09466](http://arxiv.org/abs/2407.09466)|null|
+|**2024-07-12**|**Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators**|Paolo D'Alberto et.al.|[2407.09453](http://arxiv.org/abs/2407.09453)|null|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386](http://arxiv.org/abs/2407.09386)|null|
+|**2024-07-12**|**Private Blockchain-based Procurement and Asset Management System with QR Code**|Alonel A. Hugo et.al.|[2407.09353](http://arxiv.org/abs/2407.09353)|null|
+|**2024-07-12**|**Experimental verifiable multi-client blind quantum computing on a Qline architecture**|Beatrice Polacchi et.al.|[2407.09310](http://arxiv.org/abs/2407.09310)|null|
+|**2024-07-12**|**Prompts First, Finally**|Brent N. Reeves et.al.|[2407.09231](http://arxiv.org/abs/2407.09231)|null|
+|**2024-07-12**|**On the Design and Security of Collective Remote Attestation Protocols**|Sharar Ahmadi et.al.|[2407.09203](http://arxiv.org/abs/2407.09203)|null|
+|**2024-07-12**|**iMIV: in-Memory Integrity Verification for NVM**|Rajat Jain et.al.|[2407.09180](http://arxiv.org/abs/2407.09180)|null|
+|**2024-07-12**|**68-Channel Highly-Integrated Neural Signal Processing PSoC with On-Chip Feature Extraction, Compression, and Hardware Accelerators for Neuroprosthetics in 22nm FDSOI**|Liyuan Guo et.al.|[2407.09166](http://arxiv.org/abs/2407.09166)|null|
+|**2024-07-12**|**A Novel Quantum Realization of Jet Clustering in High-Energy Physics Experiments**|Yongfeng Zhu et.al.|[2407.09056](http://arxiv.org/abs/2407.09056)|null|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
 |**2024-07-11**|**Towards Efficient Deployment of Hybrid SNNs on Neuromorphic and Edge AI Hardware**|James Seekings et.al.|[2407.08704](http://arxiv.org/abs/2407.08704)|null|
 |**2024-07-11**|**Flex-TPU: A Flexible TPU with Runtime Reconfigurable Dataflow Architecture**|Mohammed Elbtity et.al.|[2407.08700](http://arxiv.org/abs/2407.08700)|null|
@@ -8128,6 +8154,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**A new approach to principal-agent problems with volatility control**|Alessandro Chiusolo et.al.|[2407.09471](http://arxiv.org/abs/2407.09471)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
+|**2024-07-12**|**A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance**|Erin Wolf Chambers et.al.|[2407.09442](http://arxiv.org/abs/2407.09442)|null|
+|**2024-07-12**|**Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion**|Benedikt Hartl et.al.|[2407.09438](http://arxiv.org/abs/2407.09438)|null|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434](http://arxiv.org/abs/2407.09434)|null|
+|**2024-07-12**|**Rethinking temporal self-similarity for repetitive action counting**|Yanan Luo et.al.|[2407.09431](http://arxiv.org/abs/2407.09431)|null|
+|**2024-07-12**|**Flow-Based Generative Emulation of Grids of Stellar Evolutionary Models**|Marc Hon et.al.|[2407.09427](http://arxiv.org/abs/2407.09427)|**[link](https://github.com/mtyhon/modelflows)**|
+|**2024-07-12**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417](http://arxiv.org/abs/2407.09417)|**[link](https://github.com/oneal2000/entityhallucination)**|
+|**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
+|**2024-07-12**|**Exploring Galactic open clusters with Gaia I. An examination in the first kiloparsec**|Jeison Alfonso et.al.|[2407.09407](http://arxiv.org/abs/2407.09407)|null|
 |**2024-07-11**|**An Equation of State for Turbulence in the Gross-Pitaevskii model**|Gevorg Martirosyan et.al.|[2407.08738](http://arxiv.org/abs/2407.08738)|null|
 |**2024-07-11**|**Video Diffusion Alignment via Reward Gradients**|Mihir Prabhudesai et.al.|[2407.08737](http://arxiv.org/abs/2407.08737)|**[link](https://github.com/mihirp1998/vader)**|
 |**2024-07-11**|**Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys**|Samuel Goldstein et.al.|[2407.08731](http://arxiv.org/abs/2407.08731)|null|
@@ -11170,6 +11206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Integer programs with nearly totally unimodular matrices: the cographic case**|Manuel Aprile et.al.|[2407.09477](http://arxiv.org/abs/2407.09477)|null|
+|**2024-07-12**|**GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control**|Issatay Tokmurziyev et.al.|[2407.09459](http://arxiv.org/abs/2407.09459)|null|
+|**2024-07-12**|**Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators**|Paolo D'Alberto et.al.|[2407.09453](http://arxiv.org/abs/2407.09453)|null|
+|**2024-07-12**|**A Distance for Geometric Graphs via the Labeled Merge Tree Interleaving Distance**|Erin Wolf Chambers et.al.|[2407.09442](http://arxiv.org/abs/2407.09442)|null|
+|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441](http://arxiv.org/abs/2407.09441)|null|
+|**2024-07-12**|**Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion**|Benedikt Hartl et.al.|[2407.09438](http://arxiv.org/abs/2407.09438)|null|
+|**2024-07-12**|**Let Me DeCode You: Decoder Conditioning with Tabular Data**|Tomasz Szczepański et.al.|[2407.09437](http://arxiv.org/abs/2407.09437)|**[link](https://github.com/sanoscience/decode)**|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434](http://arxiv.org/abs/2407.09434)|null|
+|**2024-07-12**|**Nearly-Tight Bounds for Flow Sparsifiers in Quasi-Bipartite Graphs**|Syamantak Das et.al.|[2407.09433](http://arxiv.org/abs/2407.09433)|null|
+|**2024-07-12**|**Rethinking temporal self-similarity for repetitive action counting**|Yanan Luo et.al.|[2407.09431](http://arxiv.org/abs/2407.09431)|null|
 |**2024-07-11**|**Transformer Circuit Faithfulness Metrics are not Robust**|Joseph Miller et.al.|[2407.08734](http://arxiv.org/abs/2407.08734)|**[link](https://github.com/ufo-101/auto-circuit)**|
 |**2024-07-11**|**Evaluating Deep Neural Networks in Deployment (A Comparative and Replicability Study)**|Eduard Pinconschi et.al.|[2407.08730](http://arxiv.org/abs/2407.08730)|**[link](https://github.com/trustdnn/issta2024)**|
 |**2024-07-11**|**The Potential Impact of Noise Correlation in Next-generation Gravitational Wave Detectors**|Isaac C. F. Wong et.al.|[2407.08728](http://arxiv.org/abs/2407.08728)|null|
@@ -14213,6 +14259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures**|Sophia Sanborn et.al.|[2407.09468](http://arxiv.org/abs/2407.09468)|null|
+|**2024-07-12**|**A Versatile Side Entry Laser System for Scanning Transmission Electron Microscopy**|Ondrej Dyck et.al.|[2407.09461](http://arxiv.org/abs/2407.09461)|null|
+|**2024-07-12**|**GazeRace: Revolutionizing Remote Piloting with Eye-Gaze Control**|Issatay Tokmurziyev et.al.|[2407.09459](http://arxiv.org/abs/2407.09459)|null|
+|**2024-07-12**|**Strain coupling of a single exciton to a nano-optomechanical resonator**|Matteo Lodde et.al.|[2407.09456](http://arxiv.org/abs/2407.09456)|null|
+|**2024-07-12**|**Weight Block Sparsity: Training, Compilation, and AI Engine Accelerators**|Paolo D'Alberto et.al.|[2407.09453](http://arxiv.org/abs/2407.09453)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
+|**2024-07-12**|**Weak Chaos, Anomalous Diffusion, and Weak Ergodicity Breaking in Systems with Delay**|Tony Albers et.al.|[2407.09449](http://arxiv.org/abs/2407.09449)|null|
+|**2024-07-12**|**The $μ\mathcal{G}$ Language for Programming Graph Neural Networks**|Matteo Belenchia et.al.|[2407.09441](http://arxiv.org/abs/2407.09441)|null|
+|**2024-07-12**|**Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion**|Benedikt Hartl et.al.|[2407.09438](http://arxiv.org/abs/2407.09438)|null|
+|**2024-07-12**|**A Perspective on Foundation Models for the Electric Power Grid**|Hendrik F. Hamann et.al.|[2407.09434](http://arxiv.org/abs/2407.09434)|null|
 |**2024-07-11**|**Superconductivity in three-dimensional interacting doped topological insulators**|Andras L. Szabo et.al.|[2407.08736](http://arxiv.org/abs/2407.08736)|null|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
 |**2024-07-11**|**Unifying 3D Representation and Control of Diverse Robots with a Single Camera**|Sizhe Lester Li et.al.|[2407.08722](http://arxiv.org/abs/2407.08722)|null|
