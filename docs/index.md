@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2167,7 +2167,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-15**|**Walking the Values in Bayesian Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[2407.10971](http://arxiv.org/abs/2407.10971)|null|
 |**2024-07-15**|**BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinforcement Learning**|Haohong Lin et.al.|[2407.10967](http://arxiv.org/abs/2407.10967)|null|
-|**2024-07-15**|**Enhancing Stochastic Optimization for Statistical Efficiency Using ROOT-SGD with Diminishing Stepsize**|Tong Zhang et.al.|[2407.10955](http://arxiv.org/abs/2407.10955)|null|
+|**2024-07-16**|**Enhancing Stochastic Optimization for Statistical Efficiency Using ROOT-SGD with Diminishing Stepsize**|Tong Zhang et.al.|[2407.10955](http://arxiv.org/abs/2407.10955)|null|
 |**2024-07-15**|**Improved Lower Bounds on the Expected Length of Longest Common Subsequences**|George T. Heineman et.al.|[2407.10925](http://arxiv.org/abs/2407.10925)|null|
 |**2024-07-15**|**Convergence analysis of the parareal algorithms for stochastic Maxwell equations driven by additive noise**|Liying Zhang et.al.|[2407.10907](http://arxiv.org/abs/2407.10907)|null|
 |**2024-07-15**|**An Exploratory Study on Just-in-Time Multi-Programming-Language Bug Prediction**|Zengyang Li et.al.|[2407.10906](http://arxiv.org/abs/2407.10906)|null|
