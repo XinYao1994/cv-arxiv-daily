@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -184,7 +184,7 @@ layout: default
 |**2024-07-08**|**Left-Linear Rewriting in Adhesive Categories**|Paolo Baldan et.al.|[2407.06181](http://arxiv.org/abs/2407.06181)|null|
 |**2024-07-07**|**A Fault Tolerance Mechanism for Hybrid Scientific Workflows**|Alberto Mulone et.al.|[2407.05337](http://arxiv.org/abs/2407.05337)|null|
 |**2024-07-06**|**Cellular Automata as a Network Topology**|Temitayo Adefemi et.al.|[2407.05048](http://arxiv.org/abs/2407.05048)|null|
-|**2024-07-05**|**KESIC: Kerberos Extensions for Smart, IoT and CPS Devices**|Renascence Tarafder Prapty et.al.|[2407.04880](http://arxiv.org/abs/2407.04880)|null|
+|**2024-07-17**|**KESIC: Kerberos Extensions for Smart, IoT and CPS Devices**|Renascence Tarafder Prapty et.al.|[2407.04880](http://arxiv.org/abs/2407.04880)|null|
 |**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920](http://arxiv.org/abs/2407.03920)|null|
 |**2024-07-12**|**Data Overfitting for On-Device Super-Resolution with Dynamic Algorithm and Compiler Co-Design**|Gen Li et.al.|[2407.02813](http://arxiv.org/abs/2407.02813)|**[link](https://github.com/coulsonlee/dy-dca-eccv2024)**|
 |**2024-07-01**|**Linearizability and State-Machine Replication: Is it a match?**|Franz J. Hauck et.al.|[2407.01720](http://arxiv.org/abs/2407.01720)|null|
@@ -11288,7 +11288,7 @@ layout: default
 |**2024-07-16**|**Hydra: Brokering Cloud and HPC Resources to Support the Execution of Heterogeneous Workloads at Scale**|Aymen Alsaadi et.al.|[2407.11967](http://arxiv.org/abs/2407.11967)|null|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
 |**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2407.11954](http://arxiv.org/abs/2407.11954)|null|
-|**2024-07-16**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
+|**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**Fairly Accurate: Optimizing Accuracy Parity in Fair Target-Group Detection**|Soumyajit Gupta et.al.|[2407.11933](http://arxiv.org/abs/2407.11933)|null|
 |**2024-07-16**|**Impossibility of latent inner product recovery via rate distortion**|Cheng Mao et.al.|[2407.11932](http://arxiv.org/abs/2407.11932)|null|
 |**2024-07-16**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**|Tanvir Hossain et.al.|[2407.11928](http://arxiv.org/abs/2407.11928)|null|
