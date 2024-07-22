@@ -175,6 +175,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**SOC-Boundary and Battery Aging Aware Hierarchical Coordination of Multiple EV Aggregates Among Multi-stakeholders with Multi-Agent Constrained Deep Reinforcement Learning**|Xin Chen et.al.|[2407.13790](http://arxiv.org/abs/2407.13790)|null|
 |**2024-07-17**|**Information Flow Guided Synthesis with Unbounded Communication**|Bernd Finkbeiner et.al.|[2407.12298](http://arxiv.org/abs/2407.12298)|null|
 |**2024-07-16**|**Federated Learning Forecasting for Strengthening Grid Reliability and Enabling Markets for Resilience**|Lucas Pereira et.al.|[2407.11571](http://arxiv.org/abs/2407.11571)|null|
 |**2024-07-15**|**Quantifying distribution system resilience from utility data: large event risk and benefits of investments**|Arslan Ahmad et.al.|[2407.10773](http://arxiv.org/abs/2407.10773)|null|
@@ -651,6 +652,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Describe Data to get Science-Data-Ready Tooling: Awkward as a Target for Kaitai Struct YAML**|Manasvi Goyal et.al.|[2407.14461](http://arxiv.org/abs/2407.14461)|null|
+|**2024-07-19**|**Mixed-precision Neural Networks on RISC-V Cores: ISA extensions for Multi-Pumped Soft SIMD Operations**|Giorgos Armeniakos et.al.|[2407.14274](http://arxiv.org/abs/2407.14274)|**[link](https://github.com/alexmr09/Mixed-precision-Neural-Networks-on-RISC-V-Cores)**|
+|**2024-07-19**|**Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation**|Shota Kanasugi et.al.|[2407.14163](http://arxiv.org/abs/2407.14163)|null|
 |**2024-07-18**|**Compressing Structured Tensor Algebra**|Mahdi Ghorbani et.al.|[2407.13726](http://arxiv.org/abs/2407.13726)|null|
 |**2024-07-18**|**Fusing Gathers with Integer Linear Programming**|David van Balen et.al.|[2407.13585](http://arxiv.org/abs/2407.13585)|null|
 |**2024-07-18**|**VLTI/GRAVITY Interferometric Measurements of Innermost Dust Structure Sizes around AGNs**|GRAVITY Collaboration et.al.|[2407.13458](http://arxiv.org/abs/2407.13458)|null|
@@ -2184,6 +2188,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490](http://arxiv.org/abs/2407.14490)|null|
+|**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**Contrastive Learning with Counterfactual Explanations for Radiology Report Generation**|Mingjie Li et.al.|[2407.14474](http://arxiv.org/abs/2407.14474)|null|
+|**2024-07-19**|**MLMT-CNN for Object Detection and Segmentation in Multi-layer and Multi-spectral Images**|Majedaldein Almahasneh et.al.|[2407.14473](http://arxiv.org/abs/2407.14473)|null|
+|**2024-07-19**|**Thermal pure states for systems with antiunitary symmetries and their tensor network representations**|Yasushi Yoneta et.al.|[2407.14454](http://arxiv.org/abs/2407.14454)|null|
+|**2024-07-19**|**Integrated Resource Allocation and Strategy Synthesis in Safety Games on Graphs with Deception**|Abhishek N. Kulkarni et.al.|[2407.14436](http://arxiv.org/abs/2407.14436)|null|
+|**2024-07-19**|**SimpleSets: Capturing Categorical Point Patterns with Simple Shapes**|Steven van den Broek et.al.|[2407.14433](http://arxiv.org/abs/2407.14433)|null|
 |**2024-07-18**|**Neural Network Tire Force Modeling for Automated Drifting**|Nicholas Drake Broadbent et.al.|[2407.13760](http://arxiv.org/abs/2407.13760)|null|
 |**2024-07-18**|**Challenge of direct imaging of exoplanets within structures: disentangling real signal from point source from background light**|Jialin Li et.al.|[2407.13756](http://arxiv.org/abs/2407.13756)|null|
 |**2024-07-18**|**Exploring Facial Biomarkers for Depression through Temporal Analysis of Action Units**|Aditya Parikh et.al.|[2407.13753](http://arxiv.org/abs/2407.13753)|null|
@@ -5279,6 +5293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Describe Data to get Science-Data-Ready Tooling: Awkward as a Target for Kaitai Struct YAML**|Manasvi Goyal et.al.|[2407.14461](http://arxiv.org/abs/2407.14461)|null|
+|**2024-07-19**|**Multi-Source and Test-Time Domain Adaptation on Multivariate Signals using Spatio-Temporal Monge Alignment**|Théo Gnassounou et.al.|[2407.14303](http://arxiv.org/abs/2407.14303)|null|
+|**2024-07-19**|**PACCOR4ESP: Embedded Device Security Attestation using Platform Attribute Certificates**|Thomas Grübl et.al.|[2407.14286](http://arxiv.org/abs/2407.14286)|null|
+|**2024-07-19**|**Mixed-precision Neural Networks on RISC-V Cores: ISA extensions for Multi-Pumped Soft SIMD Operations**|Giorgos Armeniakos et.al.|[2407.14274](http://arxiv.org/abs/2407.14274)|**[link](https://github.com/alexmr09/Mixed-precision-Neural-Networks-on-RISC-V-Cores)**|
+|**2024-07-19**|**A high-density gas target at the LHCb experiment**|O. Boente Garcia et.al.|[2407.14200](http://arxiv.org/abs/2407.14200)|null|
+|**2024-07-19**|**LoAS: Fully Temporal-Parallel Datatflow for Dual-Sparse Spiking Neural Networks**|Ruokai Yin et.al.|[2407.14073](http://arxiv.org/abs/2407.14073)|null|
+|**2024-07-19**|**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?**|Siddhant Waghjale et.al.|[2407.14044](http://arxiv.org/abs/2407.14044)|**[link](https://github.com/codeeff/ecco)**|
+|**2024-07-19**|**Missile: Fine-Grained, Hardware-Level GPU Resource Isolation for Multi-Tenant DNN Inference**|Yongkang Zhang et.al.|[2407.13996](http://arxiv.org/abs/2407.13996)|null|
+|**2024-07-19**|**Neural topology optimization: the good, the bad, and the ugly**|Suryanarayanan Manoj Sanu et.al.|[2407.13954](http://arxiv.org/abs/2407.13954)|null|
+|**2024-07-18**|**Data-driven Forecasting of Deep Learning Performance on GPUs**|Seonho Lee et.al.|[2407.13853](http://arxiv.org/abs/2407.13853)|null|
 |**2024-07-18**|**DPDPU: Data Processing with DPUs**|Jiasheng Hu et.al.|[2407.13658](http://arxiv.org/abs/2407.13658)|null|
 |**2024-07-18**|**DDS: DPU-optimized Disaggregated Storage**|Qizhen Zhang et.al.|[2407.13618](http://arxiv.org/abs/2407.13618)|null|
 |**2024-07-18**|**Fusing Gathers with Integer Linear Programming**|David van Balen et.al.|[2407.13585](http://arxiv.org/abs/2407.13585)|null|
@@ -8266,6 +8290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
+|**2024-07-19**|**Enhancing Layout Hotspot Detection Efficiency with YOLOv8 and PCA-Guided Augmentation**|Dongyang Wu et.al.|[2407.14498](http://arxiv.org/abs/2407.14498)|null|
+|**2024-07-19**|**PD-TPE: Parallel Decoder with Text-guided Position Encoding for 3D Visual Grounding**|Chenshu Hou et.al.|[2407.14491](http://arxiv.org/abs/2407.14491)|null|
+|**2024-07-19**|**Evaluating the Reliability of Self-Explanations in Large Language Models**|Korbinian Randl et.al.|[2407.14487](http://arxiv.org/abs/2407.14487)|**[link](https://github.com/k-randl/self-explaining_llms)**|
+|**2024-07-19**|**On sibyl-proof mechanisms**|Minghao Pan et.al.|[2407.14485](http://arxiv.org/abs/2407.14485)|null|
+|**2024-07-19**|**ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities**|Peng Xu et.al.|[2407.14482](http://arxiv.org/abs/2407.14482)|null|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
+|**2024-07-19**|**Pulsar timing array sensitivity to anisotropies in the gravitational wave background**|Paul Frederik Depta et.al.|[2407.14460](http://arxiv.org/abs/2407.14460)|null|
+|**2024-07-19**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459](http://arxiv.org/abs/2407.14459)|**[link](https://github.com/air029/polyformer)**|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|null|
 |**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
 |**2024-07-18**|**On the consistency of rotation curves and spatially integrated HI flux profiles**|Tariq Yasin et.al.|[2407.13754](http://arxiv.org/abs/2407.13754)|null|
@@ -11358,6 +11392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
+|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
+|**2024-07-19**|**Discover-then-Name: Task-Agnostic Concept Bottlenecks via Automated Concept Discovery**|Sukrut Rao et.al.|[2407.14499](http://arxiv.org/abs/2407.14499)|**[link](https://github.com/neuroexplicit-saar/discover-then-name)**|
+|**2024-07-19**|**InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques**|Rohan Gupta et.al.|[2407.14494](http://arxiv.org/abs/2407.14494)|null|
+|**2024-07-19**|**Adaptive Uncertainty Quantification for Scenario-based Control Using Meta-learning of Bayesian Neural Networks**|Yajie Bao et.al.|[2407.14492](http://arxiv.org/abs/2407.14492)|null|
+|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490](http://arxiv.org/abs/2407.14490)|null|
+|**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
+|**2024-07-19**|**SurvReLU: Inherently Interpretable Survival Analysis via Deep ReLU Networks**|Xiaotong Sun et.al.|[2407.14463](http://arxiv.org/abs/2407.14463)|**[link](https://github.com/xs018/survrelu)**|
+|**2024-07-19**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459](http://arxiv.org/abs/2407.14459)|**[link](https://github.com/air029/polyformer)**|
+|**2024-07-19**|**Thermal pure states for systems with antiunitary symmetries and their tensor network representations**|Yasushi Yoneta et.al.|[2407.14454](http://arxiv.org/abs/2407.14454)|null|
 |**2024-07-18**|**Addressing Imbalance for Class Incremental Learning in Medical Image Classification**|Xuze Hao et.al.|[2407.13768](http://arxiv.org/abs/2407.13768)|null|
 |**2024-07-18**|**Topological insulators on fractal lattices: A general principle of construction**|Daniel J. Salib et.al.|[2407.13767](http://arxiv.org/abs/2407.13767)|null|
 |**2024-07-18**|**Neural Network Tire Force Modeling for Automated Drifting**|Nicholas Drake Broadbent et.al.|[2407.13760](http://arxiv.org/abs/2407.13760)|null|
@@ -14451,6 +14495,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Nonlinear Schrödinger Network**|Yiming Zhou et.al.|[2407.14504](http://arxiv.org/abs/2407.14504)|null|
+|**2024-07-19**|**Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities**|Prasenjit Karmakar et.al.|[2407.14501](http://arxiv.org/abs/2407.14501)|**[link](https://github.com/prasenjit52282/dalton-dataset)**|
+|**2024-07-19**|**A Precision Cryogenic Positioning Stage for Detector Dithering and Flexure Compensation**|Stephen A. Smee et.al.|[2407.14493](http://arxiv.org/abs/2407.14493)|null|
+|**2024-07-19**|**Adaptive Uncertainty Quantification for Scenario-based Control Using Meta-learning of Bayesian Neural Networks**|Yajie Bao et.al.|[2407.14492](http://arxiv.org/abs/2407.14492)|null|
+|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490](http://arxiv.org/abs/2407.14490)|null|
+|**2024-07-19**|**Observation of paramagnetic spin-degeneracy lifting in EuZn2Sb2**|Milo X. Sprague et.al.|[2407.14481](http://arxiv.org/abs/2407.14481)|null|
+|**2024-07-19**|**Signatures of composite dark matter in the Cosmic Microwave Background spectral distortions**|Anoma Ganguly et.al.|[2407.14480](http://arxiv.org/abs/2407.14480)|null|
+|**2024-07-19**|**On postcritical sets of quadratic polynomials with a neutral fixed point**|Hongyu Qu et.al.|[2407.14476](http://arxiv.org/abs/2407.14476)|null|
+|**2024-07-19**|**The 1D photonic wire as a single-photon source: Implications of cQED to a phonon bath of reduced dimensionality**|José Ferreira Neto et.al.|[2407.14462](http://arxiv.org/abs/2407.14462)|null|
+|**2024-07-19**|**Describe Data to get Science-Data-Ready Tooling: Awkward as a Target for Kaitai Struct YAML**|Manasvi Goyal et.al.|[2407.14461](http://arxiv.org/abs/2407.14461)|null|
 |**2024-07-18**|**Moiré Fractional Chern Insulators IV: Fluctuation-Driven Collapse of FCIs in Multi-Band Exact Diagonalization Calculations on Rhombohedral Graphene**|Jiabin Yu et.al.|[2407.13770](http://arxiv.org/abs/2407.13770)|null|
 |**2024-07-18**|**Emergence of Sound in a Tunable Fermi Fluid**|Songtao Huang et.al.|[2407.13769](http://arxiv.org/abs/2407.13769)|null|
 |**2024-07-18**|**Topological insulators on fractal lattices: A general principle of construction**|Daniel J. Salib et.al.|[2407.13767](http://arxiv.org/abs/2407.13767)|null|
@@ -17547,6 +17601,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Mixed-precision Neural Networks on RISC-V Cores: ISA extensions for Multi-Pumped Soft SIMD Operations**|Giorgos Armeniakos et.al.|[2407.14274](http://arxiv.org/abs/2407.14274)|**[link](https://github.com/alexmr09/Mixed-precision-Neural-Networks-on-RISC-V-Cores)**|
 |**2024-07-16**|**Computing $k$ -means in mixed precision**|Erin Carson et.al.|[2407.12208](http://arxiv.org/abs/2407.12208)|null|
 |**2024-07-11**|**PowerYOLO: Mixed Precision Model for Hardware Efficient Object Detection with Event Data**|Dominika Przewlocka-Rus et.al.|[2407.08272](http://arxiv.org/abs/2407.08272)|null|
 |**2024-07-08**|**Kratos: An FPGA Benchmark for Unrolled DNNs with Fine-Grained Sparsity and Mixed Precision**|Xilai Dai et.al.|[2407.06033](http://arxiv.org/abs/2407.06033)|**[link](https://github.com/abdelfattah-lab/kratos-benchmark)**|
