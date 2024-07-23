@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -178,7 +178,7 @@ layout: default
 |**2024-07-14**|**SOC-Boundary and Battery Aging Aware Hierarchical Coordination of Multiple EV Aggregates Among Multi-stakeholders with Multi-Agent Constrained Deep Reinforcement Learning**|Xin Chen et.al.|[2407.13790](http://arxiv.org/abs/2407.13790)|null|
 |**2024-07-17**|**Information Flow Guided Synthesis with Unbounded Communication**|Bernd Finkbeiner et.al.|[2407.12298](http://arxiv.org/abs/2407.12298)|null|
 |**2024-07-16**|**Federated Learning Forecasting for Strengthening Grid Reliability and Enabling Markets for Resilience**|Lucas Pereira et.al.|[2407.11571](http://arxiv.org/abs/2407.11571)|null|
-|**2024-07-15**|**Quantifying distribution system resilience from utility data: large event risk and benefits of investments**|Arslan Ahmad et.al.|[2407.10773](http://arxiv.org/abs/2407.10773)|null|
+|**2024-07-20**|**Quantifying distribution system resilience from utility data: large event risk and benefits of investments**|Arslan Ahmad et.al.|[2407.10773](http://arxiv.org/abs/2407.10773)|null|
 |**2024-07-12**|**DisQ: A Markov Decision Process Based Language for Quantum Distributed Systems**|Le Chang et.al.|[2407.09710](http://arxiv.org/abs/2407.09710)|null|
 |**2024-07-10**|**Co-designing heterogeneous models: a distributed systems approach**|Marius-Constantin Ilau et.al.|[2407.07656](http://arxiv.org/abs/2407.07656)|null|
 |**2024-07-09**|**Distribution System Reconfiguration to Mitigate Load Altering Attacks via Stackelberg Games**|Sajjad Maleki et.al.|[2407.07065](http://arxiv.org/abs/2407.07065)|null|
