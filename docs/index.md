@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2221,7 +2221,7 @@ layout: default
 |**2024-07-24**|**EuroCropsML: A Time Series Benchmark Dataset For Few-Shot Crop Type Classification**|Joana Reuss et.al.|[2407.17458](http://arxiv.org/abs/2407.17458)|null|
 |**2024-07-24**|**CSCPR: Cross-Source-Context Indoor RGB-D Place Recognition**|Jing Liang et.al.|[2407.17457](http://arxiv.org/abs/2407.17457)|null|
 |**2024-07-24**|**Quantitative description and correction of longitudinal drifts in the Fermilab linac**|R. Sharankova et.al.|[2407.17456](http://arxiv.org/abs/2407.17456)|null|
-|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|**[link](https://github.com/Confirm-Solutions/flrt)**|
 |**2024-07-24**|**Joint Transmit and Jamming Power Optimization for Secrecy in Energy Harvesting Networks: A Reinforcement Learning Approach**|Shalini Tripathi et.al.|[2407.17435](http://arxiv.org/abs/2407.17435)|null|
 |**2024-07-24**|**An Assessment of Ensemble Kalman Filter and Azouani-Olson-Titi Algorithms for Data Assimilation: A Comparative Study**|Ning Ning et.al.|[2407.17424](http://arxiv.org/abs/2407.17424)|null|
 |**2024-07-24**|**Why Machines Can't Be Moral: Turing's Halting Problem and the Moral Limits of Artificial Intelligence**|Massimo Passamonti et.al.|[2407.16890](http://arxiv.org/abs/2407.16890)|null|
@@ -8381,7 +8381,7 @@ layout: default
 |**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
 |**2024-07-24**|**BlueTempNet: A Temporal Multi-network Dataset of Social Interactions in Bluesky Social**|Ujun Jeong et.al.|[2407.17451](http://arxiv.org/abs/2407.17451)|null|
 |**2024-07-24**|**Looking at Model Debiasing through the Lens of Anomaly Detection**|Vito Paolo Pastore et.al.|[2407.17449](http://arxiv.org/abs/2407.17449)|null|
-|**2024-07-24**|**Component exchange theory of trions**|Van Tuan Dinh et.al.|[2407.17445](http://arxiv.org/abs/2407.17445)|null|
+|**2024-07-25**|**Component exchange theory of trions**|Dinh Van Tuan et.al.|[2407.17445](http://arxiv.org/abs/2407.17445)|null|
 |**2024-07-24**|**AHMF: Adaptive Hybrid-Memory-Fusion Model for Driver Attention Prediction**|Dongyang Xu et.al.|[2407.17442](http://arxiv.org/abs/2407.17442)|null|
 |**2024-07-24**|**Gender disparities in the dissemination and acquisition of scientific knowledge**|Chiara Zappalà et.al.|[2407.17441](http://arxiv.org/abs/2407.17441)|null|
 |**2024-07-24**|**Generative AI in Evidence-Based Software Engineering: A White Paper**|Mattel Esposito et.al.|[2407.17440](http://arxiv.org/abs/2407.17440)|null|
@@ -14646,7 +14646,7 @@ layout: default
 |**2024-07-24**|**Full Qubit Control in the NV $^-$ Ground State for Low Field or High Frequency Sensing**|Alberto López-García et.al.|[2407.17461](http://arxiv.org/abs/2407.17461)|null|
 |**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
 |**2024-07-24**|**Automated Explanation Selection for Scientific Discovery**|Markus Iser et.al.|[2407.17454](http://arxiv.org/abs/2407.17454)|null|
-|**2024-07-24**|**Component exchange theory of trions**|Van Tuan Dinh et.al.|[2407.17445](http://arxiv.org/abs/2407.17445)|null|
+|**2024-07-25**|**Component exchange theory of trions**|Dinh Van Tuan et.al.|[2407.17445](http://arxiv.org/abs/2407.17445)|null|
 |**2024-07-24**|**A soft-hard framework with exact four momentum conservation for small systems**|I. Soudi et.al.|[2407.17443](http://arxiv.org/abs/2407.17443)|null|
 |**2024-07-24**|**Gender disparities in the dissemination and acquisition of scientific knowledge**|Chiara Zappalà et.al.|[2407.17441](http://arxiv.org/abs/2407.17441)|null|
 |**2024-07-24**|**Joint Transmit and Jamming Power Optimization for Secrecy in Energy Harvesting Networks: A Reinforcement Learning Approach**|Shalini Tripathi et.al.|[2407.17435](http://arxiv.org/abs/2407.17435)|null|
