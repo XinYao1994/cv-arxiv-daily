@@ -92,6 +92,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-16**|**REMM:Rotation-Equivariant Framework for End-to-End Multimodal Image Matching**|Han Nie et.al.|[2407.11637](http://arxiv.org/abs/2407.11637)|**[link](https://github.com/hanniewhu/remm)**|
@@ -194,6 +195,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**STT-RAM-based Hierarchical In-Memory Computing**|Dhruv Gajaria et.al.|[2407.19637](http://arxiv.org/abs/2407.19637)|null|
+|**2024-07-27**|**Taylor-Expansion-Based Robust Power Flow in Unbalanced Distribution Systems: A Hybrid Data-Aided Method**|Sungjoo Chung et.al.|[2407.19253](http://arxiv.org/abs/2407.19253)|null|
 |**2024-07-24**|**An MDP-Based Approach for Distribution System Control with PV Generation and Battery Storage**|Robert Sosnowski et.al.|[2407.17257](http://arxiv.org/abs/2407.17257)|null|
 |**2024-07-23**|**Fostering Microservice Maintainability Assurance through a Comprehensive Framework**|Amr S. Abdelfattah et.al.|[2407.16873](http://arxiv.org/abs/2407.16873)|null|
 |**2024-07-23**|**TAMIGO: Empowering Teaching Assistants using LLM-assisted viva and code assessment in an Advanced Computing Class**|Anishka IIITD et.al.|[2407.16805](http://arxiv.org/abs/2407.16805)|null|
@@ -677,6 +680,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Multiplicity of stars with planets in the solar neighbourhood**|J. González-Payo et.al.|[2407.20138](http://arxiv.org/abs/2407.20138)|null|
+|**2024-07-27**|**Symmetric Locality: Definition and Initial Results**|Giordan Escalona et.al.|[2407.19291](http://arxiv.org/abs/2407.19291)|null|
+|**2024-07-26**|**Evaluating the Capability of LLMs in Identifying Compilation Errors in Configurable Systems**|Lucas Albuquerque et.al.|[2407.19087](http://arxiv.org/abs/2407.19087)|null|
 |**2024-07-26**|**Catalog of outbursts of neutron star LMXBs**|Craig O. Heinke et.al.|[2407.18867](http://arxiv.org/abs/2407.18867)|null|
 |**2024-07-26**|**Fast and Parallelizable Logical Computation with Homological Product Codes**|Qian Xu et.al.|[2407.18490](http://arxiv.org/abs/2407.18490)|null|
 |**2024-07-25**|**Ordinary and exotic mesons in the extended Linear Sigma Model**|Francesco Giacosa et.al.|[2407.18348](http://arxiv.org/abs/2407.18348)|null|
@@ -2243,6 +2249,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230](http://arxiv.org/abs/2407.20230)|null|
+|**2024-07-29**|**Models of random spanning trees**|Eric Babson et.al.|[2407.20226](http://arxiv.org/abs/2407.20226)|null|
+|**2024-07-29**|**Tetrahedral grids in Monte Carlo radiative transfer**|Arno Lauwers et.al.|[2407.20216](http://arxiv.org/abs/2407.20216)|null|
+|**2024-07-29**|**Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization**|Seongmin Kim et.al.|[2407.20212](http://arxiv.org/abs/2407.20212)|null|
+|**2024-07-29**|**Characterizing Dynamical Stability of Stochastic Gradient Descent in Overparameterized Learning**|Dennis Chemnitz et.al.|[2407.20209](http://arxiv.org/abs/2407.20209)|null|
+|**2024-07-29**|**Fast computation of permanents over $\mathbb{F}_3$ via $\mathbb{F}_2$ arithmetic**|Danny Scheinerman et.al.|[2407.20205](http://arxiv.org/abs/2407.20205)|null|
+|**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199](http://arxiv.org/abs/2407.20199)|null|
+|**2024-07-29**|**The generator gradient estimator is an adjoint state method for stochastic differential equations**|Quentin Badolle et.al.|[2407.20196](http://arxiv.org/abs/2407.20196)|null|
+|**2024-07-29**|**Accelerated Primal-Dual Proximal Gradient Splitting Methods for Convex-Concave Saddle-Point Problems**|Hao Luo et.al.|[2407.20195](http://arxiv.org/abs/2407.20195)|null|
+|**2024-07-29**|**Eliminating Majority Illusion is Easy**|Jack Dippel et.al.|[2407.20187](http://arxiv.org/abs/2407.20187)|null|
 |**2024-07-26**|**SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**|Shu Ishida et.al.|[2407.18913](http://arxiv.org/abs/2407.18913)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-26**|**Robust multi-mode superconducting qubit designed with evolutionary algorithms**|P. García-Azorín et.al.|[2407.18895](http://arxiv.org/abs/2407.18895)|null|
@@ -5400,6 +5416,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**ByteCheckpoint: A Unified Checkpointing System for LLM Development**|Borui Wan et.al.|[2407.20143](http://arxiv.org/abs/2407.20143)|null|
+|**2024-07-29**|**Requirements on bit resolution in optical Ising machine implementations**|Toon Sevenants et.al.|[2407.19956](http://arxiv.org/abs/2407.19956)|null|
+|**2024-07-29**|**Culsans: An Efficient Snoop-based Coherency Unit for the CVA6 Open Source RISC-V application processor**|Riccardo Tedeschi et.al.|[2407.19895](http://arxiv.org/abs/2407.19895)|null|
+|**2024-07-29**|**Brain-inspired polymer dendrite networks for morphology-dependent computing hardware**|Scholaert Corentin et.al.|[2407.19847](http://arxiv.org/abs/2407.19847)|null|
+|**2024-07-29**|**RRAM-Based Bio-Inspired Circuits for Mobile Epileptic Correlation Extraction and Seizure Prediction**|Hao Wang et.al.|[2407.19841](http://arxiv.org/abs/2407.19841)|null|
+|**2024-07-29**|**Additive manufacturing applications in astronomy: a review**|Younes Chahid et.al.|[2407.19839](http://arxiv.org/abs/2407.19839)|null|
+|**2024-07-29**|**Model Agnostic Hybrid Sharding For Heterogeneous Distributed Inference**|Claudio Angione et.al.|[2407.19775](http://arxiv.org/abs/2407.19775)|null|
+|**2024-07-29**|**Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity**|Spilios Evmorfos et.al.|[2407.19736](http://arxiv.org/abs/2407.19736)|null|
+|**2024-07-29**|**Scalable High-Dimensional Multipartite Entanglement with Trapped Ions**|Harsh Vardhan Upadhyay et.al.|[2407.19735](http://arxiv.org/abs/2407.19735)|null|
+|**2024-07-29**|**Rina: Enhancing Ring-AllReduce with In-network Aggregation in Distributed Model Training**|Zixuan Chen et.al.|[2407.19721](http://arxiv.org/abs/2407.19721)|null|
 |**2024-07-26**|**Multi-Robot System Architecture design in SysML and BPMN**|Ahmed R. Sadik et.al.|[2407.18749](http://arxiv.org/abs/2407.18749)|null|
 |**2024-07-26**|**Designing and Implementing a Generator Framework for a SIMD Abstraction Library**|Johannes Pietrzyk et.al.|[2407.18728](http://arxiv.org/abs/2407.18728)|null|
 |**2024-07-26**|**Partial Adaptive Indexing for Approximate Query Answering**|Stavros Maroulis et.al.|[2407.18702](http://arxiv.org/abs/2407.18702)|null|
@@ -8448,6 +8474,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
+|**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207](http://arxiv.org/abs/2407.20207)|null|
+|**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
+|**2024-07-29**|**The structure of Gram matrices of sum of squares polynomials with restricted harmonic support**|Mitchell Tong Harris et.al.|[2407.20200](http://arxiv.org/abs/2407.20200)|null|
+|**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197](http://arxiv.org/abs/2407.20197)|null|
+|**2024-07-29**|**Prospects of using closure traces directly for imaging in Very Long Baseline Interferometry**|Hendrik Müller et.al.|[2407.20190](http://arxiv.org/abs/2407.20190)|null|
+|**2024-07-29**|**Aligning Query Representation with Rewritten Query and Relevance Judgments in Conversational Search**|Fengran Mo et.al.|[2407.20189](http://arxiv.org/abs/2407.20189)|null|
+|**2024-07-29**|**On the leptonic contribution to the ultra high-energy diffuse gamma-ray background**|Samy Kaci et.al.|[2407.20186](http://arxiv.org/abs/2407.20186)|null|
+|**2024-07-29**|**Benchmarking and linear response modeling of high-fidelity Rydberg gates**|Richard Bing-Shiun Tsai et.al.|[2407.20184](http://arxiv.org/abs/2407.20184)|null|
+|**2024-07-29**|**MindSearch: Mimicking Human Minds Elicits Deep AI Searcher**|Zehui Chen et.al.|[2407.20183](http://arxiv.org/abs/2407.20183)|**[link](https://github.com/internlm/mindsearch)**|
 |**2024-07-26**|**SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**|Shu Ishida et.al.|[2407.18913](http://arxiv.org/abs/2407.18913)|null|
 |**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909](http://arxiv.org/abs/2407.18909)|null|
@@ -11602,6 +11638,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
+|**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
+|**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199](http://arxiv.org/abs/2407.20199)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198](http://arxiv.org/abs/2407.20198)|null|
+|**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197](http://arxiv.org/abs/2407.20197)|null|
+|**2024-07-29**|**The generator gradient estimator is an adjoint state method for stochastic differential equations**|Quentin Badolle et.al.|[2407.20196](http://arxiv.org/abs/2407.20196)|null|
+|**2024-07-29**|**Polydispersity in Percolation**|Fabian Coupette et.al.|[2407.20193](http://arxiv.org/abs/2407.20193)|null|
+|**2024-07-29**|**Eliminating Majority Illusion is Easy**|Jack Dippel et.al.|[2407.20187](http://arxiv.org/abs/2407.20187)|null|
+|**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172](http://arxiv.org/abs/2407.20172)|**[link](https://github.com/bugs-creator/latentartifusion)**|
+|**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157](http://arxiv.org/abs/2407.20157)|**[link](https://github.com/rllm-project/rllm)**|
 |**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911](http://arxiv.org/abs/2407.18911)|null|
 |**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909](http://arxiv.org/abs/2407.18909)|null|
@@ -14757,6 +14803,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
+|**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230](http://arxiv.org/abs/2407.20230)|null|
+|**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
+|**2024-07-29**|**Distributed Quantum Approximate Optimization Algorithm on Integrated High-Performance Computing and Quantum Computing Systems for Large-Scale Optimization**|Seongmin Kim et.al.|[2407.20212](http://arxiv.org/abs/2407.20212)|null|
+|**2024-07-29**|**Characterizing Dynamical Stability of Stochastic Gradient Descent in Overparameterized Learning**|Dennis Chemnitz et.al.|[2407.20209](http://arxiv.org/abs/2407.20209)|null|
+|**2024-07-29**|**Supertrust: Evolution-based superalignment strategy for safe coexistence**|James M. Mazzu et.al.|[2407.20208](http://arxiv.org/abs/2407.20208)|null|
+|**2024-07-29**|**Methane Sensing via Unbalanced Nonlinear Interferometry using a CMOS Camera**|Jinghan Dong et.al.|[2407.20201](http://arxiv.org/abs/2407.20201)|null|
+|**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197](http://arxiv.org/abs/2407.20197)|null|
+|**2024-07-29**|**Polydispersity in Percolation**|Fabian Coupette et.al.|[2407.20193](http://arxiv.org/abs/2407.20193)|null|
+|**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
 |**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911](http://arxiv.org/abs/2407.18911)|null|
 |**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-26**|**Using high-fidelity discrete element simulation to calibrate an expeditious terramechanics model in a multibody dynamics framework**|Yuemin Zhang et.al.|[2407.18903](http://arxiv.org/abs/2407.18903)|null|
