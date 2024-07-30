@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -86,7 +86,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -188,7 +188,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -671,7 +671,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Compiler
 
@@ -684,7 +684,7 @@
 |**2024-07-25**|**Pruning Boolean d-DNNF Circuits Through Tseitin-Awareness**|Vincent Derkinderen et.al.|[2407.17951](http://arxiv.org/abs/2407.17951)|null|
 |**2024-07-25**|**Compilation of Commit Changes within Java Source Code Repositories**|Stefan Schott et.al.|[2407.17853](http://arxiv.org/abs/2407.17853)|null|
 |**2024-07-24**|**Unveiling the structural content of NGC 6357 via kinematics and NIR variability**|C. Ordenes-Huanca et.al.|[2407.17577](http://arxiv.org/abs/2407.17577)|null|
-|**2024-07-24**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
+|**2024-07-28**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
 |**2024-07-24**|**An FPGA-Based Open-Source Hardware-Software Framework for Side-Channel Security Research**|Davide Zoni et.al.|[2407.17432](http://arxiv.org/abs/2407.17432)|null|
 |**2024-07-24**|**New phenomena arising from L-invariants of modular forms**|John Bergdall et.al.|[2407.17411](http://arxiv.org/abs/2407.17411)|null|
 |**2024-07-24**|**Five reasons against assuming a data-generating distribution in Machine Learning**|Benedikt Höltgen et.al.|[2407.17395](http://arxiv.org/abs/2407.17395)|null|
@@ -2237,7 +2237,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -5394,7 +5394,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -8442,7 +8442,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -8452,7 +8452,7 @@
 |**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909](http://arxiv.org/abs/2407.18909)|null|
 |**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[2407.18908](http://arxiv.org/abs/2407.18908)|null|
-|**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906](http://arxiv.org/abs/2407.18906)|null|
+|**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906](http://arxiv.org/abs/2407.18906)|**[link](https://github.com/sparshgup/QNL-Net)**|
 |**2024-07-26**|**Lessons from Learning to Spin "Pens"**|Jun Wang et.al.|[2407.18902](http://arxiv.org/abs/2407.18902)|null|
 |**2024-07-26**|**How Polarized are Online Conversations about Childhood?**|Breanna E. Green et.al.|[2407.18900](http://arxiv.org/abs/2407.18900)|null|
 |**2024-07-26**|**Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence**|Mengyao Lyu et.al.|[2407.18899](http://arxiv.org/abs/2407.18899)|null|
@@ -11596,7 +11596,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -11605,7 +11605,7 @@
 |**2024-07-26**|**HRP: Human Affordances for Robotic Pre-Training**|Mohan Kumar Srirama et.al.|[2407.18911](http://arxiv.org/abs/2407.18911)|null|
 |**2024-07-26**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-26**|**Hybrid summary statistics: neural weak lensing inference beyond the power spectrum**|T. Lucas Makinen et.al.|[2407.18909](http://arxiv.org/abs/2407.18909)|null|
-|**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906](http://arxiv.org/abs/2407.18906)|null|
+|**2024-07-26**|**A Scalable Quantum Non-local Neural Network for Image Classification**|Sparsh Gupta et.al.|[2407.18906](http://arxiv.org/abs/2407.18906)|**[link](https://github.com/sparshgup/QNL-Net)**|
 |**2024-07-26**|**How Polarized are Online Conversations about Childhood?**|Breanna E. Green et.al.|[2407.18900](http://arxiv.org/abs/2407.18900)|null|
 |**2024-07-26**|**A Flexible and Scalable Approach for Collecting Wildlife Advertisements on the Web**|Juliana Barbosa et.al.|[2407.18898](http://arxiv.org/abs/2407.18898)|**[link](https://github.com/vida-nyu/wildlife_pipeline)**|
 |**2024-07-26**|**Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments**|Hideaki Takahashi et.al.|[2407.18880](http://arxiv.org/abs/2407.18880)|null|
@@ -14751,7 +14751,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -17909,7 +17909,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -18059,7 +18059,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20240729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240730>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
