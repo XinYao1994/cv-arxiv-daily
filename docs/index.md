@@ -179,6 +179,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Online Prediction-Assisted Safe Reinforcement Learning for Electric Vehicle Charging Station Recommendation in Dynamically Coupled Transportation-Power Systems**|Qionghua Liao et.al.|[2407.20679](http://arxiv.org/abs/2407.20679)|null|
+|**2024-07-29**|**Trusted source noise model of discrete-modulated continuous-variable quantum key distribution**|Mingze Wu et.al.|[2407.20302](http://arxiv.org/abs/2407.20302)|null|
 |**2024-07-29**|**STT-RAM-based Hierarchical In-Memory Computing**|Dhruv Gajaria et.al.|[2407.19637](http://arxiv.org/abs/2407.19637)|null|
 |**2024-07-27**|**Taylor-Expansion-Based Robust Power Flow in Unbalanced Distribution Systems: A Hybrid Data-Aided Method**|Sungjoo Chung et.al.|[2407.19253](http://arxiv.org/abs/2407.19253)|null|
 |**2024-07-24**|**An MDP-Based Approach for Distribution System Control with PV Generation and Battery Storage**|Robert Sosnowski et.al.|[2407.17257](http://arxiv.org/abs/2407.17257)|null|
@@ -662,9 +664,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**An Asynchronous Multi-core Accelerator for SNN inference**|Zhuo Chen et.al.|[2407.20947](http://arxiv.org/abs/2407.20947)|null|
+|**2024-07-30**|**Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts**|Sarah Schöttler et.al.|[2407.20735](http://arxiv.org/abs/2407.20735)|null|
+|**2024-07-30**|**Transferability of Photometric Redshifts Determined using Machine Learning**|Lara Janiurek et.al.|[2407.20670](http://arxiv.org/abs/2407.20670)|null|
+|**2024-07-30**|**Practical Rely/Guarantee Verification of an Efficient Lock for seL4 on Multicore Architectures**|Robert J. Colvin et.al.|[2407.20559](http://arxiv.org/abs/2407.20559)|null|
+|**2024-07-29**|**Through the Looking Glass, and what Horn Clause Programs Found There**|Paul Tarau et.al.|[2407.20413](http://arxiv.org/abs/2407.20413)|null|
 |**2024-07-29**|**Multiplicity of stars with planets in the solar neighbourhood**|J. González-Payo et.al.|[2407.20138](http://arxiv.org/abs/2407.20138)|null|
 |**2024-07-27**|**Symmetric Locality: Definition and Initial Results**|Giordan Escalona et.al.|[2407.19291](http://arxiv.org/abs/2407.19291)|null|
-|**2024-07-26**|**Evaluating the Capability of LLMs in Identifying Compilation Errors in Configurable Systems**|Lucas Albuquerque et.al.|[2407.19087](http://arxiv.org/abs/2407.19087)|null|
+|**2024-07-30**|**Evaluating the Capability of LLMs in Identifying Compilation Errors in Configurable Systems**|Lucas Albuquerque et.al.|[2407.19087](http://arxiv.org/abs/2407.19087)|null|
 |**2024-07-26**|**Catalog of outbursts of neutron star LMXBs**|Craig O. Heinke et.al.|[2407.18867](http://arxiv.org/abs/2407.18867)|null|
 |**2024-07-26**|**Fast and Parallelizable Logical Computation with Homological Product Codes**|Qian Xu et.al.|[2407.18490](http://arxiv.org/abs/2407.18490)|null|
 |**2024-07-25**|**Ordinary and exotic mesons in the extended Linear Sigma Model**|Francesco Giacosa et.al.|[2407.18348](http://arxiv.org/abs/2407.18348)|null|
@@ -2229,6 +2236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Catalog-based pseudo- $C_\ell$ s**|Kevin Wolz et.al.|[2407.21013](http://arxiv.org/abs/2407.21013)|null|
+|**2024-07-30**|**Uplink Wave-Domain Combiner for Stacked Intelligent Metasurfaces Accounting for Hardware Limitations**|Maryam Rezvani et.al.|[2407.21012](http://arxiv.org/abs/2407.21012)|null|
+|**2024-07-30**|**Human-Data Interaction Framework: A Comprehensive Model for a Future Driven by Data and Humans**|Ivan Durango et.al.|[2407.21010](http://arxiv.org/abs/2407.21010)|null|
+|**2024-07-30**|**Bayesian technique to combine independently-trained Machine-Learning models applied to direct dark matter detection**|David Cerdeno et.al.|[2407.21008](http://arxiv.org/abs/2407.21008)|**[link](https://github.com/Martindelosrios/CADDENA)**|
+|**2024-07-30**|**Scaling of contraction costs for multi-scale entanglement renormalization including tensor Trotterization and variational Monte Carlo**|Thomas Barthel et.al.|[2407.21006](http://arxiv.org/abs/2407.21006)|null|
+|**2024-07-30**|**Settling the Pass Complexity of Approximate Matchings in Dynamic Graph Streams**|Sepehr Assadi et.al.|[2407.21005](http://arxiv.org/abs/2407.21005)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-30**|**Compact assessment of molecular surface complementarities enhances neural network-aided prediction of key binding residues**|Greta Grassmann et.al.|[2407.20992](http://arxiv.org/abs/2407.20992)|null|
+|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
+|**2024-07-30**|**Analysis of Polarized Dust Emission from the First Flight of the SPIDER Balloon-Borne Telescope**|SPIDER Collaboration et.al.|[2407.20982](http://arxiv.org/abs/2407.20982)|null|
 |**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230](http://arxiv.org/abs/2407.20230)|null|
 |**2024-07-29**|**Models of random spanning trees**|Eric Babson et.al.|[2407.20226](http://arxiv.org/abs/2407.20226)|null|
 |**2024-07-29**|**Tetrahedral grids in Monte Carlo radiative transfer**|Arno Lauwers et.al.|[2407.20216](http://arxiv.org/abs/2407.20216)|null|
@@ -5394,6 +5411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Uplink Wave-Domain Combiner for Stacked Intelligent Metasurfaces Accounting for Hardware Limitations**|Maryam Rezvani et.al.|[2407.21012](http://arxiv.org/abs/2407.21012)|null|
+|**2024-07-30**|**Hardware Limitations of Dynamic Metasurface Antennas in the Uplink: A Comparative Study**|Maryam Rezvani et.al.|[2407.20988](http://arxiv.org/abs/2407.20988)|null|
+|**2024-07-30**|**Physically-consistent Multi-band Massive MIMO Systems: A Radio Resource Management Model**|Nuwan Balasuriya et.al.|[2407.20945](http://arxiv.org/abs/2407.20945)|null|
+|**2024-07-30**|**Synthesis of Resource-Efficient Superconducting Circuits with Clock-Free Alternating Logic**|Jennifer Volk et.al.|[2407.20942](http://arxiv.org/abs/2407.20942)|null|
+|**2024-07-30**|**What is YOLOv5: A deep look into the internal features of the popular object detector**|Rahima Khanam et.al.|[2407.20892](http://arxiv.org/abs/2407.20892)|null|
+|**2024-07-30**|**Mean of Means: A 10-dollar Solution for Human Localization with Calibration-free and Unconstrained Camera Settings**|Tianyi Zhang et.al.|[2407.20870](http://arxiv.org/abs/2407.20870)|null|
+|**2024-07-30**|**Auxiliary-free replica shadow estimation**|Qing Liu et.al.|[2407.20865](http://arxiv.org/abs/2407.20865)|null|
+|**2024-07-30**|**UpDown: Programmable fine-grained Events for Scalable Performance on Irregular Applications**|Andronicus Rajasukumar et.al.|[2407.20773](http://arxiv.org/abs/2407.20773)|null|
+|**2024-07-30**|**A Fully Open-Source End-to-End Private 5G Network over Unlicensed Frequency Bands**|Faycal Bouhafs et.al.|[2407.20652](http://arxiv.org/abs/2407.20652)|null|
+|**2024-07-30**|**Configurable Multi-Port Memory Architecture for High-Speed Data Communication**|Narendra Singh Dhakad et.al.|[2407.20628](http://arxiv.org/abs/2407.20628)|null|
 |**2024-07-29**|**ByteCheckpoint: A Unified Checkpointing System for LLM Development**|Borui Wan et.al.|[2407.20143](http://arxiv.org/abs/2407.20143)|null|
 |**2024-07-29**|**Requirements on bit resolution in optical Ising machine implementations**|Toon Sevenants et.al.|[2407.19956](http://arxiv.org/abs/2407.19956)|null|
 |**2024-07-29**|**Culsans: An Efficient Snoop-based Coherency Unit for the CVA6 Open Source RISC-V application processor**|Riccardo Tedeschi et.al.|[2407.19895](http://arxiv.org/abs/2407.19895)|null|
@@ -8450,6 +8477,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
+|**2024-07-30**|**Human-Data Interaction Framework: A Comprehensive Model for a Future Driven by Data and Humans**|Ivan Durango et.al.|[2407.21010](http://arxiv.org/abs/2407.21010)|null|
+|**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004](http://arxiv.org/abs/2407.21004)|null|
+|**2024-07-30**|**Thermal spin-crossover and temperature-dependent zero-field splitting in magnetic nanographene chains**|Yan Wang et.al.|[2407.20996](http://arxiv.org/abs/2407.20996)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
+|**2024-07-30**|**PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter**|Pujan Paudel et.al.|[2407.20987](http://arxiv.org/abs/2407.20987)|**[link](https://github.com/idramalab/pixelmod)**|
+|**2024-07-30**|**Thermalization propagation front and robustness against avalanches in localized systems**|Annarita Scocco et.al.|[2407.20985](http://arxiv.org/abs/2407.20985)|null|
+|**2024-07-30**|**Are gene-by-environment interactions leveraged in multi-modality neural networks for breast cancer prediction?**|Monica Isgut et.al.|[2407.20978](http://arxiv.org/abs/2407.20978)|null|
+|**2024-07-30**|**Distributed Symmetric Key Establishment: a Scalable Quantum-Safe Key Distribution Protocol**|Jie Lin et.al.|[2407.20969](http://arxiv.org/abs/2407.20969)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
 |**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207](http://arxiv.org/abs/2407.20207)|null|
 |**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
@@ -11612,6 +11649,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Scaling of contraction costs for multi-scale entanglement renormalization including tensor Trotterization and variational Monte Carlo**|Thomas Barthel et.al.|[2407.21006](http://arxiv.org/abs/2407.21006)|null|
+|**2024-07-30**|**Compact assessment of molecular surface complementarities enhances neural network-aided prediction of key binding residues**|Greta Grassmann et.al.|[2407.20992](http://arxiv.org/abs/2407.20992)|null|
+|**2024-07-30**|**Contrasting Deep Learning Models for Direct Respiratory Insufficiency Detection Versus Blood Oxygen Saturation Estimation**|Marcelo Matheus Gauy et.al.|[2407.20989](http://arxiv.org/abs/2407.20989)|null|
+|**2024-07-30**|**Thermalization propagation front and robustness against avalanches in localized systems**|Annarita Scocco et.al.|[2407.20985](http://arxiv.org/abs/2407.20985)|null|
+|**2024-07-30**|**Engineering photonic band gaps with a waveguide-QED structure containing an atom-polymer array**|M. S. Wang et.al.|[2407.20984](http://arxiv.org/abs/2407.20984)|null|
+|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
+|**2024-07-30**|**Impact of Conflicting Transactions in Blockchain: Detecting and Mitigating Potential Attacks**|Faisal Haque Bappy et.al.|[2407.20980](http://arxiv.org/abs/2407.20980)|null|
+|**2024-07-30**|**Are gene-by-environment interactions leveraged in multi-modality neural networks for breast cancer prediction?**|Monica Isgut et.al.|[2407.20978](http://arxiv.org/abs/2407.20978)|null|
+|**2024-07-30**|**Recent Update of Gas-Phase Chemical Reactions and Molecular Lines of TiO in Cloudy**|Gargi Shaw et.al.|[2407.20972](http://arxiv.org/abs/2407.20972)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
 |**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
 |**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199](http://arxiv.org/abs/2407.20199)|null|
@@ -14775,6 +14822,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**A Multiwavelength Portrait of the 3C 220.3 Lensed System**|Sóley Ó. Hyman et.al.|[2407.21020](http://arxiv.org/abs/2407.21020)|null|
+|**2024-07-30**|**Comparative Analyses of the Type D ASEP: Stochastic Fusion and Crystal Bases**|Erik Brodsky et.al.|[2407.21015](http://arxiv.org/abs/2407.21015)|null|
+|**2024-07-30**|**Uplink Wave-Domain Combiner for Stacked Intelligent Metasurfaces Accounting for Hardware Limitations**|Maryam Rezvani et.al.|[2407.21012](http://arxiv.org/abs/2407.21012)|null|
+|**2024-07-30**|**Scaling of contraction costs for multi-scale entanglement renormalization including tensor Trotterization and variational Monte Carlo**|Thomas Barthel et.al.|[2407.21006](http://arxiv.org/abs/2407.21006)|null|
+|**2024-07-30**|**Meteoritic Tutton salt, a naturally inspired reservoir of cometary and asteroidal ammonium**|Sergey N. Britvin et.al.|[2407.20997](http://arxiv.org/abs/2407.20997)|null|
+|**2024-07-30**|**PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter**|Pujan Paudel et.al.|[2407.20987](http://arxiv.org/abs/2407.20987)|**[link](https://github.com/idramalab/pixelmod)**|
+|**2024-07-30**|**Thermalization propagation front and robustness against avalanches in localized systems**|Annarita Scocco et.al.|[2407.20985](http://arxiv.org/abs/2407.20985)|null|
+|**2024-07-30**|**Engineering photonic band gaps with a waveguide-QED structure containing an atom-polymer array**|M. S. Wang et.al.|[2407.20984](http://arxiv.org/abs/2407.20984)|null|
+|**2024-07-30**|**Securing Proof of Stake Blockchains: Leveraging Multi-Agent Reinforcement Learning for Detecting and Mitigating Malicious Nodes**|Faisal Haque Bappy et.al.|[2407.20983](http://arxiv.org/abs/2407.20983)|null|
+|**2024-07-30**|**Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy**|Isaiah A. Moses et.al.|[2407.20975](http://arxiv.org/abs/2407.20975)|null|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230](http://arxiv.org/abs/2407.20230)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219](http://arxiv.org/abs/2407.20219)|**[link](https://github.com/colmap/glomap)**|
