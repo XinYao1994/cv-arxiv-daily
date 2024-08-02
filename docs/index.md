@@ -667,7 +667,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-31**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
+|**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
 |**2024-07-31**|**Data Contamination Report from the 2024 CONDA Shared Task**|Oscar Sainz et.al.|[2407.21530](http://arxiv.org/abs/2407.21530)|null|
 |**2024-07-31**|**On the use of calibration data in error-aware compilation techniques for NISQ devices**|Handy Kurniawan et.al.|[2407.21462](http://arxiv.org/abs/2407.21462)|null|
 |**2024-07-31**|**FTuner: A Fast Dynamic Shape Tensors Program Auto-Tuner for Deep Learning Compilers**|Pengyu Mu et.al.|[2407.21418](http://arxiv.org/abs/2407.21418)|null|
