@@ -737,7 +737,7 @@ layout: default
 |**2024-07-17**|**Type-level Property Based Testing**|Thomas Ekström Hansen et.al.|[2407.12726](http://arxiv.org/abs/2407.12726)|**[link](https://github.com/CodingCellist/tyde-24-code)**|
 |**2024-07-17**|**Pulse-based variational quantum optimization and metalearning in superconducting circuits**|Yapeng Wang et.al.|[2407.12636](http://arxiv.org/abs/2407.12636)|null|
 |**2024-07-17**|**WebAssembly and Security: a review**|Gaetano Perrone et.al.|[2407.12297](http://arxiv.org/abs/2407.12297)|null|
-|**2024-07-17**|**Dual-Hybrid Attention Network for Specular Highlight Removal**|Xiaojiao Guo et.al.|[2407.12255](http://arxiv.org/abs/2407.12255)|null|
+|**2024-07-17**|**Dual-Hybrid Attention Network for Specular Highlight Removal**|Xiaojiao Guo et.al.|[2407.12255](http://arxiv.org/abs/2407.12255)|**[link](https://github.com/CXH-Research/DHAN-SHR)**|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
 |**2024-07-16**|**What Makes a Meme a Meme? Identifying Memes for Memetics-Aware Dataset Creation**|Muzhaffar Hazman et.al.|[2407.11861](http://arxiv.org/abs/2407.11861)|null|
@@ -1084,7 +1084,7 @@ layout: default
 |**2024-04-20**|**Declarative Concurrent Data Structures**|Aun Raza et.al.|[2404.13359](http://arxiv.org/abs/2404.13359)|null|
 |**2024-04-19**|**MAiDE-up: Multilingual Deception Detection of GPT-generated Hotel Reviews**|Oana Ignat et.al.|[2404.12938](http://arxiv.org/abs/2404.12938)|**[link](https://github.com/michigannlp/multilingual_reviews_deception)**|
 |**2024-04-19**|**Cross-cultural Inspiration Detection and Analysis in Real and LLM-generated Social Media Data**|Oana Ignat et.al.|[2404.12933](http://arxiv.org/abs/2404.12933)|**[link](https://github.com/michigannlp/cross_inspiration)**|
-|**2024-04-19**|**CT-ADE: An Evaluation Benchmark for Adverse Drug Event Prediction from Clinical Trial Results**|Anthony Yazdani et.al.|[2404.12827](http://arxiv.org/abs/2404.12827)|null|
+|**2024-04-19**|**CT-ADE: An Evaluation Benchmark for Adverse Drug Event Prediction from Clinical Trial Results**|Anthony Yazdani et.al.|[2404.12827](http://arxiv.org/abs/2404.12827)|**[link](https://github.com/ds4dh/ct-ade)**|
 |**2024-04-19**|**Research on WebAssembly Runtimes: A Survey**|Yixuan Zhang et.al.|[2404.12621](http://arxiv.org/abs/2404.12621)|null|
 |**2024-04-19**|**Qwerty: A Basis-Oriented Quantum Programming Language**|Austin J. Adams et.al.|[2404.12603](http://arxiv.org/abs/2404.12603)|null|
 |**2024-04-18**|**Proteus: Preserving Model Confidentiality during Graph Optimizations**|Yubo Gao et.al.|[2404.12512](http://arxiv.org/abs/2404.12512)|**[link](https://github.com/proteus-mlsys24/mlsys24-artifact)**|
@@ -1484,7 +1484,7 @@ layout: default
 |**2023-12-18**|**Agent-based Learning of Materials Datasets from Scientific Literature**|Mehrad Ansari et.al.|[2312.11690](http://arxiv.org/abs/2312.11690)|**[link](https://github.com/ai4chems/eunomia)**|
 |**2023-12-18**|**Error-corrected Hadamard gate simulated at the circuit level**|György P. Gehér et.al.|[2312.11605](http://arxiv.org/abs/2312.11605)|null|
 |**2023-12-18**|**One size fits all: Insights on Extrinsic Thermal Absorption from Similarity of Supernova Remnant Radio Continuum Spectra**|M. G. Abadi et.al.|[2312.11440](http://arxiv.org/abs/2312.11440)|null|
-|**2023-12-18**|**Bifurcation tracking on moving meshes and with consideration of azimuthal symmetry breaking instabilities**|Christian Diddens et.al.|[2312.11416](http://arxiv.org/abs/2312.11416)|null|
+|**2023-12-18**|**Bifurcation tracking on moving meshes and with consideration of azimuthal symmetry breaking instabilities**|Christian Diddens et.al.|[2312.11416](http://arxiv.org/abs/2312.11416)|**[link](https://github.com/pyoomph/pyoomph_examples/tree/main/bifurcations)**|
 |**2023-12-18**|**Minimizing Photonic Cluster State Depth in Measurement-Based Quantum Computing**|Yingheng Li et.al.|[2312.10865](http://arxiv.org/abs/2312.10865)|null|
 |**2023-12-17**|**A Survey on Query-based API Recommendation**|Moshi Wei et.al.|[2312.10623](http://arxiv.org/abs/2312.10623)|null|
 |**2023-12-16**|**DeepArt: A Benchmark to Advance Fidelity Research in AI-Generated Content**|Wentao Wang et.al.|[2312.10407](http://arxiv.org/abs/2312.10407)|**[link](https://github.com/rickwang28574/deepart)**|
@@ -3633,7 +3633,7 @@ layout: default
 |**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|**[link](https://github.com/vahe1994/aqlm)**|
 |**2024-01-11**|**Computing NMHV Gravity Amplitudes at Infinity**|Dawit Belayneh et.al.|[2401.06114](http://arxiv.org/abs/2401.06114)|null|
 |**2024-01-11**|**Holey graphs: very large Betti numbers are testable**|Dániel Szabó et.al.|[2401.06109](http://arxiv.org/abs/2401.06109)|null|
-|**2024-01-11**|**Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation**|Osman Mamun et.al.|[2401.06106](http://arxiv.org/abs/2401.06106)|null|
+|**2024-01-11**|**Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation**|Osman Mamun et.al.|[2401.06106](http://arxiv.org/abs/2401.06106)|**[link](https://github.com/mamunm/AlloyOpt)**|
 |**2024-01-11**|**Fast reconstruction of programmable interferometers with intensity-only measurements**|B. I. Bantysh et.al.|[2401.06093](http://arxiv.org/abs/2401.06093)|null|
 |**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091](http://arxiv.org/abs/2401.06091)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
 |**2024-01-11**|**PANDORA: A Parallel Dendrogram Construction Algorithm for Single Linkage Clustering on GPU**|Piyush Sao et.al.|[2401.06089](http://arxiv.org/abs/2401.06089)|null|
@@ -4415,7 +4415,7 @@ layout: default
 |**2023-09-18**|**GEDepth: Ground Embedding for Monocular Depth Estimation**|Xiaodong Yang et.al.|[2309.09975](http://arxiv.org/abs/2309.09975)|**[link](https://github.com/qcraftai/gedepth)**|
 |**2023-09-18**|**How to Make Knockout Tournaments More Popular?**|Juhi Chaudhary et.al.|[2309.09967](http://arxiv.org/abs/2309.09967)|null|
 |**2023-09-18**|**Quantum Circuit Optimization through Iteratively Pre-Conditioned Gradient Descent**|Dhruv Srinivasan et.al.|[2309.09957](http://arxiv.org/abs/2309.09957)|null|
-|**2023-09-18**|**vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**|George Yiasemis et.al.|[2309.09954](http://arxiv.org/abs/2309.09954)|null|
+|**2023-09-18**|**vSHARP: variable Splitting Half-quadratic ADMM algorithm for Reconstruction of inverse-Problems**|George Yiasemis et.al.|[2309.09954](http://arxiv.org/abs/2309.09954)|**[link](https://github.com/nki-ai/direct)**|
 |**2023-09-18**|**OptiRoute: A Heuristic-assisted Deep Reinforcement Learning Framework for UAV-UGV Collaborative Route Planning**|Md Safwan Mondal et.al.|[2309.09942](http://arxiv.org/abs/2309.09942)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
 |**2023-09-18**|**Increasing the dimension of linear systems solved by classical or quantum binary optimization: A new method to solve large linear equation systems**|Erick R. Castro et.al.|[2309.09933](http://arxiv.org/abs/2309.09933)|null|
@@ -11766,7 +11766,7 @@ layout: default
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213](http://arxiv.org/abs/2407.20213)|null|
 |**2024-07-29**|**Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration**|Yixiao Ma et.al.|[2407.20203](http://arxiv.org/abs/2407.20203)|null|
 |**2024-07-29**|**Emergence in non-neural models: grokking modular arithmetic via average gradient outer product**|Neil Mallinar et.al.|[2407.20199](http://arxiv.org/abs/2407.20199)|null|
-|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198](http://arxiv.org/abs/2407.20198)|null|
+|**2024-07-29**|**SpaER: Learning Spatio-temporal Equivariant Representations for Fetal Brain Motion Tracking**|Jian Wang et.al.|[2407.20198](http://arxiv.org/abs/2407.20198)|**[link](https://github.com/bchimagine/SpaER)**|
 |**2024-07-29**|**Learning Random Numbers to Realize Appendable Memory System for Artificial Intelligence to Acquire New Knowledge after Deployment**|Kazunori D Yamada et.al.|[2407.20197](http://arxiv.org/abs/2407.20197)|null|
 |**2024-07-29**|**The generator gradient estimator is an adjoint state method for stochastic differential equations**|Quentin Badolle et.al.|[2407.20196](http://arxiv.org/abs/2407.20196)|null|
 |**2024-07-29**|**Polydispersity in Percolation**|Fabian Coupette et.al.|[2407.20193](http://arxiv.org/abs/2407.20193)|null|
