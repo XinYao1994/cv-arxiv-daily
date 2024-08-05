@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2268,7 +2268,7 @@ layout: default
 |**2024-08-01**|**An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**|Yangzhen Wu et.al.|[2408.00724](http://arxiv.org/abs/2408.00724)|null|
 |**2024-08-01**|**Nonasymptotic Analysis of Accelerated Methods With Inexact Oracle Under Absolute Error Bound**|Yin Liu et.al.|[2408.00720](http://arxiv.org/abs/2408.00720)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
-|**2024-08-01**|**Insurance Portfolio Pursuit with Reinforcement Learning**|Edward James Young et.al.|[2408.00713](http://arxiv.org/abs/2408.00713)|null|
+|**2024-08-02**|**Reinforcement Learning applied to Insurance Portfolio Pursuit**|Edward James Young et.al.|[2408.00713](http://arxiv.org/abs/2408.00713)|null|
 |**2024-08-01**|**Segment-Based Test Case Prioritization: A Multi-objective Approach**|Hieu Huynh et.al.|[2408.00705](http://arxiv.org/abs/2408.00705)|null|
 |**2024-07-31**|**Deep Learning for Options Trading: An End-To-End Approach**|Wee Ling Tan et.al.|[2407.21791](http://arxiv.org/abs/2407.21791)|null|
 |**2024-07-31**|**Robust Restaking Networks**|Naveen Durvasula et.al.|[2407.21785](http://arxiv.org/abs/2407.21785)|null|
@@ -5463,7 +5463,7 @@ layout: default
 |**2024-08-01**|**Beyond full statevector simulation with Qibo**|Andrea Pasquale et.al.|[2408.00384](http://arxiv.org/abs/2408.00384)|null|
 |**2024-08-01**|**Illumination Design for Joint Imaging and Wireless Power Transfer Systems**|Qianyu Yang et.al.|[2408.00368](http://arxiv.org/abs/2408.00368)|null|
 |**2024-08-01**|**MAARS: Multi-Rate Attack-Aware Randomized Scheduling for Securing Real-time Systems**|Arkaprava Sain et.al.|[2408.00341](http://arxiv.org/abs/2408.00341)|null|
-|**2024-08-01**|**Search-in-Memory (SiM): Reliable, Versatile, and Efficient Data Matching in SSD's NAND Flash Memory Chip for Data Indexing Acceleration**|Yun-Chih Chen et.al.|[2408.00327](http://arxiv.org/abs/2408.00327)|null|
+|**2024-08-02**|**Search-in-Memory (SiM): Reliable, Versatile, and Efficient Data Matching in SSD's NAND Flash Memory Chip for Data Indexing Acceleration**|Yun-Chih Chen et.al.|[2408.00327](http://arxiv.org/abs/2408.00327)|null|
 |**2024-08-01**|**Towards Scalable GPU-Accelerated SNN Training via Temporal Fusion**|Yanchen Li et.al.|[2408.00280](http://arxiv.org/abs/2408.00280)|null|
 |**2024-07-31**|**Diagnostic Runtime Monitoring with Martingales**|Ali Hindy et.al.|[2407.21748](http://arxiv.org/abs/2407.21748)|null|
 |**2024-07-31**|**An open-source framework for quantum hardware control**|Edoardo Pedicillo et.al.|[2407.21737](http://arxiv.org/abs/2407.21737)|null|
