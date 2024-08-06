@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Enabling Practical Transparent Checkpointing for MPI: A Topological Sort Approach**|Yao Xu et.al.|[2408.02218](http://arxiv.org/abs/2408.02218)|null|
 |**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
 |**2024-07-13**|**SeqBalance: Congestion-Aware Load Balancing with no Reordering for RoCE**|Huimin Luo et.al.|[2407.09808](http://arxiv.org/abs/2407.09808)|null|
 |**2024-07-12**|**Enabling Elastic Model Serving with MultiWorld**|Myungjin Lee et.al.|[2407.08980](http://arxiv.org/abs/2407.08980)|**[link](https://github.com/cisco-open/pymultiworld)**|
@@ -92,6 +93,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
@@ -195,6 +197,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Bridging the Gap to Next Generation Power System Planning and Operation with Quantum Computation**|Priyanka Arkalgud Ganeshamurthy et.al.|[2408.02432](http://arxiv.org/abs/2408.02432)|null|
+|**2024-08-03**|**Impact of polarization mode dispersion on entangled photon distribution**|Vadim Rodimin et.al.|[2408.01754](http://arxiv.org/abs/2408.01754)|null|
 |**2024-08-02**|**A Short-Term Planning Framework for the Operation of Tanker-Based Water Distribution Systems in Urban Areas**|Abhilasha Maheshwari et.al.|[2408.01184](http://arxiv.org/abs/2408.01184)|null|
 |**2024-08-01**|**An Operational Scheduling Framework for Tanker-based Water Distribution System under Uncertainty**|Abhilasha Maheshwari et.al.|[2408.00431](http://arxiv.org/abs/2408.00431)|null|
 |**2024-08-01**|**A Survey on the Applications of Zero-Knowledge Proofs**|Ryan Lavin et.al.|[2408.00243](http://arxiv.org/abs/2408.00243)|null|
@@ -689,10 +693,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation**|Aaron Imani et.al.|[2408.02502](http://arxiv.org/abs/2408.02502)|null|
+|**2024-08-05**|**ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems**|Andrew Zhu et.al.|[2408.02248](http://arxiv.org/abs/2408.02248)|null|
+|**2024-08-04**|**ARVO: Atlas of Reproducible Vulnerabilities for Open Source Software**|Xiang Mei et.al.|[2408.02153](http://arxiv.org/abs/2408.02153)|null|
+|**2024-08-04**|**Scaling Symbolic Execution to Large Software Systems**|Gabor Horvath et.al.|[2408.01909](http://arxiv.org/abs/2408.01909)|null|
+|**2024-08-03**|**Sólo Escúchame: Spanish Emotional Accompaniment Chatbot**|Bruno Gil Ramírez et.al.|[2408.01852](http://arxiv.org/abs/2408.01852)|null|
+|**2024-08-02**|**EDEN: Exploring Disks Embedded in N-body simulations of Milky-Way-mass halos from Symphony**|Yunchong Wang et.al.|[2408.01487](http://arxiv.org/abs/2408.01487)|null|
 |**2024-08-02**|**CFBench: A Comprehensive Constraints-Following Benchmark for LLMs**|Tao Zhang et.al.|[2408.01122](http://arxiv.org/abs/2408.01122)|null|
 |**2024-08-02**|**Host Galaxy Properties of Gamma-ray Bursts Involving Neutron Star Binary Mergers and Its Impact on Kilonovae Rates**|Mankeun Jeong et.al.|[2408.01048](http://arxiv.org/abs/2408.01048)|null|
 |**2024-08-02**|**Renewal and Regenerative Processes: short review**|Carlos Martinez-Rodriguez et.al.|[2408.01012](http://arxiv.org/abs/2408.01012)|null|
-|**2024-08-02**|**Fairness in Large Language Models in Three Hour**|Thang Doan Viet et.al.|[2408.00992](http://arxiv.org/abs/2408.00992)|null|
+|**2024-08-05**|**Fairness in Large Language Models in Three Hour**|Thang Doan Viet et.al.|[2408.00992](http://arxiv.org/abs/2408.00992)|null|
 |**2024-08-02**|**A SAT-based approach to rigorous verification of Bayesian networks**|Ignacy Stępka et.al.|[2408.00986](http://arxiv.org/abs/2408.00986)|null|
 |**2024-08-01**|**Contrastive Learning with Dynamic Localized Repulsion for Brain Age Prediction on 3D Stiffness Maps**|Jakob Träuble et.al.|[2408.00527](http://arxiv.org/abs/2408.00527)|null|
 |**2024-08-01**|**A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality**|M. Mehdi Kholoosi et.al.|[2408.00435](http://arxiv.org/abs/2408.00435)|null|
@@ -2286,6 +2296,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**A Targeted Search for Variable Gravitationally Lensed Quasars**|William Sheu et.al.|[2408.02670](http://arxiv.org/abs/2408.02670)|null|
+|**2024-08-05**|**On the Infinite-Nudging Limit of the Nudging Filter for Continuous Data Assimilation**|Elizabeth Carlson et.al.|[2408.02646](http://arxiv.org/abs/2408.02646)|null|
+|**2024-08-05**|**Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models**|Fabio Tarocco et.al.|[2408.02639](http://arxiv.org/abs/2408.02639)|null|
+|**2024-08-05**|**CLVR Ordering of Transactions on AMMs**|Robert McLaughlin et.al.|[2408.02634](http://arxiv.org/abs/2408.02634)|null|
+|**2024-08-05**|**Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry**|Davide Materia et.al.|[2408.02631](http://arxiv.org/abs/2408.02631)|null|
+|**2024-08-05**|**Selective pruning and neuronal death generate heavy-tail network connectivity**|Rodrigo Siqueira Kazu et.al.|[2408.02625](http://arxiv.org/abs/2408.02625)|null|
+|**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
+|**2024-08-05**|**Learning rheological parameters of non-Newtonian fluids from velocimetry data**|Alexandros Kontogiannis et.al.|[2408.02604](http://arxiv.org/abs/2408.02604)|null|
+|**2024-08-05**|**Assessing the Requirements for Industry Relevant Quantum Computation**|Anna M. Krol et.al.|[2408.02587](http://arxiv.org/abs/2408.02587)|null|
+|**2024-08-05**|**Massive MIMO-OTFS-Based Random Access for Cooperative LEO Satellite Constellations**|Boxiao Shen et.al.|[2408.02586](http://arxiv.org/abs/2408.02586)|null|
 |**2024-08-02**|**Generalised Circuit Partitioning for Distributed Quantum Computing**|Felix Burt et.al.|[2408.01424](http://arxiv.org/abs/2408.01424)|null|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
 |**2024-08-02**|**Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations**|Emil Jackel et.al.|[2408.01407](http://arxiv.org/abs/2408.01407)|null|
@@ -5493,6 +5513,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662](http://arxiv.org/abs/2408.02662)|null|
+|**2024-08-05**|**Mastering Agile Jumping Skills from Simple Practices with Iterative Learning Control**|Chuong Nguyen et.al.|[2408.02619](http://arxiv.org/abs/2408.02619)|null|
+|**2024-08-05**|**Comparison of Code Quality and Best Practices in IoT and non-IoT Software**|Nour Khezemi et.al.|[2408.02614](http://arxiv.org/abs/2408.02614)|null|
+|**2024-08-05**|**Practical Attacks against Black-box Code Completion Engines**|Slobodan Jenko et.al.|[2408.02509](http://arxiv.org/abs/2408.02509)|null|
+|**2024-08-05**|**Toward Attention-based TinyML: A Heterogeneous Accelerated Architecture and Automated Deployment Flow**|Philip Wiese et.al.|[2408.02473](http://arxiv.org/abs/2408.02473)|null|
+|**2024-08-05**|**Second 6G life Workshop on Post Shannon Theory**|Yaning Zhao et.al.|[2408.02446](http://arxiv.org/abs/2408.02446)|null|
+|**2024-08-05**|**PENDRAM: Enabling High-Performance and Energy-Efficient Processing of Deep Neural Networks through a Generalized DRAM Data Mapping Policy**|Rachmad Vidya Wicaksana Putra et.al.|[2408.02412](http://arxiv.org/abs/2408.02412)|null|
+|**2024-08-05**|**A Lean Transformer Model for Dynamic Malware Analysis and Detection**|Tony Quertier et.al.|[2408.02313](http://arxiv.org/abs/2408.02313)|null|
+|**2024-08-05**|**Approximating under the Influence of Quantum Noise and Compute Power**|Simon Thelen et.al.|[2408.02287](http://arxiv.org/abs/2408.02287)|null|
+|**2024-08-05**|**Hardware Aware Ensemble Selection for Balancing Predictive Accuracy and Cost**|Jannis Maier et.al.|[2408.02280](http://arxiv.org/abs/2408.02280)|null|
 |**2024-08-02**|**Digitized Phase Change Material Heterostack for Diffractive Optical Neural Network**|Ruiyang Chen et.al.|[2408.01404](http://arxiv.org/abs/2408.01404)|null|
 |**2024-08-02**|**A Tiny Supervised ODL Core with Auto Data Pruning for Human Activity Recognition**|Hiroki Matsutani et.al.|[2408.01283](http://arxiv.org/abs/2408.01283)|null|
 |**2024-08-02**|**TrIM: Triangular Input Movement Systolic Array for Convolutional Neural Networks -- Part I: Dataflow and Analytical Modelling**|Cristian Sestito et.al.|[2408.01254](http://arxiv.org/abs/2408.01254)|null|
@@ -8591,6 +8621,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662](http://arxiv.org/abs/2408.02662)|null|
+|**2024-08-05**|**Wavenumber Calibration for an Imaging Refractometer**|A. Rososhek et.al.|[2408.02660](http://arxiv.org/abs/2408.02660)|null|
+|**2024-08-05**|**Towards principles of brain network organization and function**|Suman Kulkarni et.al.|[2408.02640](http://arxiv.org/abs/2408.02640)|null|
+|**2024-08-05**|**Compact Multi-Threshold Quantum Information Driven Ansatz For Strongly Interactive Lattice Spin Models**|Fabio Tarocco et.al.|[2408.02639](http://arxiv.org/abs/2408.02639)|null|
+|**2024-08-05**|**CLVR Ordering of Transactions on AMMs**|Robert McLaughlin et.al.|[2408.02634](http://arxiv.org/abs/2408.02634)|null|
+|**2024-08-05**|**Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry**|Davide Materia et.al.|[2408.02631](http://arxiv.org/abs/2408.02631)|null|
+|**2024-08-05**|**A Reverse Non-Equilibrium Molecular Dynamics (RNEMD) Algorithm for Coupled Mass and Heat Transport in Mixtures**|Cody R. Drisko et.al.|[2408.02621](http://arxiv.org/abs/2408.02621)|null|
+|**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
+|**2024-08-05**|**Comparison of Code Quality and Best Practices in IoT and non-IoT Software**|Nour Khezemi et.al.|[2408.02614](http://arxiv.org/abs/2408.02614)|null|
+|**2024-08-05**|**Log-Gaussian Cox Processes for Spatiotemporal Traffic Fatality Estimation in Addis Ababa**|Yassin Tesfaw Abebe et.al.|[2408.02612](http://arxiv.org/abs/2408.02612)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-08-02**|**Improving Multilingual Neural Machine Translation by Utilizing Semantic and Linguistic Features**|Mengyu Bu et.al.|[2408.01394](http://arxiv.org/abs/2408.01394)|null|
 |**2024-08-02**|**Hybrid Coordinate Descent for Efficient Neural Network Learning Using Line Search and Gradient Descent**|Yen-Che Hsiao et.al.|[2408.01374](http://arxiv.org/abs/2408.01374)|null|
@@ -11795,6 +11835,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Latent-INR: A Flexible Framework for Implicit Representations of Videos with Discriminative Semantics**|Shishira R Maiya et.al.|[2408.02672](http://arxiv.org/abs/2408.02672)|null|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
+|**2024-08-05**|**On Using Quasirandom Sequences in Machine Learning for Model Weight Initialization**|Andriy Miranskyy et.al.|[2408.02654](http://arxiv.org/abs/2408.02654)|null|
+|**2024-08-05**|**Towards principles of brain network organization and function**|Suman Kulkarni et.al.|[2408.02640](http://arxiv.org/abs/2408.02640)|null|
+|**2024-08-05**|**Quantum information theory on sparse wavefunctions and applications for Quantum Chemistry**|Davide Materia et.al.|[2408.02631](http://arxiv.org/abs/2408.02631)|null|
+|**2024-08-05**|**Selective pruning and neuronal death generate heavy-tail network connectivity**|Rodrigo Siqueira Kazu et.al.|[2408.02625](http://arxiv.org/abs/2408.02625)|null|
+|**2024-08-05**|**Comparison of Code Quality and Best Practices in IoT and non-IoT Software**|Nour Khezemi et.al.|[2408.02614](http://arxiv.org/abs/2408.02614)|null|
+|**2024-08-05**|**Log-Gaussian Cox Processes for Spatiotemporal Traffic Fatality Estimation in Addis Ababa**|Yassin Tesfaw Abebe et.al.|[2408.02612](http://arxiv.org/abs/2408.02612)|null|
+|**2024-08-05**|**Large time effective kinetics $β$ -function for quantum (2+p)-spin glass**|Vincent Lahoche et.al.|[2408.02602](http://arxiv.org/abs/2408.02602)|null|
+|**2024-08-05**|**Many-body localization crossover is sharper in quasiperiodic spin chains**|Pedro R. Nicácio Falcão et.al.|[2408.02590](http://arxiv.org/abs/2408.02590)|null|
 |**2024-08-02**|**The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability**|Aaron Mueller et.al.|[2408.01416](http://arxiv.org/abs/2408.01416)|null|
 |**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
 |**2024-08-02**|**Derivation of Back-propagation for Graph Convolutional Networks using Matrix Calculus and its Application to Explainable Artificial Intelligence**|Yen-Che Hsiao et.al.|[2408.01408](http://arxiv.org/abs/2408.01408)|null|
@@ -15000,6 +15050,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**Systematic bias due to mismodelling precessing binary black hole ringdown**|Cheng Foo et.al.|[2408.02671](http://arxiv.org/abs/2408.02671)|null|
+|**2024-08-05**|**A Targeted Search for Variable Gravitationally Lensed Quasars**|William Sheu et.al.|[2408.02670](http://arxiv.org/abs/2408.02670)|null|
+|**2024-08-05**|**Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form**|Hendrik Ranocha et.al.|[2408.02665](http://arxiv.org/abs/2408.02665)|null|
+|**2024-08-05**|**Exchange-correlation potential built on the derivative discontinuity of electron density**|Chen Huang et.al.|[2408.02663](http://arxiv.org/abs/2408.02663)|null|
+|**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662](http://arxiv.org/abs/2408.02662)|null|
+|**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
+|**2024-08-05**|**Wavenumber Calibration for an Imaging Refractometer**|A. Rososhek et.al.|[2408.02660](http://arxiv.org/abs/2408.02660)|null|
+|**2024-08-05**|**Vortex inverted pin beams: Mitigation of scintillations in strong atmospheric turbulence**|Sotiris Droulias et.al.|[2408.02659](http://arxiv.org/abs/2408.02659)|null|
+|**2024-08-05**|**Algebraic Stability for Skew Products**|Richard A. P. Birkett et.al.|[2408.02658](http://arxiv.org/abs/2408.02658)|null|
+|**2024-08-05**|**Long-living Equilibria in Kinetic Astrophysical Plasma Turbulence**|Mario Imbrogno et.al.|[2408.02656](http://arxiv.org/abs/2408.02656)|null|
 |**2024-08-02**|**Topological phases of the interacting SSH model: an analytical study**|E. Di Salvo et.al.|[2408.01421](http://arxiv.org/abs/2408.01421)|null|
 |**2024-08-02**|**The random timestep Euler method and its continuous dynamics**|Jonas Latz et.al.|[2408.01409](http://arxiv.org/abs/2408.01409)|null|
 |**2024-08-02**|**The magnon mediated plasmon friction: a functional integral approach**|Yang Wang et.al.|[2408.01405](http://arxiv.org/abs/2408.01405)|null|
@@ -18208,7 +18268,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-31**|**Mixed precision HODLR matrices**|Erin Carson et.al.|[2407.21637](http://arxiv.org/abs/2407.21637)|null|
+|**2024-08-05**|**Mixed precision HODLR matrices**|Erin Carson et.al.|[2407.21637](http://arxiv.org/abs/2407.21637)|null|
 |**2024-07-17**|**MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs**|Junfeng Gong et.al.|[2407.18267](http://arxiv.org/abs/2407.18267)|null|
 |**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175](http://arxiv.org/abs/2407.18175)|null|
 |**2024-07-22**|**Mixed Precision Block-Jacobi Preconditioner: Algorithms, Performance Evaluation and Feature Analysis**|Ningxi Tian et.al.|[2407.15973](http://arxiv.org/abs/2407.15973)|null|
