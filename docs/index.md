@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -188,7 +188,7 @@ layout: default
 |**2024-08-01**|**A Survey on the Applications of Zero-Knowledge Proofs**|Ryan Lavin et.al.|[2408.00243](http://arxiv.org/abs/2408.00243)|null|
 |**2024-07-31**|**Algorithms for Collaborative Machine Learning under Statistical Heterogeneity**|Seok-Ju Hahn et.al.|[2408.00050](http://arxiv.org/abs/2408.00050)|null|
 |**2024-07-31**|**Peer-to-Peer (P2P) Electricity Markets for Low Voltage Networks**|Diana Vieira Fernandes et.al.|[2407.21403](http://arxiv.org/abs/2407.21403)|null|
-|**2024-07-31**|**On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems**|Aaqib Peerzada et.al.|[2407.21259](http://arxiv.org/abs/2407.21259)|null|
+|**2024-08-05**|**On the Impact of High-Order Harmonic Generation in Electrical Distribution Systems**|Aaqib Peerzada et.al.|[2407.21259](http://arxiv.org/abs/2407.21259)|null|
 |**2024-07-30**|**Data-driven Modeling for Grid Edge IBRs: A Digital Twin Perspective of User-Defined Models**|Kaveri Mahapatra et.al.|[2407.21133](http://arxiv.org/abs/2407.21133)|null|
 |**2024-07-30**|**Online Prediction-Assisted Safe Reinforcement Learning for Electric Vehicle Charging Station Recommendation in Dynamically Coupled Transportation-Power Systems**|Qionghua Liao et.al.|[2407.20679](http://arxiv.org/abs/2407.20679)|null|
 |**2024-07-29**|**Trusted source noise model of discrete-modulated continuous-variable quantum key distribution**|Mingze Wu et.al.|[2407.20302](http://arxiv.org/abs/2407.20302)|null|
