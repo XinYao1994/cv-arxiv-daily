@@ -183,6 +183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Approximate Distributed Monitoring under Partial Synchrony: Balancing Speed and Accuracy**|Borzoo Bonakdarpour et.al.|[2408.05033](http://arxiv.org/abs/2408.05033)|null|
 |**2024-08-06**|**Large-Scale Graphs Community Detection using Spark GraphFrames**|Elena-Simona Apostol et.al.|[2408.03966](http://arxiv.org/abs/2408.03966)|null|
 |**2024-08-07**|**NetQIR: An Extension of QIR for Distributed Quantum Computing**|Jorge Vázquez-Pérez et.al.|[2408.03712](http://arxiv.org/abs/2408.03712)|null|
 |**2024-08-05**|**Learning with Adaptive Conservativeness for Distributionally Robust Optimization: Incentive Design for Voltage Regulation**|Zhirui Liang et.al.|[2408.02765](http://arxiv.org/abs/2408.02765)|null|
@@ -680,6 +681,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**AI-driven Java Performance Testing: Balancing Result Quality with Testing Time**|Luca Traini et.al.|[2408.05100](http://arxiv.org/abs/2408.05100)|null|
+|**2024-08-09**|**Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor**|Yiqi Liu et.al.|[2408.04808](http://arxiv.org/abs/2408.04808)|null|
+|**2024-08-08**|**AI for operational methane emitter monitoring from space**|Anna Vaughan et.al.|[2408.04745](http://arxiv.org/abs/2408.04745)|null|
+|**2024-08-08**|**Vela: A Data-Driven Proposal for Joint Collaboration in Space Exploration**|Holly M. Dinkel et.al.|[2408.04730](http://arxiv.org/abs/2408.04730)|null|
 |**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-08**|**Deeploy: Enabling Energy-Efficient Deployment of Small Language Models On Heterogeneous Microcontrollers**|Moritz Scherer et.al.|[2408.04413](http://arxiv.org/abs/2408.04413)|null|
 |**2024-08-08**|**Enabling Communication via APIs for Mainframe Applications**|Vini Kanvar et.al.|[2408.04230](http://arxiv.org/abs/2408.04230)|null|
@@ -2297,6 +2302,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Range Membership Inference Attacks**|Jiashu Tao et.al.|[2408.05131](http://arxiv.org/abs/2408.05131)|null|
+|**2024-08-09**|**Information vs Dimension -- an Algorithmic Perspective**|Jan Reimann et.al.|[2408.05121](http://arxiv.org/abs/2408.05121)|null|
+|**2024-08-09**|**Concept learning of parameterized quantum models from limited measurements**|Beng Yee Gan et.al.|[2408.05116](http://arxiv.org/abs/2408.05116)|null|
+|**2024-08-09**|**Optimal Distributed Multi-Robot Communication-Aware Trajectory Planning using Alternating Direction Method of Multipliers**|Jeppe Heini Mikkelsen et.al.|[2408.05111](http://arxiv.org/abs/2408.05111)|null|
+|**2024-08-09**|**Generalizing Few Data to Unseen Domains Flexibly Based on Label Smoothing Integrated with Distributionally Robust Optimization**|Yangdi Wang et.al.|[2408.05082](http://arxiv.org/abs/2408.05082)|null|
+|**2024-08-09**|**GLEAMS: Bridging the Gap Between Local and Global Explanations**|Giorgio Visani et.al.|[2408.05060](http://arxiv.org/abs/2408.05060)|null|
 |**2024-08-08**|**Adaptive Sampling Bi-Fidelity Stochastic Trust Region Method for Derivative-Free Stochastic Optimization**|Yunsoo Ha et.al.|[2408.04625](http://arxiv.org/abs/2408.04625)|null|
 |**2024-08-08**|**Regularized Unconstrained Weakly Submodular Maximization**|Yanhui Zhu et.al.|[2408.04620](http://arxiv.org/abs/2408.04620)|null|
 |**2024-08-08**|**SSD Set System, Graph Decomposition and Hamiltonian Cycle**|Kan Shota et.al.|[2408.04615](http://arxiv.org/abs/2408.04615)|null|
@@ -5542,6 +5557,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
+|**2024-08-09**|**Exploiting the Lock: Leveraging MiG-V's Logic Locking for Secret-Data Extraction**|Lennart M. Reimann et.al.|[2408.04976](http://arxiv.org/abs/2408.04976)|null|
+|**2024-08-09**|**Tight Time Complexities in Parallel Stochastic Optimization with Arbitrary Computation Dynamics**|Alexander Tyurin et.al.|[2408.04929](http://arxiv.org/abs/2408.04929)|null|
+|**2024-08-09**|**A Comprehensive System Architecture using Field Programmable Gate Arrays Technology, Dijkstra's Algorithm, and Edge Computing for Emergency Response in Smart Cities**|Mahamat Abdel Aziz Assoul et.al.|[2408.04924](http://arxiv.org/abs/2408.04924)|null|
+|**2024-08-09**|**Energy performance of LR-FHSS: analysis and evaluation**|Roger Sanchez-Vital et.al.|[2408.04908](http://arxiv.org/abs/2408.04908)|null|
+|**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901](http://arxiv.org/abs/2408.04901)|null|
+|**2024-08-09**|**A Collaborative PIM Computing Optimization Framework for Multi-Tenant DNN**|Bojing Li et.al.|[2408.04812](http://arxiv.org/abs/2408.04812)|null|
+|**2024-08-09**|**Improved Robustness for Deep Learning-based Segmentation of Multi-Center Myocardial Perfusion MRI Datasets Using Data Adaptive Uncertainty-guided Space-time Analysis**|Dilek M. Yalcinkaya et.al.|[2408.04805](http://arxiv.org/abs/2408.04805)|null|
+|**2024-08-08**|**Hybrid Quantum-Classical Neural Networks for Downlink Beamforming Optimization**|Juping Zhang et.al.|[2408.04747](http://arxiv.org/abs/2408.04747)|null|
 |**2024-08-08**|**Transformer Explainer: Interactive Learning of Text-Generative Models**|Aeree Cho et.al.|[2408.04619](http://arxiv.org/abs/2408.04619)|null|
 |**2024-08-08**|**Deeploy: Enabling Energy-Efficient Deployment of Small Language Models On Heterogeneous Microcontrollers**|Moritz Scherer et.al.|[2408.04413](http://arxiv.org/abs/2408.04413)|null|
 |**2024-08-08**|**Towards Less Greedy Quantum Coalition Structure Generation in Induced Subgraph Games**|Jonas Nüßlein et.al.|[2408.04366](http://arxiv.org/abs/2408.04366)|null|
@@ -8675,6 +8700,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
+|**2024-08-09**|**Separating Style from Substance: Enhancing Cross-Genre Authorship Attribution through Data Selection and Presentation**|Steven Fincke et.al.|[2408.05192](http://arxiv.org/abs/2408.05192)|null|
+|**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
+|**2024-08-09**|**Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators**|Chuwei Wang et.al.|[2408.05177](http://arxiv.org/abs/2408.05177)|null|
+|**2024-08-09**|**Numerical aspects of integration in physics-informed neural networks modelling**|Josef Daněk et.al.|[2408.05172](http://arxiv.org/abs/2408.05172)|null|
+|**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
+|**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
 |**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
 |**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604](http://arxiv.org/abs/2408.04604)|null|
@@ -11917,6 +11952,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
+|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
+|**2024-08-09**|**A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs**|Soraya Terrab et.al.|[2408.05193](http://arxiv.org/abs/2408.05193)|null|
+|**2024-08-09**|**Parameterized Verification of Timed Networks with Clock Invariants**|Étienne André et.al.|[2408.05190](http://arxiv.org/abs/2408.05190)|null|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|
+|**2024-08-09**|**Numerical aspects of integration in physics-informed neural networks modelling**|Josef Daněk et.al.|[2408.05172](http://arxiv.org/abs/2408.05172)|null|
+|**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
+|**2024-08-09**|**Pressure-Velocity Coupling in Transpiration Cooling**|Sophie Hillcoat et.al.|[2408.05166](http://arxiv.org/abs/2408.05166)|null|
+|**2024-08-09**|**Higher-Order Temporal Network Prediction and Interpretation**|H. A. Bart Peters et.al.|[2408.05165](http://arxiv.org/abs/2408.05165)|null|
 |**2024-08-08**|**Risk and cross validation in ridge regression with correlated samples**|Alexander Atanasov et.al.|[2408.04607](http://arxiv.org/abs/2408.04607)|null|
 |**2024-08-08**|**Enhanced Prototypical Part Network (EPPNet) For Explainable Image Classification Via Prototypes**|Bhushan Atote et.al.|[2408.04606](http://arxiv.org/abs/2408.04606)|null|
 |**2024-08-08**|**Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning**|Hongze Zhu et.al.|[2408.04604](http://arxiv.org/abs/2408.04604)|null|
@@ -15160,6 +15205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**What are the real implications for $CO_2$ as generation from renewables increases?**|Dhruv Suri et.al.|[2408.05209](http://arxiv.org/abs/2408.05209)|null|
+|**2024-08-09**|**The Economic Analysis of the Common Pool Method through the HARA Utility Functions**|Mu Lin et.al.|[2408.05194](http://arxiv.org/abs/2408.05194)|null|
+|**2024-08-09**|**Current-induced spin polarisation in Rashba-Dresselhaus systems under different point groups**|Akash Dey et.al.|[2408.05188](http://arxiv.org/abs/2408.05188)|null|
+|**2024-08-09**|**All optical excitation of spin polarization in d-wave altermagnets**|Marius Weber et.al.|[2408.05187](http://arxiv.org/abs/2408.05187)|null|
+|**2024-08-09**|**Holomorphic vector fields with real integral manifolds**|Martin Kolář et.al.|[2408.05186](http://arxiv.org/abs/2408.05186)|null|
+|**2024-08-09**|**Efficient Unit Commitment Constraint Screening under Uncertainty**|Xuan He et.al.|[2408.05185](http://arxiv.org/abs/2408.05185)|null|
+|**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
+|**2024-08-09**|**On the amenability of semigroups of entire maps and formal power series**|C. Cabrera et.al.|[2408.05180](http://arxiv.org/abs/2408.05180)|null|
+|**2024-08-09**|**Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators**|Chuwei Wang et.al.|[2408.05177](http://arxiv.org/abs/2408.05177)|null|
 |**2024-08-08**|**A non-Hermitian loop for a quantum measurement**|Luis E. F. Foa Torres et.al.|[2408.04629](http://arxiv.org/abs/2408.04629)|null|
 |**2024-08-08**|**LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP**|Danlu Chen et.al.|[2408.04628](http://arxiv.org/abs/2408.04628)|null|
 |**2024-08-08**|**SSD Set System, Graph Decomposition and Hamiltonian Cycle**|Kan Shota et.al.|[2408.04615](http://arxiv.org/abs/2408.04615)|null|
