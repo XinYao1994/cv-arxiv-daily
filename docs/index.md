@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2305,7 +2305,7 @@ layout: default
 |**2024-08-08**|**Sampling for View Synthesis: From Local Light Field Fusion to Neural Radiance Fields and Beyond**|Ravi Ramamoorthi et.al.|[2408.04586](http://arxiv.org/abs/2408.04586)|null|
 |**2024-08-08**|**Unveiling the Power of Sparse Neural Networks for Feature Selection**|Zahra Atashgahi et.al.|[2408.04583](http://arxiv.org/abs/2408.04583)|**[link](https://github.com/zahraatashgahi/neuron-attribution)**|
 |**2024-08-08**|**Mathematical Programming For Adaptive Experiments**|Ethan Che et.al.|[2408.04570](http://arxiv.org/abs/2408.04570)|null|
-|**2024-08-08**|**Balancing Efficiency with Equality: Auction Design with Group Fairness Concerns**|Fengjuan Jia et.al.|[2408.04545](http://arxiv.org/abs/2408.04545)|null|
+|**2024-08-09**|**Balancing Efficiency with Equality: Auction Design with Group Fairness Concerns**|Fengjuan Jia et.al.|[2408.04545](http://arxiv.org/abs/2408.04545)|null|
 |**2024-08-08**|**Quantum Machine Learning: Performance and Security Implications in Real-World Applications**|Zhengping Jay Luo et.al.|[2408.04543](http://arxiv.org/abs/2408.04543)|null|
 |**2024-08-07**|**Lower Bounds for Approximate (& Exact) k-Disjoint-Shortest-Paths**|Rajesh Chitnis et.al.|[2408.03933](http://arxiv.org/abs/2408.03933)|null|
 |**2024-08-07**|**Robust Estimation of Regression Models with Potentially Endogenous Outliers via a Modern Optimization Lens**|Zhan Gao et.al.|[2408.03930](http://arxiv.org/abs/2408.03930)|null|
