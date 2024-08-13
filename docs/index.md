@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
 |**2024-08-05**|**Enabling Practical Transparent Checkpointing for MPI: A Topological Sort Approach**|Yao Xu et.al.|[2408.02218](http://arxiv.org/abs/2408.02218)|null|
 |**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
 |**2024-07-13**|**SeqBalance: Congestion-Aware Load Balancing with no Reordering for RoCE**|Huimin Luo et.al.|[2407.09808](http://arxiv.org/abs/2407.09808)|null|
@@ -183,6 +184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**On zero-shot learning in neural state estimation of power distribution systems**|Aleksandr Berezin et.al.|[2408.05787](http://arxiv.org/abs/2408.05787)|**[link](https://gitlab.com/transense/nse-tl-paper)**|
 |**2024-08-09**|**Approximate Distributed Monitoring under Partial Synchrony: Balancing Speed and Accuracy**|Borzoo Bonakdarpour et.al.|[2408.05033](http://arxiv.org/abs/2408.05033)|null|
 |**2024-08-06**|**Large-Scale Graphs Community Detection using Spark GraphFrames**|Elena-Simona Apostol et.al.|[2408.03966](http://arxiv.org/abs/2408.03966)|null|
 |**2024-08-07**|**NetQIR: An Extension of QIR for Distributed Quantum Computing**|Jorge Vázquez-Pérez et.al.|[2408.03712](http://arxiv.org/abs/2408.03712)|null|
@@ -681,6 +683,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**The Planck SZiFi catalogues: a new set of Planck catalogues of Sunyaev-Zeldovich-detected galaxy clusters**|Íñigo Zubeldia et.al.|[2408.06189](http://arxiv.org/abs/2408.06189)|null|
+|**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
+|**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
+|**2024-08-10**|**LLMServingSim: A HW/SW Co-Simulation Infrastructure for LLM Inference Serving at Scale**|Jaehong Cho et.al.|[2408.05499](http://arxiv.org/abs/2408.05499)|**[link](https://github.com/casys-kaist/llmservingsim)**|
+|**2024-08-10**|**Unveiling subarcsecond multiplicity in the Pleiades with Gaia multicolor photometry**|Dmitry Chulkov et.al.|[2408.05423](http://arxiv.org/abs/2408.05423)|null|
 |**2024-08-09**|**AI-driven Java Performance Testing: Balancing Result Quality with Testing Time**|Luca Traini et.al.|[2408.05100](http://arxiv.org/abs/2408.05100)|null|
 |**2024-08-09**|**Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor**|Yiqi Liu et.al.|[2408.04808](http://arxiv.org/abs/2408.04808)|null|
 |**2024-08-08**|**AI for operational methane emitter monitoring from space**|Anna Vaughan et.al.|[2408.04745](http://arxiv.org/abs/2408.04745)|null|
@@ -2302,6 +2309,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
+|**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334](http://arxiv.org/abs/2408.06334)|null|
+|**2024-08-12**|**Online Vehicle Routing with Pickups and Deliveries under Time-Dependent Travel-Time Constraints**|Spyros Kontogiannis et.al.|[2408.06324](http://arxiv.org/abs/2408.06324)|null|
+|**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316](http://arxiv.org/abs/2408.06316)|null|
+|**2024-08-12**|**An improved Shifted CholeskyQR based on columns**|Yuwei Fan et.al.|[2408.06311](http://arxiv.org/abs/2408.06311)|null|
+|**2024-08-12**|**Dynamic Traffic Assignment for Public Transport with Vehicle Capacities**|Julian Patzner et.al.|[2408.06308](http://arxiv.org/abs/2408.06308)|null|
+|**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
+|**2024-08-12**|**LEARN: An Invex Loss for Outlier Oblivious Robust Online Optimization**|Adarsh Barik et.al.|[2408.06297](http://arxiv.org/abs/2408.06297)|null|
+|**2024-08-12**|**Tolerant testing stabilizer states**|Srinivasan Arunachalam et.al.|[2408.06289](http://arxiv.org/abs/2408.06289)|null|
+|**2024-08-12**|**Sparsity Based Multi-Source Robust 3D Localization Using a Moving Receiver**|Amir Mansourian et.al.|[2408.06274](http://arxiv.org/abs/2408.06274)|null|
 |**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-09**|**Decoding Quantum LDPC Codes Using Graph Neural Networks**|Vukan Ninkovic et.al.|[2408.05170](http://arxiv.org/abs/2408.05170)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
@@ -5557,6 +5574,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Control-Flow Attestation: Concepts, Solutions, and Open Challenges**|Zhanyu Sha et.al.|[2408.06304](http://arxiv.org/abs/2408.06304)|null|
+|**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163](http://arxiv.org/abs/2408.06163)|null|
+|**2024-08-12**|**Measurement Study of Programmable Network Coding in Cloud-native 5G and Beyond Networks**|Osel Lhamo et.al.|[2408.06115](http://arxiv.org/abs/2408.06115)|null|
+|**2024-08-12**|**Quantum Algorithms for Compositional Text Processing**|Tuomas Laakkonen et.al.|[2408.06061](http://arxiv.org/abs/2408.06061)|null|
+|**2024-08-12**|**Hardware Architecture Design of Model-Based Image Reconstruction Towards Palm-size Photoacoustic Tomography**|Yuwei Zheng et.al.|[2408.06049](http://arxiv.org/abs/2408.06049)|null|
+|**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
+|**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
+|**2024-08-12**|**Correct Wrong Path**|Bhargav Reddy Godala et.al.|[2408.05912](http://arxiv.org/abs/2408.05912)|null|
+|**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
+|**2024-08-11**|**Comparative Evaluation of Memory Technologies for Synaptic Crossbar Arrays- Part 2: Design Knobs and DNN Accuracy Trends**|Jeffry Victor et.al.|[2408.05857](http://arxiv.org/abs/2408.05857)|null|
 |**2024-08-09**|**Uncontrolled learning: co-design of neuromorphic hardware topology for neuromorphic algorithms**|Frank Barrows et.al.|[2408.05183](http://arxiv.org/abs/2408.05183)|null|
 |**2024-08-09**|**Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications**|Sanjif Shanmugavelu et.al.|[2408.05148](http://arxiv.org/abs/2408.05148)|null|
 |**2024-08-09**|**Exploiting the Lock: Leveraging MiG-V's Logic Locking for Secret-Data Extraction**|Lennart M. Reimann et.al.|[2408.04976](http://arxiv.org/abs/2408.04976)|null|
@@ -8700,6 +8727,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
+|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336](http://arxiv.org/abs/2408.06336)|null|
+|**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
+|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
+|**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316](http://arxiv.org/abs/2408.06316)|null|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoder**|Yu Shi et.al.|[2408.06299](http://arxiv.org/abs/2408.06299)|null|
+|**2024-08-12**|**Hound: Locating Cryptographic Primitives in Desynchronized Side-Channel Traces Using Deep-Learning**|Davide Galli et.al.|[2408.06296](http://arxiv.org/abs/2408.06296)|null|
+|**2024-08-12**|**Dual Threats in RIS-Aided RF-UOWC Mixed Networks: Secrecy Performance Analysis under Simultaneous RF and UOWC Eavesdropping**|Md. Abdur Rakib et.al.|[2408.06295](http://arxiv.org/abs/2408.06295)|null|
+|**2024-08-12**|**Ultraviolet flux and spectral variability study of blazars observed with UVIT/AstroSat**|M. Reshma et.al.|[2408.06293](http://arxiv.org/abs/2408.06293)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
 |**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
@@ -11952,6 +11989,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
+|**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334](http://arxiv.org/abs/2408.06334)|null|
+|**2024-08-12**|**Integration of blockchain in smart systems: problems and opportunities for real-time sensor data storage**|Naseem Alsadi et.al.|[2408.06331](http://arxiv.org/abs/2408.06331)|null|
+|**2024-08-12**|**AutOmatic floW planning for fetaL MRI (OWL)**|Sara Neves Silva et.al.|[2408.06326](http://arxiv.org/abs/2408.06326)|null|
+|**2024-08-12**|**EqNIO: Subequivariant Neural Inertial Odometry**|Royina Karegoudra Jayanth et.al.|[2408.06321](http://arxiv.org/abs/2408.06321)|null|
+|**2024-08-12**|**Dynamic Traffic Assignment for Public Transport with Vehicle Capacities**|Julian Patzner et.al.|[2408.06308](http://arxiv.org/abs/2408.06308)|null|
+|**2024-08-12**|**Inverse designing metamaterials with programmable nonlinear functional responses in graph space**|Marco Maurizi et.al.|[2408.06300](http://arxiv.org/abs/2408.06300)|null|
+|**2024-08-12**|**Dual Threats in RIS-Aided RF-UOWC Mixed Networks: Secrecy Performance Analysis under Simultaneous RF and UOWC Eavesdropping**|Md. Abdur Rakib et.al.|[2408.06295](http://arxiv.org/abs/2408.06295)|null|
+|**2024-08-12**|**Mambular: A Sequential Model for Tabular Deep Learning**|Anton Frederik Thielmann et.al.|[2408.06291](http://arxiv.org/abs/2408.06291)|**[link](https://github.com/basf/mamba-tabular)**|
+|**2024-08-12**|**RIS-Aided Free-Space Optics Communications in A2G Networks over Inverted Gamma-Gamma Turbulent Channels**|Md. Abdur Rakib et.al.|[2408.06288](http://arxiv.org/abs/2408.06288)|null|
 |**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
 |**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
 |**2024-08-09**|**A hybrid SIAC -- data-driven post-processing filter for discontinuities in solutions to numerical PDEs**|Soraya Terrab et.al.|[2408.05193](http://arxiv.org/abs/2408.05193)|null|
@@ -15205,6 +15252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Measuring central charge on a universal quantum processor**|Nazlı Uğur Köylüoğlu et.al.|[2408.06342](http://arxiv.org/abs/2408.06342)|null|
+|**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
+|**2024-08-12**|**Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars**|Dongjie Tan et.al.|[2408.06338](http://arxiv.org/abs/2408.06338)|null|
+|**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334](http://arxiv.org/abs/2408.06334)|null|
+|**2024-08-12**|**Integration of blockchain in smart systems: problems and opportunities for real-time sensor data storage**|Naseem Alsadi et.al.|[2408.06331](http://arxiv.org/abs/2408.06331)|null|
+|**2024-08-12**|**Rigorous Hausdorff dimension estimates for conformal fractals**|Vasileios Chousionis et.al.|[2408.06330](http://arxiv.org/abs/2408.06330)|null|
+|**2024-08-12**|**Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system**|Zhifan Zhou et.al.|[2408.06317](http://arxiv.org/abs/2408.06317)|null|
+|**2024-08-12**|**Dynamical resource theory of incompatibility preservability**|Chung-Yun Hsieh et.al.|[2408.06315](http://arxiv.org/abs/2408.06315)|null|
+|**2024-08-12**|**A dual notion to BIBO stability**|Felix L. Schwenninger et.al.|[2408.06313](http://arxiv.org/abs/2408.06313)|null|
+|**2024-08-12**|**OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment**|Sevinj Teymurova et.al.|[2408.06310](http://arxiv.org/abs/2408.06310)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
 |**2024-08-09**|**What are the real implications for $CO_2$ as generation from renewables increases?**|Dhruv Suri et.al.|[2408.05209](http://arxiv.org/abs/2408.05209)|null|
 |**2024-08-09**|**The Economic Analysis of the Common Pool Method through the HARA Utility Functions**|Mu Lin et.al.|[2408.05194](http://arxiv.org/abs/2408.05194)|null|
@@ -18461,6 +18518,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
 |**2024-08-11**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
 |**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897](http://arxiv.org/abs/2408.02897)|null|
 |**2024-08-10**|**Mixed precision HODLR matrices**|Erin Carson et.al.|[2407.21637](http://arxiv.org/abs/2407.21637)|null|
