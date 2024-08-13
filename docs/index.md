@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -18461,9 +18461,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-08**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
+|**2024-08-11**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
 |**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897](http://arxiv.org/abs/2408.02897)|null|
-|**2024-08-05**|**Mixed precision HODLR matrices**|Erin Carson et.al.|[2407.21637](http://arxiv.org/abs/2407.21637)|null|
+|**2024-08-10**|**Mixed precision HODLR matrices**|Erin Carson et.al.|[2407.21637](http://arxiv.org/abs/2407.21637)|null|
 |**2024-07-17**|**MCU-MixQ: A HW/SW Co-optimized Mixed-precision Neural Network Design Framework for MCUs**|Junfeng Gong et.al.|[2407.18267](http://arxiv.org/abs/2407.18267)|null|
 |**2024-07-25**|**Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers**|Zhengang Li et.al.|[2407.18175](http://arxiv.org/abs/2407.18175)|null|
 |**2024-08-08**|**Mixed Precision Block-Jacobi Preconditioner: Algorithms, Performance Evaluation and Feature Analysis**|Ningxi Tian et.al.|[2407.15973](http://arxiv.org/abs/2407.15973)|null|
