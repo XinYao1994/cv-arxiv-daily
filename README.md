@@ -200,6 +200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Understanding Power Consumption Metric on Heterogeneous Memory Systems**|Andrès Rubio Proaño et.al.|[2408.06579](http://arxiv.org/abs/2408.06579)|null|
+|**2024-08-12**|**Quantifying Phase Unbalance and Coordination Impacts on Distribution Network Flexibility**|Andrey Churkin et.al.|[2408.06516](http://arxiv.org/abs/2408.06516)|null|
+|**2024-08-09**|**Runtime Verification Containers for Publish/Subscribe Networks**|Ali Mehran et.al.|[2408.06380](http://arxiv.org/abs/2408.06380)|null|
 |**2024-08-11**|**On zero-shot learning in neural state estimation of power distribution systems**|Aleksandr Berezin et.al.|[2408.05787](http://arxiv.org/abs/2408.05787)|**[link](https://gitlab.com/transense/nse-tl-paper)**|
 |**2024-08-09**|**Approximate Distributed Monitoring under Partial Synchrony: Balancing Speed and Accuracy**|Borzoo Bonakdarpour et.al.|[2408.05033](http://arxiv.org/abs/2408.05033)|null|
 |**2024-08-06**|**Large-Scale Graphs Community Detection using Spark GraphFrames**|Elena-Simona Apostol et.al.|[2408.03966](http://arxiv.org/abs/2408.03966)|null|
@@ -701,6 +704,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037](http://arxiv.org/abs/2408.07037)|null|
+|**2024-08-13**|**The Gaia Ultracool Dwarf Sample -- V: The Ultracool Dwarf Companion catalogue**|Sayan Baig et.al.|[2408.07024](http://arxiv.org/abs/2408.07024)|null|
+|**2024-08-13**|**A bound on the quantum value of all compiled nonlocal games**|Alexander Kulpe et.al.|[2408.06711](http://arxiv.org/abs/2408.06711)|null|
+|**2024-08-12**|**Design and architecture of the IBM Quantum Engine Compiler**|Michael B. Healy et.al.|[2408.06469](http://arxiv.org/abs/2408.06469)|null|
+|**2024-08-12**|**Large Language Models for Secure Code Assessment: A Multi-Language Empirical Study**|Kohei Dozono et.al.|[2408.06428](http://arxiv.org/abs/2408.06428)|null|
+|**2024-08-10**|**ViC: Virtual Compiler Is All You Need For Assembly Code Search**|Zeyu Gao et.al.|[2408.06385](http://arxiv.org/abs/2408.06385)|null|
 |**2024-08-12**|**The Planck SZiFi catalogues: a new set of Planck catalogues of Sunyaev-Zeldovich-detected galaxy clusters**|Íñigo Zubeldia et.al.|[2408.06189](http://arxiv.org/abs/2408.06189)|null|
 |**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
@@ -2329,6 +2338,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
+|**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
+|**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052](http://arxiv.org/abs/2408.07052)|**[link](https://github.com/dornleiten/commentgap)**|
+|**2024-08-13**|**Optimizing TESS-related Exoplanet Observation: A Systematic Approach to Scheduling JWST SOSS and BOTS Templates**|Zoutong Shen et.al.|[2408.07042](http://arxiv.org/abs/2408.07042)|null|
+|**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
+|**2024-08-13**|**QIris: Quantum Implementation of Rainbow Table Attacks**|Lee Jun Quan et.al.|[2408.07032](http://arxiv.org/abs/2408.07032)|null|
+|**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**Improved Counting under Continual Observation with Pure Differential Privacy**|Joel Daniel Andersson et.al.|[2408.07021](http://arxiv.org/abs/2408.07021)|null|
+|**2024-08-13**|**A $5/4$ Approximation for Two-Edge-Connectivity**|Miguel Bosch-Calvo et.al.|[2408.07019](http://arxiv.org/abs/2408.07019)|null|
 |**2024-08-12**|**Analytical Weak Lensing Shear Inference for Precision Cosmology**|Xiangchong Li et.al.|[2408.06337](http://arxiv.org/abs/2408.06337)|null|
 |**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334](http://arxiv.org/abs/2408.06334)|null|
 |**2024-08-13**|**Online Vehicle Routing with Pickups and Deliveries under Time-Dependent Travel-Time Constraints**|Spyros Kontogiannis et.al.|[2408.06324](http://arxiv.org/abs/2408.06324)|null|
@@ -5596,6 +5615,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Impact of evanescent scattering modes and finite dispersion in superconducting junctions**|Daniel Kruti et.al.|[2408.07035](http://arxiv.org/abs/2408.07035)|null|
+|**2024-08-13**|**QIris: Quantum Implementation of Rainbow Table Attacks**|Lee Jun Quan et.al.|[2408.07032](http://arxiv.org/abs/2408.07032)|null|
+|**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
+|**2024-08-13**|**UFO-MAC: A Unified Framework for Optimization of High-Performance Multipliers and Multiply-Accumulators**|Dongsheng Zuo et.al.|[2408.06935](http://arxiv.org/abs/2408.06935)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
+|**2024-08-12**|**Demonstration of a CAFQA-bootstrapped Variational Quantum Eigensolver on a Trapped-Ion Quantum Computer**|Qingfeng Wang et.al.|[2408.06482](http://arxiv.org/abs/2408.06482)|null|
+|**2024-08-12**|**Statistical Quality Comparison of the Bitstrings Generated by a Physical Unclonable Function across Xilinx, Altera and Microsemi Devices**|Jenilee Jao et.al.|[2408.06463](http://arxiv.org/abs/2408.06463)|null|
+|**2024-08-12**|**Wireless Channel Aware Data Augmentation Methods for Deep Leaning-Based Indoor Localization**|Omer Gokalp Serbetci et.al.|[2408.06452](http://arxiv.org/abs/2408.06452)|null|
+|**2024-08-12**|**BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**|Chenyuan Wu et.al.|[2408.06432](http://arxiv.org/abs/2408.06432)|null|
 |**2024-08-12**|**Control-Flow Attestation: Concepts, Solutions, and Open Challenges**|Zhanyu Sha et.al.|[2408.06304](http://arxiv.org/abs/2408.06304)|null|
 |**2024-08-12**|**ACCELERATION: Sequentially-scanning DECT Imaging Using High Temporal Resolution Image Reconstruction And Temporal Extrapolation**|Qiaoxin Li et.al.|[2408.06163](http://arxiv.org/abs/2408.06163)|null|
 |**2024-08-12**|**Measurement Study of Programmable Network Coding in Cloud-native 5G and Beyond Networks**|Osel Lhamo et.al.|[2408.06115](http://arxiv.org/abs/2408.06115)|null|
@@ -8751,6 +8780,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Asymptotic quantification of entanglement with a single copy**|Ludovico Lami et.al.|[2408.07067](http://arxiv.org/abs/2408.07067)|null|
+|**2024-08-13**|**Exploiting Leakage in Password Managers via Injection Attacks**|Andrés Fábrega et.al.|[2408.07054](http://arxiv.org/abs/2408.07054)|null|
+|**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052](http://arxiv.org/abs/2408.07052)|**[link](https://github.com/dornleiten/commentgap)**|
+|**2024-08-13**|**Solar active region evolution and imminent flaring activity through a color-coded visualization of photospheric vector magnetograms**|I. Kontogiannis et.al.|[2408.07047](http://arxiv.org/abs/2408.07047)|null|
+|**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045](http://arxiv.org/abs/2408.07045)|null|
+|**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**Defining and Measuring Disentanglement for non-Independent Factors of Variation**|Antonio Almudévar et.al.|[2408.07016](http://arxiv.org/abs/2408.07016)|null|
+|**2024-08-13**|**Casper: Prompt Sanitization for Protecting User Privacy in Web-Based Large Language Models**|Chun Jie Chong et.al.|[2408.07004](http://arxiv.org/abs/2408.07004)|null|
+|**2024-08-13**|**Quantum-limited generalized measurement for tunnel-coupled condensates**|Maximilian Prüfer et.al.|[2408.07002](http://arxiv.org/abs/2408.07002)|null|
 |**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
 |**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336](http://arxiv.org/abs/2408.06336)|null|
 |**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
@@ -12015,6 +12054,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
+|**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
+|**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
+|**2024-08-13**|**Exploiting Leakage in Password Managers via Injection Attacks**|Andrés Fábrega et.al.|[2408.07054](http://arxiv.org/abs/2408.07054)|null|
+|**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052](http://arxiv.org/abs/2408.07052)|**[link](https://github.com/dornleiten/commentgap)**|
+|**2024-08-13**|**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**|Daniele Rege Cambrin et.al.|[2408.07040](http://arxiv.org/abs/2408.07040)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines**|Samuel Fernández Menduiña et.al.|[2408.07028](http://arxiv.org/abs/2408.07028)|null|
+|**2024-08-13**|**Multi-soliton solutions and data-driven discovery of higher-order Burgers' hierarchy equations with physics informed neural networks**|D. A. Kaltsas et.al.|[2408.07027](http://arxiv.org/abs/2408.07027)|null|
+|**2024-08-13**|**A $5/4$ Approximation for Two-Edge-Connectivity**|Miguel Bosch-Calvo et.al.|[2408.07019](http://arxiv.org/abs/2408.07019)|null|
 |**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
 |**2024-08-12**|**Entanglement and the density matrix renormalisation group in the generalised Landau paradigm**|Laurens Lootens et.al.|[2408.06334](http://arxiv.org/abs/2408.06334)|null|
 |**2024-08-12**|**Integration of blockchain in smart systems: problems and opportunities for real-time sensor data storage**|Naseem Alsadi et.al.|[2408.06331](http://arxiv.org/abs/2408.06331)|null|
@@ -15280,6 +15329,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Atomic fluorescence collection into planar photonic devices**|Orion Smedley et.al.|[2408.07068](http://arxiv.org/abs/2408.07068)|null|
+|**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
+|**2024-08-13**|**HADRON: Human-friendly Control and Artificial Intelligence for Military Drone Operations**|Ana M. Casado Faulí et.al.|[2408.07063](http://arxiv.org/abs/2408.07063)|null|
+|**2024-08-13**|**Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents**|Kexun Zhang et.al.|[2408.07060](http://arxiv.org/abs/2408.07060)|null|
+|**2024-08-13**|**A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning**|Prateek Yadav et.al.|[2408.07057](http://arxiv.org/abs/2408.07057)|null|
+|**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
+|**2024-08-13**|**Compact groups of galaxies in GAMA -- Probing the densest minor systems at intermediate redshifts**|A. Zandivarez et.al.|[2408.07031](http://arxiv.org/abs/2408.07031)|null|
+|**2024-08-13**|**The Gaia Ultracool Dwarf Sample -- V: The Ultracool Dwarf Companion catalogue**|Sayan Baig et.al.|[2408.07024](http://arxiv.org/abs/2408.07024)|null|
+|**2024-08-13**|**Improved Counting under Continual Observation with Pure Differential Privacy**|Joel Daniel Andersson et.al.|[2408.07021](http://arxiv.org/abs/2408.07021)|null|
+|**2024-08-13**|**Quantum-limited generalized measurement for tunnel-coupled condensates**|Maximilian Prüfer et.al.|[2408.07002](http://arxiv.org/abs/2408.07002)|null|
 |**2024-08-12**|**Measuring central charge on a universal quantum processor**|Nazlı Uğur Köylüoğlu et.al.|[2408.06342](http://arxiv.org/abs/2408.06342)|null|
 |**2024-08-12**|**Is it a work or leisure travel? Applying text classification to identify work-related travel on social networks**|Lucas Félix et.al.|[2408.06341](http://arxiv.org/abs/2408.06341)|null|
 |**2024-08-12**|**Closeby Habitable Exoplanet Survey (CHES). II. An Observation Strategy for the Target Stars**|Dongjie Tan et.al.|[2408.06338](http://arxiv.org/abs/2408.06338)|null|
