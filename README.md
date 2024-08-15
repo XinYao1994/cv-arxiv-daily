@@ -94,6 +94,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
 |**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
@@ -200,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Microgrid Building Blocks for Dynamic Decoupling and Black Start Applications**|Samrat Acharya et.al.|[2408.07601](http://arxiv.org/abs/2408.07601)|null|
 |**2024-08-13**|**Understanding Power Consumption Metric on Heterogeneous Memory Systems**|Andrès Rubio Proaño et.al.|[2408.06579](http://arxiv.org/abs/2408.06579)|null|
 |**2024-08-12**|**Quantifying Phase Unbalance and Coordination Impacts on Distribution Network Flexibility**|Andrey Churkin et.al.|[2408.06516](http://arxiv.org/abs/2408.06516)|null|
 |**2024-08-09**|**Runtime Verification Containers for Publish/Subscribe Networks**|Ali Mehran et.al.|[2408.06380](http://arxiv.org/abs/2408.06380)|null|
@@ -704,6 +706,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Strategies for optimizing double-bracket quantum algorithms**|Li Xiaoyue et.al.|[2408.07431](http://arxiv.org/abs/2408.07431)|null|
+|**2024-08-14**|**Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
+|**2024-08-13**|**Evolving Dark Energy or Supernovae Systematics?**|George Efstathiou et.al.|[2408.07175](http://arxiv.org/abs/2408.07175)|null|
+|**2024-08-13**|**Topological quantum compilation of two-qubit gates**|Phillip C. Burke et.al.|[2408.07132](http://arxiv.org/abs/2408.07132)|null|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037](http://arxiv.org/abs/2408.07037)|null|
 |**2024-08-13**|**The Gaia Ultracool Dwarf Sample -- V: The Ultracool Dwarf Companion catalogue**|Sayan Baig et.al.|[2408.07024](http://arxiv.org/abs/2408.07024)|null|
 |**2024-08-13**|**A bound on the quantum value of all compiled nonlocal games**|Alexander Kulpe et.al.|[2408.06711](http://arxiv.org/abs/2408.06711)|null|
@@ -2338,6 +2344,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
+|**2024-08-14**|**A family of high-order accurate contour integral methods for strongly continuous semigroups**|Andrew Horning et.al.|[2408.07691](http://arxiv.org/abs/2408.07691)|null|
+|**2024-08-14**|**Auto-bidding and Auctions in Online Advertising: A Survey**|Gagan Aggarwal et.al.|[2408.07685](http://arxiv.org/abs/2408.07685)|null|
+|**2024-08-14**|**NeuroEvolution algorithms applied in the designing process of biohybrid actuators**|Hugo Alcaraz-Herrera et.al.|[2408.07671](http://arxiv.org/abs/2408.07671)|null|
+|**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
+|**2024-08-14**|**Off-Policy Reinforcement Learning with High Dimensional Reward**|Dong Neuck Lee et.al.|[2408.07660](http://arxiv.org/abs/2408.07660)|null|
+|**2024-08-14**|**Exact Trajectory Similarity Search With N-tree: An Efficient Metric Index for kNN and Range Queries**|Ralf Hartmut Güting et.al.|[2408.07650](http://arxiv.org/abs/2408.07650)|null|
+|**2024-08-14**|**Towards Fair and Rigorous Evaluations: Hyperparameter Optimization for Top-N Recommendation Task with Implicit Feedback**|Hui Fang et.al.|[2408.07630](http://arxiv.org/abs/2408.07630)|null|
+|**2024-08-14**|**Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?**|Aleksei Malyshev et.al.|[2408.07625](http://arxiv.org/abs/2408.07625)|null|
+|**2024-08-14**|**Battery GraphNets : Relational Learning for Lithium-ion Batteries(LiBs) Life Estimation**|Sakhinana Sagar Srinivas et.al.|[2408.07624](http://arxiv.org/abs/2408.07624)|null|
 |**2024-08-13**|**Approaches for enhancing extrapolability in process-based and data-driven models in hydrology**|Haiyang Shi et.al.|[2408.07071](http://arxiv.org/abs/2408.07071)|null|
 |**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
 |**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052](http://arxiv.org/abs/2408.07052)|**[link](https://github.com/dornleiten/commentgap)**|
@@ -5615,6 +5631,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**NeuroEvolution algorithms applied in the designing process of biohybrid actuators**|Hugo Alcaraz-Herrera et.al.|[2408.07671](http://arxiv.org/abs/2408.07671)|null|
+|**2024-08-14**|**Development of simulation model for Single Carrier Transceiver for Nanosatellite**|Pallewela R. C. K Dr. Rohana Thilakuamra Mr. Prabath Buddhika et.al.|[2408.07655](http://arxiv.org/abs/2408.07655)|null|
+|**2024-08-14**|**Modernizing an Operational Real-time Tsunami Simulator to Support Diverse Hardware Platforms**|Keichi Takahashi et.al.|[2408.07609](http://arxiv.org/abs/2408.07609)|null|
+|**2024-08-14**|**Advancing Spatio-Temporal Processing in Spiking Neural Networks through Adaptation**|Maximilian Baronig et.al.|[2408.07517](http://arxiv.org/abs/2408.07517)|null|
+|**2024-08-14**|**Non-Gaited Legged Locomotion with Monte-Carlo Tree Search and Supervised Learning**|Ilyass Taouil et.al.|[2408.07508](http://arxiv.org/abs/2408.07508)|null|
+|**2024-08-14**|**M2L Translation Operators for Kernel Independent Fast Multipole Methods on Modern Architectures**|Srinath Kailasa et.al.|[2408.07436](http://arxiv.org/abs/2408.07436)|null|
+|**2024-08-14**|**UNR: Unified Notifiable RMA Library for HPC**|Guangnan Feng et.al.|[2408.07428](http://arxiv.org/abs/2408.07428)|null|
+|**2024-08-14**|**Efficient Edge AI: Deploying Convolutional Neural Networks on FPGA with the Gemmini Accelerator**|Federico Nicolas Peccia et.al.|[2408.07404](http://arxiv.org/abs/2408.07404)|null|
+|**2024-08-14**|**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**|Seungjae Moon et.al.|[2408.07326](http://arxiv.org/abs/2408.07326)|null|
+|**2024-08-13**|**TaPS: A Performance Evaluation Suite for Task-based Execution Frameworks**|J. Gregory Pauloski et.al.|[2408.07236](http://arxiv.org/abs/2408.07236)|null|
 |**2024-08-13**|**Impact of evanescent scattering modes and finite dispersion in superconducting junctions**|Daniel Kruti et.al.|[2408.07035](http://arxiv.org/abs/2408.07035)|null|
 |**2024-08-13**|**QIris: Quantum Implementation of Rainbow Table Attacks**|Lee Jun Quan et.al.|[2408.07032](http://arxiv.org/abs/2408.07032)|null|
 |**2024-08-13**|**Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models**|Cheng Chen et.al.|[2408.06995](http://arxiv.org/abs/2408.06995)|null|
@@ -8780,6 +8806,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
+|**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702](http://arxiv.org/abs/2408.07702)|null|
+|**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|null|
+|**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
+|**2024-08-14**|**Kilonova Emissions from Neutron Star Merger Remnants: Implications for Nuclear Equation of State**|Kelsey A. Lund et.al.|[2408.07686](http://arxiv.org/abs/2408.07686)|null|
+|**2024-08-14**|**G $^2$V$^2$ former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**|Jingyi Yang et.al.|[2408.07675](http://arxiv.org/abs/2408.07675)|null|
+|**2024-08-14**|**Enabling two-dimensional electron gas with high room-temperature electron mobility exceeding 100 cm $^2$ /Vs at a perovskite oxide interface**|Georg Hoffmann et.al.|[2408.07659](http://arxiv.org/abs/2408.07659)|null|
+|**2024-08-14**|**Graph Triple Attention Network: A Decoupled Perspective**|Xiaotang Wang et.al.|[2408.07654](http://arxiv.org/abs/2408.07654)|**[link](https://github.com/wangxiaotang0906/degta)**|
+|**2024-08-14**|**Exact Trajectory Similarity Search With N-tree: An Efficient Metric Index for kNN and Range Queries**|Ralf Hartmut Güting et.al.|[2408.07650](http://arxiv.org/abs/2408.07650)|null|
+|**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
 |**2024-08-13**|**Asymptotic quantification of entanglement with a single copy**|Ludovico Lami et.al.|[2408.07067](http://arxiv.org/abs/2408.07067)|null|
 |**2024-08-13**|**Exploiting Leakage in Password Managers via Injection Attacks**|Andrés Fábrega et.al.|[2408.07054](http://arxiv.org/abs/2408.07054)|null|
 |**2024-08-13**|**The News Comment Gap and Algorithmic Agenda Setting in Online Forums**|Flora Böwing et.al.|[2408.07052](http://arxiv.org/abs/2408.07052)|**[link](https://github.com/dornleiten/commentgap)**|
@@ -12054,6 +12090,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Field-level Emulation of Cosmic Structure Formation with Cosmology and Redshift Dependence**|Drew Jamieson et.al.|[2408.07699](http://arxiv.org/abs/2408.07699)|null|
+|**2024-08-14**|**On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems**|Jonathan A. Soares et.al.|[2408.07692](http://arxiv.org/abs/2408.07692)|null|
+|**2024-08-14**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
+|**2024-08-14**|**NeuroEvolution algorithms applied in the designing process of biohybrid actuators**|Hugo Alcaraz-Herrera et.al.|[2408.07671](http://arxiv.org/abs/2408.07671)|null|
+|**2024-08-14**|**Performance Analysis of Double Reconfigurable Intelligent Surfaces Assisted NOMA Networks**|Xuehua Li et.al.|[2408.07670](http://arxiv.org/abs/2408.07670)|null|
+|**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
+|**2024-08-14**|**Graph Triple Attention Network: A Decoupled Perspective**|Xiaotang Wang et.al.|[2408.07654](http://arxiv.org/abs/2408.07654)|**[link](https://github.com/wangxiaotang0906/degta)**|
+|**2024-08-14**|**Influence of disordered and anisotropic interactions on relaxation dynamics and propagation of correlations in tweezer arrays of Rydberg dipoles**|Kaustav Mukherjee et.al.|[2408.07643](http://arxiv.org/abs/2408.07643)|null|
+|**2024-08-14**|**Hierarchical Working Memory and a New Magic Number**|Weishun Zhong et.al.|[2408.07637](http://arxiv.org/abs/2408.07637)|null|
+|**2024-08-14**|**Embodied Biocomputing Sequential Circuits with Data Processing and Storage for Neurons-on-a-chip**|Giulio Basso et.al.|[2408.07628](http://arxiv.org/abs/2408.07628)|null|
 |**2024-08-13**|**Large-kernel Convolutional Neural Networks for Wide Parameter-Space Searches of Continuous Gravitational Waves**|Prasanna Mohan Joshi et.al.|[2408.07070](http://arxiv.org/abs/2408.07070)|null|
 |**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
 |**2024-08-13**|**Model Counting in the Wild**|Arijit Shaw et.al.|[2408.07059](http://arxiv.org/abs/2408.07059)|null|
@@ -15329,6 +15375,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Model-Based Control of Water Treatment with Pumped Water Storage**|Ryan Mauery et.al.|[2408.07696](http://arxiv.org/abs/2408.07696)|null|
+|**2024-08-14**|**On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems**|Jonathan A. Soares et.al.|[2408.07692](http://arxiv.org/abs/2408.07692)|null|
+|**2024-08-14**|**Magnetic Correlations and Pairing Tendencies of the Hybrid Stacking Nickelate Superlattice La $_7$Ni$_5$O$_{17}$ (La$_3$Ni$_2$O$_7$/La$_4$Ni$_3$O$_{10}$ ) under Pressure**|Yang Zhang et.al.|[2408.07690](http://arxiv.org/abs/2408.07690)|null|
+|**2024-08-14**|**Finite Dimensional Projections of HJB Equations in the Wasserstein Space**|Andrzej Święch et.al.|[2408.07688](http://arxiv.org/abs/2408.07688)|null|
+|**2024-08-14**|**A method for reconstructing the self-energy from the spectral function**|B Sriram Shastry et.al.|[2408.07682](http://arxiv.org/abs/2408.07682)|null|
+|**2024-08-14**|**G $^2$V$^2$ former: Graph Guided Video Vision Transformer for Face Anti-Spoofing**|Jingyi Yang et.al.|[2408.07675](http://arxiv.org/abs/2408.07675)|null|
+|**2024-08-14**|**NeuroEvolution algorithms applied in the designing process of biohybrid actuators**|Hugo Alcaraz-Herrera et.al.|[2408.07671](http://arxiv.org/abs/2408.07671)|null|
+|**2024-08-14**|**Performance Analysis of Double Reconfigurable Intelligent Surfaces Assisted NOMA Networks**|Xuehua Li et.al.|[2408.07670](http://arxiv.org/abs/2408.07670)|null|
+|**2024-08-14**|**Deceleration of electrons by an oscillating field**|O. V. Kibis et.al.|[2408.07664](http://arxiv.org/abs/2408.07664)|null|
+|**2024-08-14**|**Enabling two-dimensional electron gas with high room-temperature electron mobility exceeding 100 cm $^2$ /Vs at a perovskite oxide interface**|Georg Hoffmann et.al.|[2408.07659](http://arxiv.org/abs/2408.07659)|null|
 |**2024-08-13**|**Atomic fluorescence collection into planar photonic devices**|Orion Smedley et.al.|[2408.07068](http://arxiv.org/abs/2408.07068)|null|
 |**2024-08-13**|**On Networks and their Applications: Stability of Gene Regulatory Networks and Gene Function Prediction using Autoencoders**|Hamza Coban et.al.|[2408.07064](http://arxiv.org/abs/2408.07064)|null|
 |**2024-08-13**|**HADRON: Human-friendly Control and Artificial Intelligence for Military Drone Operations**|Ana M. Casado Faulí et.al.|[2408.07063](http://arxiv.org/abs/2408.07063)|null|
