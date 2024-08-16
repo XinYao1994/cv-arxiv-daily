@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
 |**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
 |**2024-08-05**|**Enabling Practical Transparent Checkpointing for MPI: A Topological Sort Approach**|Yao Xu et.al.|[2408.02218](http://arxiv.org/abs/2408.02218)|null|
 |**2024-07-23**|**STrack: A Reliable Multipath Transport for AI/ML Clusters**|Yanfang Le et.al.|[2407.15266](http://arxiv.org/abs/2407.15266)|null|
@@ -185,6 +186,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Communication-robust and Privacy-safe Distributed Estimation for Heterogeneous Community-level Behind-the-meter Solar Power Generation**|Jinglei Feng et.al.|[2408.08107](http://arxiv.org/abs/2408.08107)|null|
+|**2024-08-14**|**Local Cold Load Pick-up Estimation Using Customer Energy Consumption Measurements**|Sanja Bajic et.al.|[2408.07754](http://arxiv.org/abs/2408.07754)|null|
 |**2024-08-14**|**Microgrid Building Blocks for Dynamic Decoupling and Black Start Applications**|Samrat Acharya et.al.|[2408.07601](http://arxiv.org/abs/2408.07601)|null|
 |**2024-08-13**|**Understanding Power Consumption Metric on Heterogeneous Memory Systems**|Andrès Rubio Proaño et.al.|[2408.06579](http://arxiv.org/abs/2408.06579)|null|
 |**2024-08-12**|**Quantifying Phase Unbalance and Coordination Impacts on Distribution Network Flexibility**|Andrey Churkin et.al.|[2408.06516](http://arxiv.org/abs/2408.06516)|null|
@@ -688,6 +691,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Implementation of Shor's Algorithm with a Single Photon in 32 Dimensions**|Hao-Cheng Weng et.al.|[2408.08138](http://arxiv.org/abs/2408.08138)|null|
+|**2024-08-15**|**Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination**|Ting Peng et.al.|[2408.08121](http://arxiv.org/abs/2408.08121)|null|
+|**2024-08-15**|**Motif analysis and passing behavior in football passing networks**|Ming-Xia Li et.al.|[2408.07927](http://arxiv.org/abs/2408.07927)|null|
+|**2024-08-14**|**Molecular gas budget of strongly magnified low-mass star-forming galaxies at cosmic noon**|V. Catán et.al.|[2408.07849](http://arxiv.org/abs/2408.07849)|null|
+|**2024-08-14**|**Portability of Fortran's `do concurrent' on GPUs**|Ronald M. Caplan et.al.|[2408.07843](http://arxiv.org/abs/2408.07843)|null|
 |**2024-08-14**|**Strategies for optimizing double-bracket quantum algorithms**|Li Xiaoyue et.al.|[2408.07431](http://arxiv.org/abs/2408.07431)|null|
 |**2024-08-14**|**Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
 |**2024-08-13**|**Evolving Dark Energy or Supernovae Systematics?**|George Efstathiou et.al.|[2408.07175](http://arxiv.org/abs/2408.07175)|null|
@@ -2324,6 +2332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
+|**2024-08-15**|**On a generalization of corner trees**|Joscha Diehl et.al.|[2408.08293](http://arxiv.org/abs/2408.08293)|null|
+|**2024-08-15**|**Optimization by Decoded Quantum Interferometry**|Stephen P. Jordan et.al.|[2408.08292](http://arxiv.org/abs/2408.08292)|null|
+|**2024-08-15**|**Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interaction**|Nivasini Ananthakrishnan et.al.|[2408.08272](http://arxiv.org/abs/2408.08272)|null|
+|**2024-08-15**|**Palette Sparsification for Graphs with Sparse Neighborhoods**|Abhishek Dhawan et.al.|[2408.08256](http://arxiv.org/abs/2408.08256)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Probing hydrodynamic crossovers with dissipation-assisted operator evolution**|N. S. Srivatsa et.al.|[2408.08249](http://arxiv.org/abs/2408.08249)|null|
+|**2024-08-15**|**Searching Weighted Barbell Graphs with Laplacian and Adjacency Quantum Walks**|Jonas Duda et.al.|[2408.08244](http://arxiv.org/abs/2408.08244)|null|
+|**2024-08-15**|**From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing**|Ziyue Jia et.al.|[2408.08243](http://arxiv.org/abs/2408.08243)|null|
+|**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[2408.08242](http://arxiv.org/abs/2408.08242)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
 |**2024-08-14**|**A family of high-order accurate contour integral methods for strongly continuous semigroups**|Andrew Horning et.al.|[2408.07691](http://arxiv.org/abs/2408.07691)|null|
 |**2024-08-14**|**Auto-bidding and Auctions in Online Advertising: A Survey**|Gagan Aggarwal et.al.|[2408.07685](http://arxiv.org/abs/2408.07685)|null|
@@ -5609,6 +5627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276](http://arxiv.org/abs/2408.08276)|null|
+|**2024-08-15**|**ESCape the ClassRoom**|John O'Connor et.al.|[2408.08273](http://arxiv.org/abs/2408.08273)|null|
+|**2024-08-15**|**mhGPT: A Lightweight Generative Pre-Trained Transformer for Mental Health Text Analysis**|Dae-young Kim et.al.|[2408.08261](http://arxiv.org/abs/2408.08261)|null|
+|**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214](http://arxiv.org/abs/2408.08214)|**[link](https://github.com/oscardilley/federated-fairness)**|
+|**2024-08-15**|**From Clicks to Carbon: The Environmental Toll of Recommender Systems**|Tobias Vente et.al.|[2408.08203](http://arxiv.org/abs/2408.08203)|null|
+|**2024-08-15**|**Universality of Real Minimal Complexity Reservoir**|Robert Simon Fong et.al.|[2408.08071](http://arxiv.org/abs/2408.08071)|null|
+|**2024-08-15**|**Robust Maneuver Planning With Scalable Prediction Horizons: A Move Blocking Approach**|Philipp Schitz et.al.|[2408.08020](http://arxiv.org/abs/2408.08020)|null|
+|**2024-08-15**|**Enhanced Quantum Energy Teleportation using a 3-Qubit System**|Md Shoyib Hassan et.al.|[2408.07997](http://arxiv.org/abs/2408.07997)|null|
+|**2024-08-15**|**Efficiently grounding FOL using bit vectors**|Lucas Van Laer et.al.|[2408.07980](http://arxiv.org/abs/2408.07980)|null|
+|**2024-08-15**|**MobileMEF: Fast and Efficient Method for Multi-Exposure Fusion**|Lucas Nedel Kirsten et.al.|[2408.07932](http://arxiv.org/abs/2408.07932)|null|
 |**2024-08-14**|**NeuroEvolution algorithms applied in the designing process of biohybrid actuators**|Hugo Alcaraz-Herrera et.al.|[2408.07671](http://arxiv.org/abs/2408.07671)|null|
 |**2024-08-14**|**Development of simulation model for Single Carrier Transceiver for Nanosatellite**|Pallewela R. C. K Dr. Rohana Thilakuamra Mr. Prabath Buddhika et.al.|[2408.07655](http://arxiv.org/abs/2408.07655)|null|
 |**2024-08-14**|**Modernizing an Operational Real-time Tsunami Simulator to Support Diverse Hardware Platforms**|Keichi Takahashi et.al.|[2408.07609](http://arxiv.org/abs/2408.07609)|null|
@@ -8782,6 +8810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312](http://arxiv.org/abs/2408.08312)|null|
+|**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
+|**2024-08-15**|**Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model**|Jin Wang et.al.|[2408.08282](http://arxiv.org/abs/2408.08282)|null|
+|**2024-08-15**|**Is Knowledge Power? On the (Im)possibility of Learning from Strategic Interaction**|Nivasini Ananthakrishnan et.al.|[2408.08272](http://arxiv.org/abs/2408.08272)|null|
+|**2024-08-15**|**Strong Data Processing Inequalities and their Applications to Reliable Computation**|Andrew K. Yang et.al.|[2408.08239](http://arxiv.org/abs/2408.08239)|null|
+|**2024-08-15**|**CatalogBank: A Structured and Interoperable Catalog Dataset with a Semi-Automatic Annotation Tool (DocumentLabeler) for Engineering System Design**|Hasan Sinan Bank et.al.|[2408.08238](http://arxiv.org/abs/2408.08238)|null|
+|**2024-08-15**|**Identifying Patterns Using Cross-Correlation Random Matrices Derived from Deterministic and Stochastic Differential Equations**|Roberto da Silva et.al.|[2408.08237](http://arxiv.org/abs/2408.08237)|null|
+|**2024-08-15**|**DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System**|Xihong Yang et.al.|[2408.08231](http://arxiv.org/abs/2408.08231)|null|
+|**2024-08-15**|**On the Asymptotic Rate of Optimal Codes that Correct Tandem Duplications for Nanopore Sequencing**|Wenjun Yu et.al.|[2408.08223](http://arxiv.org/abs/2408.08223)|null|
+|**2024-08-15**|**The Generating Idempotent Is a Minimum-Weight Codeword for Some Binary BCH Codes**|Yaron Shany et.al.|[2408.08218](http://arxiv.org/abs/2408.08218)|null|
 |**2024-08-14**|**Knowledge Distillation with Refined Logits**|Wujie Sun et.al.|[2408.07703](http://arxiv.org/abs/2408.07703)|**[link](https://github.com/zju-swj/rld)**|
 |**2024-08-14**|**The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models**|Karime Maamari et.al.|[2408.07702](http://arxiv.org/abs/2408.07702)|null|
 |**2024-08-14**|**Profile Likelihoods in Cosmology: When, Why and How illustrated with $Λ$ CDM, Massive Neutrinos and Dark Energy**|Laura Herold et.al.|[2408.07700](http://arxiv.org/abs/2408.07700)|null|
@@ -12064,6 +12102,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks**|Yeachan Park et.al.|[2408.08286](http://arxiv.org/abs/2408.08286)|null|
+|**2024-08-15**|**Accurate and efficient structure elucidation from routine one-dimensional NMR spectra using multitask machine learning**|Frank Hu et.al.|[2408.08284](http://arxiv.org/abs/2408.08284)|null|
+|**2024-08-15**|**BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts**|Qizhen Zhang et.al.|[2408.08274](http://arxiv.org/abs/2408.08274)|null|
+|**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264](http://arxiv.org/abs/2408.08264)|**[link](https://github.com/desreslab/invaert4cardio)**|
+|**2024-08-15**|**Vibrational Control of Complex Networks**|Yuzhen Qin et.al.|[2408.08263](http://arxiv.org/abs/2408.08263)|null|
+|**2024-08-15**|**Computer Vision Model Compression Techniques for Embedded Systems: A Survey**|Alexandre Lopes et.al.|[2408.08250](http://arxiv.org/abs/2408.08250)|**[link](https://github.com/venturusbr/cv-model-compression)**|
+|**2024-08-15**|**From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing**|Ziyue Jia et.al.|[2408.08243](http://arxiv.org/abs/2408.08243)|null|
+|**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[2408.08242](http://arxiv.org/abs/2408.08242)|null|
+|**2024-08-15**|**Strong Data Processing Inequalities and their Applications to Reliable Computation**|Andrew K. Yang et.al.|[2408.08239](http://arxiv.org/abs/2408.08239)|null|
+|**2024-08-15**|**Discovery and Application of the Two-Electron Quantum Theory of Glass States**|Jia-Lin Wu et.al.|[2408.08235](http://arxiv.org/abs/2408.08235)|null|
 |**2024-08-14**|**Field-level Emulation of Cosmic Structure Formation with Cosmology and Redshift Dependence**|Drew Jamieson et.al.|[2408.07699](http://arxiv.org/abs/2408.07699)|null|
 |**2024-08-14**|**On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems**|Jonathan A. Soares et.al.|[2408.07692](http://arxiv.org/abs/2408.07692)|null|
 |**2024-08-15**|**Deep Learning: a Heuristic Three-stage Mechanism for Grid Searches to Optimize the Future Risk Prediction of Breast Cancer Metastasis Using EHR-based Clinical Data**|Xia Jiang et.al.|[2408.07673](http://arxiv.org/abs/2408.07673)|null|
@@ -15347,6 +15395,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Benchmarking the Capabilities of Large Language Models in Transportation System Engineering: Accuracy, Consistency, and Reasoning Behaviors**|Usman Syed et.al.|[2408.08302](http://arxiv.org/abs/2408.08302)|null|
+|**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
+|**2024-08-15**|**Tunable polar distortions and magnetism in Gd $_x$La$_{1-x}$ PtSb epitaxial films**|Dongxue Du et.al.|[2408.08290](http://arxiv.org/abs/2408.08290)|null|
+|**2024-08-15**|**Weak gauge PDEs**|Maxim Grigoriev et.al.|[2408.08287](http://arxiv.org/abs/2408.08287)|null|
+|**2024-08-15**|**Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks**|Yeachan Park et.al.|[2408.08286](http://arxiv.org/abs/2408.08286)|null|
+|**2024-08-15**|**Memory-optimised Cubic Splines for High-fidelity Quantum Operations**|Jan Ole Ernst et.al.|[2408.08283](http://arxiv.org/abs/2408.08283)|null|
+|**2024-08-15**|**Entanglement Hamiltonians for Free Fermion Chains with Defects**|Gavin Rockwood et.al.|[2408.08281](http://arxiv.org/abs/2408.08281)|null|
+|**2024-08-15**|**Solutions and stochastic averaging for delay-path-dependent stochastic variational inequalities in infinite dimensions**|Ning Ning et.al.|[2408.08277](http://arxiv.org/abs/2408.08277)|null|
+|**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264](http://arxiv.org/abs/2408.08264)|**[link](https://github.com/desreslab/invaert4cardio)**|
+|**2024-08-15**|**Vibrational Control of Complex Networks**|Yuzhen Qin et.al.|[2408.08263](http://arxiv.org/abs/2408.08263)|null|
 |**2024-08-14**|**Model-Based Control of Water Treatment with Pumped Water Storage**|Ryan Mauery et.al.|[2408.07696](http://arxiv.org/abs/2408.07696)|null|
 |**2024-08-14**|**On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems**|Jonathan A. Soares et.al.|[2408.07692](http://arxiv.org/abs/2408.07692)|null|
 |**2024-08-14**|**Magnetic Correlations and Pairing Tendencies of the Hybrid Stacking Nickelate Superlattice La $_7$Ni$_5$O$_{17}$ (La$_3$Ni$_2$O$_7$/La$_4$Ni$_3$O$_{10}$ ) under Pressure**|Yang Zhang et.al.|[2408.07690](http://arxiv.org/abs/2408.07690)|null|
