@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -697,7 +697,7 @@ layout: default
 |**2024-08-14**|**Molecular gas budget of strongly magnified low-mass star-forming galaxies at cosmic noon**|V. Catán et.al.|[2408.07849](http://arxiv.org/abs/2408.07849)|null|
 |**2024-08-14**|**Portability of Fortran's `do concurrent' on GPUs**|Ronald M. Caplan et.al.|[2408.07843](http://arxiv.org/abs/2408.07843)|null|
 |**2024-08-14**|**Strategies for optimizing double-bracket quantum algorithms**|Li Xiaoyue et.al.|[2408.07431](http://arxiv.org/abs/2408.07431)|null|
-|**2024-08-14**|**Seeing and Understanding: Bridging Vision with Chemical Knowledge Via ChemVLM**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
+|**2024-08-16**|**ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**|Junxian Li et.al.|[2408.07246](http://arxiv.org/abs/2408.07246)|null|
 |**2024-08-13**|**Evolving Dark Energy or Supernovae Systematics?**|George Efstathiou et.al.|[2408.07175](http://arxiv.org/abs/2408.07175)|null|
 |**2024-08-13**|**Topological quantum compilation of two-qubit gates**|Phillip C. Burke et.al.|[2408.07132](http://arxiv.org/abs/2408.07132)|null|
 |**2024-08-13**|**PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology**|Xiaomin Wu et.al.|[2408.07037](http://arxiv.org/abs/2408.07037)|null|
@@ -15400,7 +15400,7 @@ layout: default
 |**2024-08-15**|**Tunable polar distortions and magnetism in Gd $_x$La$_{1-x}$ PtSb epitaxial films**|Dongxue Du et.al.|[2408.08290](http://arxiv.org/abs/2408.08290)|null|
 |**2024-08-15**|**Weak gauge PDEs**|Maxim Grigoriev et.al.|[2408.08287](http://arxiv.org/abs/2408.08287)|null|
 |**2024-08-15**|**Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks**|Yeachan Park et.al.|[2408.08286](http://arxiv.org/abs/2408.08286)|null|
-|**2024-08-15**|**Memory-optimised Cubic Splines for High-fidelity Quantum Operations**|Jan Ole Ernst et.al.|[2408.08283](http://arxiv.org/abs/2408.08283)|null|
+|**2024-08-16**|**Memory-optimised Cubic Splines for High-fidelity Quantum Operations**|Jan Ole Ernst et.al.|[2408.08283](http://arxiv.org/abs/2408.08283)|null|
 |**2024-08-15**|**Entanglement Hamiltonians for Free Fermion Chains with Defects**|Gavin Rockwood et.al.|[2408.08281](http://arxiv.org/abs/2408.08281)|null|
 |**2024-08-15**|**Solutions and stochastic averaging for delay-path-dependent stochastic variational inequalities in infinite dimensions**|Ning Ning et.al.|[2408.08277](http://arxiv.org/abs/2408.08277)|null|
 |**2024-08-15**|**InVAErt networks for amortized inference and identifiability analysis of lumped parameter hemodynamic models**|Guoxiang Grayson Tong et.al.|[2408.08264](http://arxiv.org/abs/2408.08264)|**[link](https://github.com/desreslab/invaert4cardio)**|
