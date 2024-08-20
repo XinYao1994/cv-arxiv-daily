@@ -202,6 +202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Selecting Relay Nodes Based on Evaluation Results to Enhance P2P Broadcasting Efficiency**|Chunlin Huang et.al.|[2408.10092](http://arxiv.org/abs/2408.10092)|null|
 |**2024-08-16**|**Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory**|Jérémie Chalopin et.al.|[2408.08775](http://arxiv.org/abs/2408.08775)|null|
 |**2024-08-16**|**Parameter Optimization of Rate-Adaptive Continuous-Variable Quantum Key Distribution Systems**|Erdem Eray Cil et.al.|[2408.08581](http://arxiv.org/abs/2408.08581)|null|
 |**2024-08-15**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399](http://arxiv.org/abs/2408.08399)|**[link](https://github.com/xiaweijie1996/transformerem-gmm)**|
@@ -712,6 +713,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
+|**2024-08-19**|**Evaluation of uranium-233 neutron capture cross section in keV region**|Naohiko Otuka et.al.|[2408.10098](http://arxiv.org/abs/2408.10098)|null|
+|**2024-08-19**|**Tywaves: A Typed Waveform Viewer for Chisel**|Raffaele Meloni et.al.|[2408.10082](http://arxiv.org/abs/2408.10082)|null|
+|**2024-08-19**|**Quantum Register Machine: Efficient Implementation of Quantum Recursive Programs**|Zhicheng Zhang et.al.|[2408.10054](http://arxiv.org/abs/2408.10054)|null|
+|**2024-08-19**|**Implementing OpenMP for Zig to enable its use in HPC context**|David Kacs et.al.|[2408.09902](http://arxiv.org/abs/2408.09902)|null|
+|**2024-08-19**|**Abstract Environment Trimming**|Daniel Jurjo-Rivas et.al.|[2408.09848](http://arxiv.org/abs/2408.09848)|null|
+|**2024-08-19**|**Impact of Large Language Models of Code on Fault Localization**|Suhwan Ji et.al.|[2408.09657](http://arxiv.org/abs/2408.09657)|null|
+|**2024-08-18**|**Galápagos: Automated N-Version Programming with LLMs**|Javier Ron et.al.|[2408.09536](http://arxiv.org/abs/2408.09536)|null|
+|**2024-08-17**|**H2PIPE: High throughput CNN Inference on FPGAs with High-Bandwidth Memory**|Mario Doumet et.al.|[2408.09209](http://arxiv.org/abs/2408.09209)|null|
+|**2024-08-17**|**On the "Author Correction: Magnetic field screening in hydrogen-rich high-temperature superconductors", Nat Commun 14, 5322 (2023)**|J. E. Hirsch et.al.|[2408.09073](http://arxiv.org/abs/2408.09073)|null|
 |**2024-08-16**|**Towards Physical World Backdoor Attacks against Skeleton Action Recognition**|Qichen Zheng et.al.|[2408.08671](http://arxiv.org/abs/2408.08671)|null|
 |**2024-08-16**|**SeeWasm: An Efficient and Fully-Functional Symbolic Execution Engine for WebAssembly Binaries**|Ningyu He et.al.|[2408.08537](http://arxiv.org/abs/2408.08537)|null|
 |**2024-08-15**|**Coqa: Blazing Fast Compiler Optimizations for QAOA**|Yuchen Zhu et.al.|[2408.08365](http://arxiv.org/abs/2408.08365)|null|
@@ -2358,6 +2369,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms**|Mahsa Sahebdel et.al.|[2408.10201](http://arxiv.org/abs/2408.10201)|null|
+|**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
+|**2024-08-19**|**Eulerian Graph Sparsification by Effective Resistance Decomposition**|Arun Jambulapati et.al.|[2408.10172](http://arxiv.org/abs/2408.10172)|null|
+|**2024-08-19**|**Don't Get Stuck: A Deadlock Recovery Approach**|Francesca Baldini et.al.|[2408.10167](http://arxiv.org/abs/2408.10167)|null|
+|**2024-08-19**|**Source-Seeking Problem with Robot Swarms**|Antonio Acuaviva et.al.|[2408.10152](http://arxiv.org/abs/2408.10152)|null|
+|**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
+|**2024-08-19**|**Learning Brave Assumption-Based Argumentation Frameworks via ASP**|Emanuele De Angelis et.al.|[2408.10126](http://arxiv.org/abs/2408.10126)|null|
+|**2024-08-19**|**Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing**|Ruichao Liang et.al.|[2408.10116](http://arxiv.org/abs/2408.10116)|null|
+|**2024-08-19**|**Enhancing Reinforcement Learning Through Guided Search**|Jérôme Arjonilla et.al.|[2408.10113](http://arxiv.org/abs/2408.10113)|null|
+|**2024-08-19**|**Solution landscape of reaction-diffusion systems reveals a nonlinear mechanism and spatial robustness of pattern formation**|Shuonan Wu et.al.|[2408.10095](http://arxiv.org/abs/2408.10095)|null|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
 |**2024-08-16**|**High-Frequency Options Trading | With Portfolio Optimization**|Sid Bhatia et.al.|[2408.08866](http://arxiv.org/abs/2408.08866)|null|
 |**2024-08-16**|**Stochastic Bandits Robust to Adversarial Attacks**|Xuchuang Wang et.al.|[2408.08859](http://arxiv.org/abs/2408.08859)|null|
@@ -5665,6 +5686,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**LCDN: Providing Network Determinism with Low-Cost Switches**|Philip Diederich et.al.|[2408.10171](http://arxiv.org/abs/2408.10171)|null|
+|**2024-08-19**|**Data-Driven Analysis to Understand GPU Hardware Resource Usage of Optimizations**|Tanzima Z. Islam et.al.|[2408.10143](http://arxiv.org/abs/2408.10143)|null|
+|**2024-08-19**|**Tywaves: A Typed Waveform Viewer for Chisel**|Raffaele Meloni et.al.|[2408.10082](http://arxiv.org/abs/2408.10082)|null|
+|**2024-08-19**|**Quantum Register Machine: Efficient Implementation of Quantum Recursive Programs**|Zhicheng Zhang et.al.|[2408.10054](http://arxiv.org/abs/2408.10054)|null|
+|**2024-08-19**|**Docling Technical Report**|Christoph Auer et.al.|[2408.09869](http://arxiv.org/abs/2408.09869)|null|
+|**2024-08-19**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858](http://arxiv.org/abs/2408.09858)|null|
+|**2024-08-19**|**Orientation independent quantification of macromolecular proton fraction in tissues with suppression of residual dipolar coupling**|Zijian Gao et.al.|[2408.09733](http://arxiv.org/abs/2408.09733)|null|
+|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727](http://arxiv.org/abs/2408.09727)|null|
+|**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650](http://arxiv.org/abs/2408.09650)|**[link](https://github.com/eashanadhikarla/expomamba)**|
+|**2024-08-19**|**Character Complexity: A Novel Measure for Quantum Circuit Analysis**|Daksh Shami et.al.|[2408.09641](http://arxiv.org/abs/2408.09641)|null|
 |**2024-08-16**|**RollingCache: Using Runtime Behavior to Defend Against Cache Side Channel Attacks**|Divya Ojha et.al.|[2408.08795](http://arxiv.org/abs/2408.08795)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
 |**2024-08-16**|**R-HLS: An IR for Dynamic High-Level Synthesis and Memory Disambiguation based on Regions and State Edges**|David Metz et.al.|[2408.08712](http://arxiv.org/abs/2408.08712)|null|
@@ -8860,6 +8891,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
+|**2024-08-19**|**SpaRP: Fast 3D Object Reconstruction and Pose Estimation from Sparse Views**|Chao Xu et.al.|[2408.10195](http://arxiv.org/abs/2408.10195)|null|
+|**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
+|**2024-08-19**|**Fringing analysis and forward modeling of Keck Planet Imager and Characterizer (KPIC) spectra**|Katelyn A. Horstman et.al.|[2408.10173](http://arxiv.org/abs/2408.10173)|null|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
+|**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
+|**2024-08-19**|**Interplay of electronic crystals with integer and fractional Chern insulators in moiré pentalayer graphene**|Dacen Waters et.al.|[2408.10133](http://arxiv.org/abs/2408.10133)|null|
+|**2024-08-19**|**Rhyme-aware Chinese lyric generator based on GPT**|Yixiao Yuan et.al.|[2408.10130](http://arxiv.org/abs/2408.10130)|null|
 |**2024-08-16**|**Large Bandgap Observed on the Surfaces of EuZn2As2 Single Crystals**|Dejia Kong et.al.|[2408.08858](http://arxiv.org/abs/2408.08858)|null|
 |**2024-08-16**|**GeoTransformer: Enhancing Urban Forecasting with Geospatial Attention Mechanisms**|Yuhao Jia et.al.|[2408.08852](http://arxiv.org/abs/2408.08852)|null|
 |**2024-08-16**|**HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis**|Zhi-Bo Liu et.al.|[2408.08847](http://arxiv.org/abs/2408.08847)|**[link](https://github.com/xjtuai/histogym)**|
@@ -12164,6 +12205,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**KAN 2.0: Kolmogorov-Arnold Networks Meet Science**|Ziming Liu et.al.|[2408.10205](http://arxiv.org/abs/2408.10205)|null|
+|**2024-08-19**|**Criticality Leveraged Adversarial Training (CLAT) for Boosted Performance via Parameter Efficiency**|Bhavna Gopal et.al.|[2408.10204](http://arxiv.org/abs/2408.10204)|null|
+|**2024-08-19**|**MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model**|Minghua Liu et.al.|[2408.10198](http://arxiv.org/abs/2408.10198)|null|
+|**2024-08-19**|**Assessment of Spectral based Solutions for the Detection of Floating Marine Debris**|Muhammad Alì et.al.|[2408.10187](http://arxiv.org/abs/2408.10187)|null|
+|**2024-08-19**|**Imbalance-Aware Culvert-Sewer Defect Segmentation Using an Enhanced Feature Pyramid Network**|Rasha Alshawi et.al.|[2408.10181](http://arxiv.org/abs/2408.10181)|null|
+|**2024-08-19**|**LCDN: Providing Network Determinism with Low-Cost Switches**|Philip Diederich et.al.|[2408.10171](http://arxiv.org/abs/2408.10171)|null|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145](http://arxiv.org/abs/2408.10145)|null|
+|**2024-08-19**|**Selecting Relay Nodes Based on Evaluation Results to Enhance P2P Broadcasting Efficiency**|Chunlin Huang et.al.|[2408.10092](http://arxiv.org/abs/2408.10092)|null|
+|**2024-08-19**|**Recent Surge in Public Interest in Transportation: Sentiment Analysis of Baidu Apollo Go Using Weibo Data**|Shiqi Wang et.al.|[2408.10088](http://arxiv.org/abs/2408.10088)|null|
 |**2024-08-16**|**Bee-yond the Plateau: Training QNNs with Swarm Algorithms**|Rubén Darío Guerrero et.al.|[2408.08836](http://arxiv.org/abs/2408.08836)|null|
 |**2024-08-16**|**Personalized graph feature-based multi-omics data integration for cancer subtype identification**|Saiful Islam et.al.|[2408.08832](http://arxiv.org/abs/2408.08832)|null|
 |**2024-08-16**|**RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba**|Andong Lu et.al.|[2408.08827](http://arxiv.org/abs/2408.08827)|null|
@@ -15469,6 +15520,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**The Resonant Remains of Broken Chains from Major and Minor Mergers**|Rixin Li et.al.|[2408.10206](http://arxiv.org/abs/2408.10206)|null|
+|**2024-08-19**|**LEAD: Towards Learning-Based Equity-Aware Decarbonization in Ridesharing Platforms**|Mahsa Sahebdel et.al.|[2408.10201](http://arxiv.org/abs/2408.10201)|null|
+|**2024-08-19**|**Magnetic Fields in Massive Star-forming Regions (MagMaR) IV: Tracing the Magnetic Fields in the O-type protostellar system IRAS 16547 $-$ 4247**|Luis A. Zapata et.al.|[2408.10199](http://arxiv.org/abs/2408.10199)|null|
+|**2024-08-19**|**Krylov Complexity as a Probe for Chaos**|Mohsen Alishahiha et.al.|[2408.10194](http://arxiv.org/abs/2408.10194)|null|
+|**2024-08-19**|**A Biologically Inspired Design Principle for Building Robust Robotic Systems**|Xing Li et.al.|[2408.10192](http://arxiv.org/abs/2408.10192)|null|
+|**2024-08-19**|**A Graph-based Approach to Human Activity Recognition**|Thomas Peroutka et.al.|[2408.10191](http://arxiv.org/abs/2408.10191)|null|
+|**2024-08-19**|**Superconductivity and spin canting in spin-orbit proximitized rhombohedral trilayer graphene**|Caitlin L. Patterson et.al.|[2408.10190](http://arxiv.org/abs/2408.10190)|null|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**Participatory Mapping of Local Green Hydrogen Cost-Potentials in Sub-Saharan Africa**|C. Winkler et.al.|[2408.10184](http://arxiv.org/abs/2408.10184)|null|
+|**2024-08-19**|**Perfectly Undetectable Reflection and Scaling False Data Injection Attacks via Affine Transformation on Mobile Robot Trajectory Tracking Control**|Jun Ueda et.al.|[2408.10177](http://arxiv.org/abs/2408.10177)|null|
 |**2024-08-16**|**Accelerating Giant Impact Simulations with Machine Learning**|Caleb Lammers et.al.|[2408.08873](http://arxiv.org/abs/2408.08873)|**[link](https://github.com/caleblammers/ml_for_collisions)**|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
 |**2024-08-16**|**Quantum Annealing for Enhanced Feature Selection in Single-Cell RNA Sequencing Data Analysis**|Selim Romero et.al.|[2408.08867](http://arxiv.org/abs/2408.08867)|null|
