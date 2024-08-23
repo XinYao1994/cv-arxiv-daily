@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -193,7 +193,7 @@ layout: default
 |**2024-08-19**|**Selecting Relay Nodes Based on Evaluation Results to Enhance P2P Broadcasting Efficiency**|Chunlin Huang et.al.|[2408.10092](http://arxiv.org/abs/2408.10092)|null|
 |**2024-08-16**|**Deterministic Self-Stabilising Leader Election for Programmable Matter with Constant Memory**|Jérémie Chalopin et.al.|[2408.08775](http://arxiv.org/abs/2408.08775)|null|
 |**2024-08-16**|**Parameter Optimization of Rate-Adaptive Continuous-Variable Quantum Key Distribution Systems**|Erdem Eray Cil et.al.|[2408.08581](http://arxiv.org/abs/2408.08581)|null|
-|**2024-08-15**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399](http://arxiv.org/abs/2408.08399)|**[link](https://github.com/xiaweijie1996/transformerem-gmm)**|
+|**2024-08-22**|**An Efficient and Explainable Transformer-Based Few-Shot Learning for Modeling Electricity Consumption Profiles Across Thousands of Domains**|Weijie Xia et.al.|[2408.08399](http://arxiv.org/abs/2408.08399)|**[link](https://github.com/xiaweijie1996/transformerem-gmm)**|
 |**2024-08-15**|**Communication-robust and Privacy-safe Distributed Estimation for Heterogeneous Community-level Behind-the-meter Solar Power Generation**|Jinglei Feng et.al.|[2408.08107](http://arxiv.org/abs/2408.08107)|null|
 |**2024-08-14**|**Local Cold Load Pick-up Estimation Using Customer Energy Consumption Measurements**|Sanja Bajic et.al.|[2408.07754](http://arxiv.org/abs/2408.07754)|null|
 |**2024-08-14**|**Microgrid Building Blocks for Dynamic Decoupling and Black Start Applications**|Samrat Acharya et.al.|[2408.07601](http://arxiv.org/abs/2408.07601)|null|
@@ -700,13 +700,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**CI/CD Efforts for Validation, Verification and Benchmarking OpenMP Implementations**|Aaron Jarmusch et.al.|[2408.11777](http://arxiv.org/abs/2408.11777)|null|
-|**2024-08-21**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
+|**2024-08-22**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
 |**2024-08-21**|**Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark**|Gabriel E. Lima et.al.|[2408.11589](http://arxiv.org/abs/2408.11589)|null|
 |**2024-08-21**|**Cage: Hardware-Accelerated Safe WebAssembly**|Martin Fink et.al.|[2408.11456](http://arxiv.org/abs/2408.11456)|null|
 |**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
 |**2024-08-20**|**Optimizing Quantum Fourier Transformation (QFT) Kernels for Modern NISQ and FT Architectures**|Yuwei Jin et.al.|[2408.11226](http://arxiv.org/abs/2408.11226)|null|
 |**2024-08-20**|**DSP-MLIR: A MLIR Dialect for Digital Signal Processing**|Abhinav Kumar et.al.|[2408.11205](http://arxiv.org/abs/2408.11205)|null|
-|**2024-08-20**|**Active Learning of Molecular Data for Task-Specific Objectives**|Kunal Ghosh et.al.|[2408.11191](http://arxiv.org/abs/2408.11191)|null|
+|**2024-08-20**|**Active Learning of Molecular Data for Task-Specific Objectives**|Kunal Ghosh et.al.|[2408.11191](http://arxiv.org/abs/2408.11191)|**[link](https://github.com/kunalghosh/multi_fidelity_prediction_gp)**|
 |**2024-08-21**|**A Study of Stochastic Low-Frequency Variability for Galactic O-type Stars**|Dong-Xiang Shen et.al.|[2408.11082](http://arxiv.org/abs/2408.11082)|null|
 |**2024-08-21**|**Hubble Tension or Distance Ladder Crisis?**|Leandros Perivolaropoulos et.al.|[2408.11031](http://arxiv.org/abs/2408.11031)|null|
 |**2024-08-20**|**MTFinEval:A Multi-domain Chinese Financial Benchmark with Eurypalynous questions**|Xinyu Liu et.al.|[2408.10921](http://arxiv.org/abs/2408.10921)|null|
@@ -2370,7 +2370,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816](http://arxiv.org/abs/2408.11816)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
-|**2024-08-21**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
+|**2024-08-22**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
 |**2024-08-21**|**Adaptive Stereographic MCMC**|Cameron Bell et.al.|[2408.11780](http://arxiv.org/abs/2408.11780)|null|
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-21**|**Deviations from the Nash equilibrium and emergence of tacit collusion in a two-player optimal execution game with reinforcement learning**|Fabrizio Lillo et.al.|[2408.11773](http://arxiv.org/abs/2408.11773)|null|
@@ -5710,7 +5710,7 @@ layout: default
 |**2024-08-21**|**Confidential Computing on Heterogeneous Systems: Survey and Implications**|Qifan Wang et.al.|[2408.11601](http://arxiv.org/abs/2408.11601)|null|
 |**2024-08-21**|**In-Memory Computing Architecture for Efficient Hardware Security**|Hala Ajmi et.al.|[2408.11570](http://arxiv.org/abs/2408.11570)|null|
 |**2024-08-21**|**High Performance Unstructured SpMM Computation Using Tensor Cores**|Patrik Okanovic et.al.|[2408.11551](http://arxiv.org/abs/2408.11551)|null|
-|**2024-08-21**|**Power-Domain Interference Graph Estimation for Multi-hop BLE Networks**|Haifeng Jia et.al.|[2408.11499](http://arxiv.org/abs/2408.11499)|null|
+|**2024-08-22**|**Power-Domain Interference Graph Estimation for Multi-hop BLE Networks**|Haifeng Jia et.al.|[2408.11499](http://arxiv.org/abs/2408.11499)|null|
 |**2024-08-21**|**High Performance Simulation of Spaceborne Radar for Remote-Sensing Oceanography: Application to an Altimetry Scenario**|Goulven Monnier et.al.|[2408.11472](http://arxiv.org/abs/2408.11472)|null|
 |**2024-08-21**|**Cage: Hardware-Accelerated Safe WebAssembly**|Martin Fink et.al.|[2408.11456](http://arxiv.org/abs/2408.11456)|null|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
@@ -8931,7 +8931,7 @@ layout: default
 |**2024-08-21**|**Counting simplicial pairs in hypergraphs**|Jordan Barrett et.al.|[2408.11806](http://arxiv.org/abs/2408.11806)|null|
 |**2024-08-21**|**PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain**|Rounak Meyur et.al.|[2408.11800](http://arxiv.org/abs/2408.11800)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
-|**2024-08-21**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
+|**2024-08-22**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
 |**2024-08-21**|**Timeline and Boundary Guided Diffusion Network for Video Shadow Detection**|Haipeng Zhou et.al.|[2408.11785](http://arxiv.org/abs/2408.11785)|**[link](https://github.com/haipengzhou856/tbgdiff)**|
 |**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|null|
 |**2024-08-21**|**Testing Gravity with Realistic Gravitational Waveforms in Pulsar Timing Arrays**|Wayne Hu et.al.|[2408.11774](http://arxiv.org/abs/2408.11774)|null|
@@ -15600,7 +15600,7 @@ layout: default
 |**2024-08-21**|**An Advanced Microscopic Energy Consumption Model for Automated Vehicle:Development, Calibration, Verification**|Ke Ma et.al.|[2408.11797](http://arxiv.org/abs/2408.11797)|null|
 |**2024-08-21**|**CAMEO:A Co-design Architecture for Multi-objective Energy System Optimization**|Rounak Meyur et.al.|[2408.11794](http://arxiv.org/abs/2408.11794)|null|
 |**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
-|**2024-08-21**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
+|**2024-08-22**|**Optical ISAC: Fundamental Performance Limits and Transceiver Design**|Alireza Ghazavi Khorasgani et.al.|[2408.11792](http://arxiv.org/abs/2408.11792)|null|
 |**2024-08-20**|**Representation Theory of Solitons**|Clay Cordova et.al.|[2408.11045](http://arxiv.org/abs/2408.11045)|null|
 |**2024-08-20**|**Multiple Topology Replica Exchange of Expanded Ensembles (MT-REXEE) for Multidimensional Alchemical Calculations**|Anika J. Friedman et.al.|[2408.11038](http://arxiv.org/abs/2408.11038)|null|
 |**2024-08-20**|**Atmospheric Transport Modeling of CO $_2$ with Neural Networks**|Vitus Benson et.al.|[2408.11032](http://arxiv.org/abs/2408.11032)|**[link](https://github.com/vitusbenson/carbonbench)**|
