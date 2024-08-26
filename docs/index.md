@@ -82,6 +82,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -2372,6 +2373,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Re-evaluation of Face Anti-spoofing Algorithm in Post COVID-19 Era Using Mask Based Occlusion Attack**|Vaibhav Sundharam et.al.|[2408.13251](http://arxiv.org/abs/2408.13251)|null|
+|**2024-08-23**|**Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment**|Yutong Wu et.al.|[2408.13236](http://arxiv.org/abs/2408.13236)|null|
+|**2024-08-23**|**ResSR: A Residual Approach to Super-Resolving Multispectral Images**|Haley Duba-Sullivan et.al.|[2408.13225](http://arxiv.org/abs/2408.13225)|null|
+|**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
+|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217](http://arxiv.org/abs/2408.13217)|null|
+|**2024-08-23**|**Optimal Quantum Circuit Design via Unitary Neural Networks**|M. Zomorodi et.al.|[2408.13211](http://arxiv.org/abs/2408.13211)|null|
+|**2024-08-23**|**Improved Recursive QAOA for Solving MAX-CUT on Bipartite Graphs**|Eunok Bae et.al.|[2408.13207](http://arxiv.org/abs/2408.13207)|null|
+|**2024-08-23**|**Accelerating the k-means++ Algorithm by Using Geometric Information**|Guillem Rodríguez Corominas et.al.|[2408.13189](http://arxiv.org/abs/2408.13189)|null|
+|**2024-08-23**|**Can LLM be a Good Path Planner based on Prompt Engineering? Mitigating the Hallucination for Path Planning**|Hourui Deng et.al.|[2408.13184](http://arxiv.org/abs/2408.13184)|null|
+|**2024-08-23**|**The Power of Migrations in Dynamic Bin Packing**|Konstantina Mellou et.al.|[2408.13178](http://arxiv.org/abs/2408.13178)|null|
 |**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
 |**2024-08-22**|**Quantum Sabotage Complexity**|Arjan Cornelissen et.al.|[2408.12595](http://arxiv.org/abs/2408.12595)|null|
 |**2024-08-22**|**Automating Deformable Gasket Assembly**|Simeon Adebola et.al.|[2408.12593](http://arxiv.org/abs/2408.12593)|null|
@@ -5717,6 +5728,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**Fullerene-encapsulated Cyclic Ozone for the Next Generation of Nano-sized Propellants via Quantum Computation**|Thomas W. Watts et.al.|[2408.13244](http://arxiv.org/abs/2408.13244)|null|
+|**2024-08-23**|**Social Welfare Maximization for Federated Learning with Network Effects**|Xiang Li et.al.|[2408.13223](http://arxiv.org/abs/2408.13223)|null|
+|**2024-08-23**|**NAS-Cap: Deep-Learning Driven 3-D Capacitance Extraction with Neural Architecture Search and Data Augmentation**|Haoyuan Li et.al.|[2408.13195](http://arxiv.org/abs/2408.13195)|null|
+|**2024-08-23**|**Towards Neuromorphic Processing for Next-Generation MU-MIMO Detection**|G. N. Katsaros et.al.|[2408.13128](http://arxiv.org/abs/2408.13128)|null|
+|**2024-08-23**|**Electronic interferometry with ultrashort plasmonic pulses**|Seddik Ouacel et.al.|[2408.13025](http://arxiv.org/abs/2408.13025)|null|
+|**2024-08-23**|**General-Purpose Multicore Architectures**|Saugata Ghose et.al.|[2408.12999](http://arxiv.org/abs/2408.12999)|null|
+|**2024-08-23**|**A Survey on Drowsiness Detection -- Modern Applications and Methods**|Biying Fu et.al.|[2408.12990](http://arxiv.org/abs/2408.12990)|null|
+|**2024-08-23**|**Optimal OnTheFly Feedback Control of Event Sensors**|Valery Vishnevskiy et.al.|[2408.12976](http://arxiv.org/abs/2408.12976)|null|
+|**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894](http://arxiv.org/abs/2408.12894)|null|
 |**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
 |**2024-08-22**|**Exposing Shadow Branches**|Chrysanthos Pepi et.al.|[2408.12592](http://arxiv.org/abs/2408.12592)|null|
 |**2024-08-22**|**Quantum Circuit Optimization using Differentiable Programming of Tensor Network States**|David Rogerson et.al.|[2408.12583](http://arxiv.org/abs/2408.12583)|null|
@@ -8950,6 +8971,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
+|**2024-08-23**|**Data Exposure from LLM Apps: An In-depth Investigation of OpenAI's GPTs**|Evin Jaff et.al.|[2408.13247](http://arxiv.org/abs/2408.13247)|null|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
+|**2024-08-23**|**Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment**|Yutong Wu et.al.|[2408.13236](http://arxiv.org/abs/2408.13236)|null|
+|**2024-08-23**|**Quadratic estimation for stochastic systems in the presence of random parameter matrices, time-correlated additive noise and deception attacks**|Raquel Caballero-Águila et.al.|[2408.13224](http://arxiv.org/abs/2408.13224)|null|
+|**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
+|**2024-08-23**|**A New Perspective to Fish Trajectory Imputation: A Methodology for Spatiotemporal Modeling of Acoustically Tagged Fish Data**|Mahshid Ahmadian et.al.|[2408.13220](http://arxiv.org/abs/2408.13220)|null|
+|**2024-08-23**|**EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods**|Hongcheng Ding et.al.|[2408.13214](http://arxiv.org/abs/2408.13214)|null|
+|**2024-08-23**|**Bussgang revisited: effect of quantization on signal to distortion plus noise ratio with non-Gaussian signals**|Alister Burr et.al.|[2408.13205](http://arxiv.org/abs/2408.13205)|null|
+|**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201](http://arxiv.org/abs/2408.13201)|null|
 |**2024-08-22**|**Age and Value of Information Optimization for Systems with Multi-Class Updates**|Ahmed Arafa et.al.|[2408.12589](http://arxiv.org/abs/2408.12589)|null|
 |**2024-08-22**|**Identifying the Best Arm in the Presence of Global Environment Shifts**|Phurinut Srisawad et.al.|[2408.12581](http://arxiv.org/abs/2408.12581)|null|
 |**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
@@ -12292,6 +12323,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Re-evaluation of Face Anti-spoofing Algorithm in Post COVID-19 Era Using Mask Based Occlusion Attack**|Vaibhav Sundharam et.al.|[2408.13251](http://arxiv.org/abs/2408.13251)|null|
+|**2024-08-23**|**Improving Equivariant Model Training via Constraint Relaxation**|Stefanos Pertigkiozoglou et.al.|[2408.13242](http://arxiv.org/abs/2408.13242)|null|
+|**2024-08-23**|**JacNet: Learning Functions with Structured Jacobians**|Jonathan Lorraine et.al.|[2408.13237](http://arxiv.org/abs/2408.13237)|null|
+|**2024-08-23**|**Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment**|Yutong Wu et.al.|[2408.13236](http://arxiv.org/abs/2408.13236)|null|
+|**2024-08-23**|**Amortized Bayesian Multilevel Models**|Daniel Habermann et.al.|[2408.13230](http://arxiv.org/abs/2408.13230)|null|
+|**2024-08-23**|**Quadratic estimation for stochastic systems in the presence of random parameter matrices, time-correlated additive noise and deception attacks**|Raquel Caballero-Águila et.al.|[2408.13224](http://arxiv.org/abs/2408.13224)|null|
+|**2024-08-23**|**Social Welfare Maximization for Federated Learning with Network Effects**|Xiang Li et.al.|[2408.13223](http://arxiv.org/abs/2408.13223)|null|
+|**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
+|**2024-08-23**|**Optimal Quantum Circuit Design via Unitary Neural Networks**|M. Zomorodi et.al.|[2408.13211](http://arxiv.org/abs/2408.13211)|null|
+|**2024-08-23**|**Bussgang revisited: effect of quantization on signal to distortion plus noise ratio with non-Gaussian signals**|Alister Burr et.al.|[2408.13205](http://arxiv.org/abs/2408.13205)|null|
 |**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
 |**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-22**|**Differentiable Logic Programming for Distant Supervision**|Akihiro Takemura et.al.|[2408.12591](http://arxiv.org/abs/2408.12591)|null|
@@ -15635,6 +15676,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**Re-evaluation of Face Anti-spoofing Algorithm in Post COVID-19 Era Using Mask Based Occlusion Attack**|Vaibhav Sundharam et.al.|[2408.13251](http://arxiv.org/abs/2408.13251)|null|
+|**2024-08-23**|**On the attractor for 2D Navier-Stokes-like system with the dynamic slip boundary condition in a channel**|Michael Zelina et.al.|[2408.13245](http://arxiv.org/abs/2408.13245)|null|
+|**2024-08-23**|**MCTR: Multi Camera Tracking Transformer**|Alexandru Niculescu-Mizil et.al.|[2408.13243](http://arxiv.org/abs/2408.13243)|null|
+|**2024-08-23**|**Quantitative weak mixing of self-affine tilings**|Juan Marshall-Maldonado et.al.|[2408.13228](http://arxiv.org/abs/2408.13228)|null|
+|**2024-08-23**|**Quadratic estimation for stochastic systems in the presence of random parameter matrices, time-correlated additive noise and deception attacks**|Raquel Caballero-Águila et.al.|[2408.13224](http://arxiv.org/abs/2408.13224)|null|
+|**2024-08-23**|**Protecting against simultaneous data poisoning attacks**|Neel Alex et.al.|[2408.13221](http://arxiv.org/abs/2408.13221)|null|
+|**2024-08-23**|**HBIC: A Biclustering Algorithm for Heterogeneous Datasets**|Adán José-García et.al.|[2408.13217](http://arxiv.org/abs/2408.13217)|null|
+|**2024-08-23**|**Morphology of 137 Fast Radio Bursts down to Microseconds Timescales from The First CHIME/FRB Baseband Catalog**|Ketan R. Sand et.al.|[2408.13215](http://arxiv.org/abs/2408.13215)|null|
+|**2024-08-23**|**DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation**|Qiming Zhu et.al.|[2408.13204](http://arxiv.org/abs/2408.13204)|null|
+|**2024-08-23**|**EAViT: External Attention Vision Transformer for Audio Classification**|Aquib Iqbal et.al.|[2408.13201](http://arxiv.org/abs/2408.13201)|null|
 |**2024-08-22**|**Cornering Relative Symmetry Theories**|Mirjam Cvetič et.al.|[2408.12600](http://arxiv.org/abs/2408.12600)|null|
 |**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
 |**2024-08-22**|**Age and Value of Information Optimization for Systems with Multi-Class Updates**|Ahmed Arafa et.al.|[2408.12589](http://arxiv.org/abs/2408.12589)|null|
