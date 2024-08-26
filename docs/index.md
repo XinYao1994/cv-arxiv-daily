@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -12293,7 +12293,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-22**|**Poplar: Efficient Scaling of Distributed DNN Training on Heterogeneous GPU Clusters**|WenZheng Zhang et.al.|[2408.12596](http://arxiv.org/abs/2408.12596)|null|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-22**|**Differentiable Logic Programming for Distant Supervision**|Akihiro Takemura et.al.|[2408.12591](http://arxiv.org/abs/2408.12591)|null|
 |**2024-08-22**|**Age and Value of Information Optimization for Systems with Multi-Class Updates**|Ahmed Arafa et.al.|[2408.12589](http://arxiv.org/abs/2408.12589)|null|
 |**2024-08-22**|**Electric field control of superconductivity and quantized anomalous Hall effects in rhombohedral tetralayer graphene**|Youngjoon Choi et.al.|[2408.12584](http://arxiv.org/abs/2408.12584)|null|
@@ -18984,7 +18984,7 @@ layout: default
 |**2024-08-22**|**Matrix-Free Higher-Order Finite Element Methods for Hyperelasticity**|Richard Schussnig et.al.|[2408.12479](http://arxiv.org/abs/2408.12479)|null|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-21**|**A GPU accelerated mixed-precision Finite Difference informed Random Walker (FDiRW) solver for strongly inhomogeneous diffusion problems**|Zirui Mao et.al.|[2408.11376](http://arxiv.org/abs/2408.11376)|null|
-|**2024-08-16**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
+|**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
 |**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
 |**2024-08-11**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
 |**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897](http://arxiv.org/abs/2408.02897)|null|
