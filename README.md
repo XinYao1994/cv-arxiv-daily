@@ -207,6 +207,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Performance of Cascade and LDPC-codes for Information Reconciliation on Industrial Quantum Key Distribution Systems**|Ronny Müller et.al.|[2408.15758](http://arxiv.org/abs/2408.15758)|null|
 |**2024-08-27**|**Partition Detection in Byzantine Networks**|Yérom-David Bromberg et.al.|[2408.14814](http://arxiv.org/abs/2408.14814)|null|
 |**2024-08-26**|**Next Generation Multiple Access with Cell-Free Massive MIMO**|Mohammadali Mohammadi et.al.|[2408.14598](http://arxiv.org/abs/2408.14598)|null|
 |**2024-08-26**|**Speeding Ticket: Unveiling the Energy and Emission Burden of AI-Accelerated Distributed and Decentralized Power Dispatch Models**|Meiyi Li et.al.|[2408.13968](http://arxiv.org/abs/2408.13968)|null|
@@ -724,6 +725,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Redshift evolution of the X-ray and UV luminosity relation of quasars: calibrated results from SNe Ia**|Xiaolei Li et.al.|[2408.15547](http://arxiv.org/abs/2408.15547)|null|
+|**2024-08-28**|**Towards Fully Autonomous Research Powered by LLMs: Case Study on Simulations**|Zhihan Liu et.al.|[2408.15512](http://arxiv.org/abs/2408.15512)|**[link](https://github.com/zokaraa/autonomous_simulation_agent)**|
+|**2024-08-27**|**Generation of Compiler Backends from Formal Models of Hardware**|Gus Henry Smith et.al.|[2408.15429](http://arxiv.org/abs/2408.15429)|null|
+|**2024-08-27**|**SCAN-Edge: Finding MobileNet-speed Hybrid Networks for Diverse Edge Devices via Hardware-Aware Evolutionary Search**|Hung-Yueh Chiang et.al.|[2408.15395](http://arxiv.org/abs/2408.15395)|null|
+|**2024-08-27**|**AutoPatch: Automated Generation of Hotpatches for Real-Time Embedded Devices**|Mohsen Salehi et.al.|[2408.15372](http://arxiv.org/abs/2408.15372)|null|
+|**2024-08-27**|**NSVS 14256825: period variation and orbital stability analysis of two possible substellar companions**|Konstantinos Zervas et.al.|[2408.15358](http://arxiv.org/abs/2408.15358)|null|
 |**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
 |**2024-08-27**|**Compilation of Trotter-Based Time Evolution for Partially Fault-Tolerant Quantum Computing Architecture**|Yutaro Akahoshi et.al.|[2408.14929](http://arxiv.org/abs/2408.14929)|null|
 |**2024-08-27**|**A Functional Trade-off between Prosodic and Semantic Cues in Conveying Sarcasm**|Zhu Li et.al.|[2408.14892](http://arxiv.org/abs/2408.14892)|null|
@@ -2413,6 +2420,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Stability of Primal-Dual Gradient Flow Dynamics for Multi-Block Convex Optimization Problems**|Ibrahim K. Ozaslan et.al.|[2408.15969](http://arxiv.org/abs/2408.15969)|null|
+|**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
+|**2024-08-28**|**Computing Finite Type Invariants Efficiently**|Dror Bar-Natan et.al.|[2408.15942](http://arxiv.org/abs/2408.15942)|null|
+|**2024-08-28**|**Fast quantum interconnects via constant-rate entanglement distillation**|Christopher A. Pattison et.al.|[2408.15936](http://arxiv.org/abs/2408.15936)|null|
+|**2024-08-28**|**Flow of non-classical correlations in cluster states due to projective measurements**|Chandan Mahto et.al.|[2408.15930](http://arxiv.org/abs/2408.15930)|null|
+|**2024-08-28**|**Generalized Naive Bayes**|Edith Alice Kovács et.al.|[2408.15923](http://arxiv.org/abs/2408.15923)|null|
+|**2024-08-28**|**DeMoBot: Deformable Mobile Manipulation with Vision-based Sub-goal Retrieval**|Yuying Zhang et.al.|[2408.15919](http://arxiv.org/abs/2408.15919)|null|
+|**2024-08-28**|**Halo bias in the peak model. A first-principles non-parametric approach**|Eduard Salvador-Solé et.al.|[2408.15918](http://arxiv.org/abs/2408.15918)|null|
+|**2024-08-28**|**Comprehensive Systems for Primary Decompositions of Parametric Ideals**|Yuki Ishihara et.al.|[2408.15917](http://arxiv.org/abs/2408.15917)|null|
+|**2024-08-28**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|null|
 |**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236](http://arxiv.org/abs/2408.15236)|null|
@@ -5790,6 +5807,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
+|**2024-08-28**|**The NIRSpec Micro-Shutter Array: Operability and Operations After Two Years of JWST Science**|Katie Bechtold et.al.|[2408.15940](http://arxiv.org/abs/2408.15940)|null|
+|**2024-08-28**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|null|
+|**2024-08-28**|**A Non-Traditional Approach to Assisting Data Address Translation**|Shyam Murthy et.al.|[2408.15878](http://arxiv.org/abs/2408.15878)|null|
+|**2024-08-28**|**What is YOLOv8: An In-Depth Exploration of the Internal Features of the Next-Generation Object Detector**|Muhammad Yaseen et.al.|[2408.15857](http://arxiv.org/abs/2408.15857)|null|
+|**2024-08-28**|**Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing**|Kenneth Stewart et.al.|[2408.15800](http://arxiv.org/abs/2408.15800)|**[link](https://github.com/nmi-lab/snn_maml)**|
+|**2024-08-28**|**Evaluation of Quantum Annealing-based algorithms for flexible job shop scheduling**|Philipp Schworm et.al.|[2408.15671](http://arxiv.org/abs/2408.15671)|null|
+|**2024-08-28**|**Spectral Masking with Explicit Time-Context Windowing for Neural Network-Based Monaural Speech Enhancement**|Luan Vinícius Fiorio et.al.|[2408.15582](http://arxiv.org/abs/2408.15582)|null|
+|**2024-08-28**|**FireFly-S: Exploiting Dual-Side Sparsity for Spiking Neural Networks Acceleration with Reconfigurable Spatial Architecture**|Tenglong Li et.al.|[2408.15578](http://arxiv.org/abs/2408.15578)|null|
+|**2024-08-28**|**Affordable HPC: Leveraging Small Clusters for Big Data and Graph Computing**|Ruilong Wu et.al.|[2408.15568](http://arxiv.org/abs/2408.15568)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**FRAMER/Miu: Tagged Pointer-based Capability and Fundamental Cost of Memory Safety & Coherence (Position Paper)**|Myoung Jin Nam et.al.|[2408.15219](http://arxiv.org/abs/2408.15219)|null|
 |**2024-08-27**|**SiHGNN: Leveraging Properties of Semantic Graphs for Efficient HGNN Acceleration**|Runzhen Xue et.al.|[2408.15089](http://arxiv.org/abs/2408.15089)|null|
@@ -9055,6 +9082,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998](http://arxiv.org/abs/2408.15998)|**[link](https://github.com/nvlabs/eagle)**|
+|**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
+|**2024-08-28**|**In-Context Imitation Learning via Next-Token Prediction**|Letian Fu et.al.|[2408.15980](http://arxiv.org/abs/2408.15980)|null|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
+|**2024-08-28**|**Modeling and Analyzing the Influence of Non-Item Pages on Sequential Next-Item Prediction**|Elisabeth Fischer et.al.|[2408.15953](http://arxiv.org/abs/2408.15953)|null|
+|**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948](http://arxiv.org/abs/2408.15948)|**[link](https://github.com/MigVega/SLAM2REF)**|
+|**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946](http://arxiv.org/abs/2408.15946)|null|
+|**2024-08-28**|**Explicit Folded Reed-Solomon and Multiplicity Codes Achieve Relaxed Generalized Singleton Bound**|Yeyuan Chen et.al.|[2408.15925](http://arxiv.org/abs/2408.15925)|null|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236](http://arxiv.org/abs/2408.15236)|null|
@@ -12429,6 +12466,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
+|**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958](http://arxiv.org/abs/2408.15958)|null|
+|**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946](http://arxiv.org/abs/2408.15946)|null|
+|**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
+|**2024-08-28**|**A simulation platform for slender, semiflexible, and inextensible fibers with Brownian hydrodynamics and steric repulsion**|Ondrej Maxian et.al.|[2408.15913](http://arxiv.org/abs/2408.15913)|null|
+|**2024-08-28**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|null|
+|**2024-08-28**|**Decentralized LLM Inference over Edge Networks with Energy Harvesting**|Aria Khoshsirat et.al.|[2408.15907](http://arxiv.org/abs/2408.15907)|null|
+|**2024-08-28**|**MetaGFN: Exploring Distant Modes with Adapted Metadynamics for Continuous GFlowNets**|Dominic Phillips et.al.|[2408.15905](http://arxiv.org/abs/2408.15905)|null|
+|**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894](http://arxiv.org/abs/2408.15894)|null|
+|**2024-08-28**|**SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**|Zhiqing Zhang et.al.|[2408.15887](http://arxiv.org/abs/2408.15887)|null|
 |**2024-08-27**|**Photometric Redshifts Probability Density Estimation from Recurrent Neural Networks in the DECam Local Volume Exploration Survey Data Release 2**|G. Teixeira et.al.|[2408.15243](http://arxiv.org/abs/2408.15243)|null|
 |**2024-08-27**|**MADNESS Deblender: Maximum A posteriori with Deep NEural networks for Source Separation**|Biswajit Biswas et.al.|[2408.15236](http://arxiv.org/abs/2408.15236)|null|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
@@ -15804,6 +15851,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
+|**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992](http://arxiv.org/abs/2408.15992)|**[link](https://github.com/lil-lab/cogen)**|
+|**2024-08-28**|**A Control Theoretic Approach to Simultaneously Estimate Average Value of Time and Determine Dynamic Price for High-occupancy Toll Lanes**|Xuting Wang et.al.|[2408.15990](http://arxiv.org/abs/2408.15990)|null|
+|**2024-08-28**|**Software Solutions for Newcomers' Onboarding in Software Projects: A Systematic Literature Review**|Italo Santos et.al.|[2408.15989](http://arxiv.org/abs/2408.15989)|null|
+|**2024-08-28**|**A geometric phase approach to quark confinement from stochastic gauge-geometry flows**|Torsten Asselmeyer-Maluga et.al.|[2408.15986](http://arxiv.org/abs/2408.15986)|null|
+|**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
+|**2024-08-28**|**Flow Matching Approach to Reaction Coordinate Evaluation and Optimization**|Zhicheng Zhang et.al.|[2408.15981](http://arxiv.org/abs/2408.15981)|null|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
+|**2024-08-28**|**VLT/MUSE detection of accretion-ejection associated with the close stellar companion in the HT Lup system**|Sebastián Jorquera et.al.|[2408.15976](http://arxiv.org/abs/2408.15976)|null|
+|**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
 |**2024-08-27**|**Weak mixing and sparse equidistribution**|Max Auer et.al.|[2408.15238](http://arxiv.org/abs/2408.15238)|null|
 |**2024-08-27**|**Signatures of Chiral Superconductivity in Rhombohedral Graphene**|Tonghang Han et.al.|[2408.15233](http://arxiv.org/abs/2408.15233)|null|
 |**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232](http://arxiv.org/abs/2408.15232)|null|
@@ -19182,11 +19239,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Language Adaptation on a Tight Academic Compute Budget: Tokenizer Swapping Works and Pure bfloat16 Is Enough**|Konstantin Dobler et.al.|[2408.15793](http://arxiv.org/abs/2408.15793)|**[link](https://github.com/konstantinjdobler/tight-budget-llm-adaptation)**|
+|**2024-08-27**|**GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs**|Maxim Zhelnin et.al.|[2408.15300](http://arxiv.org/abs/2408.15300)|**[link](https://github.com/On-Point-RND/GIFT_SW)**|
 |**2024-08-27**|**Iterative Refinement with Low-Precision Posits**|James Quinlan et.al.|[2408.13400](http://arxiv.org/abs/2408.13400)|null|
 |**2024-08-22**|**Matrix-Free Higher-Order Finite Element Methods for Hyperelasticity**|Richard Schussnig et.al.|[2408.12479](http://arxiv.org/abs/2408.12479)|null|
 |**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
 |**2024-08-21**|**A GPU accelerated mixed-precision Finite Difference informed Random Walker (FDiRW) solver for strongly inhomogeneous diffusion problems**|Zirui Mao et.al.|[2408.11376](http://arxiv.org/abs/2408.11376)|null|
-|**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|null|
+|**2024-08-23**|**ABQ-LLM: Arbitrary-Bit Quantized Inference Acceleration for Large Language Models**|Chao Zeng et.al.|[2408.08554](http://arxiv.org/abs/2408.08554)|**[link](https://github.com/bytedance/abq-llm)**|
 |**2024-08-12**|**LUT Tensor Core: Lookup Table Enables Efficient Low-Bit LLM Inference Acceleration**|Zhiwen Mo et.al.|[2408.06003](http://arxiv.org/abs/2408.06003)|null|
 |**2024-08-11**|**Boosting Earth System Model Outputs And Saving PetaBytes in their Storage Using Exascale Climate Emulators**|Sameh Abdulah et.al.|[2408.04440](http://arxiv.org/abs/2408.04440)|null|
 |**2024-08-06**|**A Metric Driven Approach to Mixed Precision Training**|Mitchelle Rasquinha et.al.|[2408.02897](http://arxiv.org/abs/2408.02897)|null|
