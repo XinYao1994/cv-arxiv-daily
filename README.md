@@ -97,6 +97,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
@@ -725,6 +726,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**A Survey on Evaluating Large Language Models in Code Generation Tasks**|Liguo Chen et.al.|[2408.16498](http://arxiv.org/abs/2408.16498)|null|
+|**2024-08-29**|**Outside the Comfort Zone: Analysing LLM Capabilities in Software Vulnerability Detection**|Yuejun Guo et.al.|[2408.16400](http://arxiv.org/abs/2408.16400)|null|
 |**2024-08-28**|**Redshift evolution of the X-ray and UV luminosity relation of quasars: calibrated results from SNe Ia**|Xiaolei Li et.al.|[2408.15547](http://arxiv.org/abs/2408.15547)|null|
 |**2024-08-28**|**Towards Fully Autonomous Research Powered by LLMs: Case Study on Simulations**|Zhihan Liu et.al.|[2408.15512](http://arxiv.org/abs/2408.15512)|**[link](https://github.com/zokaraa/autonomous_simulation_agent)**|
 |**2024-08-27**|**Generation of Compiler Backends from Formal Models of Hardware**|Gus Henry Smith et.al.|[2408.15429](http://arxiv.org/abs/2408.15429)|null|
@@ -2420,6 +2423,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Finite Sample Valid Inference via Calibrated Bootstrap**|Yiran Jiang et.al.|[2408.16763](http://arxiv.org/abs/2408.16763)|null|
+|**2024-08-29**|**A faster algorithm of up persistent Laplacian over non-branching simplicial complexes**|Rui Dong et.al.|[2408.16741](http://arxiv.org/abs/2408.16741)|null|
+|**2024-08-29**|**Bipedal locomotion using geometric techniques**|Antonio Losada Gonzalez et.al.|[2408.16726](http://arxiv.org/abs/2408.16726)|null|
+|**2024-08-29**|**Automated computational workflows for muon spin spectroscopy**|Ifeanyi J. Onuorah et.al.|[2408.16722](http://arxiv.org/abs/2408.16722)|null|
+|**2024-08-29**|**Fast and Simple $(1+ε)Δ$ -Edge-Coloring of Dense Graphs**|Abhishek Dhawan et.al.|[2408.16692](http://arxiv.org/abs/2408.16692)|null|
+|**2024-08-29**|**Intersection Numbers from Companion Tensor Algebra**|Giacomo Brunello et.al.|[2408.16668](http://arxiv.org/abs/2408.16668)|null|
+|**2024-08-29**|**Iterative Graph Alignment**|Fangyuan Yu et.al.|[2408.16667](http://arxiv.org/abs/2408.16667)|null|
+|**2024-08-29**|**A Two Stepsize SQP Method for Nonlinear Equality Constrained Stochastic Optimization**|Michael J. O'Neill et.al.|[2408.16656](http://arxiv.org/abs/2408.16656)|null|
+|**2024-08-29**|**Optimal Trace Distance and Fidelity Estimations for Pure Quantum States**|Qisheng Wang et.al.|[2408.16655](http://arxiv.org/abs/2408.16655)|null|
+|**2024-08-29**|**Optimal Parallelization of Boosting**|Arthur da Cunha et.al.|[2408.16653](http://arxiv.org/abs/2408.16653)|null|
 |**2024-08-28**|**Stability of Primal-Dual Gradient Flow Dynamics for Multi-Block Convex Optimization Problems**|Ibrahim K. Ozaslan et.al.|[2408.15969](http://arxiv.org/abs/2408.15969)|null|
 |**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
 |**2024-08-28**|**Computing Finite Type Invariants Efficiently**|Dror Bar-Natan et.al.|[2408.15942](http://arxiv.org/abs/2408.15942)|null|
@@ -5807,6 +5820,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator**|Connor Trask et.al.|[2408.16714](http://arxiv.org/abs/2408.16714)|null|
+|**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
+|**2024-08-29**|**Turbulence Strength $C_n^2$ Estimation from Video using Physics-based Deep Learning**|Ripon Kumar Saha et.al.|[2408.16623](http://arxiv.org/abs/2408.16623)|**[link](https://github.com/riponcs/cn2estimation)**|
+|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562](http://arxiv.org/abs/2408.16562)|null|
+|**2024-08-29**|**TINA: Acceleration of Non-NN Signal Processing Algorithms Using NN Accelerators**|Christiaan Boerkamp et.al.|[2408.16551](http://arxiv.org/abs/2408.16551)|null|
+|**2024-08-29**|**TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification**|Bidyut Saha et.al.|[2408.16535](http://arxiv.org/abs/2408.16535)|null|
+|**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
+|**2024-08-29**|**Addressing the Mutual Interference in Uplink ISAC Receivers: A Projection Method**|Zhiyuan Yu et.al.|[2408.16455](http://arxiv.org/abs/2408.16455)|null|
+|**2024-08-29**|**UAV's Rotor Micro-Doppler Feature Extraction Using Integrated Sensing and Communication Signal: Algorithm Design and Testbed Evaluation**|Jiachen Wei et.al.|[2408.16415](http://arxiv.org/abs/2408.16415)|null|
+|**2024-08-29**|**PACiM: A Sparsity-Centric Hybrid Compute-in-Memory Architecture via Probabilistic Approximation**|Wenlun Zhang et.al.|[2408.16246](http://arxiv.org/abs/2408.16246)|**[link](https://github.com/keio-csg/pacim)**|
 |**2024-08-28**|**InstanSeg: an embedding-based instance segmentation algorithm optimized for accurate, efficient and portable cell segmentation**|Thibaut Goldsborough et.al.|[2408.15954](http://arxiv.org/abs/2408.15954)|**[link](https://github.com/instanseg/instanseg)**|
 |**2024-08-28**|**The NIRSpec Micro-Shutter Array: Operability and Operations After Two Years of JWST Science**|Katie Bechtold et.al.|[2408.15940](http://arxiv.org/abs/2408.15940)|null|
 |**2024-08-29**|**Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller**|Luca Bompani et.al.|[2408.15911](http://arxiv.org/abs/2408.15911)|null|
@@ -9082,6 +9105,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Post-innermost stable circular orbit ringdown of a rapidly spinning black hole: mass ratio dependence of higher harmonic quasi-normal mode excitation**|Daiki Watarai et.al.|[2408.16747](http://arxiv.org/abs/2408.16747)|null|
+|**2024-08-29**|**Unlocking the Potential of Photoexcited Molecular Electron Spins for Room Temperature Quantum Information Processing**|Kuan-Cheng Chen et.al.|[2408.16743](http://arxiv.org/abs/2408.16743)|null|
+|**2024-08-29**|**FRAM Next Generation at the Pierre Auger Observatory: cloud monitoring in the age of CMOS cameras**|Jan Ebr et.al.|[2408.16735](http://arxiv.org/abs/2408.16735)|null|
+|**2024-08-29**|**Impact of cosmic web on galaxy properties and their correlations: Insights from Principal Component Analysis**|Anindita Nandi et.al.|[2408.16731](http://arxiv.org/abs/2408.16731)|null|
+|**2024-08-29**|**Joint 9D Receiver Localization and Ephemeris Correction with LEO and $5$ G Base Stations**|Don-Roberts Emenonye et.al.|[2408.16728](http://arxiv.org/abs/2408.16728)|null|
+|**2024-08-29**|**Is 9D localization possible with unsynchronized LEO Satellites?**|Don-Roberts Emenonye et.al.|[2408.16710](http://arxiv.org/abs/2408.16710)|null|
+|**2024-08-29**|**Enhanced forecasting of stock prices based on variational mode decomposition, PatchTST, and adaptive scale-weighted layer**|Xiaorui Xue et.al.|[2408.16707](http://arxiv.org/abs/2408.16707)|null|
+|**2024-08-29**|**RoboMNIST: A Multimodal Dataset for Multi-Robot Activity Recognition Using WiFi Sensing, Video, and Audio**|Kian Behzad et.al.|[2408.16703](http://arxiv.org/abs/2408.16703)|null|
+|**2024-08-29**|**Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever**|Rohan Jha et.al.|[2408.16672](http://arxiv.org/abs/2408.16672)|null|
+|**2024-08-29**|**Enhancing precision thermometry with nonlinear qubits**|Sebastian Deffner et.al.|[2408.16664](http://arxiv.org/abs/2408.16664)|null|
 |**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998](http://arxiv.org/abs/2408.15998)|**[link](https://github.com/nvlabs/eagle)**|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
 |**2024-08-29**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
@@ -12466,6 +12499,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
+|**2024-08-29**|**Unlocking the Potential of Photoexcited Molecular Electron Spins for Room Temperature Quantum Information Processing**|Kuan-Cheng Chen et.al.|[2408.16743](http://arxiv.org/abs/2408.16743)|null|
+|**2024-08-29**|**Data-driven reduced order modeling of a two-layer quasi-geostrophic ocean model**|Lander Besabe et.al.|[2408.16723](http://arxiv.org/abs/2408.16723)|null|
+|**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719](http://arxiv.org/abs/2408.16719)|null|
+|**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
+|**2024-08-29**|**Hydrogen reaction rate modeling based on convolutional neural network for large eddy simulation**|Quentin Malé et.al.|[2408.16709](http://arxiv.org/abs/2408.16709)|null|
+|**2024-08-29**|**SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification**|Alan John Varghese et.al.|[2408.16698](http://arxiv.org/abs/2408.16698)|null|
+|**2024-08-29**|**CW-CNN & CW-AN: Convolutional Networks and Attention Networks for CW-Complexes**|Rahul Khorana et.al.|[2408.16686](http://arxiv.org/abs/2408.16686)|null|
+|**2024-08-29**|**A Causal Framework for Evaluating Heterogeneous Policy Mechanisms Using Difference-in-Differences**|Gary Hettinger et.al.|[2408.16670](http://arxiv.org/abs/2408.16670)|null|
+|**2024-08-29**|**Eigen-Cluster VIS: Improving Weakly-supervised Video Instance Segmentation by Leveraging Spatio-temporal Consistency**|Farnoosh Arefi et.al.|[2408.16661](http://arxiv.org/abs/2408.16661)|**[link](https://github.com/farnooshar/eigenclustervis)**|
 |**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958](http://arxiv.org/abs/2408.15958)|null|
 |**2024-08-28**|**Sigma Flows for Image and Data Labeling and Learning Structured Prediction**|Jonas Cassel et.al.|[2408.15946](http://arxiv.org/abs/2408.15946)|null|
@@ -15851,6 +15894,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Variational approach to atom-membrane dynamics**|Dennis P. Clougherty et.al.|[2408.16759](http://arxiv.org/abs/2408.16759)|null|
+|**2024-08-29**|**Hypergraph saturation for the bow tie**|Stijn Cambie et.al.|[2408.16758](http://arxiv.org/abs/2408.16758)|null|
+|**2024-08-29**|**Auricular Vagus Nerve Stimulation for Enhancing Remote Pilot Training and Operations**|William J. Tyler et.al.|[2408.16755](http://arxiv.org/abs/2408.16755)|null|
+|**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
+|**2024-08-29**|**Entanglement of Disjoint Intervals in Dual-Unitary Circuits: Exact Results**|Alessandro Foligno et.al.|[2408.16750](http://arxiv.org/abs/2408.16750)|null|
+|**2024-08-29**|**Nonlinear refractive index changes and absorption coefficients in mesoscopic ring induced by variable effective mass**|Denise Assafrao et.al.|[2408.16746](http://arxiv.org/abs/2408.16746)|null|
+|**2024-08-29**|**Unlocking the Potential of Photoexcited Molecular Electron Spins for Room Temperature Quantum Information Processing**|Kuan-Cheng Chen et.al.|[2408.16743](http://arxiv.org/abs/2408.16743)|null|
+|**2024-08-29**|**Bipedal locomotion using geometric techniques**|Antonio Losada Gonzalez et.al.|[2408.16726](http://arxiv.org/abs/2408.16726)|null|
+|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-29**|**Energy Control of Grid-forming Energy Storage based on Bandwidth Separation Principle**|Chu Sun et.al.|[2408.16724](http://arxiv.org/abs/2408.16724)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992](http://arxiv.org/abs/2408.15992)|**[link](https://github.com/lil-lab/cogen)**|
 |**2024-08-28**|**A Control Theoretic Approach to Simultaneously Estimate Average Value of Time and Determine Dynamic Price for High-occupancy Toll Lanes**|Xuting Wang et.al.|[2408.15990](http://arxiv.org/abs/2408.15990)|null|
