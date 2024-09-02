@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -5798,10 +5798,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-29**|**ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator**|Connor Trask et.al.|[2408.16714](http://arxiv.org/abs/2408.16714)|null|
+|**2024-08-30**|**ARINC 429 Cyber-vulnerabilities and Voltage Data in a Hardware-in-the-Loop Simulator**|Connor Trask et.al.|[2408.16714](http://arxiv.org/abs/2408.16714)|null|
 |**2024-08-29**|**Maelstrom Networks**|Matthew Evanusa et.al.|[2408.16632](http://arxiv.org/abs/2408.16632)|null|
 |**2024-08-29**|**Turbulence Strength $C_n^2$ Estimation from Video using Physics-based Deep Learning**|Ripon Kumar Saha et.al.|[2408.16623](http://arxiv.org/abs/2408.16623)|**[link](https://github.com/riponcs/cn2estimation)**|
-|**2024-08-29**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562](http://arxiv.org/abs/2408.16562)|null|
+|**2024-08-30**|**Beyond MR Image Harmonization: Resolution Matters Too**|Savannah P. Hays et.al.|[2408.16562](http://arxiv.org/abs/2408.16562)|null|
 |**2024-08-29**|**TINA: Acceleration of Non-NN Signal Processing Algorithms Using NN Accelerators**|Christiaan Boerkamp et.al.|[2408.16551](http://arxiv.org/abs/2408.16551)|null|
 |**2024-08-29**|**TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification**|Bidyut Saha et.al.|[2408.16535](http://arxiv.org/abs/2408.16535)|null|
 |**2024-08-29**|**On-device AI: Quantization-aware Training of Transformers in Time-Series**|Tianheng Ling et.al.|[2408.16495](http://arxiv.org/abs/2408.16495)|null|
@@ -15874,7 +15874,7 @@ layout: default
 |**2024-08-29**|**Nonlinear refractive index changes and absorption coefficients in mesoscopic ring induced by variable effective mass**|Denise Assafrao et.al.|[2408.16746](http://arxiv.org/abs/2408.16746)|null|
 |**2024-08-29**|**Unlocking the Potential of Photoexcited Molecular Electron Spins for Room Temperature Quantum Information Processing**|Kuan-Cheng Chen et.al.|[2408.16743](http://arxiv.org/abs/2408.16743)|null|
 |**2024-08-29**|**Bipedal locomotion using geometric techniques**|Antonio Losada Gonzalez et.al.|[2408.16726](http://arxiv.org/abs/2408.16726)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**Energy Control of Grid-forming Energy Storage based on Bandwidth Separation Principle**|Chu Sun et.al.|[2408.16724](http://arxiv.org/abs/2408.16724)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-08-28**|**CoGen: Learning from Feedback with Coupled Comprehension and Generation**|Mustafa Omer Gul et.al.|[2408.15992](http://arxiv.org/abs/2408.15992)|**[link](https://github.com/lil-lab/cogen)**|
