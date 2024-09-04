@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -196,7 +196,7 @@ layout: default
 |**2024-08-27**|**Partition Detection in Byzantine Networks**|Yérom-David Bromberg et.al.|[2408.14814](http://arxiv.org/abs/2408.14814)|null|
 |**2024-08-26**|**Next Generation Multiple Access with Cell-Free Massive MIMO**|Mohammadali Mohammadi et.al.|[2408.14598](http://arxiv.org/abs/2408.14598)|null|
 |**2024-08-26**|**Speeding Ticket: Unveiling the Energy and Emission Burden of AI-Accelerated Distributed and Decentralized Power Dispatch Models**|Meiyi Li et.al.|[2408.13968](http://arxiv.org/abs/2408.13968)|null|
-|**2024-08-21**|**Decoupling Power Quality Issues in Grid-Microgrid Network Using Microgrid Building Blocks**|Samrat Acharya et.al.|[2408.11934](http://arxiv.org/abs/2408.11934)|null|
+|**2024-08-30**|**Decoupling Power Quality Issues in Grid-Microgrid Network Using Microgrid Building Blocks**|Samrat Acharya et.al.|[2408.11934](http://arxiv.org/abs/2408.11934)|null|
 |**2024-08-20**|**PIP-II Linac Cryogenic Distribution System Design Challenges**|T. Banaszkiewicz et.al.|[2408.11018](http://arxiv.org/abs/2408.11018)|null|
 |**2024-08-20**|**Almost Optimal Algorithms for Token Collision in Anonymous Networks**|Sirui Bai et.al.|[2408.10519](http://arxiv.org/abs/2408.10519)|null|
 |**2024-08-19**|**Selecting Relay Nodes Based on Evaluation Results to Enhance P2P Broadcasting Efficiency**|Chunlin Huang et.al.|[2408.10092](http://arxiv.org/abs/2408.10092)|null|
@@ -710,7 +710,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-30**|**Scant evidence for thawing quintessence**|William J. Wolf et.al.|[2408.17318](http://arxiv.org/abs/2408.17318)|null|
 |**2024-08-30**|**DeTRAP: RISC-V Return Address Protection With Debug Triggers**|Isaac Richter et.al.|[2408.17248](http://arxiv.org/abs/2408.17248)|null|
-|**2024-08-30**|**Extending the C/C\texttt{++} Model with Inline Assembly**|Paulo Emílio de Vilhena et.al.|[2408.17208](http://arxiv.org/abs/2408.17208)|null|
+|**2024-08-30**|**Extending the C/C++ Memory Model with Inline Assembly**|Paulo Emílio de Vilhena et.al.|[2408.17208](http://arxiv.org/abs/2408.17208)|null|
 |**2024-08-29**|**Enhancing Autism Spectrum Disorder Early Detection with the Parent-Child Dyads Block-Play Protocol and an Attention-enhanced GCN-xLSTM Hybrid Deep Learning Framework**|Xiang Li et.al.|[2408.16924](http://arxiv.org/abs/2408.16924)|null|
 |**2024-08-29**|**Mapping AGN winds: a connection between radio-mode AGN and the AGN feedback cycle**|Marco Albán et.al.|[2408.16831](http://arxiv.org/abs/2408.16831)|null|
 |**2024-08-28**|**A quantum random access memory (QRAM) using a polynomial encoding of binary strings**|Priyanka Mukhopadhyay et.al.|[2408.16794](http://arxiv.org/abs/2408.16794)|null|
