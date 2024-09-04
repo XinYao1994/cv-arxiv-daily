@@ -710,7 +710,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-30**|**Scant evidence for thawing quintessence**|William J. Wolf et.al.|[2408.17318](http://arxiv.org/abs/2408.17318)|null|
 |**2024-08-30**|**DeTRAP: RISC-V Return Address Protection With Debug Triggers**|Isaac Richter et.al.|[2408.17248](http://arxiv.org/abs/2408.17248)|null|
-|**2024-08-30**|**Extending the C/C++ Memory Model with Inline Assembly**|Paulo Emílio de Vilhena et.al.|[2408.17208](http://arxiv.org/abs/2408.17208)|null|
+|**2024-09-02**|**Extending the C/C++ Memory Model with Inline Assembly**|Paulo Emílio de Vilhena et.al.|[2408.17208](http://arxiv.org/abs/2408.17208)|null|
 |**2024-08-29**|**Enhancing Autism Spectrum Disorder Early Detection with the Parent-Child Dyads Block-Play Protocol and an Attention-enhanced GCN-xLSTM Hybrid Deep Learning Framework**|Xiang Li et.al.|[2408.16924](http://arxiv.org/abs/2408.16924)|null|
 |**2024-08-29**|**Mapping AGN winds: a connection between radio-mode AGN and the AGN feedback cycle**|Marco Albán et.al.|[2408.16831](http://arxiv.org/abs/2408.16831)|null|
 |**2024-08-28**|**A quantum random access memory (QRAM) using a polynomial encoding of binary strings**|Priyanka Mukhopadhyay et.al.|[2408.16794](http://arxiv.org/abs/2408.16794)|null|
@@ -9113,7 +9113,7 @@ layout: default
 |**2024-08-30**|**Information-Based Trajectory Planning for Autonomous Absolute Tracking in Cislunar Space**|Trevor N. Wolf et.al.|[2408.17435](http://arxiv.org/abs/2408.17435)|null|
 |**2024-08-30**|**Virtual EVE: a Deep Learning Model for Solar Irradiance Prediction**|Manuel Indaco et.al.|[2408.17430](http://arxiv.org/abs/2408.17430)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
-|**2024-08-30**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414](http://arxiv.org/abs/2408.17414)|null|
+|**2024-09-02**|**Improved bounds for randomized Schatten norm estimation of numerically low-rank matrices**|Ya-Chi Chu et.al.|[2408.17414](http://arxiv.org/abs/2408.17414)|null|
 |**2024-08-30**|**Semi-supervised permutation invariant particle-level anomaly detection**|Gabriel Matos et.al.|[2408.17409](http://arxiv.org/abs/2408.17409)|null|
 |**2024-08-30**|**Robust Technology Regulation**|Andrew Koh et.al.|[2408.17398](http://arxiv.org/abs/2408.17398)|null|
 |**2024-08-30**|**End-to-End Learning for Task-Oriented Semantic Communications Over MIMO Channels: An Information-Theoretic Framework**|Chang Cai et.al.|[2408.17397](http://arxiv.org/abs/2408.17397)|null|
