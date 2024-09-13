@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -731,7 +731,7 @@ layout: default
 |**2024-09-10**|**Experimental Demonstration of Break-Even for the Compact Fermionic Encoding**|Ramil Nigmatullin et.al.|[2409.06789](http://arxiv.org/abs/2409.06789)|null|
 |**2024-09-10**|**The molecular gas content throughout the low-z merger sequence**|Mark T. Sargent et.al.|[2409.06572](http://arxiv.org/abs/2409.06572)|null|
 |**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
-|**2024-09-10**|**Structured Downsampling for Fast, Memory-efficient Curation of Online Data Streams**|Matthew Andres Moreno et.al.|[2409.06199](http://arxiv.org/abs/2409.06199)|null|
+|**2024-09-12**|**Structured Downsampling for Fast, Memory-efficient Curation of Online Data Streams**|Matthew Andres Moreno et.al.|[2409.06199](http://arxiv.org/abs/2409.06199)|null|
 |**2024-09-09**|**Resource-efficient context-aware dynamical decoupling embedding for arbitrary large-scale quantum algorithms**|Paul Coote et.al.|[2409.05962](http://arxiv.org/abs/2409.05962)|null|
 |**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849](http://arxiv.org/abs/2409.05849)|null|
 |**2024-09-09**|**jaxspec : a fast and robust Python library for X-ray spectral fitting**|Simon Dupourqué et.al.|[2409.05757](http://arxiv.org/abs/2409.05757)|null|
@@ -5940,9 +5940,9 @@ layout: default
 |**2024-09-11**|**Gated Slot Attention for Efficient Linear-Time Sequence Modeling**|Yu Zhang et.al.|[2409.07146](http://arxiv.org/abs/2409.07146)|null|
 |**2024-09-11**|**Spontaneous symmetry breaking in a $SO(3)$ non-Abelian lattice gauge theory in $2+1$ D with quantum algorithms**|Sandip Maiti et.al.|[2409.07108](http://arxiv.org/abs/2409.07108)|null|
 |**2024-09-11**|**Developing a Framework for Sonifying Variational Quantum Algorithms: Implications for Music Composition**|Paulo Vitor Itaboraí et.al.|[2409.07104](http://arxiv.org/abs/2409.07104)|null|
-|**2024-09-11**|**Benchmarking and Validation of Sub-mW 30GHz VG-LNAs in 22nm FDSOI CMOS for 5G/6G Phased-Array Receivers**|Domenico Zito et.al.|[2409.07069](http://arxiv.org/abs/2409.07069)|null|
+|**2024-09-12**|**Benchmarking and Validation of Sub-mW 30GHz VG-LNAs in 22nm FDSOI CMOS for 5G/6G Phased-Array Receivers**|Domenico Zito et.al.|[2409.07069](http://arxiv.org/abs/2409.07069)|null|
 |**2024-09-11**|**Introducing UNIQuE: The Unconventional Noiseless Intermediate Quantum Emulator**|Reece Robertson et.al.|[2409.07000](http://arxiv.org/abs/2409.07000)|null|
-|**2024-09-11**|**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations**|Avimita Chatterjee et.al.|[2409.06919](http://arxiv.org/abs/2409.06919)|null|
+|**2024-09-11**|**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations**|Avimita Chatterjee et.al.|[2409.06919](http://arxiv.org/abs/2409.06919)|**[link](https://github.com/sri-international/qc-app-oriented-benchmarks)**|
 |**2024-09-10**|**Design of Threshold-Constrained Indirect Quantizers**|Ariel Doubchak et.al.|[2409.06839](http://arxiv.org/abs/2409.06839)|null|
 |**2024-09-10**|**Kino-PAX: Highly Parallel Kinodynamic Sampling-based Planner**|Nicolas Perrault et.al.|[2409.06807](http://arxiv.org/abs/2409.06807)|null|
 |**2024-09-10**|**Generating coupled cluster code for modern distributed memory tensor software**|Jan Brandejs et.al.|[2409.06759](http://arxiv.org/abs/2409.06759)|null|
