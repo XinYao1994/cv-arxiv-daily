@@ -213,6 +213,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**On the Viability of Open-Source Financial Rails: Economic Security of Permissionless Consensus**|Jacob D. Leshno et.al.|[2409.08951](http://arxiv.org/abs/2409.08951)|null|
 |**2024-09-12**|**Optimal Operation of Distribution System Operator and the Impact of Peer-to-Peer Transactions**|Hanyang Lin et.al.|[2409.08191](http://arxiv.org/abs/2409.08191)|null|
 |**2024-09-12**|**Quantum hacking: Induced-photorefraction attack on a practical continuous-variable quantum key distribution system**|Yiliang Wang et.al.|[2409.08017](http://arxiv.org/abs/2409.08017)|null|
 |**2024-09-11**|**A Thorough Investigation of Content-Defined Chunking Algorithms for Data Deduplication**|Marcel Gregoriadis et.al.|[2409.06066](http://arxiv.org/abs/2409.06066)|**[link](https://github.com/mrd0ll4r/cdc-algorithm-tester)**|
@@ -746,6 +747,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Graph-Based Pulse Representation for Diverse Quantum Control Hardware**|Aniket S. Dalvi et.al.|[2409.08407](http://arxiv.org/abs/2409.08407)|null|
 |**2024-09-12**|**Repr Types: One Abstraction to Rule Them All**|Viktor Palmkvist et.al.|[2409.07950](http://arxiv.org/abs/2409.07950)|null|
 |**2024-09-12**|**Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures**|Oğuzcan Kırmemiş et.al.|[2409.07870](http://arxiv.org/abs/2409.07870)|null|
 |**2024-09-11**|**Genesis-Metallicity: Universal Non-Parametric Gas-Phase Metallicity Estimation**|Danial Langeroodi et.al.|[2409.07455](http://arxiv.org/abs/2409.07455)|**[link](https://github.com/langeroodi/genesis_metallicity)**|
@@ -2495,6 +2497,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Optically-Validated Microvascular Phantom for Super-Resolution Ultrasound Imaging**|Jaime Parra Raad et.al.|[2409.09031](http://arxiv.org/abs/2409.09031)|null|
+|**2024-09-13**|**The Better Solution Probability Metric: Optimizing QAOA to Outperform its Warm-Start Solution**|Sean Feeney et.al.|[2409.09012](http://arxiv.org/abs/2409.09012)|null|
+|**2024-09-13**|**Revisiting Local PageRank Estimation on Undirected Graphs: Simple and Optimal**|Hanzhi Wang et.al.|[2409.08978](http://arxiv.org/abs/2409.08978)|null|
+|**2024-09-13**|**Accurate and Fast Estimation of Temporal Motifs using Path Sampling**|Yunjie Pan et.al.|[2409.08975](http://arxiv.org/abs/2409.08975)|null|
+|**2024-09-13**|**Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph**|Samuel Fernández-Menduiña et.al.|[2409.08970](http://arxiv.org/abs/2409.08970)|null|
+|**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
+|**2024-09-13**|**User Identity Linkage on Social Networks: A Review of Modern Techniques and Applications**|Caterina Senette et.al.|[2409.08966](http://arxiv.org/abs/2409.08966)|null|
+|**2024-09-13**|**A Bayesian Approach to Clustering via the Proper Bayesian Bootstrap: the Bayesian Bagged Clustering (BBC) algorithm**|Federico Maria Quetti et.al.|[2409.08954](http://arxiv.org/abs/2409.08954)|null|
+|**2024-09-13**|**A Near-Optimal Algorithm for Convex Simple Bilevel Optimization under Weak Assumptions**|Rujun Jiang et.al.|[2409.08948](http://arxiv.org/abs/2409.08948)|null|
+|**2024-09-13**|**Event-based reconstruction of time-resolved centreline deformation of flapping flags**|Gaetan Raynaud et.al.|[2409.08939](http://arxiv.org/abs/2409.08939)|null|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
 |**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
@@ -5972,6 +5984,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004](http://arxiv.org/abs/2409.09004)|null|
+|**2024-09-13**|**Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis**|Xiaoyu Chu et.al.|[2409.08949](http://arxiv.org/abs/2409.08949)|null|
+|**2024-09-13**|**Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations**|Francesco Ghisoni et.al.|[2409.08929](http://arxiv.org/abs/2409.08929)|null|
+|**2024-09-13**|**Benchmarking the performance of quantum computing software**|Paul D. Nation et.al.|[2409.08844](http://arxiv.org/abs/2409.08844)|null|
+|**2024-09-13**|**Confocal Raman Microscopy with Adaptive Optics**|J. D. Munoz-Bolanos et.al.|[2409.08725](http://arxiv.org/abs/2409.08725)|null|
+|**2024-09-13**|**Improving Analog Neural Network Robustness: A Noise-Agnostic Approach with Explainable Regularizations**|Alice Duque et.al.|[2409.08633](http://arxiv.org/abs/2409.08633)|null|
+|**2024-09-13**|**Automatic Generation of Fast and Accurate Performance Models for Deep Neural Network Accelerators**|Konstantin Lübeck et.al.|[2409.08595](http://arxiv.org/abs/2409.08595)|null|
+|**2024-09-13**|**AnalogGym: An Open and Practical Testing Suite for Analog Circuit Synthesis**|Jintao Li et.al.|[2409.08534](http://arxiv.org/abs/2409.08534)|null|
+|**2024-09-12**|**Baloo: A Large-Scale Hybrid Soft Robotic Torso for Whole-Arm Manipulation**|Curtis C. Johnson et.al.|[2409.08420](http://arxiv.org/abs/2409.08420)|null|
+|**2024-09-12**|**Graph-Based Pulse Representation for Diverse Quantum Control Hardware**|Aniket S. Dalvi et.al.|[2409.08407](http://arxiv.org/abs/2409.08407)|null|
 |**2024-09-12**|**Photonic Quantum Computers**|M. AbuGhanem et.al.|[2409.08229](http://arxiv.org/abs/2409.08229)|null|
 |**2024-09-12**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
@@ -9337,6 +9359,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Learning Theory Informed Priors for Bayesian Inference: A Case Study with Early Dark Energy**|Michael W. Toomey et.al.|[2409.09029](http://arxiv.org/abs/2409.09029)|null|
+|**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026](http://arxiv.org/abs/2409.09026)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**Turbo Equalization with Coarse Quantization using the Information Bottleneck Method**|Philipp Mohr et.al.|[2409.09004](http://arxiv.org/abs/2409.09004)|null|
+|**2024-09-13**|**Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**|Yan-Martin Tamm et.al.|[2409.08987](http://arxiv.org/abs/2409.08987)|**[link](https://github.com/Darel13712/pretrained-audio-representations)**|
+|**2024-09-13**|**A Fiber-pigtailed Quantum Dot Device Generating Indistinguishable Photons at GHz Clock-rates**|Lucas Rickert et.al.|[2409.08982](http://arxiv.org/abs/2409.08982)|null|
+|**2024-09-13**|**Accurate and Fast Estimation of Temporal Motifs using Path Sampling**|Yunjie Pan et.al.|[2409.08975](http://arxiv.org/abs/2409.08975)|null|
+|**2024-09-13**|**Constraints on dark energy and modified gravity from the BOSS Full-Shape and DESI BAO data**|Petter Taule et.al.|[2409.08971](http://arxiv.org/abs/2409.08971)|null|
+|**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
 |**2024-09-12**|**CROSS: A Contributor-Project Interaction Lifecycle Model for Open Source Software**|Tapajit Dey et.al.|[2409.08267](http://arxiv.org/abs/2409.08267)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255](http://arxiv.org/abs/2409.08255)|null|
@@ -12811,6 +12843,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026](http://arxiv.org/abs/2409.09026)|null|
+|**2024-09-13**|**INN-PAR: Invertible Neural Network for PPG to ABP Reconstruction**|Soumitra Kundu et.al.|[2409.09021](http://arxiv.org/abs/2409.09021)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**Predicting High Magnification Events in Microlensed Quasars in the Era of LSST using Recurrent Neural Networks**|Joshua Fagin et.al.|[2409.08999](http://arxiv.org/abs/2409.08999)|null|
+|**2024-09-13**|**Comparative Analysis of Pretrained Audio Representations in Music Recommender Systems**|Yan-Martin Tamm et.al.|[2409.08987](http://arxiv.org/abs/2409.08987)|**[link](https://github.com/Darel13712/pretrained-audio-representations)**|
+|**2024-09-13**|**The connection of polaritonic chemistry with the physics of a spin glass**|Dominik Sidler et.al.|[2409.08986](http://arxiv.org/abs/2409.08986)|null|
+|**2024-09-13**|**Entanglement and Coherence Dynamics in Photonic Quantum Memristors**|Alberto Ferrara et.al.|[2409.08979](http://arxiv.org/abs/2409.08979)|null|
+|**2024-09-13**|**Accurate and Fast Estimation of Temporal Motifs using Path Sampling**|Yunjie Pan et.al.|[2409.08975](http://arxiv.org/abs/2409.08975)|null|
+|**2024-09-13**|**User Identity Linkage on Social Networks: A Review of Modern Techniques and Applications**|Caterina Senette et.al.|[2409.08966](http://arxiv.org/abs/2409.08966)|null|
 |**2024-09-12**|**Crown-Like Structures in Breast Adipose Tissue: Finding a 'Needle-in-a-Haystack' using Artificial Intelligence and Collaborative Active Learning on the Web**|Praphulla MS Bhawsar et.al.|[2409.08275](http://arxiv.org/abs/2409.08275)|null|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
 |**2024-09-12**|**Multi-period railway line planning for integrated passenger-freight transportation**|Wanru Chen et.al.|[2409.08256](http://arxiv.org/abs/2409.08256)|null|
@@ -16286,6 +16328,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Boson sampling with self-generation of squeezing via interaction of photons and atoms**|Sergey V. Tarasov et.al.|[2409.09027](http://arxiv.org/abs/2409.09027)|null|
+|**2024-09-13**|**Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks**|Florian Grötschla et.al.|[2409.09026](http://arxiv.org/abs/2409.09026)|null|
+|**2024-09-13**|**Inverse Spin Hall Effect in Nonequilibrium Dirac Systems Induced by Anomalous Flow Imbalance**|Hung-Hsuan Teh et.al.|[2409.09025](http://arxiv.org/abs/2409.09025)|null|
+|**2024-09-13**|**Shifts of Finite Type Obtained by Forbidding a Single Pattern**|Nishant Chandgotia et.al.|[2409.09024](http://arxiv.org/abs/2409.09024)|null|
+|**2024-09-13**|**New insights into the analytic structure of correlation functions via kinetic theory**|Robbe Brants et.al.|[2409.09022](http://arxiv.org/abs/2409.09022)|null|
+|**2024-09-13**|**An Efficient and Streaming Audio Visual Active Speaker Detection System**|Arnav Kundu et.al.|[2409.09018](http://arxiv.org/abs/2409.09018)|null|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**Dunkl and Cherednik operators**|Oleg Chalykh et.al.|[2409.09005](http://arxiv.org/abs/2409.09005)|null|
+|**2024-09-13**|**Assembly of Complex Colloidal Systems Using DNA**|William M. Jacobs et.al.|[2409.08988](http://arxiv.org/abs/2409.08988)|null|
 |**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
@@ -19764,6 +19816,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335](http://arxiv.org/abs/2409.08335)|null|
 |**2024-09-12**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853](http://arxiv.org/abs/2409.07853)|null|
 |**2024-09-06**|**OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
 |**2024-09-08**|**Inner Product Free Krylov Methods for Large-Scale Inverse Problems**|Ariana N. Brown et.al.|[2409.05239](http://arxiv.org/abs/2409.05239)|null|
