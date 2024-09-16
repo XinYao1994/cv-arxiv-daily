@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -5954,7 +5954,7 @@ layout: default
 |**2024-09-12**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
 |**2024-09-12**|**Rethinking Programmed I/O for Fast Devices, Cheap Cores, and Coherent Interconnects**|Anastasiia Ruzhanskaia et.al.|[2409.08141](http://arxiv.org/abs/2409.08141)|null|
-|**2024-09-12**|**Dynamic Simultaneous Multithreaded Arch**|Daniel Ortiz-Arroyo et.al.|[2409.07903](http://arxiv.org/abs/2409.07903)|null|
+|**2024-09-13**|**Dynamic Simultaneous Multithreaded Architecture**|Daniel Ortiz-Arroyo et.al.|[2409.07903](http://arxiv.org/abs/2409.07903)|null|
 |**2024-09-12**|**Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures**|Oğuzcan Kırmemiş et.al.|[2409.07870](http://arxiv.org/abs/2409.07870)|null|
 |**2024-09-12**|**Smart CSI Processing for Accruate Commodity WiFi-based Humidity Sensing**|Yirui Deng et.al.|[2409.07857](http://arxiv.org/abs/2409.07857)|null|
 |**2024-09-12**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853](http://arxiv.org/abs/2409.07853)|null|
@@ -9316,7 +9316,7 @@ layout: default
 |**2024-09-12**|**CROSS: A Contributor-Project Interaction Lifecycle Model for Open Source Software**|Tapajit Dey et.al.|[2409.08267](http://arxiv.org/abs/2409.08267)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255](http://arxiv.org/abs/2409.08255)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration**|Luís Marques et.al.|[2409.08249](http://arxiv.org/abs/2409.08249)|null|
 |**2024-09-12**|**The precision measurement of the W boson mass and its impact on physics**|Ashutosh Vijay Kotwal et.al.|[2409.08244](http://arxiv.org/abs/2409.08244)|null|
@@ -12792,7 +12792,7 @@ layout: default
 |**2024-09-12**|**Tracking Network Dynamics using Probabilistic State-Space Models**|Victor M. Tenorio et.al.|[2409.08238](http://arxiv.org/abs/2409.08238)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234](http://arxiv.org/abs/2409.08234)|**[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)**|
-|**2024-09-12**|**Improving Initial Transients of Online Learning Echo State Network Control System via Feedback Adjustment**|Junyi Shen et.al.|[2409.08228](http://arxiv.org/abs/2409.08228)|null|
+|**2024-09-13**|**Improving Initial Transients of Online Learning Echo State Network Control System via Feedback Adjustment**|Junyi Shen et.al.|[2409.08228](http://arxiv.org/abs/2409.08228)|null|
 |**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217](http://arxiv.org/abs/2409.08217)|null|
 |**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456](http://arxiv.org/abs/2409.07456)|null|
@@ -16262,7 +16262,7 @@ layout: default
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
 |**2024-09-12**|**Multi-period railway line planning for integrated passenger-freight transportation**|Wanru Chen et.al.|[2409.08256](http://arxiv.org/abs/2409.08256)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252](http://arxiv.org/abs/2409.08252)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration**|Luís Marques et.al.|[2409.08249](http://arxiv.org/abs/2409.08249)|null|

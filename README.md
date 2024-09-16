@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -93,7 +93,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -207,7 +207,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -740,7 +740,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Compiler
 
@@ -2489,7 +2489,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -5966,7 +5966,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -5976,7 +5976,7 @@
 |**2024-09-12**|**Efficient Sparse Coding with the Adaptive Locally Competitive Algorithm for Speech Classification**|Soufiyan Bahadi et.al.|[2409.08188](http://arxiv.org/abs/2409.08188)|null|
 |**2024-09-12**|**Low-Cost Tree Crown Dieback Estimation Using Deep Learning-Based Segmentation**|M. J. Allen et.al.|[2409.08171](http://arxiv.org/abs/2409.08171)|**[link](https://github.com/mataln/dlncs-dieback)**|
 |**2024-09-12**|**Rethinking Programmed I/O for Fast Devices, Cheap Cores, and Coherent Interconnects**|Anastasiia Ruzhanskaia et.al.|[2409.08141](http://arxiv.org/abs/2409.08141)|null|
-|**2024-09-12**|**Dynamic Simultaneous Multithreaded Arch**|Daniel Ortiz-Arroyo et.al.|[2409.07903](http://arxiv.org/abs/2409.07903)|null|
+|**2024-09-13**|**Dynamic Simultaneous Multithreaded Architecture**|Daniel Ortiz-Arroyo et.al.|[2409.07903](http://arxiv.org/abs/2409.07903)|null|
 |**2024-09-12**|**Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures**|Oğuzcan Kırmemiş et.al.|[2409.07870](http://arxiv.org/abs/2409.07870)|null|
 |**2024-09-12**|**Smart CSI Processing for Accruate Commodity WiFi-based Humidity Sensing**|Yirui Deng et.al.|[2409.07857](http://arxiv.org/abs/2409.07857)|null|
 |**2024-09-12**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853](http://arxiv.org/abs/2409.07853)|null|
@@ -9331,7 +9331,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -9340,7 +9340,7 @@
 |**2024-09-12**|**CROSS: A Contributor-Project Interaction Lifecycle Model for Open Source Software**|Tapajit Dey et.al.|[2409.08267](http://arxiv.org/abs/2409.08267)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**LoRID: Low-Rank Iterative Diffusion for Adversarial Purification**|Geigh Zollicoffer et.al.|[2409.08255](http://arxiv.org/abs/2409.08255)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration**|Luís Marques et.al.|[2409.08249](http://arxiv.org/abs/2409.08249)|null|
 |**2024-09-12**|**The precision measurement of the W boson mass and its impact on physics**|Ashutosh Vijay Kotwal et.al.|[2409.08244](http://arxiv.org/abs/2409.08244)|null|
@@ -12805,7 +12805,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -12818,7 +12818,7 @@
 |**2024-09-12**|**Tracking Network Dynamics using Probabilistic State-Space Models**|Victor M. Tenorio et.al.|[2409.08238](http://arxiv.org/abs/2409.08238)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234](http://arxiv.org/abs/2409.08234)|**[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)**|
-|**2024-09-12**|**Improving Initial Transients of Online Learning Echo State Network Control System via Feedback Adjustment**|Junyi Shen et.al.|[2409.08228](http://arxiv.org/abs/2409.08228)|null|
+|**2024-09-13**|**Improving Initial Transients of Online Learning Echo State Network Control System via Feedback Adjustment**|Junyi Shen et.al.|[2409.08228](http://arxiv.org/abs/2409.08228)|null|
 |**2024-09-12**|**CliquePH: Higher-Order Information for Graph Neural Networks through Persistent Homology on Clique Graphs**|Davide Buffelli et.al.|[2409.08217](http://arxiv.org/abs/2409.08217)|null|
 |**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456](http://arxiv.org/abs/2409.07456)|null|
@@ -16280,7 +16280,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -16290,7 +16290,7 @@
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**Learning incomplete factorization preconditioners for GMRES**|Paul Häusner et.al.|[2409.08262](http://arxiv.org/abs/2409.08262)|**[link](https://github.com/paulhausner/neural-incomplete-factorization)**|
 |**2024-09-12**|**Multi-period railway line planning for integrated passenger-freight transportation**|Wanru Chen et.al.|[2409.08256](http://arxiv.org/abs/2409.08256)|null|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**HST Proper Motion of Andromeda III: Another Satellite Co-orbiting The M31 Satellite Plane**|Dana I. Casetti-Dinescu et.al.|[2409.08252](http://arxiv.org/abs/2409.08252)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Quantifying Aleatoric and Epistemic Dynamics Uncertainty via Local Conformal Calibration**|Luís Marques et.al.|[2409.08249](http://arxiv.org/abs/2409.08249)|null|
@@ -19758,7 +19758,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -19924,7 +19924,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20240915>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240916>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
