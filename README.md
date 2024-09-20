@@ -2520,7 +2520,7 @@
 |---|---|---|---|---|
 |**2024-09-18**|**Poisson approximate likelihood compared to the particle filter**|Yize Hao et.al.|[2409.12173](http://arxiv.org/abs/2409.12173)|null|
 |**2024-09-18**|**Blind Deconvolution on Graphs: Exact and Stable Recovery**|Chang Ye et.al.|[2409.12164](http://arxiv.org/abs/2409.12164)|null|
-|**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|null|
+|**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Residual Descent Differential Dynamic Game (RD3G) -- A Fast Newton Solver for Constrained General Sum Games**|Zhiyuan Zhang et.al.|[2409.12152](http://arxiv.org/abs/2409.12152)|null|
 |**2024-09-18**|**AHKASH: a new Hybrid particle-in-cell code for simulations of astrophysical collisionless plasma**|Radhika Achikanath Chirakkara et.al.|[2409.12151](http://arxiv.org/abs/2409.12151)|null|
 |**2024-09-18**|**Lempel-Ziv (LZ77) Factorization in Sublinear Time**|Dominik Kempa et.al.|[2409.12146](http://arxiv.org/abs/2409.12146)|null|
@@ -6039,7 +6039,7 @@
 |**2024-09-18**|**Towards practical secure delegated quantum computing with semi-classical light**|Boris Bourdoncle et.al.|[2409.12103](http://arxiv.org/abs/2409.12103)|null|
 |**2024-09-18**|**Generalized Robot Learning Framework**|Jiahuan Yan et.al.|[2409.12061](http://arxiv.org/abs/2409.12061)|null|
 |**2024-09-18**|**Equimetrics -- Applying HAR principles to equestrian activities**|Jonas Pöhler et.al.|[2409.11989](http://arxiv.org/abs/2409.11989)|**[link](https://github.com/limlug/equimetrics)**|
-|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|null|
+|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|**[link](https://github.com/samysam0/babee)**|
 |**2024-09-18**|**Exascale Quantum Mechanical Simulations: Navigating the Shifting Sands of Hardware and Software**|Ravindra Shinde et.al.|[2409.11881](http://arxiv.org/abs/2409.11881)|null|
 |**2024-09-18**|**A Taxonomy of Self-Admitted Technical Debt in Deep Learning Systems**|Federica Pepe et.al.|[2409.11826](http://arxiv.org/abs/2409.11826)|null|
 |**2024-09-18**|**Bridging Domain Gap for Flight-Ready Spaceborne Vision**|Tae Ha Park et.al.|[2409.11661](http://arxiv.org/abs/2409.11661)|null|
@@ -9445,7 +9445,7 @@
 |**2024-09-18**|**Massively Multi-Person 3D Human Motion Forecasting with Scene Context**|Felix B Mueller et.al.|[2409.12189](http://arxiv.org/abs/2409.12189)|null|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-18**|**multiPI-TransBTS: A Multi-Path Learning Framework for Brain Tumor Image Segmentation Based on Multi-Physical Information**|Hongjun Zhu et.al.|[2409.12167](http://arxiv.org/abs/2409.12167)|**[link](https://github.com/JoetheReindeer/multiPI_TransBTS)**|
-|**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|null|
+|**2024-09-18**|**Generalized compression and compressive search of large datasets**|Morgan E. Prior et.al.|[2409.12161](http://arxiv.org/abs/2409.12161)|**[link](https://github.com/uri-abd/clam)**|
 |**2024-09-18**|**Publishing Instincts: An Exploration-Exploitation Framework for Studying Academic Publishing Behavior and "Home Venues"**|Teddy Lazebnik et.al.|[2409.12158](http://arxiv.org/abs/2409.12158)|null|
 |**2024-09-18**|**Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games**|Ravi Pandya et.al.|[2409.12153](http://arxiv.org/abs/2409.12153)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
