@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -199,7 +199,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**Coordination-free Collaborative Replication based on Operational Transformation**|Masato Takeichi et.al.|[2409.09934](http://arxiv.org/abs/2409.09934)|null|
 |**2024-09-15**|**Ten Years of Research Advances in Full-Duplex Massive MIMO**|Mohammadali Mohammadi et.al.|[2409.09732](http://arxiv.org/abs/2409.09732)|null|
-|**2024-09-14**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
+|**2024-09-21**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
 |**2024-09-14**|**Fast and Adaptive Bulk Loading of Multidimensional Points**|Moin Hussain Moti et.al.|[2409.09447](http://arxiv.org/abs/2409.09447)|null|
 |**2024-09-14**|**A Dynamic Weighting Strategy to Mitigate Worker Node Failure in Distributed Deep Learning**|Yuesheng Xu et.al.|[2409.09242](http://arxiv.org/abs/2409.09242)|null|
 |**2024-09-09**|**A Systematic Procedure for Topological Path Identification with Raw Data Transformation in Electrical Distribution Networks**|Maurizio Vassallo et.al.|[2409.09075](http://arxiv.org/abs/2409.09075)|null|
