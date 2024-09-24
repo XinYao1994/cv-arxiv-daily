@@ -202,7 +202,7 @@ layout: default
 |**2024-09-21**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
 |**2024-09-14**|**Fast and Adaptive Bulk Loading of Multidimensional Points**|Moin Hussain Moti et.al.|[2409.09447](http://arxiv.org/abs/2409.09447)|null|
 |**2024-09-14**|**A Dynamic Weighting Strategy to Mitigate Worker Node Failure in Distributed Deep Learning**|Yuesheng Xu et.al.|[2409.09242](http://arxiv.org/abs/2409.09242)|null|
-|**2024-09-09**|**A Systematic Procedure for Topological Path Identification with Raw Data Transformation in Electrical Distribution Networks**|Maurizio Vassallo et.al.|[2409.09075](http://arxiv.org/abs/2409.09075)|null|
+|**2024-09-09**|**A Systematic Procedure for Topological Path Identification with Raw Data Transformation in Electrical Distribution Networks**|Maurizio Vassallo et.al.|[2409.09075](http://arxiv.org/abs/2409.09075)|**[link](https://github.com/tpiproblem/tpipaper)**|
 |**2024-09-13**|**On the Viability of Open-Source Financial Rails: Economic Security of Permissionless Consensus**|Jacob D. Leshno et.al.|[2409.08951](http://arxiv.org/abs/2409.08951)|null|
 |**2024-09-12**|**Optimal Operation of Distribution System Operator and the Impact of Peer-to-Peer Transactions**|Hanyang Lin et.al.|[2409.08191](http://arxiv.org/abs/2409.08191)|null|
 |**2024-09-12**|**Quantum hacking: Induced-photorefraction attack on a practical continuous-variable quantum key distribution system**|Yiliang Wang et.al.|[2409.08017](http://arxiv.org/abs/2409.08017)|null|
@@ -16448,7 +16448,7 @@ layout: default
 |**2024-09-18**|**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**|Hideo Kobayashi et.al.|[2409.12172](http://arxiv.org/abs/2409.12172)|null|
 |**2024-09-18**|**Ergodic properties of infinite extension of symmetric interval exchange transformations**|Przemysław Berk et.al.|[2409.12168](http://arxiv.org/abs/2409.12168)|null|
 |**2024-09-18**|**Precise Forecasting of Sky Images Using Spatial Warping**|Leron Julian et.al.|[2409.12162](http://arxiv.org/abs/2409.12162)|null|
-|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
+|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|**[link](https://github.com/walleclipse/wehelp)**|
 |**2024-09-18**|**Mechanical Wannier-Stark Ladder of Diamond Spin-Mechanical Lamb Wave Resonators**|Philip Andrango et.al.|[2409.12149](http://arxiv.org/abs/2409.12149)|null|
 |**2024-09-18**|**Light-induced Nonlinear Resonant Spin Magnetization**|Sayan Sarkar et.al.|[2409.12142](http://arxiv.org/abs/2409.12142)|null|
 |**2024-09-17**|**Non-Universality from Conserved Superoperators in Unitary Circuits**|Marco Lastres et.al.|[2409.11407](http://arxiv.org/abs/2409.11407)|null|
@@ -19960,7 +19960,7 @@ layout: default
 |**2024-09-20**|**Improve Machine Learning carbon footprint using Parquet dataset format and Mixed Precision training for regression models -- Part II**|Andrew Antonopoulos et.al.|[2409.11071](http://arxiv.org/abs/2409.11071)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335](http://arxiv.org/abs/2409.08335)|null|
 |**2024-09-12**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853](http://arxiv.org/abs/2409.07853)|null|
-|**2024-09-06**|**OPAL: Outlier-Preserved Microscaling Quantization A ccelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
+|**2024-09-22**|**OPAL: Outlier-Preserved Microscaling Quantization Accelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
 |**2024-09-08**|**Inner Product Free Krylov Methods for Large-Scale Inverse Problems**|Ariana N. Brown et.al.|[2409.05239](http://arxiv.org/abs/2409.05239)|null|
 |**2024-09-05**|**Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs**|Daniel Jaschke et.al.|[2409.03818](http://arxiv.org/abs/2409.03818)|null|
 |**2024-09-03**|**Toward Capturing Genetic Epistasis From Multivariate Genome-Wide Association Studies Using Mixed-Precision Kernel Ridge Regression**|Hatem Ltaief et.al.|[2409.01712](http://arxiv.org/abs/2409.01712)|null|
