@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -735,7 +735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**Crossing the disciplines -- a starter toolkit for researchers who wish to explore early Irish literature**|M. McCarthy et.al.|[2409.11858](http://arxiv.org/abs/2409.11858)|null|
+|**2024-09-24**|**Crossing the disciplines - a starter toolkit for researchers who wish to explore early Irish literature**|M. McCarthy et.al.|[2409.11858](http://arxiv.org/abs/2409.11858)|null|
 |**2024-09-18**|**Bridging Design and Development with Automated Declarative UI Code Generation**|Ting Zhou et.al.|[2409.11667](http://arxiv.org/abs/2409.11667)|null|
 |**2024-09-17**|**No Saved Kaleidosope: an 100% Jitted Neural Network Coding Language with Pythonic Syntax**|Augusto Seben da Rosa et.al.|[2409.11600](http://arxiv.org/abs/2409.11600)|**[link](https://github.com/nosaveddata/nosavedkaleidoscope)**|
 |**2024-09-17**|**Chess Rating Estimation from Moves and Clock Times Using a CNN-LSTM**|Michael Omori et.al.|[2409.11506](http://arxiv.org/abs/2409.11506)|**[link](https://github.com/astroboy1/ratingnet)**|
@@ -19960,7 +19960,7 @@ layout: default
 |**2024-09-20**|**Improve Machine Learning carbon footprint using Parquet dataset format and Mixed Precision training for regression models -- Part II**|Andrew Antonopoulos et.al.|[2409.11071](http://arxiv.org/abs/2409.11071)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335](http://arxiv.org/abs/2409.08335)|null|
 |**2024-09-12**|**Improve Machine Learning carbon footprint using Nvidia GPU and Mixed Precision training for classification algorithms**|Andrew Antonopoulos et.al.|[2409.07853](http://arxiv.org/abs/2409.07853)|null|
-|**2024-09-22**|**OPAL: Outlier-Preserved Microscaling Quantization Accelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
+|**2024-09-24**|**OPAL: Outlier-Preserved Microscaling Quantization Accelerator for Generative Large Language Models**|Jahyun Koo et.al.|[2409.05902](http://arxiv.org/abs/2409.05902)|null|
 |**2024-09-08**|**Inner Product Free Krylov Methods for Large-Scale Inverse Problems**|Ariana N. Brown et.al.|[2409.05239](http://arxiv.org/abs/2409.05239)|null|
 |**2024-09-05**|**Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs**|Daniel Jaschke et.al.|[2409.03818](http://arxiv.org/abs/2409.03818)|null|
 |**2024-09-03**|**Toward Capturing Genetic Epistasis From Multivariate Genome-Wide Association Studies Using Mixed-Precision Kernel Ridge Regression**|Hatem Ltaief et.al.|[2409.01712](http://arxiv.org/abs/2409.01712)|null|
