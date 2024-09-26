@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -87,7 +87,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
-|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
+|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
@@ -735,7 +735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-24**|**Crossing the disciplines - a starter toolkit for researchers who wish to explore early Irish literature**|M. McCarthy et.al.|[2409.11858](http://arxiv.org/abs/2409.11858)|null|
+|**2024-09-24**|**Crossing the disciplines -- a starter toolkit for researchers who wish to explore early Irish literature**|M. McCarthy et.al.|[2409.11858](http://arxiv.org/abs/2409.11858)|null|
 |**2024-09-18**|**Bridging Design and Development with Automated Declarative UI Code Generation**|Ting Zhou et.al.|[2409.11667](http://arxiv.org/abs/2409.11667)|null|
 |**2024-09-17**|**No Saved Kaleidosope: an 100% Jitted Neural Network Coding Language with Pythonic Syntax**|Augusto Seben da Rosa et.al.|[2409.11600](http://arxiv.org/abs/2409.11600)|**[link](https://github.com/nosaveddata/nosavedkaleidoscope)**|
 |**2024-09-17**|**Chess Rating Estimation from Moves and Clock Times Using a CNN-LSTM**|Michael Omori et.al.|[2409.11506](http://arxiv.org/abs/2409.11506)|**[link](https://github.com/astroboy1/ratingnet)**|
