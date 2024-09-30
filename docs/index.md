@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -203,7 +203,7 @@ layout: default
 |**2024-09-24**|**Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning**|Nathaniel Hudson et.al.|[2409.16495](http://arxiv.org/abs/2409.16495)|null|
 |**2024-09-23**|**Space-time process algebra with asynchronous communication**|J. A. Bergstra et.al.|[2409.15120](http://arxiv.org/abs/2409.15120)|null|
 |**2024-09-23**|**TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**|Xiaoqing Wen et.al.|[2409.14647](http://arxiv.org/abs/2409.14647)|null|
-|**2024-09-24**|**Multi-Grained Specifications for Distributed System Model Checking and Verification**|Lingzhi Ouyang et.al.|[2409.14301](http://arxiv.org/abs/2409.14301)|null|
+|**2024-09-27**|**Multi-Grained Specifications for Distributed System Model Checking and Verification**|Lingzhi Ouyang et.al.|[2409.14301](http://arxiv.org/abs/2409.14301)|null|
 |**2024-09-21**|**Grid Point Approximation for Distributed Nonparametric Smoothing and Prediction**|Yuan Gao et.al.|[2409.14079](http://arxiv.org/abs/2409.14079)|null|
 |**2024-09-19**|**Multi-Agent Vulcan: An Information-Driven Multi-Agent Path Finding Approach**|Jake Olkin et.al.|[2409.13065](http://arxiv.org/abs/2409.13065)|null|
 |**2024-09-19**|**Investigating the Impact of Electric Vehicle Charging Loads on CSUN's Electric Grid**|Daniel Garcia Aguilar et.al.|[2409.12876](http://arxiv.org/abs/2409.12876)|null|
