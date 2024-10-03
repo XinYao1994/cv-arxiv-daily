@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -93,7 +93,7 @@
 |**2022-12-12**|**Collective Vector Clocks: Low-Overhead Transparent Checkpointing for MPI**|Yao Xu et.al.|[2212.05701](http://arxiv.org/abs/2212.05701)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816](http://arxiv.org/abs/2212.04816)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Artificial Intelligence
 
@@ -209,7 +209,7 @@
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414](http://arxiv.org/abs/2303.15414)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-24**|**Efficient and Accurate Co-Visible Region Localization with Matching Key-Points Crop (MKPC): A Two-Stage Pipeline for Enhancing Image Matching Performance**|Hongjian Song et.al.|[2303.13794](http://arxiv.org/abs/2303.13794)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Distributed, Parallel, and Cluster Computing
 
@@ -763,7 +763,7 @@
 |**2023-04-06**|**A Privacy Preserving Distributed Model Identification Algorithm for Power Distribution Systems**|Chin-Yao Chang et.al.|[2304.03172](http://arxiv.org/abs/2304.03172)|null|
 |**2023-04-05**|**Distributed Logistic Regression for Massive Data with Rare Events**|Xuetong Li et.al.|[2304.02269](http://arxiv.org/abs/2304.02269)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Compiler
 
@@ -2565,7 +2565,7 @@
 |**2023-04-18**|**The Unintended Consequences of Censoring Digital Technology -- Evidence from Italy's ChatGPT Ban**|David H. Kreitmeir et.al.|[2304.09339](http://arxiv.org/abs/2304.09339)|null|
 |**2023-04-18**|**AIRCADE: an Anechoic and IR Convolution-based Auralization Data-compilation Ensemble**|Túlio Chiodi et.al.|[2304.09318](http://arxiv.org/abs/2304.09318)|**[link](https://github.com/tuliochiodi/aircade)**|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Data Structures and Algorithms
 
@@ -2573,12 +2573,12 @@
 |---|---|---|---|---|
 |**2024-09-30**|**Supervised Multi-Modal Fission Learning**|Lingchao Mao et.al.|[2409.20559](http://arxiv.org/abs/2409.20559)|null|
 |**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
 |**2024-09-30**|**Bi-directional Momentum-based Haptic Feedback and Control System for Dexterous Telemanipulation**|Haoyang Wang et.al.|[2409.20527](http://arxiv.org/abs/2409.20527)|null|
 |**2024-09-30**|**Word Sense Disambiguation in Native Spanish: A Comprehensive Lexical Evaluation Resource**|Pablo Ortega et.al.|[2409.20524](http://arxiv.org/abs/2409.20524)|null|
 |**2024-09-30**|**Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning**|Zhishuai Liu et.al.|[2409.20521](http://arxiv.org/abs/2409.20521)|null|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
-|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517](http://arxiv.org/abs/2409.20517)|null|
+|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517](http://arxiv.org/abs/2409.20517)|**[link](https://github.com/Francobaldi/SMLE_AAAI2025)**|
 |**2024-09-30**|**Ensemble WSINDy for Data Driven Discovery of Governing Equations from Laser-based Full-field Measurements**|Abigail C. Schmid et.al.|[2409.20510](http://arxiv.org/abs/2409.20510)|null|
 |**2024-09-30**|**A physics-compliant diagonal representation for wireless channels parametrized by beyond-diagonal reconfigurable intelligent surfaces**|Philipp del Hougne et.al.|[2409.20509](http://arxiv.org/abs/2409.20509)|null|
 |**2024-09-27**|**Generalized HMC using Nambu mechanics for lattice QCD**|Erik Lundstrum et.al.|[2409.18958](http://arxiv.org/abs/2409.18958)|null|
@@ -6122,7 +6122,7 @@
 |**2023-04-19**|**Temporal Betweenness Centrality on Shortest Paths**|Mehdi Naima et.al.|[2304.09791](http://arxiv.org/abs/2304.09791)|null|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Hardware Architecture
 
@@ -6134,7 +6134,7 @@
 |**2024-09-30**|**SAMIPS: A Synthesised Asynchronous Processor**|Qianyi Zhang et.al.|[2409.20388](http://arxiv.org/abs/2409.20388)|null|
 |**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|null|
 |**2024-09-30**|**FastFlow in FPGA Stacks of Data Centers**|Rourab Paul et.al.|[2409.20099](http://arxiv.org/abs/2409.20099)|null|
-|**2024-09-30**|**A Parallel-in-Time Newton's Method for Nonlinear Model Predictive Control**|Casian Iacob et.al.|[2409.20027](http://arxiv.org/abs/2409.20027)|null|
+|**2024-10-02**|**A Parallel-in-Time Newton's Method for Nonlinear Model Predictive Control**|Casian Iacob et.al.|[2409.20027](http://arxiv.org/abs/2409.20027)|null|
 |**2024-09-30**|**The EAVI EMG/EEG Board: Hybrid physiological sensing**|Atau Tanaka et.al.|[2409.20026](http://arxiv.org/abs/2409.20026)|null|
 |**2024-09-30**|**The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems**|Linke Song et.al.|[2409.20002](http://arxiv.org/abs/2409.20002)|null|
 |**2024-09-30**|**VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**|Zishen Wan et.al.|[2409.19892](http://arxiv.org/abs/2409.19892)|null|
@@ -9567,7 +9567,7 @@
 |**2023-04-19**|**Egalitarian ORAM: Wear-Leveling for ORAM**|Yi Zheng et.al.|[2304.09411](http://arxiv.org/abs/2304.09411)|null|
 |**2023-04-19**|**Massive Data-Centric Parallelism in the Chiplet Era**|Marcelo Orenes-Vera et.al.|[2304.09389](http://arxiv.org/abs/2304.09389)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Information Retrieval
 
@@ -9577,11 +9577,11 @@
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**Covariant Quantum Error-Correcting Codes with Metrological Entanglement Advantage**|Cheng-Ju Lin et.al.|[2409.20561](http://arxiv.org/abs/2409.20561)|null|
 |**2024-09-30**|**Supervised Multi-Modal Fission Learning**|Lingchao Mao et.al.|[2409.20559](http://arxiv.org/abs/2409.20559)|null|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
 |**2024-09-30**|**Direct Multipath-Based SLAM**|Mingchao Liang et.al.|[2409.20552](http://arxiv.org/abs/2409.20552)|null|
 |**2024-09-30**|**Preservación de la memoria colectiva-científica, en la astronomía argentina, desde el Observatorio de La Plata**|Natalia Soledad Meilán et.al.|[2409.20542](http://arxiv.org/abs/2409.20542)|null|
 |**2024-09-30**|**Visual collective behaviors on spherical robots**|Diego Castro et.al.|[2409.20539](http://arxiv.org/abs/2409.20539)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
 |**2024-09-30**|**Cosmic Cartography: Bayesian reconstruction of the galaxy density informed by large-scale structure**|Konstantin Leyde et.al.|[2409.20531](http://arxiv.org/abs/2409.20531)|null|
 |**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
 |**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
@@ -13121,7 +13121,7 @@
 |**2023-04-20**|**Application of attention-based Siamese composite neural network in medical image recognition**|Zihao Huang et.al.|[2304.09783](http://arxiv.org/abs/2304.09783)|null|
 |**2023-04-19**|**Quantum Superposition States: Spin Glasses and Entanglement**|Aslı Tuncer et.al.|[2304.09782](http://arxiv.org/abs/2304.09782)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Networking and Internet Architecture
 
@@ -13129,12 +13129,12 @@
 |---|---|---|---|---|
 |**2024-09-30**|**SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes**|Tianchang Shen et.al.|[2409.20562](http://arxiv.org/abs/2409.20562)|null|
 |**2024-09-30**|**Direct Multipath-Based SLAM**|Mingchao Liang et.al.|[2409.20552](http://arxiv.org/abs/2409.20552)|null|
-|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|null|
-|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|null|
+|**2024-09-30**|**Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers**|Lirui Wang et.al.|[2409.20537](http://arxiv.org/abs/2409.20537)|**[link](https://github.com/liruiw/HPT)**|
+|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|**[link](https://github.com/chrisyeh96/e2e-conformal)**|
 |**2024-09-30**|**Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images**|Bahri Batuhan Bilecen et.al.|[2409.20530](http://arxiv.org/abs/2409.20530)|null|
 |**2024-09-30**|**Formally Verified Physics-Informed Neural Control Lyapunov Functions**|Jun Liu et.al.|[2409.20528](http://arxiv.org/abs/2409.20528)|null|
 |**2024-09-30**|**Accelerating Non-Maximum Suppression: A Graph Theory Perspective**|King-Siong Si et.al.|[2409.20520](http://arxiv.org/abs/2409.20520)|**[link](https://github.com/Yuri3-xr/NMS-Bench)**|
-|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517](http://arxiv.org/abs/2409.20517)|null|
+|**2024-09-30**|**SMLE: Safe Machine Learning via Embedded Overapproximation**|Matteo Francobaldi et.al.|[2409.20517](http://arxiv.org/abs/2409.20517)|**[link](https://github.com/Francobaldi/SMLE_AAAI2025)**|
 |**2024-09-30**|**A physics-compliant diagonal representation for wireless channels parametrized by beyond-diagonal reconfigurable intelligent surfaces**|Philipp del Hougne et.al.|[2409.20509](http://arxiv.org/abs/2409.20509)|null|
 |**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
 |**2024-09-27**|**Spectral Wavelet Dropout: Regularization in the Wavelet Domain**|Rinor Cakaj et.al.|[2409.18951](http://arxiv.org/abs/2409.18951)|null|
@@ -16676,7 +16676,7 @@
 |**2023-04-19**|**AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation**|Zhen Li et.al.|[2304.09790](http://arxiv.org/abs/2304.09790)|**[link](https://github.com/mcg-nku/amt)**|
 |**2023-04-19**|**Advances on Concept Drift Detection in Regression Tasks using Social Networks Theory**|Jean Paul Barddal et.al.|[2304.09788](http://arxiv.org/abs/2304.09788)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Operating Systems
 
@@ -16685,13 +16685,13 @@
 |**2024-09-30**|**Sokolov--Ternov effect in rotating systems**|Jonathan D. Kroth et.al.|[2409.20569](http://arxiv.org/abs/2409.20569)|null|
 |**2024-09-30**|**Continuously Improving Mobile Manipulation with Autonomous Real-World RL**|Russell Mendonca et.al.|[2409.20568](http://arxiv.org/abs/2409.20568)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
 |**2024-09-30**|**Robi Butler: Remote Multimodal Interactions with Household Robot Assistant**|Anxing Xiao et.al.|[2409.20548](http://arxiv.org/abs/2409.20548)|null|
 |**2024-09-30**|**Marked length spectrum rigidity for Anosov magnetic surfaces**|Valerio Assenza et.al.|[2409.20545](http://arxiv.org/abs/2409.20545)|null|
 |**2024-10-01**|**Rapidly Rotating Wall-Mode Convection**|Geoffrey M. Vasil et.al.|[2409.20541](http://arxiv.org/abs/2409.20541)|null|
 |**2024-09-30**|**Statistical view of orbital circularisation with 14 000 characterised TESS eclipsing binaries**|L. W. IJspeert et.al.|[2409.20540](http://arxiv.org/abs/2409.20540)|null|
 |**2024-09-30**|**Visual collective behaviors on spherical robots**|Diego Castro et.al.|[2409.20539](http://arxiv.org/abs/2409.20539)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
 |**2024-09-27**|**PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation**|Shaowei Liu et.al.|[2409.18964](http://arxiv.org/abs/2409.18964)|**[link](https://github.com/stevenlsw/physgen)**|
 |**2024-09-27**|**ProMerge: Prompt and Merge for Unsupervised Instance Segmentation**|Dylan Li et.al.|[2409.18961](http://arxiv.org/abs/2409.18961)|null|
 |**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
@@ -20234,7 +20234,7 @@
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
 |**2023-04-19**|**Electrically-Controlled Suppression of Rayleigh Backscattering in an Integrated Photonic Circuit**|Ogulcan E. Orsel et.al.|[2304.09828](http://arxiv.org/abs/2304.09828)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 ## Mixed Precision
 
@@ -20242,7 +20242,7 @@
 |---|---|---|---|---|
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
 |**2024-09-30**|**Constraint Guided Model Quantization of Neural Networks**|Quinten Van Baelen et.al.|[2409.20138](http://arxiv.org/abs/2409.20138)|null|
-|**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|null|
+|**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|**[link](https://github.com/AlignedQuant/AlignedKV)**|
 |**2024-09-21**|**On Importance of Pruning and Distillation for Efficient Low Resource NLP**|Aishwarya Mirashi et.al.|[2409.14162](http://arxiv.org/abs/2409.14162)|null|
 |**2024-09-20**|**Improve Machine Learning carbon footprint using Parquet dataset format and Mixed Precision training for regression models -- Part II**|Andrew Antonopoulos et.al.|[2409.11071](http://arxiv.org/abs/2409.11071)|null|
 |**2024-09-12**|**Mixed precision iterative refinement for linear inverse problems**|James G. Nagy et.al.|[2409.08335](http://arxiv.org/abs/2409.08335)|null|
@@ -20406,7 +20406,7 @@
 |**2023-03-31**|**FP8 versus INT8 for efficient deep learning inference**|Mart van Baalen et.al.|[2303.17951](http://arxiv.org/abs/2303.17951)|null|
 |**2023-03-27**|**Optimal Mixed-ADC arrangement for DOA Estimation via CRB using ULA**|Xinnan Zhang et.al.|[2303.15112](http://arxiv.org/abs/2303.15112)|null|
 
-<p align=right>(<a href=#Updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
