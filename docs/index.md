@@ -756,6 +756,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**A General, Differentiable Transit Model for Ellipsoidal Occulters: Derivation, Application, and Forecast of Planetary Oblateness and Obliquity Constraints with JWST**|Shashank Dholakia et.al.|[2410.03449](http://arxiv.org/abs/2410.03449)|null|
+|**2024-10-04**|**Dolphin: A Programmable Framework for Scalable Neurosymbolic Learning**|Aaditya Naik et.al.|[2410.03348](http://arxiv.org/abs/2410.03348)|null|
+|**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334](http://arxiv.org/abs/2410.03334)|null|
+|**2024-10-04**|**Solving the Phase Ordering Problem $\ne$ Generating the Globally Optimal Code**|Yu Wang et.al.|[2410.03120](http://arxiv.org/abs/2410.03120)|null|
+|**2024-10-03**|**MQT Qudits: A Software Framework for Mixed-Dimensional Quantum Computing**|Kevin Mato et.al.|[2410.02854](http://arxiv.org/abs/2410.02854)|null|
 |**2024-10-03**|**Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection**|Song Li et.al.|[2410.02647](http://arxiv.org/abs/2410.02647)|null|
 |**2024-10-03**|**Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy, and Future Directions**|Mohammad Parsa Toopchinezhad et.al.|[2410.02563](http://arxiv.org/abs/2410.02563)|null|
 |**2024-10-03**|**The Long Way to Deforestation (Technical Report): A Type Inference and Elaboration Technique for Removing Intermediate Data Structures**|Yijia Chen et.al.|[2410.02232](http://arxiv.org/abs/2410.02232)|null|
@@ -2571,6 +2576,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Minimax-optimal trust-aware multi-armed bandits**|Changxiao Cai et.al.|[2410.03651](http://arxiv.org/abs/2410.03651)|null|
+|**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
+|**2024-10-04**|**BLAST: Beyond Limber Angular power Spectra Toolkit. A fast and efficient algorithm for 3x2 pt analysis**|Sofia Chiarenza et.al.|[2410.03632](http://arxiv.org/abs/2410.03632)|null|
+|**2024-10-04**|**Physically Agnostic Quasinormal Mode Expansion in Time Dispersive Structures:from Mechanical Vibrations to Nanophotonic Resonances**|André Nicolet et.al.|[2410.03631](http://arxiv.org/abs/2410.03631)|null|
+|**2024-10-04**|**Is Gibbs sampling faster than Hamiltonian Monte Carlo on GLMs?**|Son Luu et.al.|[2410.03630](http://arxiv.org/abs/2410.03630)|null|
+|**2024-10-04**|**Time-Reversal Symmetry in RDMFT and pCCD with Complex-Valued Orbitals**|Mauricio Rodríguez-Mayorga et.al.|[2410.03620](http://arxiv.org/abs/2410.03620)|null|
+|**2024-10-04**|**Proudfoot-Speyer degenerations of scattering equations**|Barbara Betti et.al.|[2410.03614](http://arxiv.org/abs/2410.03614)|null|
+|**2024-10-04**|**Subexponential Algorithms for Clique Cover on Unit Disk and Unit Ball Graphs**|Tomohiro Koana et.al.|[2410.03609](http://arxiv.org/abs/2410.03609)|null|
+|**2024-10-04**|**How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework**|Yinuo Ren et.al.|[2410.03601](http://arxiv.org/abs/2410.03601)|null|
+|**2024-10-04**|**Efficiently Identifying Watermarked Segments in Mixed-Source Texts**|Xuandong Zhao et.al.|[2410.03600](http://arxiv.org/abs/2410.03600)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749](http://arxiv.org/abs/2410.02749)|null|
 |**2024-10-03**|**OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?**|Liangze Jiang et.al.|[2410.02735](http://arxiv.org/abs/2410.02735)|null|
@@ -6146,6 +6161,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
+|**2024-10-04**|**AraSync: Precision Time Synchronization in Rural Wireless Living Lab**|Md Nadim et.al.|[2410.03583](http://arxiv.org/abs/2410.03583)|null|
+|**2024-10-04**|**HiL Demonstration of Online Battery Capacity and Impedance Estimation with Minimal a Priori Parametrization Effort**|Camiel J. J. Beckers et.al.|[2410.03528](http://arxiv.org/abs/2410.03528)|null|
+|**2024-10-04**|**Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computin**|Mohammad Parsa Toopchinezhad et.al.|[2410.03472](http://arxiv.org/abs/2410.03472)|null|
+|**2024-10-04**|**A 9T4R RRAM-Based ACAM for Analogue Template Matching at the Edge**|Georgios Papandroulidakis et.al.|[2410.03414](http://arxiv.org/abs/2410.03414)|null|
+|**2024-10-04**|**Error Correction Code Transformer: From Non-Unified to Unified**|Yongli Yan et.al.|[2410.03364](http://arxiv.org/abs/2410.03364)|null|
+|**2024-10-04**|**Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs**|Tianheng Ling et.al.|[2410.03294](http://arxiv.org/abs/2410.03294)|null|
+|**2024-10-04**|**Computational Diplomacy: How "hackathons for good" feed a participatory future for multilateralism in the digital age**|Thomas Maillart et.al.|[2410.03286](http://arxiv.org/abs/2410.03286)|null|
+|**2024-10-04**|**Tadashi: Enabling AI-Based Automated Code Generation With Guaranteed Correctness**|Emil Vatai et.al.|[2410.03210](http://arxiv.org/abs/2410.03210)|**[link](https://github.com/vatai/tadashi)**|
+|**2024-10-04**|**Research Directions for Verifiable Crypto-Physically Secure TEEs**|Sylvain Bellemare et.al.|[2410.03183](http://arxiv.org/abs/2410.03183)|null|
 |**2024-10-03**|**Custom Non-Linear Model Predictive Control for Obstacle Avoidance in Indoor and Outdoor Environments**|Lara Laban et.al.|[2410.02732](http://arxiv.org/abs/2410.02732)|**[link](https://github.com/larasupernovae/nmpc_flash_multi_obstacle)**|
 |**2024-10-03**|**CAX: Cellular Automata Accelerated in JAX**|Maxence Faldor et.al.|[2410.02651](http://arxiv.org/abs/2410.02651)|null|
 |**2024-10-03**|**IC3M: In-Car Multimodal Multi-object Monitoring for Abnormal Status of Both Driver and Passengers**|Zihan Fang et.al.|[2410.02592](http://arxiv.org/abs/2410.02592)|null|
@@ -9609,6 +9634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655](http://arxiv.org/abs/2410.03655)|null|
+|**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
+|**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
+|**2024-10-04**|**HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss**|Ruru Xu et.al.|[2410.03624](http://arxiv.org/abs/2410.03624)|null|
+|**2024-10-04**|**Management of high-tech companies in conditions of import substitution**|S. E. Pyatovsky et.al.|[2410.03610](http://arxiv.org/abs/2410.03610)|null|
+|**2024-10-04**|**Programmable time-frequency mode-sorting of single photons with a multi-output quantum pulse gate**|Laura Serino et.al.|[2410.03606](http://arxiv.org/abs/2410.03606)|null|
+|**2024-10-04**|**SiMilarity-Enhanced Homophily for Multi-View Heterophilous Graph Clustering**|Jianpeng Chen et.al.|[2410.03596](http://arxiv.org/abs/2410.03596)|null|
+|**2024-10-04**|**Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments**|Omar Sharif et.al.|[2410.03594](http://arxiv.org/abs/2410.03594)|null|
+|**2024-10-04**|**Discovering Biases in Information Retrieval Models Using Relevance Thesaurus as Global Explanation**|Youngwoo Kim et.al.|[2410.03584](http://arxiv.org/abs/2410.03584)|null|
+|**2024-10-04**|**A Practical Concatenated Coding Scheme for Noisy Shuffling Channels with Coset-based Indexing**|Javad Haghighat et.al.|[2410.03578](http://arxiv.org/abs/2410.03578)|null|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
 |**2024-10-03**|**Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization**|Lei Xu et.al.|[2410.02741](http://arxiv.org/abs/2410.02741)|null|
 |**2024-10-03**|**Data Similarity-Based One-Shot Clustering for Multi-Task Hierarchical Federated Learning**|Abdulmoneam Ali et.al.|[2410.02733](http://arxiv.org/abs/2410.02733)|null|
@@ -13181,6 +13216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Fluctuation-dissipation theorems and the measurement of the Onsager coefficients for two-phase flow in porous media**|Marcel Moura et.al.|[2410.03661](http://arxiv.org/abs/2410.03661)|null|
+|**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657](http://arxiv.org/abs/2410.03657)|null|
+|**2024-10-04**|**Fault tolerance of metric basis can be expensive**|Martin Knor et.al.|[2410.03656](http://arxiv.org/abs/2410.03656)|null|
+|**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
+|**2024-10-04**|**AraSync: Precision Time Synchronization in Rural Wireless Living Lab**|Md Nadim et.al.|[2410.03583](http://arxiv.org/abs/2410.03583)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**HyResPINNs: Adaptive Hybrid Residual Networks for Learning Optimal Combinations of Neural and RBF Components for Physics-Informed Modeling**|Madison Cooley et.al.|[2410.03573](http://arxiv.org/abs/2410.03573)|null|
+|**2024-10-04**|**Compressing multivariate functions with tree tensor networks**|Joseph Tindall et.al.|[2410.03572](http://arxiv.org/abs/2410.03572)|null|
+|**2024-10-04**|**Enhancing Autonomous Navigation by Imaging Hidden Objects using Single-Photon LiDAR**|Aaron Young et.al.|[2410.03555](http://arxiv.org/abs/2410.03555)|null|
+|**2024-10-04**|**Seizure freedom after surgical resection of diffusion-weighted MRI abnormalities**|Jonathan Horsley et.al.|[2410.03548](http://arxiv.org/abs/2410.03548)|null|
 |**2024-10-03**|**Pseudoentanglement from tensor networks**|Zihan Cheng et.al.|[2410.02758](http://arxiv.org/abs/2410.02758)|null|
 |**2024-10-03**|**An Online Automatic Modulation Classification Scheme Based on Isolation Distributional Kernel**|Xinpeng Li et.al.|[2410.02750](http://arxiv.org/abs/2410.02750)|null|
 |**2024-10-03**|**Neutral residues: revisiting adapters for model extension**|Franck Signe Talla et.al.|[2410.02744](http://arxiv.org/abs/2410.02744)|null|
@@ -16754,6 +16799,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
+|**2024-10-04**|**System 2 reasoning capabilities are nigh**|Scott C. Lowe et.al.|[2410.03662](http://arxiv.org/abs/2410.03662)|null|
+|**2024-10-04**|**Fluctuation-dissipation theorems and the measurement of the Onsager coefficients for two-phase flow in porous media**|Marcel Moura et.al.|[2410.03661](http://arxiv.org/abs/2410.03661)|null|
+|**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657](http://arxiv.org/abs/2410.03657)|null|
+|**2024-10-04**|**Thermodynamics of Schwarzschild-AdS black hole in non-commutative geometry**|Rui-Bo Wang et.al.|[2410.03650](http://arxiv.org/abs/2410.03650)|null|
+|**2024-10-04**|**Neutrinos in colliding neutron stars and black holes**|Francois Foucart et.al.|[2410.03646](http://arxiv.org/abs/2410.03646)|null|
+|**2024-10-04**|**Sine-transform-based fast solvers for Riesz fractional nonlinear Schrödinger equations with attractive nonlinearities**|Chao Chen et.al.|[2410.03643](http://arxiv.org/abs/2410.03643)|null|
+|**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
+|**2024-10-04**|**Physically Agnostic Quasinormal Mode Expansion in Time Dispersive Structures:from Mechanical Vibrations to Nanophotonic Resonances**|André Nicolet et.al.|[2410.03631](http://arxiv.org/abs/2410.03631)|null|
+|**2024-10-04**|**Cosmological predictions for minor axis stellar density profiles in the inner regions of Milky Way-mass galaxies**|Madeline Lucey et.al.|[2410.03627](http://arxiv.org/abs/2410.03627)|null|
 |**2024-10-03**|**SIEVE: General Purpose Data Filtering System Matching GPT-4o Accuracy at 1% the Cost**|Jifan Zhang et.al.|[2410.02755](http://arxiv.org/abs/2410.02755)|null|
 |**2024-10-03**|**Finite-element methods for noncollinear magnetism and spin-orbit coupling in real-space pseudopotential density functional theory**|Nikhil Kodali et.al.|[2410.02754](http://arxiv.org/abs/2410.02754)|null|
 |**2024-10-03**|**CriSPO: Multi-Aspect Critique-Suggestion-guided Automatic Prompt Optimization for Text Generation**|Han He et.al.|[2410.02748](http://arxiv.org/abs/2410.02748)|null|
@@ -20330,6 +20385,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs**|Tianheng Ling et.al.|[2410.03294](http://arxiv.org/abs/2410.03294)|null|
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
 |**2024-09-30**|**Constraint Guided Model Quantization of Neural Networks**|Quinten Van Baelen et.al.|[2409.20138](http://arxiv.org/abs/2409.20138)|null|
 |**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|**[link](https://github.com/AlignedQuant/AlignedKV)**|
