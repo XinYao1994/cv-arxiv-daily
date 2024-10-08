@@ -200,7 +200,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**Model-guided Fuzzing of Distributed Systems**|Ege Berkay Gulcan et.al.|[2410.02307](http://arxiv.org/abs/2410.02307)|null|
+|**2024-10-06**|**The Role of Social Support and Influencers in Social Media Communities**|Junwei Su et.al.|[2410.04619](http://arxiv.org/abs/2410.04619)|null|
+|**2024-10-06**|**Distributed ADMM Approach for the Power Distribution Network Reconfiguration**|Yacine Mokhtari et.al.|[2410.04604](http://arxiv.org/abs/2410.04604)|null|
+|**2024-10-06**|**Non-deterministic asynchronous automata games and their undecidability**|Bharat Adsul et.al.|[2410.04420](http://arxiv.org/abs/2410.04420)|null|
+|**2024-10-06**|**Multi Armed Bandit Algorithms Based Virtual Machine Allocation Policy for Security in Multi-Tenant Distributed Systems**|Pravin Patil et.al.|[2410.04363](http://arxiv.org/abs/2410.04363)|null|
+|**2024-10-06**|**HyperBlocker: Accelerating Rule-based Blocking in Entity Resolution using GPUs**|Xiaoke Zhu et.al.|[2410.04349](http://arxiv.org/abs/2410.04349)|null|
+|**2024-10-05**|**Slim-ABC: An Optimized Atomic Broadcast Protocol**|Nasit S Sony et.al.|[2410.04268](http://arxiv.org/abs/2410.04268)|null|
+|**2024-10-05**|**Compositional Planning for Logically Constrained Multi-Agent Markov Decision Processes**|Krishna C. Kalagarla et.al.|[2410.04004](http://arxiv.org/abs/2410.04004)|null|
+|**2024-10-06**|**Model-guided Fuzzing of Distributed Systems**|Ege Berkay Gulcan et.al.|[2410.02307](http://arxiv.org/abs/2410.02307)|null|
 |**2024-10-03**|**Selection Guidelines for Geographical SMR Protocols: A Communication Pattern-based Latency Modeling Approach**|Kohya Shiozaki et.al.|[2410.02295](http://arxiv.org/abs/2410.02295)|null|
 |**2024-10-02**|**Adaptive Temporal Decorrelation of State Estimates**|Zachary Chance et.al.|[2410.02065](http://arxiv.org/abs/2410.02065)|null|
 |**2024-10-02**|**Phase-coding quantum-key-distribution system based on Sagnac-Mach-Zehnder interferometers**|Xiao-Tian Song et.al.|[2410.01152](http://arxiv.org/abs/2410.01152)|null|
@@ -756,6 +763,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Art Forgery Detection using Kolmogorov Arnold and Convolutional Neural Networks**|Sandro Boccuzzo et.al.|[2410.04866](http://arxiv.org/abs/2410.04866)|null|
+|**2024-10-06**|**An advanced approach for definition of the "Milky Way galaxies-analogues"**|Iryna B. Vavilova et.al.|[2410.04411](http://arxiv.org/abs/2410.04411)|null|
+|**2024-10-05**|**Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis**|Sarah A. Jaeggli et.al.|[2410.04267](http://arxiv.org/abs/2410.04267)|null|
+|**2024-10-05**|**Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia**|Tomás Feith et.al.|[2410.04254](http://arxiv.org/abs/2410.04254)|null|
+|**2024-10-05**|**DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts**|Nikitha Rao et.al.|[2410.04249](http://arxiv.org/abs/2410.04249)|null|
+|**2024-10-05**|**Design the Quantum Instruction Set with the Cartan Coordinate Analysis Framework**|Anbang Wu et.al.|[2410.04008](http://arxiv.org/abs/2410.04008)|null|
+|**2024-10-04**|**Certified Randomness implies Secure Classical Position-Verification**|Omar Amer et.al.|[2410.03982](http://arxiv.org/abs/2410.03982)|null|
 |**2024-10-04**|**A General, Differentiable Transit Model for Ellipsoidal Occulters: Derivation, Application, and Forecast of Planetary Oblateness and Obliquity Constraints with JWST**|Shashank Dholakia et.al.|[2410.03449](http://arxiv.org/abs/2410.03449)|null|
 |**2024-10-04**|**Dolphin: A Programmable Framework for Scalable Neurosymbolic Learning**|Aaditya Naik et.al.|[2410.03348](http://arxiv.org/abs/2410.03348)|null|
 |**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334](http://arxiv.org/abs/2410.03334)|null|
@@ -2576,6 +2590,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264](http://arxiv.org/abs/2410.05264)|null|
+|**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263](http://arxiv.org/abs/2410.05263)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
+|**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
+|**2024-10-07**|**Accelerated alternating minimization algorithm for low-rank approximations in the Chebyshev norm**|Stanislav Morozov et.al.|[2410.05247](http://arxiv.org/abs/2410.05247)|null|
+|**2024-10-07**|**Double-Logarithmic Depth Block-Encodings of Simple Finite Difference Method's Matrices**|Sunheang Ty et.al.|[2410.05241](http://arxiv.org/abs/2410.05241)|null|
+|**2024-10-07**|**Vizing's Theorem in Near-Linear Time**|Sepehr Assadi et.al.|[2410.05240](http://arxiv.org/abs/2410.05240)|null|
+|**2024-10-07**|**The e-MANTIS emulator: fast and accurate predictions of the halo mass function in $f(R)$CDM and $w$ CDM cosmologies**|I. Sáez-Casares et.al.|[2410.05226](http://arxiv.org/abs/2410.05226)|null|
+|**2024-10-07**|**ETGL-DDPG: A Deep Deterministic Policy Gradient Algorithm for Sparse Reward Continuous Control**|Ehsan Futuhi et.al.|[2410.05225](http://arxiv.org/abs/2410.05225)|null|
+|**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224](http://arxiv.org/abs/2410.05224)|null|
+|**2024-10-07**|**Density estimation with LLMs: a geometric investigation of in-context learning trajectories**|Toni J. B. Liu et.al.|[2410.05218](http://arxiv.org/abs/2410.05218)|null|
 |**2024-10-04**|**Minimax-optimal trust-aware multi-armed bandits**|Changxiao Cai et.al.|[2410.03651](http://arxiv.org/abs/2410.03651)|null|
 |**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
 |**2024-10-04**|**BLAST: Beyond Limber Angular power Spectra Toolkit. A fast and efficient algorithm for 3x2 pt analysis**|Sofia Chiarenza et.al.|[2410.03632](http://arxiv.org/abs/2410.03632)|null|
@@ -6161,6 +6185,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Update of the Brazilian Participation in the Next-Generation Collider Experiments**|W. L. Aldá Júnior et.al.|[2410.05205](http://arxiv.org/abs/2410.05205)|null|
+|**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune et.al.|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
+|**2024-10-07**|**Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge**|Senorita Deb et.al.|[2410.05189](http://arxiv.org/abs/2410.05189)|null|
+|**2024-10-07**|**Optimal Conversion from Classical to Quantum Randomness via Quantum Chaos**|Wai-Keong Mok et.al.|[2410.05181](http://arxiv.org/abs/2410.05181)|null|
+|**2024-10-07**|**Secure Software/Hardware Hybrid In-Field Testing for System-on-Chip**|Saleh Mulhem et.al.|[2410.05109](http://arxiv.org/abs/2410.05109)|null|
+|**2024-10-07**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B. S. et.al.|[2410.04992](http://arxiv.org/abs/2410.04992)|null|
+|**2024-10-07**|**HF-NTT: Hazard-Free Dataflow Accelerator for Number Theoretic Transform**|Xiangchen Meng et.al.|[2410.04805](http://arxiv.org/abs/2410.04805)|null|
+|**2024-10-07**|**OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning**|Alessandro Montanari et.al.|[2410.04775](http://arxiv.org/abs/2410.04775)|null|
+|**2024-10-06**|**Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM**|Bowen Li et.al.|[2410.04471](http://arxiv.org/abs/2410.04471)|null|
+|**2024-10-06**|**Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective**|Jinhao Li et.al.|[2410.04466](http://arxiv.org/abs/2410.04466)|null|
 |**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
 |**2024-10-04**|**AraSync: Precision Time Synchronization in Rural Wireless Living Lab**|Md Nadim et.al.|[2410.03583](http://arxiv.org/abs/2410.03583)|null|
 |**2024-10-04**|**HiL Demonstration of Online Battery Capacity and Impedance Estimation with Minimal a Priori Parametrization Effort**|Camiel J. J. Beckers et.al.|[2410.03528](http://arxiv.org/abs/2410.03528)|null|
@@ -9634,6 +9668,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266](http://arxiv.org/abs/2410.05266)|null|
+|**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264](http://arxiv.org/abs/2410.05264)|null|
+|**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**Conservative binary dynamics beyond order $α^5$ in electrodynamics**|Donato Bini et.al.|[2410.05257](http://arxiv.org/abs/2410.05257)|null|
+|**2024-10-07**|**Proprioceptive State Estimation for Quadruped Robots using Invariant Kalman Filtering and Scale-Variant Robust Cost Functions**|Hilton Marques Souza Santana et.al.|[2410.05256](http://arxiv.org/abs/2410.05256)|null|
+|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
+|**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
+|**2024-10-07**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
 |**2024-10-04**|**Geometric Representation Condition Improves Equivariant Molecule Generation**|Zian Li et.al.|[2410.03655](http://arxiv.org/abs/2410.03655)|null|
 |**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
 |**2024-10-04**|**On the Cost of Consecutive Estimation Error: Significance-Aware Non-linear Aging**|Jiping Luo et.al.|[2410.03637](http://arxiv.org/abs/2410.03637)|null|
@@ -13216,6 +13260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266](http://arxiv.org/abs/2410.05266)|null|
+|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|null|
+|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209](http://arxiv.org/abs/2410.05209)|null|
+|**2024-10-07**|**K-Independent Boolean Networks**|Julio Aracena et.al.|[2410.05200](http://arxiv.org/abs/2410.05200)|null|
+|**2024-10-07**|**Robust, Rapid, and Simple Gravitational-wave Parameter Estimation**|Alexander Harvey Nitz et.al.|[2410.05190](http://arxiv.org/abs/2410.05190)|null|
+|**2024-10-07**|**Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge**|Senorita Deb et.al.|[2410.05189](http://arxiv.org/abs/2410.05189)|null|
+|**2024-10-07**|**Matrix-weighted networks for modeling multidimensional dynamics**|Yu Tian et.al.|[2410.05188](http://arxiv.org/abs/2410.05188)|null|
+|**2024-10-07**|**Avoiding Deadlocks via Weak Deadlock Sets**|Gianpaolo Oriolo et.al.|[2410.05175](http://arxiv.org/abs/2410.05175)|null|
+|**2024-10-07**|**Deep-Learning-Based Adaptive Error-Correction Decoding for Spin-Torque Transfer Magnetic Random Access Memory (STT-MRAM)**|Xingwei Zhong et.al.|[2410.05174](http://arxiv.org/abs/2410.05174)|null|
+|**2024-10-07**|**Unlocking Potential: Integrating Multihop, CRC, and GRAND for Wireless 5G-Beyond/6G Networks**|Bora Bozkurt et.al.|[2410.05172](http://arxiv.org/abs/2410.05172)|null|
 |**2024-10-04**|**Fluctuation-dissipation theorems and the measurement of the Onsager coefficients for two-phase flow in porous media**|Marcel Moura et.al.|[2410.03661](http://arxiv.org/abs/2410.03661)|null|
 |**2024-10-04**|**A low-dimensional model for adaptive networks of spiking neurons**|Bastian Pietras et.al.|[2410.03657](http://arxiv.org/abs/2410.03657)|null|
 |**2024-10-04**|**Fault tolerance of metric basis can be expensive**|Martin Knor et.al.|[2410.03656](http://arxiv.org/abs/2410.03656)|null|
@@ -16799,6 +16853,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath et.al.|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
+|**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
+|**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264](http://arxiv.org/abs/2410.05264)|null|
+|**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263](http://arxiv.org/abs/2410.05263)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
+|**2024-10-07**|**Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**|J. F. Parisi et.al.|[2410.05238](http://arxiv.org/abs/2410.05238)|null|
+|**2024-10-07**|**SymmetryLens: A new candidate paradigm for unsupervised symmetry learning via locality and equivariance**|Onur Efe et.al.|[2410.05232](http://arxiv.org/abs/2410.05232)|null|
+|**2024-10-07**|**Cutoff phenomenon for asymmetric zero range process with monotone rates**|Ons Rameh et.al.|[2410.05220](http://arxiv.org/abs/2410.05220)|null|
+|**2024-10-07**|**Path planning for multi-quadrotor 3D boundary surveillance using non-autonomous discrete memristor hyperchaotic system**|Harisankar R et.al.|[2410.05215](http://arxiv.org/abs/2410.05215)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
 |**2024-10-04**|**System 2 reasoning capabilities are nigh**|Scott C. Lowe et.al.|[2410.03662](http://arxiv.org/abs/2410.03662)|null|
 |**2024-10-04**|**Fluctuation-dissipation theorems and the measurement of the Onsager coefficients for two-phase flow in porous media**|Marcel Moura et.al.|[2410.03661](http://arxiv.org/abs/2410.03661)|null|
@@ -20386,7 +20450,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-04**|**Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs**|Tianheng Ling et.al.|[2410.03294](http://arxiv.org/abs/2410.03294)|null|
-|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
+|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|**[link](https://github.com/leopold1423/mpe)**|
 |**2024-09-30**|**Constraint Guided Model Quantization of Neural Networks**|Quinten Van Baelen et.al.|[2409.20138](http://arxiv.org/abs/2409.20138)|null|
 |**2024-09-25**|**AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization**|Yifan Tan et.al.|[2409.16546](http://arxiv.org/abs/2409.16546)|**[link](https://github.com/AlignedQuant/AlignedKV)**|
 |**2024-09-21**|**On Importance of Pruning and Distillation for Efficient Low Resource NLP**|Aishwarya Mirashi et.al.|[2409.14162](http://arxiv.org/abs/2409.14162)|null|
