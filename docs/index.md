@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -766,7 +766,7 @@ layout: default
 |**2024-10-07**|**Art Forgery Detection using Kolmogorov Arnold and Convolutional Neural Networks**|Sandro Boccuzzo et.al.|[2410.04866](http://arxiv.org/abs/2410.04866)|null|
 |**2024-10-06**|**An advanced approach for definition of the "Milky Way galaxies-analogues"**|Iryna B. Vavilova et.al.|[2410.04411](http://arxiv.org/abs/2410.04411)|null|
 |**2024-10-05**|**Molecular Hydrogen Line Identifications in Solar Flares Observed by IRIS: Lower Atmospheric Structure from Radiometric Analysis**|Sarah A. Jaeggli et.al.|[2410.04267](http://arxiv.org/abs/2410.04267)|null|
-|**2024-10-05**|**Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia**|Tomás Feith et.al.|[2410.04254](http://arxiv.org/abs/2410.04254)|null|
+|**2024-10-05**|**Entity Insertion in Multilingual Linked Corpora: The Case of Wikipedia**|Tomás Feith et.al.|[2410.04254](http://arxiv.org/abs/2410.04254)|**[link](https://github.com/epfl-dlab/multilingual-entity-insertion)**|
 |**2024-10-05**|**DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts**|Nikitha Rao et.al.|[2410.04249](http://arxiv.org/abs/2410.04249)|null|
 |**2024-10-05**|**Design the Quantum Instruction Set with the Cartan Coordinate Analysis Framework**|Anbang Wu et.al.|[2410.04008](http://arxiv.org/abs/2410.04008)|null|
 |**2024-10-04**|**Certified Randomness implies Secure Classical Position-Verification**|Omar Amer et.al.|[2410.03982](http://arxiv.org/abs/2410.03982)|null|
@@ -6190,7 +6190,7 @@ layout: default
 |**2024-10-07**|**Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge**|Senorita Deb et.al.|[2410.05189](http://arxiv.org/abs/2410.05189)|null|
 |**2024-10-07**|**Optimal Conversion from Classical to Quantum Randomness via Quantum Chaos**|Wai-Keong Mok et.al.|[2410.05181](http://arxiv.org/abs/2410.05181)|null|
 |**2024-10-07**|**Secure Software/Hardware Hybrid In-Field Testing for System-on-Chip**|Saleh Mulhem et.al.|[2410.05109](http://arxiv.org/abs/2410.05109)|null|
-|**2024-10-07**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B. S. et.al.|[2410.04992](http://arxiv.org/abs/2410.04992)|null|
+|**2024-10-08**|**MC-QDSNN: Quantized Deep evolutionary SNN with Multi-Dendritic Compartment Neurons for Stress Detection using Physiological Signals**|Ajay B S et.al.|[2410.04992](http://arxiv.org/abs/2410.04992)|null|
 |**2024-10-07**|**HF-NTT: Hazard-Free Dataflow Accelerator for Number Theoretic Transform**|Xiangchen Meng et.al.|[2410.04805](http://arxiv.org/abs/2410.04805)|null|
 |**2024-10-07**|**OmniBuds: A Sensory Earable Platform for Advanced Bio-Sensing and On-Device Machine Learning**|Alessandro Montanari et.al.|[2410.04775](http://arxiv.org/abs/2410.04775)|null|
 |**2024-10-06**|**Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM**|Bowen Li et.al.|[2410.04471](http://arxiv.org/abs/2410.04471)|null|
@@ -13261,12 +13261,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers**|Andrew F. Luo et.al.|[2410.05266](http://arxiv.org/abs/2410.05266)|null|
-|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|null|
-|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209](http://arxiv.org/abs/2410.05209)|null|
+|**2024-10-07**|**DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**|Yongtai Zhuo et.al.|[2410.05234](http://arxiv.org/abs/2410.05234)|**[link](https://github.com/yutazhuo/diffusereg)**|
+|**2024-10-07**|**Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data**|I. Ocampo et.al.|[2410.05209](http://arxiv.org/abs/2410.05209)|**[link](https://github.com/indiraocampo/cmb_ml_based_model_selection)**|
 |**2024-10-07**|**K-Independent Boolean Networks**|Julio Aracena et.al.|[2410.05200](http://arxiv.org/abs/2410.05200)|null|
-|**2024-10-07**|**Robust, Rapid, and Simple Gravitational-wave Parameter Estimation**|Alexander Harvey Nitz et.al.|[2410.05190](http://arxiv.org/abs/2410.05190)|null|
+|**2024-10-07**|**Robust, Rapid, and Simple Gravitational-wave Parameter Estimation**|Alexander Harvey Nitz et.al.|[2410.05190](http://arxiv.org/abs/2410.05190)|**[link](https://github.com/gwastro/games-rapid-pe)**|
 |**2024-10-07**|**Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge**|Senorita Deb et.al.|[2410.05189](http://arxiv.org/abs/2410.05189)|null|
-|**2024-10-07**|**Matrix-weighted networks for modeling multidimensional dynamics**|Yu Tian et.al.|[2410.05188](http://arxiv.org/abs/2410.05188)|null|
+|**2024-10-07**|**Matrix-weighted networks for modeling multidimensional dynamics**|Yu Tian et.al.|[2410.05188](http://arxiv.org/abs/2410.05188)|**[link](https://github.com/skojaku/matrix-weight-net)**|
 |**2024-10-07**|**Avoiding Deadlocks via Weak Deadlock Sets**|Gianpaolo Oriolo et.al.|[2410.05175](http://arxiv.org/abs/2410.05175)|null|
 |**2024-10-07**|**Deep-Learning-Based Adaptive Error-Correction Decoding for Spin-Torque Transfer Magnetic Random Access Memory (STT-MRAM)**|Xingwei Zhong et.al.|[2410.05174](http://arxiv.org/abs/2410.05174)|null|
 |**2024-10-07**|**Unlocking Potential: Integrating Multihop, CRC, and GRAND for Wireless 5G-Beyond/6G Networks**|Bora Bozkurt et.al.|[2410.05172](http://arxiv.org/abs/2410.05172)|null|
@@ -16857,7 +16857,7 @@ layout: default
 |**2024-10-07**|**Grounding Partially-Defined Events in Multimodal Data**|Kate Sanders et.al.|[2410.05267](http://arxiv.org/abs/2410.05267)|null|
 |**2024-10-07**|**Generalization of Modular Spread Complexity for Non-Hermitian Density Matrices**|Aneek Jana et.al.|[2410.05264](http://arxiv.org/abs/2410.05264)|null|
 |**2024-10-07**|**Regression Conformal Prediction under Bias**|Matt Y. Cheung et.al.|[2410.05263](http://arxiv.org/abs/2410.05263)|**[link](https://github.com/matthewyccheung/conformal-metric)**|
-|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|**[link](https://github.com/eilamshapira/GLEE)**|
 |**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
 |**2024-10-07**|**Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**|J. F. Parisi et.al.|[2410.05238](http://arxiv.org/abs/2410.05238)|null|
 |**2024-10-07**|**SymmetryLens: A new candidate paradigm for unsupervised symmetry learning via locality and equivariance**|Onur Efe et.al.|[2410.05232](http://arxiv.org/abs/2410.05232)|null|
