@@ -9750,9 +9750,9 @@
 |**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189](http://arxiv.org/abs/2410.08189)|null|
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
 |**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
-|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180](http://arxiv.org/abs/2410.08180)|null|
+|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180](http://arxiv.org/abs/2410.08180)|**[link](https://github.com/jaehyeokjin/bottom-up-phase-field)**|
 |**2024-10-10**|**Visual Scratchpads: Enabling Global Reasoning in Vision**|Aryo Lotfi et.al.|[2410.08165](http://arxiv.org/abs/2410.08165)|null|
-|**2024-10-10**|**The Effect of Surprisal on Reading Times in Information Seeking and Repeated Reading**|Keren Gruteke Klein et.al.|[2410.08162](http://arxiv.org/abs/2410.08162)|null|
+|**2024-10-10**|**The Effect of Surprisal on Reading Times in Information Seeking and Repeated Reading**|Keren Gruteke Klein et.al.|[2410.08162](http://arxiv.org/abs/2410.08162)|**[link](https://github.com/lacclab/surprisal-non-ordinary-reading)**|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
@@ -16979,7 +16979,7 @@
 |**2024-10-10**|**Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**|Jiahao Lu et.al.|[2410.08190](http://arxiv.org/abs/2410.08190)|**[link](https://github.com/jiahaolu97/poison-splat)**|
 |**2024-10-10**|**Comparing Mass-Preserving Numerical Methods for the Lithium-Ion Battery Single Particle Model**|Joseph N. E. Lucero et.al.|[2410.08187](http://arxiv.org/abs/2410.08187)|null|
 |**2024-10-10**|**Probabilistically Input-to-State Stable Stochastic Model Predictive Control**|Maik Pfefferkorn et.al.|[2410.08186](http://arxiv.org/abs/2410.08186)|null|
-|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180](http://arxiv.org/abs/2410.08180)|null|
+|**2024-10-10**|**First-Principles Phase-Field Modeling**|Jaehyeok Jin et.al.|[2410.08180](http://arxiv.org/abs/2410.08180)|**[link](https://github.com/jaehyeokjin/bottom-up-phase-field)**|
 |**2024-10-10**|**A note on the symplectic classification of almost-toric systems**|Xiudi Tang et.al.|[2410.08175](http://arxiv.org/abs/2410.08175)|null|
 |**2024-10-10**|**Long-term evolution of spin and other properties of neutron star low-mass X-ray binaries: implications for millisecond X-ray pulsars**|Abhijnan Kar et.al.|[2410.08173](http://arxiv.org/abs/2410.08173)|null|
 |**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
@@ -20592,7 +20592,7 @@
 |---|---|---|---|---|
 |**2024-10-09**|**Fast Real Evaluation Through Sound Mixed-Precision Tuning**|Artem Yadrov et.al.|[2410.07468](http://arxiv.org/abs/2410.07468)|null|
 |**2024-10-09**|**Scaling Laws for Mixed quantization in Large Language Models**|Zeyu Cao et.al.|[2410.06722](http://arxiv.org/abs/2410.06722)|null|
-|**2024-10-08**|**Mixed precision sketching for least-squares problems and its application in GMRES-based iterative refinement**|Erin Carson et.al.|[2410.06319](http://arxiv.org/abs/2410.06319)|null|
+|**2024-10-08**|**Mixed precision sketching for least-squares problems and its application in GMRES-based iterative refinement**|Erin Carson et.al.|[2410.06319](http://arxiv.org/abs/2410.06319)|**[link](https://github.com/dauzickaite/LSIRrndprec)**|
 |**2024-10-08**|**MC-MoE: Mixture Compressor for Mixture-of-Experts LLMs Gains More**|Wei Huang et.al.|[2410.06270](http://arxiv.org/abs/2410.06270)|**[link](https://github.com/aaronhuang-778/mc-moe)**|
 |**2024-10-04**|**Resource-aware Mixed-precision Quantization for Enhancing Deployability of Transformers for Time-series Forecasting on Embedded FPGAs**|Tianheng Ling et.al.|[2410.03294](http://arxiv.org/abs/2410.03294)|null|
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|**[link](https://github.com/leopold1423/mpe)**|
