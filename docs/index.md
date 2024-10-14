@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -6222,7 +6222,7 @@ layout: default
 |**2024-10-10**|**Synergizing Morphological Computation and Generative Design: Automatic Synthesis of Tendon-Driven Grippers**|Kirill Zharkov et.al.|[2410.07865](http://arxiv.org/abs/2410.07865)|null|
 |**2024-10-10**|**vCLIC: Towards Fast Interrupt Handling in Virtualized RISC-V Mixed-criticality Systems**|Enrico Zelioli et.al.|[2410.07798](http://arxiv.org/abs/2410.07798)|null|
 |**2024-10-10**|**Simplified radar architecture based on information metasurface**|Si Ran Wang et.al.|[2410.07576](http://arxiv.org/abs/2410.07576)|null|
-|**2024-10-10**|**Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation**|Wenhai Liu et.al.|[2410.07554](http://arxiv.org/abs/2410.07554)|null|
+|**2024-10-11**|**ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture System for Contact-Rich Manipulation**|Wenhai Liu et.al.|[2410.07554](http://arxiv.org/abs/2410.07554)|null|
 |**2024-10-10**|**The BRAM is the Limit: Shattering Myths, Shaping Standards, and Building Scalable PIM Accelerators**|MD Arafat Kabir et.al.|[2410.07546](http://arxiv.org/abs/2410.07546)|null|
 |**2024-10-10**|**Reducing the Cost of Dropout in Flash-Attention by Hiding RNG with GEMM**|Haiyue Ma et.al.|[2410.07531](http://arxiv.org/abs/2410.07531)|null|
 |**2024-10-09**|**CAFEEN: A Cooperative Approach for Energy Efficient NoCs with Multi-Agent Reinforcement Learning**|Kamil Khan et.al.|[2410.07426](http://arxiv.org/abs/2410.07426)|null|
