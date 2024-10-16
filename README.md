@@ -217,6 +217,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Keep Me Updated: An Empirical Study of Proprietary Vendor Blobs in Android Firmware**|Elliott Wen et.al.|[2410.11075](http://arxiv.org/abs/2410.11075)|null|
+|**2024-10-12**|**Multidomain Model for Optic Nerve Potassium Clearance: Roles of Glial Cells and Perivascular Spaces**|Shanfeng Xiao et.al.|[2410.10895](http://arxiv.org/abs/2410.10895)|null|
 |**2024-10-14**|**Towards more realistic co-simulation of cyber-physical energy distribution systems**|Immanuel Hacker et.al.|[2410.10430](http://arxiv.org/abs/2410.10430)|null|
 |**2024-10-14**|**Detection of High-Impedance Low-Current Arc Faults at Electrical Substations**|K. Victor Sam Moses Babu et.al.|[2410.10151](http://arxiv.org/abs/2410.10151)|null|
 |**2024-10-12**|**Anomaly Detection and Inlet Pressure Prediction in Water Distribution Systems Using Machine Learning**|Tran Dang Khoa et.al.|[2410.09530](http://arxiv.org/abs/2410.09530)|null|
@@ -788,6 +790,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Do LLMs Have the Generalization Ability in Conducting Causal Inference?**|Chen Wang et.al.|[2410.11385](http://arxiv.org/abs/2410.11385)|**[link](https://github.com/prayingsociety/ci_bench)**|
+|**2024-10-15**|**LargePiG: Your Large Language Model is Secretly a Pointer Generator**|Zhongxiang Sun et.al.|[2410.11366](http://arxiv.org/abs/2410.11366)|null|
+|**2024-10-15**|**CRUcialG: Reconstruct Integrated Attack Scenario Graphs by Cyber Threat Intelligence Reports**|Wenrui Cheng et.al.|[2410.11209](http://arxiv.org/abs/2410.11209)|null|
+|**2024-10-14**|**Unboxing Virgil ADTs for Fun and Profit**|Bradley Wei Jie Teo et.al.|[2410.11094](http://arxiv.org/abs/2410.11094)|null|
+|**2024-10-14**|**Equivalence Checking of Quantum Circuits via Intermediary Matrix Product Operator**|Aaron Sander et.al.|[2410.10946](http://arxiv.org/abs/2410.10946)|null|
 |**2024-10-14**|**Test smells in LLM-Generated Unit Tests**|Wendkûuni C. Ouédraogo et.al.|[2410.10628](http://arxiv.org/abs/2410.10628)|null|
 |**2024-10-14**|**Adaptive Probabilistic ODE Solvers Without Adaptive Memory Requirements**|Nicholas Krämer et.al.|[2410.10530](http://arxiv.org/abs/2410.10530)|null|
 |**2024-10-14**|**Work-in-Progress: Real-Time Neural Network Inference on a Custom RISC-V Multicore Vector Processor**|Maximilian Kirschner et.al.|[2410.10340](http://arxiv.org/abs/2410.10340)|null|
@@ -2646,6 +2653,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
+|**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
+|**2024-10-15**|**Are uncloneable proof and advice states strictly necessary?**|Rohit Chatterjee et.al.|[2410.11827](http://arxiv.org/abs/2410.11827)|null|
+|**2024-10-15**|**Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**|Yiding Jiang et.al.|[2410.11820](http://arxiv.org/abs/2410.11820)|null|
+|**2024-10-15**|**Practices and Challenges of Online Love-seeking Among Deaf or Hard of Hearing People: A Case Study in China**|Beiyan Cao et.al.|[2410.11810](http://arxiv.org/abs/2410.11810)|null|
+|**2024-10-15**|**On representations of Arthur type and unitary dual for classical groups**|Alexander Hazeltine et.al.|[2410.11806](http://arxiv.org/abs/2410.11806)|null|
+|**2024-10-15**|**An incremental exact algorithm for the hyper-rectangular clustering problem with axis-parallel clusters**|Diego Delle Donne et.al.|[2410.11803](http://arxiv.org/abs/2410.11803)|null|
+|**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
 |**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819](http://arxiv.org/abs/2410.10819)|**[link](https://github.com/mit-han-lab/duo-attention)**|
 |**2024-10-14**|**Local and Global Decoding in Text Generation**|Daniel Gareev et.al.|[2410.10810](http://arxiv.org/abs/2410.10810)|**[link](https://github.com/lowlypalace/global-decoding)**|
 |**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807](http://arxiv.org/abs/2410.10807)|null|
@@ -6283,6 +6300,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**DPD-NeuralEngine: A 22-nm 6.6-TOPS/W/mm $^2$ Recurrent Neural Network Accelerator for Wideband Power Amplifier Digital Pre-Distortion**|Ang Li et.al.|[2410.11766](http://arxiv.org/abs/2410.11766)|null|
+|**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[2410.11746](http://arxiv.org/abs/2410.11746)|null|
+|**2024-10-15**|**Implementing Quantum Secret Sharing on Current Hardware**|Jay Graves et.al.|[2410.11640](http://arxiv.org/abs/2410.11640)|null|
+|**2024-10-15**|**Fast Local Neural Regression for Low-Cost, Path Traced Lambertian Global Illumination**|Arturo Salmi et.al.|[2410.11625](http://arxiv.org/abs/2410.11625)|null|
+|**2024-10-15**|**Exploring Power Side-Channel Challenges in Embedded Systems Security**|Pouya Narimani et.al.|[2410.11563](http://arxiv.org/abs/2410.11563)|null|
+|**2024-10-15**|**Taming Performance Variability caused by Client-Side Hardware Configuration**|Georgia Antoniou et.al.|[2410.11554](http://arxiv.org/abs/2410.11554)|null|
+|**2024-10-15**|**Efficiera Residual Networks: Hardware-Friendly Fully Binary Weight with 2-bit Activation Model Achieves Practical ImageNet Accuracy**|Shuntaro Takahashi et.al.|[2410.11553](http://arxiv.org/abs/2410.11553)|**[link](https://github.com/leapmind/ern)**|
+|**2024-10-15**|**Look Ma, no markers: holistic performance capture without the hassle**|Charlie Hewitt et.al.|[2410.11520](http://arxiv.org/abs/2410.11520)|null|
+|**2024-10-15**|**GBSense: A GHz-Bandwidth Compressed Spectrum Sensing System**|Zihang Song et.al.|[2410.11495](http://arxiv.org/abs/2410.11495)|null|
+|**2024-10-15**|**General Relativistic Hydrodynamic Simulations around Accreting Black Holes**|Sudip K Garain et.al.|[2410.11484](http://arxiv.org/abs/2410.11484)|null|
 |**2024-10-14**|**Robustness of near-thermal dynamics on digital quantum computers**|Eli Chertkov et.al.|[2410.10794](http://arxiv.org/abs/2410.10794)|null|
 |**2024-10-14**|**Efficient Simulation of Open Quantum Systems on NISQ Devices**|Colin Burdine et.al.|[2410.10732](http://arxiv.org/abs/2410.10732)|null|
 |**2024-10-14**|**Benefiting from Quantum? A Comparative Study of Q-Seg, Quantum-Inspired Techniques, and U-Net for Crack Segmentation**|Akshaya Srinivasan et.al.|[2410.10713](http://arxiv.org/abs/2410.10713)|null|
@@ -9808,6 +9835,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
+|**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
+|**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834](http://arxiv.org/abs/2410.11834)|null|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
+|**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
+|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826](http://arxiv.org/abs/2410.11826)|null|
+|**2024-10-15**|**Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**|Jiaxin Lu et.al.|[2410.11816](http://arxiv.org/abs/2410.11816)|null|
+|**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813](http://arxiv.org/abs/2410.11813)|null|
+|**2024-10-15**|**Squeezed vacua and primordial features in effective theories of inflation at N2LO**|Eugenio Bianchi et.al.|[2410.11812](http://arxiv.org/abs/2410.11812)|null|
+|**2024-10-15**|**A Reanalysis of the FDA's Benefit-Risk Assessment of Moderna's mRNA-1273 COVID Vaccine: For 18-25-Year-Old Males, Risks Exceeded Benefits Relative to Hospitalizations**|Paul S. Bourdon et.al.|[2410.11811](http://arxiv.org/abs/2410.11811)|null|
 |**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813](http://arxiv.org/abs/2410.10813)|**[link](https://github.com/xiaowu0162/longmemeval)**|
 |**2024-10-14**|**Deep Linear Probe Generators for Weight Space Learning**|Jonathan Kahana et.al.|[2410.10811](http://arxiv.org/abs/2410.10811)|null|
 |**2024-10-15**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
@@ -13442,6 +13479,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
+|**2024-10-15**|**Mind the memory: Artefactual scaling of energy dissipation rate due to inconsistent time reversal**|Tassilo Schwarz et.al.|[2410.11819](http://arxiv.org/abs/2410.11819)|null|
+|**2024-10-15**|**Random walks with long-range memory on networks**|Ana Gabriela Guerrero-Estrada et.al.|[2410.11814](http://arxiv.org/abs/2410.11814)|null|
+|**2024-10-15**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807](http://arxiv.org/abs/2410.11807)|null|
+|**2024-10-15**|**Unraveling Heterogeneous Treatment Effects in Networks: A Non-Parametric Approach Based on Node Connectivity**|Heejong Bong et.al.|[2410.11797](http://arxiv.org/abs/2410.11797)|null|
+|**2024-10-15**|**G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks**|Guibin Zhang et.al.|[2410.11782](http://arxiv.org/abs/2410.11782)|null|
+|**2024-10-15**|**Analyzing (In)Abilities of SAEs via Formal Languages**|Abhinav Menon et.al.|[2410.11767](http://arxiv.org/abs/2410.11767)|null|
+|**2024-10-15**|**DPD-NeuralEngine: A 22-nm 6.6-TOPS/W/mm $^2$ Recurrent Neural Network Accelerator for Wideband Power Amplifier Digital Pre-Distortion**|Ang Li et.al.|[2410.11766](http://arxiv.org/abs/2410.11766)|null|
+|**2024-10-15**|**ECGN: A Cluster-Aware Approach to Graph Neural Networks for Imbalanced Classification**|Bishal Thapaliya et.al.|[2410.11765](http://arxiv.org/abs/2410.11765)|null|
 |**2024-10-14**|**Deep Linear Probe Generators for Weight Space Learning**|Jonathan Kahana et.al.|[2410.10811](http://arxiv.org/abs/2410.10811)|null|
 |**2024-10-14**|**Hard-Constrained Neural Networks with Universal Approximation Guarantees**|Youngjae Min et.al.|[2410.10807](http://arxiv.org/abs/2410.10807)|null|
 |**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
@@ -17077,6 +17124,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
+|**2024-10-15**|**Molecular Quantum Control Algorithm Design by Reinforcement Learning**|Anastasia Pipi et.al.|[2410.11839](http://arxiv.org/abs/2410.11839)|null|
+|**2024-10-15**|**Mitigating Suboptimality of Deterministic Policy Gradients in Complex Q-functions**|Ayush Jain et.al.|[2410.11833](http://arxiv.org/abs/2410.11833)|null|
+|**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
+|**2024-10-15**|**Random walks with long-range memory on networks**|Ana Gabriela Guerrero-Estrada et.al.|[2410.11814](http://arxiv.org/abs/2410.11814)|null|
+|**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813](http://arxiv.org/abs/2410.11813)|null|
+|**2024-10-15**|**Birth and ephemeral life of pseudopotential alchemy**|Stefano Baroni et.al.|[2410.11809](http://arxiv.org/abs/2410.11809)|null|
+|**2024-10-15**|**Regional Ocean Forecasting with Hierarchical Graph Neural Networks**|Daniel Holmberg et.al.|[2410.11807](http://arxiv.org/abs/2410.11807)|null|
+|**2024-10-15**|**Adaptive Ankle Torque Control for Bipedal Humanoid Walking on Surfaces with Unknown Horizontal and Vertical Motion**|Jacob Stewart et.al.|[2410.11799](http://arxiv.org/abs/2410.11799)|null|
+|**2024-10-15**|**PD-Based and SINDy Nonlinear Dynamics Identification of UAVs for MPC Design**|Bryan S. Guevara et.al.|[2410.11791](http://arxiv.org/abs/2410.11791)|null|
 |**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813](http://arxiv.org/abs/2410.10813)|**[link](https://github.com/xiaowu0162/longmemeval)**|
 |**2024-10-14**|**Local and Global Decoding in Text Generation**|Daniel Gareev et.al.|[2410.10810](http://arxiv.org/abs/2410.10810)|**[link](https://github.com/lowlypalace/global-decoding)**|
 |**2024-10-14**|**Response theory for locally gapped systems**|Joscha Henheik et.al.|[2410.10809](http://arxiv.org/abs/2410.10809)|null|
