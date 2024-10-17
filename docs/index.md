@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -2639,7 +2639,7 @@ layout: default
 |**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
 |**2024-10-15**|**Are uncloneable proof and advice states strictly necessary?**|Rohit Chatterjee et.al.|[2410.11827](http://arxiv.org/abs/2410.11827)|null|
 |**2024-10-15**|**Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws**|Yiding Jiang et.al.|[2410.11820](http://arxiv.org/abs/2410.11820)|null|
-|**2024-10-15**|**Practices and Challenges of Online Love-seeking Among Deaf or Hard of Hearing People: A Case Study in China**|Beiyan Cao et.al.|[2410.11810](http://arxiv.org/abs/2410.11810)|null|
+|**2024-10-16**|**Practices and Challenges of Online Love-seeking Among Deaf or Hard of Hearing People: A Case Study in China**|Beiyan Cao et.al.|[2410.11810](http://arxiv.org/abs/2410.11810)|null|
 |**2024-10-15**|**On representations of Arthur type and unitary dual for classical groups**|Alexander Hazeltine et.al.|[2410.11806](http://arxiv.org/abs/2410.11806)|null|
 |**2024-10-15**|**An incremental exact algorithm for the hyper-rectangular clustering problem with axis-parallel clusters**|Diego Delle Donne et.al.|[2410.11803](http://arxiv.org/abs/2410.11803)|null|
 |**2024-10-15**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
@@ -9816,7 +9816,7 @@ layout: default
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834](http://arxiv.org/abs/2410.11834)|null|
 |**2024-10-15**|**Compact object populations over cosmic time I. BOSSA: a Binary Object environment-Sensitive Sampling Algorithm**|L. M. de Sá et.al.|[2410.11830](http://arxiv.org/abs/2410.11830)|null|
 |**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
-|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826](http://arxiv.org/abs/2410.11826)|null|
+|**2024-10-15**|**Bayesian Experimental Design via Contrastive Diffusions**|Jacopo Iollo et.al.|[2410.11826](http://arxiv.org/abs/2410.11826)|**[link](https://github.com/jcopo/ContrastiveDiffusions)**|
 |**2024-10-15**|**Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**|Jiaxin Lu et.al.|[2410.11816](http://arxiv.org/abs/2410.11816)|null|
 |**2024-10-15**|**Forcing Planets to Evolve: The Relationship Between Uranus and Neptune at Late Stages of Dynamical Evolution**|Arcelia Hermosillo Ruiz et.al.|[2410.11813](http://arxiv.org/abs/2410.11813)|null|
 |**2024-10-15**|**Squeezed vacua and primordial features in effective theories of inflation at N2LO**|Eugenio Bianchi et.al.|[2410.11812](http://arxiv.org/abs/2410.11812)|null|
