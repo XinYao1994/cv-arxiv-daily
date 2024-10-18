@@ -777,6 +777,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Breaking Bad: How Compilers Break Constant-Time~Implementations**|Moritz Schneider et.al.|[2410.13489](http://arxiv.org/abs/2410.13489)|null|
+|**2024-10-16**|**Uncovering the Internet's Hidden Values: An Empirical Study of Desirable Behavior Using Highly-Upvoted Content on Reddit**|Agam Goyal et.al.|[2410.13036](http://arxiv.org/abs/2410.13036)|null|
 |**2024-10-16**|**Dynamical weight reduction of Pauli measurements**|Julio C. Magdalena de la Fuente et.al.|[2410.12527](http://arxiv.org/abs/2410.12527)|null|
 |**2024-10-15**|**Juggernaut: Efficient Crypto-Agnostic Byzantine Agreement**|Daniel Collins et.al.|[2410.12121](http://arxiv.org/abs/2410.12121)|null|
 |**2024-10-15**|**On the Power of Clifford Strategies in Interactive Protocols**|Itay Shalit et.al.|[2410.12030](http://arxiv.org/abs/2410.12030)|null|
@@ -2641,6 +2643,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
+|**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
+|**2024-10-17**|**From Gradient Clipping to Normalization for Heavy Tailed SGD**|Florian Hübler et.al.|[2410.13849](http://arxiv.org/abs/2410.13849)|null|
+|**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja et.al.|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
+|**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
+|**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831](http://arxiv.org/abs/2410.13831)|null|
+|**2024-10-17**|**CNN-Based Vortex Detection in Atomic 2D Bose Gases in the Presence of a Phononic Background**|Magnus Sesodia et.al.|[2410.13829](http://arxiv.org/abs/2410.13829)|null|
+|**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828](http://arxiv.org/abs/2410.13828)|null|
+|**2024-10-17**|**Towards a Factor Graph-Based Method using Angular Rates for Full Magnetometer Calibration and Gyroscope Bias Estimation**|Sebastián Rodríguez-Martínez et.al.|[2410.13827](http://arxiv.org/abs/2410.13827)|null|
+|**2024-10-17**|**A Watermark for Order-Agnostic Language Models**|Ruibo Chen et.al.|[2410.13805](http://arxiv.org/abs/2410.13805)|null|
 |**2024-10-16**|**Phase retrieval via media diversity**|Yan Cheng et.al.|[2410.12767](http://arxiv.org/abs/2410.12767)|null|
 |**2024-10-16**|**Should exponential integrators be used for advection-dominated problems?**|Lukas Einkemmer et.al.|[2410.12765](http://arxiv.org/abs/2410.12765)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763](http://arxiv.org/abs/2410.12763)|null|
@@ -6296,6 +6308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A 1.2 mm $^2$ 416 mW 1.44 Mmat/s 64$\times$ 16 Matrix Preprocessing ASIC for Massive MIMO in 22FDX**|Darja Nonaca et.al.|[2410.13838](http://arxiv.org/abs/2410.13838)|null|
+|**2024-10-17**|**On the practicality of quantum sieving algorithms for the shortest vector problem**|Joao F. Doriguello et.al.|[2410.13759](http://arxiv.org/abs/2410.13759)|null|
+|**2024-10-17**|**Privacy-Preserving Decentralized AI with Confidential Computing**|Dayeol Lee et.al.|[2410.13752](http://arxiv.org/abs/2410.13752)|null|
+|**2024-10-17**|**Solving eigenvalue problems obtained by the finite element method on a quantum annealer using only a few qubits**|Arnaud Rémi et.al.|[2410.13740](http://arxiv.org/abs/2410.13740)|null|
+|**2024-10-17**|**H2OVL-Mississippi Vision Language Models Technical Report**|Shaikat Galib et.al.|[2410.13611](http://arxiv.org/abs/2410.13611)|null|
+|**2024-10-17**|**OAH-Net: A Deep Neural Network for Hologram Reconstruction of Off-axis Digital Holographic Microscope**|Wei Liu et.al.|[2410.13592](http://arxiv.org/abs/2410.13592)|null|
+|**2024-10-17**|**Three-Input Ciphertext Multiplication for Homomorphic Encryption**|Sajjad Akherati et.al.|[2410.13545](http://arxiv.org/abs/2410.13545)|null|
+|**2024-10-17**|**Development of a New Type of Vortex Bladeless Wind Turbine for Urban Energy Systems**|Dongkun Han et.al.|[2410.13506](http://arxiv.org/abs/2410.13506)|null|
+|**2024-10-17**|**Architecting a reliable quantum operating system: microkernel, message passing and supercomputing**|Alexandru Paler et.al.|[2410.13482](http://arxiv.org/abs/2410.13482)|null|
+|**2024-10-17**|**Shavette: Low Power Neural Network Acceleration via Algorithm-level Error Detection and Undervolting**|Mikael Rinkinen et.al.|[2410.13415](http://arxiv.org/abs/2410.13415)|null|
 |**2024-10-16**|**Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models**|Luis Barroso-Luque et.al.|[2410.12771](http://arxiv.org/abs/2410.12771)|null|
 |**2024-10-16**|**Should exponential integrators be used for advection-dominated problems?**|Lukas Einkemmer et.al.|[2410.12765](http://arxiv.org/abs/2410.12765)|null|
 |**2024-10-16**|**Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM**|Juechu Dong et.al.|[2410.12749](http://arxiv.org/abs/2410.12749)|null|
@@ -9839,6 +9861,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864](http://arxiv.org/abs/2410.13864)|**[link](https://github.com/ywyeli/unidrive)**|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
+|**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848](http://arxiv.org/abs/2410.13848)|null|
+|**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
+|**2024-10-17**|**Private Counterfactual Retrieval**|Mohamed Nomeir et.al.|[2410.13812](http://arxiv.org/abs/2410.13812)|null|
+|**2024-10-17**|**De-mark: Watermark Removal in Large Language Models**|Ruibo Chen et.al.|[2410.13808](http://arxiv.org/abs/2410.13808)|null|
+|**2024-10-17**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
+|**2024-10-17**|**A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities**|Gianluca Apriceno et.al.|[2410.13803](http://arxiv.org/abs/2410.13803)|**[link](https://github.com/ida-fbk/multimodalpattern)**|
+|**2024-10-17**|**Analyzing Deep Transformer Models for Time Series Forecasting via Manifold Learning**|Ilya Kaufman et.al.|[2410.13792](http://arxiv.org/abs/2410.13792)|null|
 |**2024-10-16**|**Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media**|Ross Deans Kristensen-McLachlan et.al.|[2410.12791](http://arxiv.org/abs/2410.12791)|null|
 |**2024-10-16**|**Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information**|Yingya Li et.al.|[2410.12774](http://arxiv.org/abs/2410.12774)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763](http://arxiv.org/abs/2410.12763)|null|
@@ -13491,6 +13523,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
+|**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
+|**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833](http://arxiv.org/abs/2410.13833)|null|
+|**2024-10-17**|**The Disparate Benefits of Deep Ensembles**|Kajetan Schweighofer et.al.|[2410.13831](http://arxiv.org/abs/2410.13831)|null|
+|**2024-10-17**|**CNN-Based Vortex Detection in Atomic 2D Bose Gases in the Presence of a Phononic Background**|Magnus Sesodia et.al.|[2410.13829](http://arxiv.org/abs/2410.13829)|null|
+|**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
+|**2024-10-17**|**Artificial Kuramoto Oscillatory Neurons**|Takeru Miyato et.al.|[2410.13821](http://arxiv.org/abs/2410.13821)|**[link](https://github.com/autonomousvision/akorn)**|
+|**2024-10-17**|**Enhancing universal machine learning potentials with polarizable long-range interactions**|Rongzhi Gao et.al.|[2410.13820](http://arxiv.org/abs/2410.13820)|null|
+|**2024-10-17**|**Enabling a multifunctional telecommunications fiber optic network: Ultrastable optical frequency transfer and attosecond timing in deployed multicore fiber**|Nazanin Hoghooghi et.al.|[2410.13801](http://arxiv.org/abs/2410.13801)|null|
+|**2024-10-17**|**Learning Graph Quantized Tokenizers for Transformers**|Limei Wang et.al.|[2410.13798](http://arxiv.org/abs/2410.13798)|**[link](https://github.com/limei0307/graph-tokenizer)**|
 |**2024-10-16**|**Geometry-Aware Generative Autoencoders for Warped Riemannian Metric Learning and Generative Modeling on Data Manifolds**|Xingzhi Sun et.al.|[2410.12779](http://arxiv.org/abs/2410.12779)|null|
 |**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
 |**2024-10-16**|**Toleo: Scaling Freshness to Tera-scale Memory using CXL and PIM**|Juechu Dong et.al.|[2410.12749](http://arxiv.org/abs/2410.12749)|null|
@@ -17144,6 +17186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858](http://arxiv.org/abs/2410.13858)|null|
+|**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
+|**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847](http://arxiv.org/abs/2410.13847)|null|
+|**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja et.al.|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
+|**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
+|**2024-10-17**|**A 1.2 mm $^2$ 416 mW 1.44 Mmat/s 64$\times$ 16 Matrix Preprocessing ASIC for Massive MIMO in 22FDX**|Darja Nonaca et.al.|[2410.13838](http://arxiv.org/abs/2410.13838)|null|
+|**2024-10-17**|**VidPanos: Generative Panoramic Videos from Casual Panning Videos**|Jingwei Ma et.al.|[2410.13832](http://arxiv.org/abs/2410.13832)|null|
+|**2024-10-17**|**CNN-Based Vortex Detection in Atomic 2D Bose Gases in the Presence of a Phononic Background**|Magnus Sesodia et.al.|[2410.13829](http://arxiv.org/abs/2410.13829)|null|
+|**2024-10-17**|**Towards a Factor Graph-Based Method using Angular Rates for Full Magnetometer Calibration and Gyroscope Bias Estimation**|Sebastián Rodríguez-Martínez et.al.|[2410.13827](http://arxiv.org/abs/2410.13827)|null|
+|**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
 |**2024-10-16**|**Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media**|Ross Deans Kristensen-McLachlan et.al.|[2410.12791](http://arxiv.org/abs/2410.12791)|null|
 |**2024-10-16**|**The Nature of a Recently Discovered Wolf-Rayet Binary: Archetype of Stripping?**|Philip Massey et.al.|[2410.12776](http://arxiv.org/abs/2410.12776)|null|
 |**2024-10-16**|**More Nonlinearities? Electromagnetic and Gravitational Mode Mixing in NSBH Mergers**|Fawzi Aly et.al.|[2410.12775](http://arxiv.org/abs/2410.12775)|null|
@@ -20800,6 +20852,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
+|**2024-10-16**|**Channel-Wise Mixed-Precision Quantization for Large Language Models**|Zihan Chen et.al.|[2410.13056](http://arxiv.org/abs/2410.13056)|null|
 |**2024-10-16**|**Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration**|M. Croci et.al.|[2410.12614](http://arxiv.org/abs/2410.12614)|null|
 |**2024-10-16**|**COMET: Towards Partical W4A4KV4 LLMs Serving**|Lian Liu et.al.|[2410.12168](http://arxiv.org/abs/2410.12168)|null|
 |**2024-10-13**|**Accelerating Mixed-Precision Out-of-Core Cholesky Factorization with Static Task Scheduling**|Jie Ren et.al.|[2410.09819](http://arxiv.org/abs/2410.09819)|null|
