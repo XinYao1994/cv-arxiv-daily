@@ -218,6 +218,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Wireless Human-Machine Collaboration in Industry 5.0**|Gaoyang Pang et.al.|[2410.14153](http://arxiv.org/abs/2410.14153)|null|
+|**2024-10-17**|**FORWARD: Feasibility Oriented Random-Walk Inspired Algorithm for Radial Reconfiguration in Distribution Networks**|Joan Vendrell et.al.|[2410.14080](http://arxiv.org/abs/2410.14080)|null|
+|**2024-10-17**|**Towards Reliability-Aware Active Distribution System Operations: A Sequential Convex Programming Approach**|Gejia Zhang et.al.|[2410.14011](http://arxiv.org/abs/2410.14011)|null|
+|**2024-10-17**|**Resilience-Oriented DG Siting and Sizing Considering Energy Equity Constraint**|Chenchen Li et.al.|[2410.13992](http://arxiv.org/abs/2410.13992)|null|
 |**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530](http://arxiv.org/abs/2410.12530)|null|
 |**2024-10-16**|**Modeling, Prediction and Risk Management of Distribution System Voltages with Non-Gaussian Probability Distributions**|Yuanhai Gao et.al.|[2410.12438](http://arxiv.org/abs/2410.12438)|null|
 |**2024-10-15**|**Consider an Applications-First Approach for PDC**|Michelle Strout et.al.|[2410.12116](http://arxiv.org/abs/2410.12116)|null|
@@ -795,6 +799,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Computing the negative $K$-theory of finite groups of order $\leq 100$**|Georg Lehner et.al.|[2410.14446](http://arxiv.org/abs/2410.14446)|null|
+|**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
+|**2024-10-17**|**Target-Aware Implementation of Real Expressions**|Brett Saiki et.al.|[2410.14025](http://arxiv.org/abs/2410.14025)|null|
+|**2024-10-17**|**Benchmarking Transcriptomics Foundation Models for Perturbation Analysis : one PCA still rules them all**|Ihab Bendidi et.al.|[2410.13956](http://arxiv.org/abs/2410.13956)|**[link](https://github.com/valence-labs/Tx-Evaluation)**|
 |**2024-10-17**|**Breaking Bad: How Compilers Break Constant-Time~Implementations**|Moritz Schneider et.al.|[2410.13489](http://arxiv.org/abs/2410.13489)|null|
 |**2024-10-16**|**Uncovering the Internet's Hidden Values: An Empirical Study of Desirable Behavior Using Highly-Upvoted Content on Reddit**|Agam Goyal et.al.|[2410.13036](http://arxiv.org/abs/2410.13036)|null|
 |**2024-10-16**|**Dynamical weight reduction of Pauli measurements**|Julio C. Magdalena de la Fuente et.al.|[2410.12527](http://arxiv.org/abs/2410.12527)|null|
@@ -2663,6 +2671,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Online Reinforcement Learning with Passive Memory**|Anay Pattanaik et.al.|[2410.14665](http://arxiv.org/abs/2410.14665)|null|
+|**2024-10-18**|**Harnessing Causality in Reinforcement Learning With Bagged Decision Times**|Daiqi Gao et.al.|[2410.14659](http://arxiv.org/abs/2410.14659)|null|
+|**2024-10-18**|**A subquadratic certification scheme for P5-free graphs**|Nicolas Bousquet et.al.|[2410.14658](http://arxiv.org/abs/2410.14658)|null|
+|**2024-10-18**|**Instance-Optimality in I/O-Efficient Sampling and Sequential Estimation**|Shyam Narayanan et.al.|[2410.14643](http://arxiv.org/abs/2410.14643)|null|
+|**2024-10-18**|**Joint Space-Time Adaptive Processing and Beamforming Design for Cell-Free ISAC Systems**|Rang Liu et.al.|[2410.14642](http://arxiv.org/abs/2410.14642)|null|
+|**2024-10-18**|**HR-Bandit: Human-AI Collaborated Linear Recourse Bandit**|Junyu Cao et.al.|[2410.14640](http://arxiv.org/abs/2410.14640)|null|
+|**2024-10-18**|**Bidirectional Dijkstra's Algorithm is Instance-Optimal**|Bernhard Haeupler et.al.|[2410.14638](http://arxiv.org/abs/2410.14638)|null|
+|**2024-10-18**|**Parallel Backpropagation for Inverse of a Convolution with Application to Normalizing Flows**|Sandeep Nagar et.al.|[2410.14634](http://arxiv.org/abs/2410.14634)|null|
+|**2024-10-18**|**WKB Methods for Finite Difference Schrodinger Equations**|Salvatore Baldino et.al.|[2410.14628](http://arxiv.org/abs/2410.14628)|null|
+|**2024-10-18**|**You Shall Know a Tool by the Traces it Leaves: The Predictability of Sentiment Analysis Tools**|Daniel Baumartz et.al.|[2410.14626](http://arxiv.org/abs/2410.14626)|null|
 |**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
 |**2024-10-17**|**From Gradient Clipping to Normalization for Heavy Tailed SGD**|Florian Hübler et.al.|[2410.13849](http://arxiv.org/abs/2410.13849)|null|
@@ -6330,6 +6348,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**IoT-Based Water Quality Monitoring System in Philippine Off-Grid Communities**|Jenny Vi Abrajano et.al.|[2410.14619](http://arxiv.org/abs/2410.14619)|null|
+|**2024-10-18**|**MARLIN: Multi-Agent Reinforcement Learning Guided by Language-Based Inter-Robot Negotiation**|Toby Godfrey et.al.|[2410.14383](http://arxiv.org/abs/2410.14383)|null|
+|**2024-10-18**|**PTR: A Pre-trained Language Model for Trajectory Recovery**|Tonglong Wei et.al.|[2410.14281](http://arxiv.org/abs/2410.14281)|null|
+|**2024-10-18**|**HyCiM: A Hybrid Computing-in-Memory QUBO Solver for General Combinatorial Optimization Problems with Inequality Constraints**|Yu Qian et.al.|[2410.14111](http://arxiv.org/abs/2410.14111)|null|
+|**2024-10-18**|**Deep Learning Based Solar Cell Recognition for Optical Wireless Power Transfer**|Sida Huang et.al.|[2410.14096](http://arxiv.org/abs/2410.14096)|null|
+|**2024-10-17**|**DiFuseR: A Distributed Sketch-based Influence Maximization Algorithm for GPUs**|Gökhan Göktürk et.al.|[2410.14047](http://arxiv.org/abs/2410.14047)|null|
+|**2024-10-17**|**Target-Aware Implementation of Real Expressions**|Brett Saiki et.al.|[2410.14025](http://arxiv.org/abs/2410.14025)|null|
+|**2024-10-17**|**Per-Bank Bandwidth Regulation of Shared Last-Level Cache for Real-Time Systems**|Connor Sullivan et.al.|[2410.14003](http://arxiv.org/abs/2410.14003)|null|
 |**2024-10-17**|**A 1.2 mm $^2$ 416 mW 1.44 Mmat/s 64$\times$ 16 Matrix Preprocessing ASIC for Massive MIMO in 22FDX**|Darja Nonaca et.al.|[2410.13838](http://arxiv.org/abs/2410.13838)|null|
 |**2024-10-17**|**On the practicality of quantum sieving algorithms for the shortest vector problem**|Joao F. Doriguello et.al.|[2410.13759](http://arxiv.org/abs/2410.13759)|null|
 |**2024-10-17**|**Privacy-Preserving Decentralized AI with Confidential Computing**|Dayeol Lee et.al.|[2410.13752](http://arxiv.org/abs/2410.13752)|null|
@@ -9885,6 +9911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|null|
+|**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676](http://arxiv.org/abs/2410.14676)|null|
+|**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
+|**2024-10-18**|**Effects of waveform systematics on inferences of neutron star population properties and the nuclear equation of state**|Anjali B. Yelikar et.al.|[2410.14674](http://arxiv.org/abs/2410.14674)|null|
+|**2024-10-18**|**MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps**|Xiongtao Zhou et.al.|[2410.14668](http://arxiv.org/abs/2410.14668)|**[link](https://github.com/alenai97/miceval)**|
+|**2024-10-18**|**DiscoGraMS: Enhancing Movie Screen-Play Summarization using Movie Character-Aware Discourse Graph**|Maitreya Prafulla Chitale et.al.|[2410.14666](http://arxiv.org/abs/2410.14666)|null|
+|**2024-10-18**|**On the use of galaxy catalogs in gravitational-wave parameter estimation**|Geoffrey Mo et.al.|[2410.14663](http://arxiv.org/abs/2410.14663)|null|
+|**2024-10-18**|**Quantum LDPC Codes with Transversal Non-Clifford Gates via Products of Algebraic Codes**|Louis Golowich et.al.|[2410.14662](http://arxiv.org/abs/2410.14662)|null|
+|**2024-10-18**|**A subquadratic certification scheme for P5-free graphs**|Nicolas Bousquet et.al.|[2410.14658](http://arxiv.org/abs/2410.14658)|null|
+|**2024-10-18**|**Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise**|Fangjun Hu et.al.|[2410.14654](http://arxiv.org/abs/2410.14654)|null|
 |**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864](http://arxiv.org/abs/2410.13864)|**[link](https://github.com/ywyeli/unidrive)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
@@ -13549,6 +13585,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Two-dimensional many-body localized systems coupled to a heat bath**|Joey Li et.al.|[2410.14652](http://arxiv.org/abs/2410.14652)|null|
+|**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
+|**2024-10-18**|**Site-Specific Outdoor Propagation Assessment and Ray-Tracing Analysis for Wireless Digital Twins**|Morteza Ghaderi Aram et.al.|[2410.14620](http://arxiv.org/abs/2410.14620)|null|
+|**2024-10-18**|**On the Use of Proxies in Political Ad Targeting**|Piotr Sapiezynski et.al.|[2410.14617](http://arxiv.org/abs/2410.14617)|null|
+|**2024-10-18**|**Learning to Control the Smoothness of Graph Convolutional Network Features**|Shih-Hsin Wang et.al.|[2410.14604](http://arxiv.org/abs/2410.14604)|null|
+|**2024-10-18**|**How Does Data Diversity Shape the Weight Landscape of Neural Networks?**|Yang Ba et.al.|[2410.14602](http://arxiv.org/abs/2410.14602)|null|
+|**2024-10-18**|**DRACO-DehazeNet: An Efficient Image Dehazing Network Combining Detail Recovery and a Novel Contrastive Learning Paradigm**|Gao Yu Lee et.al.|[2410.14595](http://arxiv.org/abs/2410.14595)|null|
+|**2024-10-18**|**A Lipschitz spaces view of infinitely wide shallow neural networks**|Francesca Bartolucci et.al.|[2410.14591](http://arxiv.org/abs/2410.14591)|null|
+|**2024-10-18**|**Neural Combinatorial Clustered Bandits for Recommendation Systems**|Baran Atalar et.al.|[2410.14586](http://arxiv.org/abs/2410.14586)|null|
+|**2024-10-18**|**Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**|Y. Wang et.al.|[2410.14577](http://arxiv.org/abs/2410.14577)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-17**|**AutoAL: Automated Active Learning with Differentiable Query Strategy Search**|Yifeng Wang et.al.|[2410.13853](http://arxiv.org/abs/2410.13853)|**[link](https://github.com/haizailache999/autoal)**|
 |**2024-10-17**|**Analyzing Atomic Interactions in Molecules as Learned by Neural Networks**|Malte Esders et.al.|[2410.13833](http://arxiv.org/abs/2410.13833)|null|
@@ -17214,6 +17260,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Self-supervised contrastive learning performs non-linear system identification**|Rodrigo González Laiz et.al.|[2410.14673](http://arxiv.org/abs/2410.14673)|**[link](https://github.com/dynamical-inference/dyncl)**|
+|**2024-10-18**|**Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise**|Fangjun Hu et.al.|[2410.14654](http://arxiv.org/abs/2410.14654)|null|
+|**2024-10-18**|**Two-dimensional many-body localized systems coupled to a heat bath**|Joey Li et.al.|[2410.14652](http://arxiv.org/abs/2410.14652)|null|
+|**2024-10-18**|**Bootstrapping Ground State Correlators in Matrix Theory, Part I**|Henry W. Lin et.al.|[2410.14647](http://arxiv.org/abs/2410.14647)|null|
+|**2024-10-18**|**A diverse, overlooked population of Type Ia supernovae exhibiting mid-infrared signatures of delayed circumstellar interaction**|Geoffrey Mo et.al.|[2410.14644](http://arxiv.org/abs/2410.14644)|null|
+|**2024-10-18**|**Joint Space-Time Adaptive Processing and Beamforming Design for Cell-Free ISAC Systems**|Rang Liu et.al.|[2410.14642](http://arxiv.org/abs/2410.14642)|null|
+|**2024-10-18**|**Onset and impact of plastic deformation in granular compaction**|Joel T. Clemmer et.al.|[2410.14636](http://arxiv.org/abs/2410.14636)|null|
+|**2024-10-18**|**CELI: Controller-Embedded Language Model Interactions**|Jan-Samuel Wagner et.al.|[2410.14627](http://arxiv.org/abs/2410.14627)|null|
+|**2024-10-18**|**Enhancing AI Accessibility in Veterinary Medicine: Linking Classifiers and Electronic Health Records**|Chun Yin Kong et.al.|[2410.14625](http://arxiv.org/abs/2410.14625)|null|
+|**2024-10-18**|**JAMUN: Transferable Molecular Conformational Ensemble Generation with Walk-Jump Sampling**|Ameya Daigavane et.al.|[2410.14621](http://arxiv.org/abs/2410.14621)|null|
 |**2024-10-17**|**Monte Carlo Study of Critical Fermi Surface with Spatial Disorder Interactions**|Tu Hong et.al.|[2410.13858](http://arxiv.org/abs/2410.13858)|null|
 |**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
 |**2024-10-17**|**Adaptive Subsampling and Learned Model Improve Spatiotemporal Resolution of Tactile Skin**|Ariel Slepyan et.al.|[2410.13847](http://arxiv.org/abs/2410.13847)|null|
