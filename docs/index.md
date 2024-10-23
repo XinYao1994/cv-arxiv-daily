@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -784,7 +784,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-20**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
+|**2024-10-22**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
 |**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
 |**2024-10-19**|**HPVM-HDC: A Heterogeneous Programming System for Hyperdimensional Computing**|Russel Arbore et.al.|[2410.15179](http://arxiv.org/abs/2410.15179)|null|
 |**2024-10-19**|**A survey of neural-network-based methods utilising comparable data for finding translation equivalents**|Michaela Denisová et.al.|[2410.15144](http://arxiv.org/abs/2410.15144)|null|
