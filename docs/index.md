@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -786,7 +786,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-22**|**C-lisp and Flexible Macro Programming with S-expressions**|Vedanth Padmaraman et.al.|[2410.16690](http://arxiv.org/abs/2410.16690)|null|
+|**2024-10-23**|**C-lisp and Flexible Macro Programming with S-expressions**|Vedanth Padmaraman et.al.|[2410.16690](http://arxiv.org/abs/2410.16690)|null|
 |**2024-10-21**|**Runtime Reduction in Linear Quantum Charge-Coupled Devices using the Parity Flow Formalism**|Federico Domínguez et.al.|[2410.16382](http://arxiv.org/abs/2410.16382)|null|
 |**2024-10-22**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
 |**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
@@ -795,7 +795,7 @@ layout: default
 |**2024-10-19**|**Fast and Efficient Bayesian Analysis of Structural Vector Autoregressions Using the R Package bsvars**|Tomasz Woźniak et.al.|[2410.15090](http://arxiv.org/abs/2410.15090)|null|
 |**2024-10-19**|**Quantum-Classical Computing via Tensor Networks**|Nathaniel Tornow et.al.|[2410.15080](http://arxiv.org/abs/2410.15080)|**[link](https://github.com/nathanieltornow/qtpu)**|
 |**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
-|**2024-10-18**|**How to Evaluate Reward Models for RLHF**|Evan Frick et.al.|[2410.14872](http://arxiv.org/abs/2410.14872)|null|
+|**2024-10-22**|**How to Evaluate Reward Models for RLHF**|Evan Frick et.al.|[2410.14872](http://arxiv.org/abs/2410.14872)|**[link](https://github.com/lmarena/ppe)**|
 |**2024-10-18**|**Computing the negative $K$-theory of finite groups of order $\leq 100$**|Georg Lehner et.al.|[2410.14446](http://arxiv.org/abs/2410.14446)|null|
 |**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
 |**2024-10-17**|**Target-Aware Implementation of Real Expressions**|Brett Saiki et.al.|[2410.14025](http://arxiv.org/abs/2410.14025)|null|
@@ -6368,7 +6368,7 @@ layout: default
 |**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066](http://arxiv.org/abs/2410.17066)|null|
 |**2024-10-22**|**Nanosecond Precision Time Synchronization for Optical Data Center Networks**|Yiming Lei et.al.|[2410.17012](http://arxiv.org/abs/2410.17012)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995](http://arxiv.org/abs/2410.16995)|null|
-|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978](http://arxiv.org/abs/2410.16978)|null|
+|**2024-10-22**|**Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**|Constantin Kleinbeck et.al.|[2410.16978](http://arxiv.org/abs/2410.16978)|**[link](https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization)**|
 |**2024-10-22**|**A Toolbox for Design of Experiments for Energy Systems in Co-Simulation and Hardware Tests**|Jan Sören Schwarz et.al.|[2410.16923](http://arxiv.org/abs/2410.16923)|null|
 |**2024-10-22**|**Automatic Extraction and Compensation of P-Bit Device Variations in Large Array Utilizing Boltzmann Machine Training**|Bolin Zhang et.al.|[2410.16915](http://arxiv.org/abs/2410.16915)|null|
 |**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265](http://arxiv.org/abs/2410.16265)|null|
@@ -21023,7 +21023,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-17**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
+|**2024-10-23**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
 |**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
 |**2024-10-16**|**Channel-Wise Mixed-Precision Quantization for Large Language Models**|Zihan Chen et.al.|[2410.13056](http://arxiv.org/abs/2410.13056)|null|
 |**2024-10-16**|**Mixed-precision finite element kernels and assembly: Rounding error analysis and hardware acceleration**|M. Croci et.al.|[2410.12614](http://arxiv.org/abs/2410.12614)|**[link](https://github.com/croci/mpfem-paper-experiments-2024)**|
