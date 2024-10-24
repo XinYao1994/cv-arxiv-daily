@@ -804,6 +804,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077](http://arxiv.org/abs/2410.18077)|**[link](https://github.com/google-deepmind/alta)**|
+|**2024-10-23**|**B-Side: Binary-Level Static System Call Identification**|Gaspard Thévenon et.al.|[2410.18053](http://arxiv.org/abs/2410.18053)|null|
+|**2024-10-23**|**Charon: An Analysis Framework for Rust**|Son Ho et.al.|[2410.18042](http://arxiv.org/abs/2410.18042)|null|
+|**2024-10-23**|**FuzzWiz -- Fuzzing Framework for Efficient Hardware Coverage**|Deepak Narayan Gadde et.al.|[2410.17732](http://arxiv.org/abs/2410.17732)|null|
+|**2024-10-23**|**Flexible Process Variant Binding in Information Systems with Software Product Line Engineering**|Philipp Hehnle et.al.|[2410.17689](http://arxiv.org/abs/2410.17689)|null|
+|**2024-10-23**|**Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks**|Paul Smolensky et.al.|[2410.17498](http://arxiv.org/abs/2410.17498)|null|
+|**2024-10-22**|**Marine Microplastics and Infant Health**|Xinming Du et.al.|[2410.17391](http://arxiv.org/abs/2410.17391)|null|
+|**2024-10-22**|**Generalized $T_e$([OIII])-$T_e$ (HeI) Discrepancies in Ionized Nebulae: Possible Evidence of Case B Deviations and Temperature Inhomogeneities**|J. E. Méndez-Delgado et.al.|[2410.17381](http://arxiv.org/abs/2410.17381)|null|
 |**2024-10-23**|**C-lisp and Flexible Macro Programming with S-expressions**|Vedanth Padmaraman et.al.|[2410.16690](http://arxiv.org/abs/2410.16690)|null|
 |**2024-10-21**|**Runtime Reduction in Linear Quantum Charge-Coupled Devices using the Parity Flow Formalism**|Federico Domínguez et.al.|[2410.16382](http://arxiv.org/abs/2410.16382)|null|
 |**2024-10-22**|**Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence**|Norbert Tihanyi et.al.|[2410.15490](http://arxiv.org/abs/2410.15490)|null|
@@ -2686,6 +2694,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**ALTA: Compiler-Based Analysis of Transformers**|Peter Shaw et.al.|[2410.18077](http://arxiv.org/abs/2410.18077)|**[link](https://github.com/google-deepmind/alta)**|
+|**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075](http://arxiv.org/abs/2410.18075)|null|
+|**2024-10-23**|**Training Free Guided Flow Matching with Optimal Control**|Luran Wang et.al.|[2410.18070](http://arxiv.org/abs/2410.18070)|null|
+|**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
+|**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060](http://arxiv.org/abs/2410.18060)|null|
+|**2024-10-23**|**Large graph limits of local matching algorithms on uniform random graphs**|Mohamed Habib Aliou Diallo Aoudi et.al.|[2410.18059](http://arxiv.org/abs/2410.18059)|null|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040](http://arxiv.org/abs/2410.18040)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
+|**2024-10-23**|**Finite Integrals from Feynman Polytopes**|Leonardo de la Cruz et.al.|[2410.18014](http://arxiv.org/abs/2410.18014)|null|
+|**2024-10-23**|**Random space-time sampling and reconstruction of sparse bandlimited graph diffusion field**|Longxiu Huang et.al.|[2410.18005](http://arxiv.org/abs/2410.18005)|null|
 |**2024-10-22**|**Classifying rational polygons with small denominator and few interior lattice points**|Martin Bohnert et.al.|[2410.17244](http://arxiv.org/abs/2410.17244)|null|
 |**2024-10-22**|**Floquetifying stabiliser codes with distance-preserving rewrites**|Benjamin Rodatz et.al.|[2410.17240](http://arxiv.org/abs/2410.17240)|null|
 |**2024-10-22**|**Optimal Robust Estimation under Local and Global Corruptions: Stronger Adversary and Smaller Error**|Thanasis Pittas et.al.|[2410.17230](http://arxiv.org/abs/2410.17230)|null|
@@ -6383,6 +6401,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**ARAS: An Adaptive Low-Cost ReRAM-Based Accelerator for DNNs**|Mohammad Sabri et.al.|[2410.17931](http://arxiv.org/abs/2410.17931)|null|
+|**2024-10-23**|**Truly Sub-Nyquist Method Based Matrix Pencil and CRT with Super Resolution**|Huiguang Zhang et.al.|[2410.17841](http://arxiv.org/abs/2410.17841)|null|
+|**2024-10-23**|**Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs**|Ferdi Kossmann et.al.|[2410.17840](http://arxiv.org/abs/2410.17840)|null|
+|**2024-10-23**|**FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling**|Qijun Zhang et.al.|[2410.17789](http://arxiv.org/abs/2410.17789)|null|
+|**2024-10-23**|**Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations**|Qijun Zhang et.al.|[2410.17782](http://arxiv.org/abs/2410.17782)|null|
+|**2024-10-23**|**ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**|Zhiwei Hao et.al.|[2410.17779](http://arxiv.org/abs/2410.17779)|**[link](https://github.com/hao840/adem-vl)**|
+|**2024-10-23**|**Multi-Layered Safety of Redundant Robot Manipulators via Task-Oriented Planning and Control**|Xinyu Jia et.al.|[2410.17742](http://arxiv.org/abs/2410.17742)|null|
+|**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|null|
+|**2024-10-23**|**FuzzWiz -- Fuzzing Framework for Efficient Hardware Coverage**|Deepak Narayan Gadde et.al.|[2410.17732](http://arxiv.org/abs/2410.17732)|null|
+|**2024-10-23**|**PETAH: Parameter Efficient Task Adaptation for Hybrid Transformers in a resource-limited Context**|Maximilian Augustin et.al.|[2410.17661](http://arxiv.org/abs/2410.17661)|null|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**Minimum-Violation Temporal Logic Planning for Heterogeneous Robots under Robot Skill Failures**|Samarth Kalluraya et.al.|[2410.17188](http://arxiv.org/abs/2410.17188)|null|
 |**2024-10-22**|**Technical Report: Toward Applying Quantum Computing to Network Verification**|Kahlil Dozier et.al.|[2410.17184](http://arxiv.org/abs/2410.17184)|null|
@@ -9966,6 +9994,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
+|**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075](http://arxiv.org/abs/2410.18075)|null|
+|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074](http://arxiv.org/abs/2410.18074)|null|
+|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
+|**2024-10-23**|**Large graph limits of local matching algorithms on uniform random graphs**|Mohamed Habib Aliou Diallo Aoudi et.al.|[2410.18059](http://arxiv.org/abs/2410.18059)|null|
+|**2024-10-23**|**CLEAR: Character Unlearning in Textual and Visual Modalities**|Alexey Dontsov et.al.|[2410.18057](http://arxiv.org/abs/2410.18057)|null|
+|**2024-10-23**|**LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering**|Qingfei Zhao et.al.|[2410.18050](http://arxiv.org/abs/2410.18050)|**[link](https://github.com/qingfei1/longrag)**|
+|**2024-10-23**|**Local Primordial Non-Gaussian Bias at the Field Level**|James M. Sullivan et.al.|[2410.18039](http://arxiv.org/abs/2410.18039)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
+|**2024-10-23**|**Measurements of $ψ{(2S)}$ and $χ_{c1}(3872)$ production within fully reconstructed jets**|LHCb collaboration et.al.|[2410.18018](http://arxiv.org/abs/2410.18018)|null|
 |**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|Long Xing et.al.|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
 |**2024-10-22**|**Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins**|Venkatesh Pattabiraman et.al.|[2410.17246](http://arxiv.org/abs/2410.17246)|null|
 |**2024-10-22**|**Synthetic Quantum Holography with Undetected Light**|Sebastian Töpfer et.al.|[2410.17239](http://arxiv.org/abs/2410.17239)|null|
@@ -13660,6 +13698,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
+|**2024-10-23**|**FIPER: Generalizable Factorized Fields for Joint Image Compression and Super-Resolution**|Yang-Che Sun et.al.|[2410.18083](http://arxiv.org/abs/2410.18083)|null|
+|**2024-10-23**|**Beyond position: how rotary embeddings shape representations and memory in autoregressive transfomers**|Valeria Ruscio et.al.|[2410.18067](http://arxiv.org/abs/2410.18067)|null|
+|**2024-10-23**|**Scaling density of axion strings in terasite simulations**|José Correia et.al.|[2410.18064](http://arxiv.org/abs/2410.18064)|null|
+|**2024-10-23**|**Disordered charge density waves in the kagome metal FeGe**|Hengxin Tan et.al.|[2410.18063](http://arxiv.org/abs/2410.18063)|null|
+|**2024-10-23**|**Explaining Bayesian Networks in Natural Language using Factor Arguments. Evaluation in the medical domain**|Jaime Sevilla et.al.|[2410.18060](http://arxiv.org/abs/2410.18060)|null|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040](http://arxiv.org/abs/2410.18040)|null|
+|**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
+|**2024-10-23**|**A mathematical framework to study organising principles in graphical representations of biochemical processes**|Adittya Chaudhuri et.al.|[2410.18024](http://arxiv.org/abs/2410.18024)|null|
+|**2024-10-23**|**Deep Nonparametric Inference for Conditional Hazard Function**|Wen Su et.al.|[2410.18021](http://arxiv.org/abs/2410.18021)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242](http://arxiv.org/abs/2410.17242)|null|
 |**2024-10-22**|**Scalable spectral representations for network multiagent control**|Zhaolin Ren et.al.|[2410.17221](http://arxiv.org/abs/2410.17221)|null|
 |**2024-10-22**|**Heuristic Search for Linear Positive Systems**|David Ohlin et.al.|[2410.17220](http://arxiv.org/abs/2410.17220)|null|
@@ -17355,6 +17403,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Gauge-invariant perturbations of relativistic non-perfect fluids in spherical spacetime**|David Díaz-Guerra et.al.|[2410.18081](http://arxiv.org/abs/2410.18081)|null|
+|**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075](http://arxiv.org/abs/2410.18075)|null|
+|**2024-10-23**|**Unravelling sub-stellar magnetospheres**|Robert D Kavanagh et.al.|[2410.18073](http://arxiv.org/abs/2410.18073)|null|
+|**2024-10-23**|**The Double-Edged Sword of Behavioral Responses in Strategic Classification: Theory and User Studies**|Raman Ebrahimi et.al.|[2410.18066](http://arxiv.org/abs/2410.18066)|null|
+|**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
+|**2024-10-23**|**Disordered charge density waves in the kagome metal FeGe**|Hengxin Tan et.al.|[2410.18063](http://arxiv.org/abs/2410.18063)|null|
+|**2024-10-23**|**Large graph limits of local matching algorithms on uniform random graphs**|Mohamed Habib Aliou Diallo Aoudi et.al.|[2410.18059](http://arxiv.org/abs/2410.18059)|null|
+|**2024-10-23**|**Introduction to Fusion Ignition Principles: Zeroth Order Factors of Fusion Energy Research**|Huasheng Xie et.al.|[2410.18054](http://arxiv.org/abs/2410.18054)|null|
+|**2024-10-23**|**B-Side: Binary-Level Static System Call Identification**|Gaspard Thévenon et.al.|[2410.18053](http://arxiv.org/abs/2410.18053)|null|
+|**2024-10-23**|**LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering**|Qingfei Zhao et.al.|[2410.18050](http://arxiv.org/abs/2410.18050)|**[link](https://github.com/qingfei1/longrag)**|
 |**2024-10-22**|**HyperspectralViTs: Fast and Accurate methane detection on-board satellites**|Vít Růžička et.al.|[2410.17248](http://arxiv.org/abs/2410.17248)|null|
 |**2024-10-22**|**Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss**|Zesen Cheng et.al.|[2410.17243](http://arxiv.org/abs/2410.17243)|**[link](https://github.com/damo-nlp-sg/inf-clip)**|
 |**2024-10-22**|**SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning**|Yizhou Chi et.al.|[2410.17238](http://arxiv.org/abs/2410.17238)|**[link](https://github.com/geekan/metagpt)**|
