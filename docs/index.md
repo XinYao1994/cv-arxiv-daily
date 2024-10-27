@@ -6396,7 +6396,7 @@ layout: default
 |**2024-10-24**|**Self-Improving Autonomous Underwater Manipulation**|Ruoshi Liu et.al.|[2410.18969](http://arxiv.org/abs/2410.18969)|null|
 |**2024-10-24**|**Learning Structured Compressed Sensing with Automatic Resource Allocation**|Han Wang et.al.|[2410.18954](http://arxiv.org/abs/2410.18954)|null|
 |**2024-10-24**|**Swarm manipulation: An efficient and accurate technique for multi-object manipulation in virtual reality**|Xiang Li et.al.|[2410.18924](http://arxiv.org/abs/2410.18924)|null|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|**[link](https://github.com/qiujiaming315/edgeml-object-detection)**|
 |**2024-10-24**|**Practical implementation of a single-qubit rotation algorithm**|Christoffer Hindlycke et.al.|[2410.18746](http://arxiv.org/abs/2410.18746)|null|
 |**2024-10-24**|**Hyperspectral Spatial Super-Resolution using Keystone Error**|Ankur Garg et.al.|[2410.18691](http://arxiv.org/abs/2410.18691)|null|
 |**2024-10-24**|**LLM-Aided Efficient Hardware Design Automation**|Kangwei Xu et.al.|[2410.18582](http://arxiv.org/abs/2410.18582)|null|
@@ -13710,7 +13710,7 @@ layout: default
 |**2024-10-24**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956](http://arxiv.org/abs/2410.18956)|null|
 |**2024-10-24**|**Internal structure of gauge-invariant Projected Entangled Pair States**|David Blanik et.al.|[2410.18947](http://arxiv.org/abs/2410.18947)|null|
 |**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938](http://arxiv.org/abs/2410.18938)|null|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|**[link](https://github.com/qiujiaming315/edgeml-object-detection)**|
 |**2024-10-24**|**MissNODAG: Differentiable Cyclic Causal Graph Learning from Incomplete Data**|Muralikrishnna G. Sethuraman et.al.|[2410.18918](http://arxiv.org/abs/2410.18918)|**[link](https://github.com/muralikgs/missnodag)**|
 |**2024-10-24**|**Using Parametric PINNs for Predicting Internal and External Turbulent Flows**|Shinjan Ghosh et.al.|[2410.18917](http://arxiv.org/abs/2410.18917)|null|
 |**2024-10-24**|**Parity-violating Gravitational Wave Background Search with a Network of Space-borne Triangular Detectors**|Ju Chen et.al.|[2410.18916](http://arxiv.org/abs/2410.18916)|null|
