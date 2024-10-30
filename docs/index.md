@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -791,7 +791,7 @@ layout: default
 |**2024-10-28**|**Policies for Fair Exchanges of Resources**|Lorenzo Ceragioli et.al.|[2410.21214](http://arxiv.org/abs/2410.21214)|null|
 |**2024-10-27**|**Implementation and Application of an Intelligibility Protocol for Interaction with an LLM**|Ashwin Srinivasan et.al.|[2410.20600](http://arxiv.org/abs/2410.20600)|**[link](https://github.com/karannb/interact)**|
 |**2024-10-27**|**Automatic Estimation of Singing Voice Musical Dynamics**|Jyoti Narang et.al.|[2410.20540](http://arxiv.org/abs/2410.20540)|null|
-|**2024-10-27**|**Characterization of Noise using variants of Unitarity Randomized Benchmarking**|Adarsh Chandrashekar et.al.|[2410.20528](http://arxiv.org/abs/2410.20528)|null|
+|**2024-10-29**|**Characterization of Noise using variants of Unitarity Randomized Benchmarking**|Adarsh Chandrashekar et.al.|[2410.20528](http://arxiv.org/abs/2410.20528)|null|
 |**2024-10-27**|**CodeRosetta: Pushing the Boundaries of Unsupervised Code Translation for Parallel Programming**|Ali TehraniJamsaz et.al.|[2410.20527](http://arxiv.org/abs/2410.20527)|null|
 |**2024-10-25**|**Lightweight, Secure and Stateful Serverless Computing with PSL**|Alexander Thomas et.al.|[2410.20004](http://arxiv.org/abs/2410.20004)|null|
 |**2024-10-25**|**Artificial Intelligence of Things: A Survey**|Shakhrul Iman Siam et.al.|[2410.19998](http://arxiv.org/abs/2410.19998)|**[link](https://github.com/aiot-mlsys-lab/aiot-survey)**|
@@ -6435,7 +6435,7 @@ layout: default
 |**2024-10-27**|**A Comprehensive Survey on Green Blockchain: Developing the Next Generation of Energy Efficient and Sustainable Blockchain Systems**|Tiago M. Fernández-Caramés et.al.|[2410.20581](http://arxiv.org/abs/2410.20581)|null|
 |**2024-10-27**|**SPICEPilot: Navigating SPICE Code Generation and Simulation with AI Guidance**|Deepak Vungarala et.al.|[2410.20553](http://arxiv.org/abs/2410.20553)|**[link](https://github.com/acadlab/spicepilot)**|
 |**2024-10-27**|**Asynchronous Perception Machine For Efficient Test-Time-Training**|Rajat Modi et.al.|[2410.20535](http://arxiv.org/abs/2410.20535)|null|
-|**2024-10-27**|**Characterization of Noise using variants of Unitarity Randomized Benchmarking**|Adarsh Chandrashekar et.al.|[2410.20528](http://arxiv.org/abs/2410.20528)|null|
+|**2024-10-29**|**Characterization of Noise using variants of Unitarity Randomized Benchmarking**|Adarsh Chandrashekar et.al.|[2410.20528](http://arxiv.org/abs/2410.20528)|null|
 |**2024-10-27**|**Wireless Localization with Space-Time Coded Reconfigurable Intelligent Surfaces**|Mehdi Gholami et.al.|[2410.20505](http://arxiv.org/abs/2410.20505)|null|
 |**2024-10-27**|**Architectural Solutions for High-Speed Data Processing Demands of CERN LHC Detectors with FPGA and High-Level Synthesis**|Sergei Devadze et.al.|[2410.20430](http://arxiv.org/abs/2410.20430)|null|
 |**2024-10-25**|**Perception, Control and Hardware for In-Hand Slip-Aware Object Manipulation with Parallel Grippers**|Gabriel Arslan Waltersson et.al.|[2410.19660](http://arxiv.org/abs/2410.19660)|null|
