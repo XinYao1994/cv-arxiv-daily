@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -790,9 +790,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**Cora: Accelerating Stateful Network Applications with SmartNICs**|Shaoke Xi et.al.|[2410.22229](http://arxiv.org/abs/2410.22229)|null|
-|**2024-10-29**|**Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback**|Aaron Haag et.al.|[2410.22159](http://arxiv.org/abs/2410.22159)|null|
+|**2024-10-30**|**Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback**|Aaron Haag et.al.|[2410.22159](http://arxiv.org/abs/2410.22159)|null|
 |**2024-10-29**|**A Longitudinal Analysis of Racial and Gender Bias in New York Times and Fox News Images and Articles**|Hazem Ibrahim et.al.|[2410.21898](http://arxiv.org/abs/2410.21898)|null|
 |**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813](http://arxiv.org/abs/2410.21813)|**[link](https://github.com/vvjia/sam-swin)**|
 |**2024-10-28**|**Radial properties of dust in galaxies: Comparison between observations and isolated galaxy simulations**|S. A. van der Giessen et.al.|[2410.21430](http://arxiv.org/abs/2410.21430)|null|
@@ -2705,11 +2705,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Hypothesis tests and model parameter estimation on data sets with missing correlation information**|Lukas Koch et.al.|[2410.22333](http://arxiv.org/abs/2410.22333)|null|
 |**2024-10-29**|**Optimizing Posterior Samples for Bayesian Optimization via Rootfinding**|Taiwo A. Adebiyi et.al.|[2410.22322](http://arxiv.org/abs/2410.22322)|**[link](https://github.com/uquh/tsroots)**|
-|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|null|
+|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|**[link](https://github.com/canchen-cc/online-llm-detection)**|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Shuffling Gradient-Based Methods for Nonconvex-Concave Minimax Optimization**|Quoc Tran-Dinh et.al.|[2410.22297](http://arxiv.org/abs/2410.22297)|null|
 |**2024-10-29**|**LLMs are Highly-Constrained Biophysical Sequence Optimizers**|Angelica Chen et.al.|[2410.22296](http://arxiv.org/abs/2410.22296)|null|
-|**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|null|
+|**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|**[link](https://github.com/modichirag/gsm-vi)**|
 |**2024-10-29**|**Active Event Alignment for Monocular Distance Estimation**|Nan Cai et.al.|[2410.22280](http://arxiv.org/abs/2410.22280)|null|
 |**2024-10-29**|**Fast and Scalable GPU-Accelerated Quantum Chemistry for Periodic Systems with Gaussian Orbitals: Implementation and Hybrid Density Functional Theory Calculations**|Yuanheng Wang et.al.|[2410.22278](http://arxiv.org/abs/2410.22278)|null|
 |**2024-10-29**|**Numerical solution of BVP for the incompressible Navier-Stokes equations at large Reynolds numbers**|D. V. Lomasov et.al.|[2410.22268](http://arxiv.org/abs/2410.22268)|null|
@@ -6449,7 +6449,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Communication Characterization of AI Workloads for Large-scale Multi-chiplet Accelerators**|Mariam Musavi et.al.|[2410.22262](http://arxiv.org/abs/2410.22262)|null|
-|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**Optimizing and Managing Wireless Backhaul for Resilient Next-Generation Cellular Networks**|Gabriele Gemmi et.al.|[2410.22246](http://arxiv.org/abs/2410.22246)|null|
 |**2024-10-29**|**RingSim- An Agent-based Approach for Modelling Mesoscopic Magnetic Nanowire Networks**|Ian T Vidamour et.al.|[2410.22204](http://arxiv.org/abs/2410.22204)|null|
 |**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110](http://arxiv.org/abs/2410.22110)|null|
@@ -10080,7 +10080,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Hypothesis tests and model parameter estimation on data sets with missing correlation information**|Lukas Koch et.al.|[2410.22333](http://arxiv.org/abs/2410.22333)|null|
-|**2024-10-29**|**Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset**|Guangqi Jiang et.al.|[2410.22325](http://arxiv.org/abs/2410.22325)|null|
+|**2024-10-30**|**Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets**|Guangqi Jiang et.al.|[2410.22325](http://arxiv.org/abs/2410.22325)|null|
 |**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|
 |**2024-10-29**|**Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention**|Haomeng Zhang et.al.|[2410.22306](http://arxiv.org/abs/2410.22306)|null|
 |**2024-10-29**|**Shuffling Gradient-Based Methods for Nonconvex-Concave Minimax Optimization**|Quoc Tran-Dinh et.al.|[2410.22297](http://arxiv.org/abs/2410.22297)|null|
@@ -13822,12 +13822,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|
-|**2024-10-29**|**Convex Formulations for Training Two-Layer ReLU Neural Networks**|Karthik Prakhya et.al.|[2410.22311](http://arxiv.org/abs/2410.22311)|null|
-|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
+|**2024-10-29**|**Convex Formulations for Training Two-Layer ReLU Neural Networks**|Karthik Prakhya et.al.|[2410.22311](http://arxiv.org/abs/2410.22311)|**[link](https://github.com/KarthikPrakhya/SDPNN-IW)**|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
 |**2024-10-29**|**Leveraging Recurrent Neural Networks for Predicting Motor Movements from Primate Motor Cortex Neural Recordings**|Yuanxi Wang et.al.|[2410.22283](http://arxiv.org/abs/2410.22283)|null|
 |**2024-10-29**|**Fourier Head: Helping Large Language Models Learn Complex Probability Distributions**|Nate Gillman et.al.|[2410.22269](http://arxiv.org/abs/2410.22269)|null|
-|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
-|**2024-10-29**|**LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers**|Patricia Pauli et.al.|[2410.22258](http://arxiv.org/abs/2410.22258)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
+|**2024-10-29**|**LipKernel: Lipschitz-Bounded Convolutional Neural Networks via Dissipative Layers**|Patricia Pauli et.al.|[2410.22258](http://arxiv.org/abs/2410.22258)|**[link](https://github.com/ppauli/2D-LipCNNs)**|
 |**2024-10-29**|**Hypergraph-based multi-scale spatio-temporal graph convolution network for Time-Series anomaly detection**|Hongyi Xu et.al.|[2410.22256](http://arxiv.org/abs/2410.22256)|null|
 |**2024-10-29**|**Pedestrian crash causation analysis near bus stops: Insights from random parameters NB-Lindley models**|Mohammad Anis et.al.|[2410.22253](http://arxiv.org/abs/2410.22253)|null|
 |**2024-10-29**|**Optimizing and Managing Wireless Backhaul for Resilient Next-Generation Cellular Networks**|Gabriele Gemmi et.al.|[2410.22246](http://arxiv.org/abs/2410.22246)|null|
@@ -17568,7 +17568,7 @@ layout: default
 |**2024-10-29**|**Observation of a Bilayer Superfluid with Interlayer Coherence**|Erik Rydow et.al.|[2410.22326](http://arxiv.org/abs/2410.22326)|null|
 |**2024-10-29**|**Superintegrability in the interaction of two particles with spin**|O. Ogulcan Tuncer et.al.|[2410.22321](http://arxiv.org/abs/2410.22321)|null|
 |**2024-10-29**|**Nanoscale Connectomics Annotation Standards Framework**|Nicole K. Guittari et.al.|[2410.22320](http://arxiv.org/abs/2410.22320)|null|
-|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
 |**2024-10-29**|**Foreground signals minimally affect inference of high-mass binary black holes in next generation gravitational-wave detectors**|Ish Gupta et.al.|[2410.22302](http://arxiv.org/abs/2410.22302)|null|
 |**2024-10-29**|**Aharonov-Bohm interferometer in inverted-band pn junctions**|Yuhao Zhao et.al.|[2410.22298](http://arxiv.org/abs/2410.22298)|null|
 |**2024-10-29**|**Shuffling Gradient-Based Methods for Nonconvex-Concave Minimax Optimization**|Quoc Tran-Dinh et.al.|[2410.22297](http://arxiv.org/abs/2410.22297)|null|
