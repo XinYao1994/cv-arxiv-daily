@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -799,7 +799,7 @@ layout: default
 |**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**Cora: Accelerating Stateful Network Applications with SmartNICs**|Shaoke Xi et.al.|[2410.22229](http://arxiv.org/abs/2410.22229)|null|
 |**2024-10-30**|**Training LLMs for Generating IEC 61131-3 Structured Text with Online Feedback**|Aaron Haag et.al.|[2410.22159](http://arxiv.org/abs/2410.22159)|null|
-|**2024-10-29**|**A Longitudinal Analysis of Racial and Gender Bias in New York Times and Fox News Images and Articles**|Hazem Ibrahim et.al.|[2410.21898](http://arxiv.org/abs/2410.21898)|null|
+|**2024-10-31**|**A Longitudinal Analysis of Racial and Gender Bias in New York Times and Fox News Images and Articles**|Hazem Ibrahim et.al.|[2410.21898](http://arxiv.org/abs/2410.21898)|null|
 |**2024-10-29**|**SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection**|Jia Wei et.al.|[2410.21813](http://arxiv.org/abs/2410.21813)|**[link](https://github.com/vvjia/sam-swin)**|
 |**2024-10-28**|**Radial properties of dust in galaxies: Comparison between observations and isolated galaxy simulations**|S. A. van der Giessen et.al.|[2410.21430](http://arxiv.org/abs/2410.21430)|null|
 |**2024-10-28**|**CT2C-QA: Multimodal Question Answering over Chinese Text, Table and Chart**|Bowen Zhao et.al.|[2410.21414](http://arxiv.org/abs/2410.21414)|null|
