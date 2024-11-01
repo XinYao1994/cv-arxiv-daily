@@ -88,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
@@ -205,6 +206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Efficient Performance Analysis of Modular Rewritable Petri Nets**|Lorenzo Capra et.al.|[2410.23762](http://arxiv.org/abs/2410.23762)|null|
 |**2024-10-29**|**ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks**|Xuewei Feng et.al.|[2410.21984](http://arxiv.org/abs/2410.21984)|null|
 |**2024-10-29**|**Optimizing Streamlined Blockchain Consensus with Generalized Weighted Voting and Enhanced Leader Rotation**|Diana Micloiu et.al.|[2410.21923](http://arxiv.org/abs/2410.21923)|null|
 |**2024-10-28**|**Strategic Electric Distribution Network Sensing via Spectral Bandits**|Samuel Talkington et.al.|[2410.21270](http://arxiv.org/abs/2410.21270)|null|
@@ -791,6 +793,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**ECDQC: Efficient Compilation for Distributed Quantum Computing with Linear Layout**|Kecheng Liu et.al.|[2410.23857](http://arxiv.org/abs/2410.23857)|null|
+|**2024-10-31**|**Static Analysis Framework for Detecting Use-After-Free Bugs in C++**|Vlad-Alexandru Teodorescu et.al.|[2410.23764](http://arxiv.org/abs/2410.23764)|null|
+|**2024-10-31**|**Syno: Structured Synthesis for Neural Operators**|Yongqi Zhuo et.al.|[2410.23745](http://arxiv.org/abs/2410.23745)|null|
+|**2024-10-31**|**On Positional Bias of Faithfulness for Long-form Summarization**|David Wan et.al.|[2410.23609](http://arxiv.org/abs/2410.23609)|**[link](https://github.com/meetdavidwan/longformfact)**|
+|**2024-10-30**|**Linear and non-linear relational analyses for Quantum Program Optimization**|Matthew Amy et.al.|[2410.23493](http://arxiv.org/abs/2410.23493)|null|
+|**2024-10-30**|**Risk Sources and Risk Management Measures in Support of Standards for General-Purpose AI Systems**|Rokas Gipiškis et.al.|[2410.23472](http://arxiv.org/abs/2410.23472)|null|
+|**2024-10-30**|**How Do Developers Use Type Inference: An Exploratory Study in Kotlin**|Samuel W. Flint et.al.|[2410.23360](http://arxiv.org/abs/2410.23360)|null|
 |**2024-10-30**|**Multi-Programming Language Sandbox for LLMs**|Shihan Dou et.al.|[2410.23074](http://arxiv.org/abs/2410.23074)|null|
 |**2024-10-30**|**A test-free semantic mistakes localization framework in Neural Code Translation**|Lei Chen et.al.|[2410.22818](http://arxiv.org/abs/2410.22818)|null|
 |**2024-10-30**|**An interferometric search for SiO maser emission in planetary nebulae**|Roldán A. Cala et.al.|[2410.22785](http://arxiv.org/abs/2410.22785)|null|
@@ -2709,6 +2718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Robust Gaussian Processes via Relevance Pursuit**|Sebastian Ament et.al.|[2410.24222](http://arxiv.org/abs/2410.24222)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
+|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|null|
+|**2024-10-31**|**Energy-Specific Bethe-Salpeter Equation Implementation for Efficient Optical Spectrum Calculations**|Christopher Hillenbrand et.al.|[2410.24168](http://arxiv.org/abs/2410.24168)|null|
+|**2024-10-31**|**Convex optimization with $p$ -norm oracles**|Deeksha Adil et.al.|[2410.24158](http://arxiv.org/abs/2410.24158)|null|
+|**2024-10-31**|**Data-Driven Learning of Two-Stage Beamformers in Passive IRS-Assisted Systems with Inexact Oracles**|Spyridon Pougkakiotis et.al.|[2410.24154](http://arxiv.org/abs/2410.24154)|null|
+|**2024-10-31**|**invrs-gym: a toolkit for nanophotonic inverse design research**|Martin F. Schubert et.al.|[2410.24132](http://arxiv.org/abs/2410.24132)|null|
+|**2024-10-31**|**Transit drivers' reflections on the benefits and harms of eye tracking technology**|Shaina Murphy et.al.|[2410.24131](http://arxiv.org/abs/2410.24131)|null|
+|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|null|
 |**2024-10-30**|**Computing the bridge length: the key ingredient in a continuous isometry classification of periodic point sets**|Jonathan McManus et.al.|[2410.23288](http://arxiv.org/abs/2410.23288)|null|
 |**2024-10-30**|**Certified algorithms for quantum Hamiltonian learning via energy-entropy inequalities**|Adam Artymowicz et.al.|[2410.23284](http://arxiv.org/abs/2410.23284)|null|
 |**2024-10-30**|**DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful Multi-Robot Collaboration**|Ola Shorinwa et.al.|[2410.23283](http://arxiv.org/abs/2410.23283)|null|
@@ -6464,6 +6483,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing**|Binghao Huang et.al.|[2410.24091](http://arxiv.org/abs/2410.24091)|null|
+|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|null|
+|**2024-10-31**|**JEMA: A Joint Embedding Framework for Scalable Co-Learning with Multimodal Alignment**|Joao Sousa et.al.|[2410.23988](http://arxiv.org/abs/2410.23988)|null|
+|**2024-10-31**|**Quantum Deep Equilibrium Models**|Philipp Schleich et.al.|[2410.23940](http://arxiv.org/abs/2410.23940)|**[link](https://github.com/martaskrt/qdeq)**|
+|**2024-10-31**|**DynaSplit: A Hardware-Software Co-Design Framework for Energy-Aware Inference on Edge**|Daniel May et.al.|[2410.23881](http://arxiv.org/abs/2410.23881)|null|
+|**2024-10-31**|**Performance tests and hardware qualification of the FEBs for the Super-FGD of T2K Phase II**|Lorenzo Giannessi et.al.|[2410.23833](http://arxiv.org/abs/2410.23833)|null|
+|**2024-10-31**|**MemANNS: Enhancing Billion-Scale ANNS Efficiency with Practical PIM Hardware**|Sitian Chen et.al.|[2410.23805](http://arxiv.org/abs/2410.23805)|null|
+|**2024-10-31**|**Neural Model Checking**|Mirco Giacobbe et.al.|[2410.23790](http://arxiv.org/abs/2410.23790)|null|
+|**2024-10-31**|**Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer**|Tyler Ga Wei Lum et.al.|[2410.23701](http://arxiv.org/abs/2410.23701)|null|
+|**2024-10-31**|**Kernel Looping: Eliminating Synchronization Boundaries for Peak Inference Performance**|David Koeplinger et.al.|[2410.23668](http://arxiv.org/abs/2410.23668)|null|
 |**2024-10-30**|**DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful Multi-Robot Collaboration**|Ola Shorinwa et.al.|[2410.23283](http://arxiv.org/abs/2410.23283)|null|
 |**2024-10-30**|**Crosstalk Attack Resilient RNS Quantum Addition**|Bhaskar Gaur et.al.|[2410.23217](http://arxiv.org/abs/2410.23217)|null|
 |**2024-10-30**|**Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks**|Michael Matthews et.al.|[2410.23208](http://arxiv.org/abs/2410.23208)|null|
@@ -10105,6 +10134,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**Error Threshold of SYK Codes from Strong-to-Weak Parity Symmetry Breaking**|Jaewon Kim et.al.|[2410.24225](http://arxiv.org/abs/2410.24225)|null|
+|**2024-10-31**|**URAvatar: Universal Relightable Gaussian Codec Avatars**|Junxuan Li et.al.|[2410.24223](http://arxiv.org/abs/2410.24223)|null|
+|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/abs/2410.24221)|null|
+|**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
+|**2024-10-31**|**Revisiting Joule-expansion experiments with a quantum gas**|Christopher J. Ho et.al.|[2410.24217](http://arxiv.org/abs/2410.24217)|null|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
+|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|null|
+|**2024-10-31**|**Length-Induced Embedding Collapse in Transformer-based Models**|Yuqi Zhou et.al.|[2410.24200](http://arxiv.org/abs/2410.24200)|null|
+|**2024-10-31**|**A Sagittal Planar Ankle-Foot Prosthesis with Powered Plantarflexion and Socket Alignment**|Mark A. Price et.al.|[2410.24196](http://arxiv.org/abs/2410.24196)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279](http://arxiv.org/abs/2410.23279)|null|
 |**2024-10-30**|**Conditional Forecasting of Margin Calls using Dynamic Graph Neural Networks**|Matteo Citterio et.al.|[2410.23275](http://arxiv.org/abs/2410.23275)|null|
@@ -13857,6 +13896,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**CaAdam: Improving Adam optimizer using connection aware methods**|Remi Genet et.al.|[2410.24216](http://arxiv.org/abs/2410.24216)|null|
+|**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
+|**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
+|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|null|
+|**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
+|**2024-10-31**|**Generative modelling for mass-mapping with fast uncertainty quantification**|Jessica J. Whitney et.al.|[2410.24197](http://arxiv.org/abs/2410.24197)|null|
+|**2024-10-31**|**From broadband biphotons to frequency combs via spectral compression with time-varying cavities**|Karthik V. Myilswamy et.al.|[2410.24188](http://arxiv.org/abs/2410.24188)|null|
+|**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
+|**2024-10-31**|**Entropy alternatives for equilibrium and out of equilibrium systems**|Eugenio E. Vogel et.al.|[2410.24186](http://arxiv.org/abs/2410.24186)|null|
+|**2024-10-31**|**Group Crosscoders for Mechanistic Analysis of Symmetry**|Liv Gorton et.al.|[2410.24184](http://arxiv.org/abs/2410.24184)|null|
 |**2024-10-30**|**DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful Multi-Robot Collaboration**|Ola Shorinwa et.al.|[2410.23283](http://arxiv.org/abs/2410.23283)|null|
 |**2024-10-30**|**Slow Relaxation in a Glassy Quantum Circuit**|Richard D. Barney et.al.|[2410.23281](http://arxiv.org/abs/2410.23281)|null|
 |**2024-10-30**|**Conditional Forecasting of Margin Calls using Dynamic Graph Neural Networks**|Matteo Citterio et.al.|[2410.23275](http://arxiv.org/abs/2410.23275)|null|
@@ -17610,6 +17659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/abs/2410.24221)|null|
+|**2024-10-31**|**Bridging Geometric States via Geometric Diffusion Bridge**|Shengjie Luo et.al.|[2410.24220](http://arxiv.org/abs/2410.24220)|null|
+|**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar et.al.|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
+|**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
+|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|null|
+|**2024-10-31**|**Improved bounds for testing low stabilizer complexity states**|Saeed Mehraban et.al.|[2410.24202](http://arxiv.org/abs/2410.24202)|null|
+|**2024-10-31**|**A Sagittal Planar Ankle-Foot Prosthesis with Powered Plantarflexion and Socket Alignment**|Mark A. Price et.al.|[2410.24196](http://arxiv.org/abs/2410.24196)|null|
+|**2024-10-31**|**Entropy alternatives for equilibrium and out of equilibrium systems**|Eugenio E. Vogel et.al.|[2410.24186](http://arxiv.org/abs/2410.24186)|null|
+|**2024-10-31**|**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**|Zhenyu Jiang et.al.|[2410.24185](http://arxiv.org/abs/2410.24185)|null|
+|**2024-10-31**|**Quantitative measure of topological protection in Floquet systems through the spectral localizer**|Stephan Wong et.al.|[2410.24176](http://arxiv.org/abs/2410.24176)|null|
 |**2024-10-30**|**Proof of nonintegrability of the spin- $1$ bilinear-biquadratic chain model**|HaRu K. Park et.al.|[2410.23286](http://arxiv.org/abs/2410.23286)|null|
 |**2024-10-30**|**Certified algorithms for quantum Hamiltonian learning via energy-entropy inequalities**|Adam Artymowicz et.al.|[2410.23284](http://arxiv.org/abs/2410.23284)|null|
 |**2024-10-30**|**DisCo: Distributed Contact-Rich Trajectory Optimization for Forceful Multi-Robot Collaboration**|Ola Shorinwa et.al.|[2410.23283](http://arxiv.org/abs/2410.23283)|null|
@@ -21366,6 +21425,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
 |**2024-10-30**|**Scaling Molecular Dynamics with ab initio Accuracy to 149 Nanoseconds per Day**|Jianxiong Li et.al.|[2410.22867](http://arxiv.org/abs/2410.22867)|null|
 |**2024-10-23**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
 |**2024-10-17**|**Progressive Mixed-Precision Decoding for Efficient LLM Inference**|Hao Mark Chen et.al.|[2410.13461](http://arxiv.org/abs/2410.13461)|null|
