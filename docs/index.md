@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -210,7 +210,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**DynaShard: Secure and Adaptive Blockchain Sharding Protocol with Hybrid Consensus and Dynamic Shard Management**|Ao Liu et.al.|[2411.06895](http://arxiv.org/abs/2411.06895)|null|
 |**2024-11-10**|**DERs-Aided Blackstart and Load Restoration Framework for Distribution Systems Considering Synchronization and Frequency Security Constraints**|Salish Maharjan et.al.|[2411.06567](http://arxiv.org/abs/2411.06567)|null|
-|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|null|
+|**2024-11-08**|**Analyzing Logs of Large-Scale Software Systems using Time Curves Visualization**|Dmytro Borysenkov et.al.|[2411.05533](http://arxiv.org/abs/2411.05533)|**[link](https://github.com/dynatrace-research/timecurves-for-logs-paper)**|
 |**2024-11-11**|**Anticipatory Understanding of Resilient Agriculture to Climate**|David Willmes et.al.|[2411.05219](http://arxiv.org/abs/2411.05219)|null|
 |**2024-11-07**|**Experimental Secure Multiparty Computation from Quantum Oblivious Transfer with Bit Commitment**|Kai-Yi Zhang et.al.|[2411.04558](http://arxiv.org/abs/2411.04558)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
