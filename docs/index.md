@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -816,9 +816,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Local deployment of large-scale music AI models on commodity hardware**|Xun Zhou et.al.|[2411.09625](http://arxiv.org/abs/2411.09625)|null|
 |**2024-11-14**|**An Optimizing Just-In-Time Compiler for Rotor**|João H. Trindade et.al.|[2411.09391](http://arxiv.org/abs/2411.09391)|null|
-|**2024-11-14**|**The Denotational Semantics of SSA**|Jad Elkhaleq Ghalayini et.al.|[2411.09347](http://arxiv.org/abs/2411.09347)|null|
+|**2024-11-14**|**The Denotational Semantics of SSA**|Jad Elkhaleq Ghalayini et.al.|[2411.09347](http://arxiv.org/abs/2411.09347)|**[link](https://github.com/imbrem/debruijn-ssa)**|
 |**2024-11-14**|**AMARETTO: Enabling Efficient Quantum Algorithm Emulation on Low-Tier FPGAs**|Christian Conti et.al.|[2411.09320](http://arxiv.org/abs/2411.09320)|null|
-|**2024-11-14**|**PIMCOMP: An End-to-End DNN Compiler for Processing-In-Memory Accelerators**|Xiaotian Sun et.al.|[2411.09159](http://arxiv.org/abs/2411.09159)|null|
+|**2024-11-14**|**PIMCOMP: An End-to-End DNN Compiler for Processing-In-Memory Accelerators**|Xiaotian Sun et.al.|[2411.09159](http://arxiv.org/abs/2411.09159)|**[link](https://github.com/sunxt99/pimcomp-nn)**|
 |**2024-11-14**|**Quantum multi-output Gaussian Processes based Machine Learning for Line Parameter Estimation in Electrical Grids**|Priyanka Arkalgud Ganeshamurthy et.al.|[2411.09123](http://arxiv.org/abs/2411.09123)|null|
 |**2024-11-13**|**Simons Lectures on Categorical Symmetries**|Davi Costa et.al.|[2411.09082](http://arxiv.org/abs/2411.09082)|null|
 |**2024-11-13**|**Two-dimensional Topological Quantum Chemistry and Catalog of Topological Materials**|Urko Petralanda et.al.|[2411.08950](http://arxiv.org/abs/2411.08950)|null|
@@ -18091,7 +18091,7 @@ layout: default
 |**2024-11-14**|**Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value**|Bertrand Lacroix-A-Chez-Toine et.al.|[2411.09687](http://arxiv.org/abs/2411.09687)|null|
 |**2024-11-14**|**X-ray reverberation modelling of the continuum, optical/UV time-lags in quasars**|D. A. Langis et.al.|[2411.09681](http://arxiv.org/abs/2411.09681)|null|
 |**2024-11-14**|**Spectral decomposition and high-accuracy Greens functions: Overcoming the Nyquist-Shannon limit via complex-time Krylov expansion**|Sebastian Paeckel et.al.|[2411.09680](http://arxiv.org/abs/2411.09680)|null|
-|**2024-11-14**|**NeuralDEM - Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
+|**2024-11-14**|**NeuralDEM -- Real-time Simulation of Industrial Particulate Flows**|Benedikt Alkin et.al.|[2411.09678](http://arxiv.org/abs/2411.09678)|null|
 |**2024-11-14**|**On Vulnerability Conditional Risk Measures: Comparisons and Applications in Cryptocurrency Market**|Tong Pu et.al.|[2411.09676](http://arxiv.org/abs/2411.09676)|null|
 |**2024-11-14**|**Capacity and Power Consumption of Multi-Layer 6G Networks Using the Upper Mid-Band**|David López-Pérez et.al.|[2411.09660](http://arxiv.org/abs/2411.09660)|null|
 |**2024-11-14**|**Sensitivity of ODE Solutions and Quantities of Interest with Respect to Component Functions in the Dynamics**|Jonathan R. Cangelosi et.al.|[2411.09655](http://arxiv.org/abs/2411.09655)|null|
