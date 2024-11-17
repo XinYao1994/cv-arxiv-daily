@@ -10389,7 +10389,7 @@ layout: default
 |**2024-11-14**|**Med-Bot: An AI-Powered Assistant to Provide Accurate and Reliable Medical Information**|Ahan Bhatt et.al.|[2411.09648](http://arxiv.org/abs/2411.09648)|null|
 |**2024-11-14**|**Fiber bundle topology optimization for mass and heat transfer in laminar flows**|Yongbo Deng et.al.|[2411.09638](http://arxiv.org/abs/2411.09638)|null|
 |**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626](http://arxiv.org/abs/2411.09626)|null|
-|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|**[link](https://github.com/MaHermann/Riemannian-coupledGPE)**|
 |**2024-11-13**|**A consistency relation for induced gravitational wave anisotropies**|Julián Rey et.al.|[2411.08873](http://arxiv.org/abs/2411.08873)|null|
 |**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
 |**2024-11-13**|**Unsupervised Parameter-free Outlier Detection using HDBSCAN* Outlier Profiles**|Kushankur Ghosh et.al.|[2411.08867](http://arxiv.org/abs/2411.08867)|null|
@@ -14241,7 +14241,7 @@ layout: default
 |**2024-11-14**|**Capacity and Power Consumption of Multi-Layer 6G Networks Using the Upper Mid-Band**|David López-Pérez et.al.|[2411.09660](http://arxiv.org/abs/2411.09660)|null|
 |**2024-11-14**|**How do Machine Learning Models Change?**|Joel Castaño et.al.|[2411.09645](http://arxiv.org/abs/2411.09645)|null|
 |**2024-11-14**|**Exploring the capabilities of CNNs for 3D angiographic reconstructions from limited projection data using rotational angiography**|Ahmad Rahmatpour et.al.|[2411.09632](http://arxiv.org/abs/2411.09632)|null|
-|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|**[link](https://github.com/brucefan1983/GPUMD)**|
 |**2024-11-13**|**Machine Learning-Based Enhancements of Empirical Energy Functions: Structure, Dynamics and Spectroscopy of Modified Benzenes**|Kham Lek Chaton et.al.|[2411.08831](http://arxiv.org/abs/2411.08831)|null|
 |**2024-11-13**|**Process-aware Human Activity Recognition**|Jiawei Zheng et.al.|[2411.08814](http://arxiv.org/abs/2411.08814)|null|
 |**2024-11-13**|**Learning Gaussian Multi-Index Models with Gradient Flow: Time Complexity and Directional Convergence**|Berfin Simsek et.al.|[2411.08798](http://arxiv.org/abs/2411.08798)|null|
