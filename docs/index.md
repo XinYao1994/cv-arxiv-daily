@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Network
@@ -10586,7 +10586,7 @@ layout: default
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**A Sound Horizon-Free Measurement of $H_0$ in DESI 2024**|E. A. Zaborowski et.al.|[2411.16677](http://arxiv.org/abs/2411.16677)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
-|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianle iHuang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
+|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
 |**2024-11-25**|**A Supervised Machine Learning Approach for Assessing Grant Peer Review Reports**|Gabriel Okasa et.al.|[2411.16662](http://arxiv.org/abs/2411.16662)|null|
 |**2024-11-25**|**Thermoelastic Properties Of The Ti2AlC MAX Phase: An Ab Initio Study**|Bill Clintone Oyomo et.al.|[2411.16649](http://arxiv.org/abs/2411.16649)|null|
 |**2024-11-25**|**Protomon: A Multimode Qubit in the Fluxonium Molecule**|Shashwat Kumar et.al.|[2411.16648](http://arxiv.org/abs/2411.16648)|null|
@@ -14509,7 +14509,7 @@ layout: default
 |**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
 |**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
-|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianle iHuang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
+|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
 |**2024-11-25**|**Emergence of the 3D diluted Ising model universality class in a mixture of two magnets**|J. J. Ruiz-Lorenzo et.al.|[2411.16659](http://arxiv.org/abs/2411.16659)|null|
 |**2024-11-25**|**Fast training of large kernel models with delayed projections**|Amirhesam Abedsoltan et.al.|[2411.16658](http://arxiv.org/abs/2411.16658)|null|
 |**2024-11-25**|**Limeade: Let integer molecular encoding aid**|Shiqiang Zhang et.al.|[2411.16623](http://arxiv.org/abs/2411.16623)|null|
@@ -18431,7 +18431,7 @@ layout: default
 |**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
 |**2024-11-25**|**Exact Solvability Of Entanglement For Arbitrary Initial State in an Infinite-Range Floquet System**|Harshit Sharma et.al.|[2411.16670](http://arxiv.org/abs/2411.16670)|null|
 |**2024-11-25**|**A Vestige of FZZ Duality in Higher Dimensions**|Chethan Krishnan et.al.|[2411.16669](http://arxiv.org/abs/2411.16669)|null|
-|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianle iHuang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
+|**2024-11-25**|**Gaussian Process Priors for Boundary Value Problems of Linear Partial Differential Equations**|Jianlei Huang et.al.|[2411.16663](http://arxiv.org/abs/2411.16663)|**[link](https://github.com/jimmy000207/boundary-epgp)**|
 |**2024-11-25**|**Emergence of the 3D diluted Ising model universality class in a mixture of two magnets**|J. J. Ruiz-Lorenzo et.al.|[2411.16659](http://arxiv.org/abs/2411.16659)|null|
 |**2024-11-25**|**Systems of Wave Equations on Asymptotically de Sitter Vacuum Spacetimes in All Even Spatial Dimensions**|Serban Cicortas et.al.|[2411.16655](http://arxiv.org/abs/2411.16655)|null|
 |**2024-11-25**|**Optimal MPPT Control of a Photovoltaic System Under Non-uniform Irradiation**|Yehia Lalili et.al.|[2411.16650](http://arxiv.org/abs/2411.16650)|null|
