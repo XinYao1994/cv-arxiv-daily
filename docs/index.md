@@ -210,6 +210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Computation-power Coupled Modeling for IDCs and Collaborative Optimization in ADNs**|Chuyi Li et.al.|[2411.17051](http://arxiv.org/abs/2411.17051)|null|
+|**2024-11-25**|**Graph-based Simulation Framework for Power Resilience Estimation and Enhancement**|Xuesong Wang et.al.|[2411.16909](http://arxiv.org/abs/2411.16909)|null|
 |**2024-11-25**|**K8s Pro Sentinel: Extend Secret Security in Kubernetes Cluster**|Kavindu Gunathilake et.al.|[2411.16639](http://arxiv.org/abs/2411.16639)|null|
 |**2024-11-25**|**A Framework for Consistency Models in Distributed Systems**|Paulo Sérgio Almeida et.al.|[2411.16355](http://arxiv.org/abs/2411.16355)|null|
 |**2024-11-25**|**Comparative Analysis of Machine Learning Models for Short-Term Distribution System Load Forecasting**|Elias Raffoul et.al.|[2411.16118](http://arxiv.org/abs/2411.16118)|null|
@@ -832,6 +834,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Simplification of Polyhedral Reductions in Practice**|Louis Narmour et.al.|[2411.17498](http://arxiv.org/abs/2411.17498)|null|
+|**2024-11-26**|**Support Vector Machine for Person Classification Using the EEG Signals**|Naveenkumar G Venkataswamy et.al.|[2411.17446](http://arxiv.org/abs/2411.17446)|null|
+|**2024-11-25**|**ASSERTIFY: Utilizing Large Language Models to Generate Assertions for Production Code**|Mohammad Jalili Torkamani et.al.|[2411.16927](http://arxiv.org/abs/2411.16927)|null|
+|**2024-11-25**|**Water-rich sub-Neptunes and rocky super Earths around different Stars: Radii shaped by Volatile Partitioning, Formation, and Evolution**|Remo Burn et.al.|[2411.16879](http://arxiv.org/abs/2411.16879)|null|
+|**2024-11-25**|**SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**|Kunming Shao et.al.|[2411.16806](http://arxiv.org/abs/2411.16806)|null|
 |**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
 |**2024-11-25**|**Measurements of quarkonia production**|L. Massacrier et.al.|[2411.16570](http://arxiv.org/abs/2411.16570)|null|
 |**2024-11-25**|**UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets**|Adrien Meyer et.al.|[2411.16222](http://arxiv.org/abs/2411.16222)|**[link](https://github.com/camma-public/ultrasam)**|
@@ -2845,6 +2852,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**The RQR algorithm**|Daan Camps et.al.|[2411.17671](http://arxiv.org/abs/2411.17671)|null|
+|**2024-11-26**|**Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions**|Curtis McDonald et.al.|[2411.17667](http://arxiv.org/abs/2411.17667)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$ -flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663](http://arxiv.org/abs/2411.17663)|null|
+|**2024-11-26**|**PSpectCosmo: A Pseudo-Spectral Code for Cosmological Dynamics Spanning Inflation and Reheating**|Jie Jiang et.al.|[2411.17658](http://arxiv.org/abs/2411.17658)|null|
+|**2024-11-26**|**Intrepid MCMC: Metropolis-Hastings with Exploration**|Promit Chakroborty et.al.|[2411.17639](http://arxiv.org/abs/2411.17639)|null|
+|**2024-11-26**|**Quantum Wave Simulation with Sources and Loss Functions**|Cyrill Bösch et.al.|[2411.17630](http://arxiv.org/abs/2411.17630)|null|
+|**2024-11-26**|**Semi-analytical model for the calculation of solar radiation pressure and its effects on a LEO satellite with predicting the change in position vectors using machine learning techniques**|Pranava Seth et.al.|[2411.17626](http://arxiv.org/abs/2411.17626)|null|
+|**2024-11-26**|**A universal characterization of the shifted plactic monoid**|Santiago Estupiñán-Salamanca et.al.|[2411.17619](http://arxiv.org/abs/2411.17619)|null|
+|**2024-11-26**|**An algorithm for uniform generation of unlabeled trees (Pólya trees), with an extension of Cayley's formula**|Laurent Bartholdi et.al.|[2411.17613](http://arxiv.org/abs/2411.17613)|null|
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**OPMOS: Ordered Parallel Multi-Objective Shortest-Path**|Leo Gold et.al.|[2411.16667](http://arxiv.org/abs/2411.16667)|null|
 |**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
@@ -6770,6 +6787,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**RTL-Breaker: Assessing the Security of LLMs against Backdoor Attacks on HDL Code Generation**|Lakshmi Likhitha Mankali et.al.|[2411.17569](http://arxiv.org/abs/2411.17569)|null|
+|**2024-11-26**|**End-to-end QKD network with non-localized trust**|Davide Li Calsi et.al.|[2411.17547](http://arxiv.org/abs/2411.17547)|null|
+|**2024-11-26**|**Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[2411.17543](http://arxiv.org/abs/2411.17543)|null|
+|**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno et.al.|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
+|**2024-11-26**|**Efficient Deployment of Transformer Models in Analog In-Memory Computing Hardware**|Chen Li et.al.|[2411.17367](http://arxiv.org/abs/2411.17367)|**[link](https://github.com/chenlicodebank/lora_on_analog_hardware)**|
+|**2024-11-26**|**High strehl and high contrast for the ELT instrument METIS -- Final design, implementation, and predicted performance of the single-conjugate adaptive optics system**|Markus Feldt et.al.|[2411.17341](http://arxiv.org/abs/2411.17341)|null|
+|**2024-11-26**|**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**|Cristobal Ortega et.al.|[2411.17309](http://arxiv.org/abs/2411.17309)|null|
+|**2024-11-26**|**Single Event Upsets characterization of 65 nm CMOS 6T and 8T SRAM cells for ground level environment**|Daniel Malagon et.al.|[2411.17198](http://arxiv.org/abs/2411.17198)|null|
+|**2024-11-26**|**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2411.17106](http://arxiv.org/abs/2411.17106)|**[link](https://github.com/libozhu03/passionsr)**|
 |**2024-11-25**|**OPMOS: Ordered Parallel Multi-Objective Shortest-Path**|Leo Gold et.al.|[2411.16667](http://arxiv.org/abs/2411.16667)|null|
 |**2024-11-25**|**Implementing transferable annealing protocols for combinatorial optimisation on neutral atom quantum processors: a case study on smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656](http://arxiv.org/abs/2411.16656)|null|
 |**2024-11-25**|**Factoring integers via Schnorr's algorithm assisted with VQE**|Luis Sánchez Cano et.al.|[2411.16632](http://arxiv.org/abs/2411.16632)|null|
@@ -10581,6 +10608,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Entanglement asymmetry in the Hayden-Preskill protocol**|Hui-Huang Chen et.al.|[2411.17695](http://arxiv.org/abs/2411.17695)|null|
+|**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692](http://arxiv.org/abs/2411.17692)|null|
+|**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**Push the Limit of Multi-modal Emotion Recognition by Prompting LLMs with Receptive-Field-Aware Attention Weighting**|Liyun Zhang et.al.|[2411.17674](http://arxiv.org/abs/2411.17674)|null|
+|**2024-11-26**|**Accelerated nested sampling with $β$ -flows for gravitational waves**|Metha Prathaban et.al.|[2411.17663](http://arxiv.org/abs/2411.17663)|null|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
+|**2024-11-26**|**SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation**|Claudia Cuttano et.al.|[2411.17646](http://arxiv.org/abs/2411.17646)|**[link](https://github.com/claudiacuttano/samwise)**|
+|**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645](http://arxiv.org/abs/2411.17645)|null|
+|**2024-11-26**|**Learning Chemical Reaction Representation with Reactant-Product Alignment**|Kaipeng Zeng et.al.|[2411.17629](http://arxiv.org/abs/2411.17629)|null|
 |**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
 |**2024-11-25**|**Factorized Visual Tokenization and Generation**|Zechen Bai et.al.|[2411.16681](http://arxiv.org/abs/2411.16681)|null|
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
@@ -14504,6 +14541,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Quantifying information stored in synaptic connections rather than in firing patterns of neural networks**|Xinhao Fan et.al.|[2411.17692](http://arxiv.org/abs/2411.17692)|null|
+|**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
+|**2024-11-26**|**Rapid Bayesian Computation and Estimation for Neural Networks via Mixture Distributions**|Curtis McDonald et.al.|[2411.17667](http://arxiv.org/abs/2411.17667)|null|
+|**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662](http://arxiv.org/abs/2411.17662)|null|
+|**2024-11-26**|**A new architecture for high speed core-selective switch for multicore fibers**|Cristóbal Melo et.al.|[2411.17641](http://arxiv.org/abs/2411.17641)|null|
+|**2024-11-26**|**A Combined Feature Embedding Tools for Multi-Class Software Defect and Identification**|Md. Fahim Sultan et.al.|[2411.17621](http://arxiv.org/abs/2411.17621)|null|
+|**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
+|**2024-11-26**|**What Differentiates Educational Literature? A Multimodal Fusion Approach of Transformers and Computational Linguistics**|Jordan J. Bird et.al.|[2411.17593](http://arxiv.org/abs/2411.17593)|null|
+|**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
+|**2024-11-26**|**From Fairness to Infinity: Outcome-Indistinguishable (Omni)Prediction in Evolving Graphs**|Cynthia Dwork et.al.|[2411.17582](http://arxiv.org/abs/2411.17582)|null|
 |**2024-11-25**|**Contrasting and comparing the efficacy of non-pharmaceutical interventions on air-borne and vector-borne diseases**|Bibandhan Poudyal et.al.|[2411.16682](http://arxiv.org/abs/2411.16682)|null|
 |**2024-11-25**|**Quark: Real-time, High-resolution, and General Neural View Synthesis**|John Flynn et.al.|[2411.16680](http://arxiv.org/abs/2411.16680)|null|
 |**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
@@ -18427,6 +18474,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Entanglement asymmetry in the Hayden-Preskill protocol**|Hui-Huang Chen et.al.|[2411.17695](http://arxiv.org/abs/2411.17695)|null|
+|**2024-11-26**|**Searching for star-planet interactions in GJ 486 at radio wavelengths with the uGMRT**|L. Peña-Moñino et.al.|[2411.17689](http://arxiv.org/abs/2411.17689)|null|
+|**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
+|**2024-11-26**|**Coping with the Dunkelflaute: Power system implications of variable renewable energy droughts in Europe**|Martin Kittel et.al.|[2411.17683](http://arxiv.org/abs/2411.17683)|null|
+|**2024-11-26**|**Tungsten isotope evolution during Earth's formation and new constraints on the viability of accretion simulations**|D. C. Rubie et.al.|[2411.17681](http://arxiv.org/abs/2411.17681)|null|
+|**2024-11-26**|**SketchAgent: Language-Driven Sequential Sketch Generation**|Yael Vinker et.al.|[2411.17673](http://arxiv.org/abs/2411.17673)|null|
+|**2024-11-26**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
+|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-26**|**Asymptotic behavior of the Arrow-Hurwicz differential system with Tikhonov regularization**|Fouad Battahi et.al.|[2411.17656](http://arxiv.org/abs/2411.17656)|null|
+|**2024-11-26**|**Association between Recurrent Novae and Nova Super-Remnants**|Michael William Healy-Kalesh et.al.|[2411.17652](http://arxiv.org/abs/2411.17652)|null|
 |**2024-11-25**|**Fully nonequilibrium Hall response from Berry curvature**|Shouvik Sur et.al.|[2411.16675](http://arxiv.org/abs/2411.16675)|null|
 |**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
 |**2024-11-25**|**Exact Solvability Of Entanglement For Arbitrary Initial State in an Infinite-Range Floquet System**|Harshit Sharma et.al.|[2411.16670](http://arxiv.org/abs/2411.16670)|null|
