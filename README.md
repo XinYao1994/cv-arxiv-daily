@@ -34,7 +34,7 @@
 |**2024-09-06**|**Revisiting the Time Cost Model of AllReduce**|Dian Xiong et.al.|[2409.04202](http://arxiv.org/abs/2409.04202)|null|
 |**2024-09-02**|**LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs**|Mo Sun et.al.|[2409.00918](http://arxiv.org/abs/2409.00918)|null|
 |**2024-08-27**|**On the Encoding Process in Decentralized Systems**|Canran Wang et.al.|[2408.15203](http://arxiv.org/abs/2408.15203)|null|
-|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|null|
+|**2024-08-20**|**Towards a Standardized Representation for Deep Learning Collective Algorithms**|Jinsun Yoo et.al.|[2408.11008](http://arxiv.org/abs/2408.11008)|**[link](https://github.com/astra-sim/collectiveapi)**|
 |**2024-08-17**|**Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference**|Rohan Baskar Prabhakar et.al.|[2408.07802](http://arxiv.org/abs/2408.07802)|null|
 |**2024-08-12**|**HiCCL: A Hierarchical Collective Communication Library**|Mert Hidayetoglu et.al.|[2408.05962](http://arxiv.org/abs/2408.05962)|null|
 |**2024-08-05**|**Enabling Practical Transparent Checkpointing for MPI: A Topological Sort Approach**|Yao Xu et.al.|[2408.02218](http://arxiv.org/abs/2408.02218)|null|
@@ -860,7 +860,7 @@
 |---|---|---|---|---|
 |**2024-11-29**|**Multi-Epoch Observations of the Nearby Spiral Galaxy NGC 3938 with the Chandra X-ray Observatory**|Siddhi Raut et.al.|[2411.19937](http://arxiv.org/abs/2411.19937)|null|
 |**2024-11-29**|**Parametrized multiqubit gate design for neutral-atom based quantum platforms**|Madhav Mohan et.al.|[2411.19785](http://arxiv.org/abs/2411.19785)|null|
-|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493](http://arxiv.org/abs/2411.19493)|null|
+|**2024-11-29**|**Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach**|Xinyu Yuan et.al.|[2411.19493](http://arxiv.org/abs/2411.19493)|**[link](https://github.com/Y-debug-sys/DTM)**|
 |**2024-11-28**|**Tail Modulo Cons, OCaml, and Relational Separation Logic**|Clément Allain et.al.|[2411.19397](http://arxiv.org/abs/2411.19397)|null|
 |**2024-11-28**|**Automating Energy-Efficient GPU Kernel Generation: A Fast Search-Based Compilation Approach**|Yijia Zhang et.al.|[2411.18873](http://arxiv.org/abs/2411.18873)|null|
 |**2024-11-27**|**Parallel Token Swapping for Qubit Routing**|Ishan Bansal et.al.|[2411.18581](http://arxiv.org/abs/2411.18581)|null|
@@ -2889,13 +2889,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
 |**2024-11-29**|**Sparse Pseudospectral Shattering**|Rikhav Shah et.al.|[2411.19926](http://arxiv.org/abs/2411.19926)|null|
 |**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
-|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
 |**2024-11-29**|**Noncommutative Model Selection for Data Clustering and Dimension Reduction Using Relative von Neumann Entropy**|Araceli Guzmán-Tristán et.al.|[2411.19902](http://arxiv.org/abs/2411.19902)|null|
-|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|null|
+|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|**[link](https://github.com/puzzlef/rak-lowmem-communities-cuda)**|
 |**2024-11-29**|**Stellar streams reveal the mass loss of globular clusters**|Yingtian Chen et.al.|[2411.19899](http://arxiv.org/abs/2411.19899)|null|
 |**2024-11-29**|**Efficient quantum-enhanced classical simulation for patches of quantum landscapes**|Sacha Lerch et.al.|[2411.19896](http://arxiv.org/abs/2411.19896)|null|
 |**2024-11-29**|**Noncommutative Model Selection and the Data-Driven Estimation of Real Cohomology Groups**|Araceli Guzmán-Tristán et.al.|[2411.19894](http://arxiv.org/abs/2411.19894)|null|
@@ -6851,7 +6851,7 @@
 |**2024-11-29**|**AIDetx: a compression-based method for identification of machine-learning generated text**|Leonardo Almeida et.al.|[2411.19869](http://arxiv.org/abs/2411.19869)|**[link](https://github.com/aidetx/aidetx)**|
 |**2024-11-29**|**Integrated Artificial Neurons from Metal Halide Perovskites**|Jeroen J. de Boer et.al.|[2411.19820](http://arxiv.org/abs/2411.19820)|null|
 |**2024-11-29**|**Parametrized multiqubit gate design for neutral-atom based quantum platforms**|Madhav Mohan et.al.|[2411.19785](http://arxiv.org/abs/2411.19785)|null|
-|**2024-11-29**|**Fast Mutual Information Computation for Large Binary Datasets**|Andre O. Falcao et.al.|[2411.19702](http://arxiv.org/abs/2411.19702)|null|
+|**2024-11-29**|**Fast Mutual Information Computation for Large Binary Datasets**|Andre O. Falcao et.al.|[2411.19702](http://arxiv.org/abs/2411.19702)|**[link](https://github.com/aofalcao/bulk-MI)**|
 |**2024-11-29**|**A dynamic parallel method for performance optimization on hybrid CPUs**|Luo Yu et.al.|[2411.19542](http://arxiv.org/abs/2411.19542)|null|
 |**2024-11-29**|**Unitary-transformed projective squeezing: applications for circuit-knitting and state-preparation of non-Gaussian states**|Keitaro Anai et.al.|[2411.19505](http://arxiv.org/abs/2411.19505)|null|
 |**2024-11-29**|**MCUCoder: Adaptive Bitrate Learned Video Compression for IoT Devices**|Ali Hojjat et.al.|[2411.19442](http://arxiv.org/abs/2411.19442)|**[link](https://github.com/ds-kiel/mcucoder)**|
@@ -10689,15 +10689,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-29**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
+|**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
 |**2024-11-29**|**Transfer Learning for High-dimensional Quantile Regression with Distribution Shift**|Ruiqi Bai et.al.|[2411.19933](http://arxiv.org/abs/2411.19933)|null|
 |**2024-11-29**|**Interacting Dark Sector (ETHOS $n=0$ ): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**|Asmaa Mazoun et.al.|[2411.19911](http://arxiv.org/abs/2411.19911)|null|
 |**2024-11-29**|**Noncommutative Model Selection for Data Clustering and Dimension Reduction Using Relative von Neumann Entropy**|Araceli Guzmán-Tristán et.al.|[2411.19902](http://arxiv.org/abs/2411.19902)|null|
-|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|null|
+|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|**[link](https://github.com/puzzlef/rak-lowmem-communities-cuda)**|
 |**2024-11-29**|**Reverse-type Data Processing Inequality**|Paula Belzig et.al.|[2411.19890](http://arxiv.org/abs/2411.19890)|null|
 |**2024-11-29**|**A Quantum Key Distribution System for Mobile Platforms with Highly Indistinguishable States**|Daniel Sanchez Rosales et.al.|[2411.19880](http://arxiv.org/abs/2411.19880)|null|
-|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
+|**2024-12-02**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
 |**2024-11-29**|**Misinformation Dissemination: Effects of Network Density in Segregated Communities**|Soroush Karimi et.al.|[2411.19866](http://arxiv.org/abs/2411.19866)|null|
 |**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
 |**2024-11-27**|**Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data**|Aoran Shen et.al.|[2411.18622](http://arxiv.org/abs/2411.18622)|null|
@@ -14649,7 +14649,7 @@
 |**2024-11-29**|**Geometry of fibers of the multiplication map of deep linear neural networks**|SImon Pepin Lehalleur et.al.|[2411.19920](http://arxiv.org/abs/2411.19920)|null|
 |**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
 |**2024-11-29**|**Universal non-Hermitian transport in disordered systems**|Bo Li et.al.|[2411.19905](http://arxiv.org/abs/2411.19905)|null|
-|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|null|
+|**2024-11-29**|**Memory Efficient GPU-based Label Propagation Algorithm (LPA) for Community Detection on Large Graphs**|Subhajit Sahu et.al.|[2411.19901](http://arxiv.org/abs/2411.19901)|**[link](https://github.com/puzzlef/rak-lowmem-communities-cuda)**|
 |**2024-11-29**|**Input-Output Optics as a Causal Time Series Mapping: A Generative Machine Learning Solution**|Abhijit Sen et.al.|[2411.19897](http://arxiv.org/abs/2411.19897)|null|
 |**2024-11-29**|**FlowCLAS: Enhancing Normalizing Flow Via Contrastive Learning For Anomaly Segmentation**|Chang Won Lee et.al.|[2411.19888](http://arxiv.org/abs/2411.19888)|null|
 |**2024-11-29**|**Enhanced anomaly detection in well log data through the application of ensemble GANs**|Abdulrahman Al-Fakih et.al.|[2411.19875](http://arxiv.org/abs/2411.19875)|**[link](https://github.com/ARhaman/EGANs-vs.GMM)**|
@@ -18603,12 +18603,12 @@
 |**2024-11-29**|**Probing quantum critical phase from neural network wavefunction**|Haoxiang Chen et.al.|[2411.19938](http://arxiv.org/abs/2411.19938)|null|
 |**2024-11-29**|**Wonderful Compactification of a Cartan Subalgebra of a Semisimple Lie Algebra**|Sam Evens et.al.|[2411.19936](http://arxiv.org/abs/2411.19936)|null|
 |**2024-11-29**|**Dynamic EEG-fMRI mapping: Revealing the relationship between brain connectivity and cognitive state**|Guiran Liu et.al.|[2411.19922](http://arxiv.org/abs/2411.19922)|null|
-|**2024-11-29**|**A gravitational wave detectable candidate Type Ia supernova progenitor**|Emma T. Chickles et.al.|[2411.19916](http://arxiv.org/abs/2411.19916)|null|
+|**2024-12-02**|**A gravitational wave detectable candidate Type Ia supernova progenitor**|Emma T. Chickles et.al.|[2411.19916](http://arxiv.org/abs/2411.19916)|null|
 |**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
 |**2024-11-29**|**Theory of the photonic Joule effect in superconducting circuits**|Samuel Cailleaux et.al.|[2411.19912](http://arxiv.org/abs/2411.19912)|null|
 |**2024-11-29**|**Gravitational form factors of the deuteron**|J. Yu. Panteleeva et.al.|[2411.19909](http://arxiv.org/abs/2411.19909)|null|
 |**2024-11-29**|**Choice and independence of premise rules in intuitionistic set theory**|Emanuele Frittaion et.al.|[2411.19907](http://arxiv.org/abs/2411.19907)|null|
-|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
 |**2024-11-27**|**Yukawa-Lorentz Symmetry of Tilted Non-Hermitian Dirac Semimetals at Quantum Criticality**|Sergio Pino-Alarcón et.al.|[2411.18621](http://arxiv.org/abs/2411.18621)|null|
 |**2024-11-27**|**Semiclassical kinetic equations for composite bosons**|A. Kudlis et.al.|[2411.18619](http://arxiv.org/abs/2411.18619)|null|
 |**2024-11-27**|**Bounds on the Aspect Ratio of the Momentum Support of a 2D Collisionless Plasma**|Matthew Hernandez et.al.|[2411.18610](http://arxiv.org/abs/2411.18610)|null|
